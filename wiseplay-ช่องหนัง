@@ -215,6 +215,12 @@
      "import": false
 },
   { 
+     "name": "Series+HD",
+      "image": "https://i.imgur.com/MIKKM2Y.png",              
+      "url": "https://zecallion.com:443//live/KTU_ipmsiri.m3u8",
+     "import": false
+},
+  { 
      "name": "UP MOVIES",
       "image": "https://sv1.picz.in.th/images/2020/07/10/5oVGub.png",              
       "url": "https://zecallion.com:443//live/KTU_movie3.m3u8",
