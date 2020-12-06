@@ -105,6 +105,18 @@
      "import": false
 },
  {
+     "name": "ไทไชโย",
+     "image": "https://bit.ly/37GqAXM",              
+     "url": "http://niklive.com:80/live/warning/index.m3u8/416",
+     "import": false
+ },
+ {
+     "name": "GEM",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/24/ad22f352-d7dc-4f05-88e2-9ad89b42b314.png",              
+     "url": "http://45.126.83.51/session/d57270d4-3794-11eb-bb96-b5ed81ec439d/uq2663/h/h19/01.m3u8",
+     "import": false
+},
+ {
      "name": "Asian Food Channel ",
      "image": "http://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",              
      "url": "https://boxmovielive.com:443/live/hd-afc.m3u8",
