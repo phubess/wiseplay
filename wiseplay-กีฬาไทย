@@ -5,97 +5,9 @@
 {
 
       "name":"โปรแกรมฟุตบอล",
-      "image":"https://mm88ball.com/wp-content/uploads/2018/01/logo3.png",
-      "url": "https://mm88ball.com/ดูบอลสด/","embed": "true","playInNatPlayer": "true",
+      "image":"https://lh3.googleusercontent.com/AUeWJzL1dhZX3nB3jECajbNCsGdVQaLpQBFt94GqnV6c747C3MZwo9EQAoq3cbUfCA",
+      "url": "https://chklive.com/","embed": "true","playInNatPlayer": "true",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-
-},
-{
-       "name": "LIVE 1",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live3.streaming88.com:7443/live/channel1/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 2",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live3.streaming88.com:7443/live/channel2/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 3",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live3.streaming88.com:7443/live/channel3/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 4",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live3.streaming88.com:7443/live/channel4/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 5",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch1/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 6",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch2/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 7",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch3/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 8",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch4/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 9",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch5/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 10",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch7/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 11",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch8/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 12",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch9/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 13",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch10/playlist.m3u8",
-        "import": false
-},
-    {
-       "name": "LIVE 13",
-       "image": "https://cdn.lowgif.com/full/297b38109d069078-america-live-tv-internet-television.gif",
-       "url": "https://live.5gbet.live/edge_app/ch17/playlist.m3u8",
-        "import": false
-
-
-
 },
     {
        "name": "ไอดี สเตชั่น",
