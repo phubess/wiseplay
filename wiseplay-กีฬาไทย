@@ -21,6 +21,11 @@
 	 "url": "http://ip2121.com:8081/4kweb/true1/chunks.m3u8", 
          "import": false
 },
+     {	 
+         "name":"True Premier Football HD 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+	 "url": "https://player.ballnaka.tv/?channel=tpf1&cate=sport","referer": "https://ballnaka.tv/"
+},
     {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
@@ -226,7 +231,11 @@
           "name": "FOX Sports HD",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
           "url": "https://www.doofootball.com/live/streaming/foxsporthd/575865","referer": "https://www.doofootball.com/"
-
+},
+     {
+       "name":"FOX Sports 2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",
+	 "url": "https://player.ballnaka.tv/?channel=fox2&cate=sport","referer": "https://player.ballnaka.tv"
 },
  { 
           "name": "FOX Sports 2",
@@ -238,10 +247,15 @@
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
           "url": "https://www.doofootball.com/live/streaming/foxsport2/575866","referer": "https://www.doofootball.com/"
 },
+     {
+       "name":"FOX Sports 3",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",
+	 "url": "https://player.ballnaka.tv/?channel=fox3&cate=sport","referer": "https://player.ballnaka.tv"
+},
  { 
-                "name": "FOX Sports 3",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
-               "url": "https://player.we-play.tv/channel.php?name=fox3&cate=sports","referer": "https://player.we-play.tv"
+            "name": "FOX Sports 3",
+            "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
+            "url": "https://player.we-play.tv/channel.php?name=fox3&cate=sports","referer": "https://player.we-play.tv"
 },
  { 
                 "name": "FOX Sports 3",
