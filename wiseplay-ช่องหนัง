@@ -129,7 +129,7 @@
    {
      "name": "True Film HD2",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
-     "url": "https://boxmovielive.com:443/live/hd-tfilm2.m3u8",
+     "url": "https://boxmovielive.com:443/live/hd-tfilmhdz2.m3u8",
      "import": false
 },
    {
@@ -145,7 +145,7 @@
    {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
-     "url": "https://boxmovielive.com:443/live/hd-asian.m3u8",
+     "url": "https://boxmovielive.com:443/live/hd-asianseriesz.m3u8",
      "import": false
 },
    {
@@ -306,7 +306,7 @@
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com:443/live/moviehitsxz.m3u8",
+      "url": "https://boxmovielive.com:443/live/moviehitsz.m3u8",
      "import": false
 },
   { 
