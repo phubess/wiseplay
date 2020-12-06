@@ -329,6 +329,12 @@
      "image": "https://sv1.picz.in.th/images/2020/09/20/OEvbwf.png",              
      "url": "https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/playlist.m3u8",
      "import": false
+ },
+   {
+     "name": "TPTV",
+     "image": "https://sv1.picz.in.th/images/2020/09/20/OErLT1.png",              
+     "url": "https://moviektu.com/TV_CableSV1/tptv/index.m3u8",
+     "import": false
 },
    {
      "name": "TPTV",
