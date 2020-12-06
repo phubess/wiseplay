@@ -74,7 +74,11 @@
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
 	 "url": "https://ip2121.com/web/truepremier5/chunks.m3u8", 
          "import": false
-
+},
+     {	 
+         "name":"True Sport HD",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
+	 "url": "https://player.ballnaka.tv/?channel=thd1&cate=sport","referer": "https://ballnaka.tv/"
 },
      {
        "name":"True Sport HD",
@@ -94,10 +98,20 @@
 	 "url": "https://ip2121.com/web/tsp2/chunks.m3u8", 
          "import": false
 },
+     {	 
+         "name":"True Sport HD2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
+	 "url": "https://player.ballnaka.tv/?channel=thd2&cate=sport","referer": "https://ballnaka.tv/"
+},
      {
        "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
 	 "url": "https://doomovielive.b-cdn.net/hd-tsport2_720/index.m3u8","referer": "https://doomovie.com/" 
+},
+     {	 
+         "name":"True Sport HD3",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
+	 "url": "https://player.ballnaka.tv/?channel=thd3&cate=sport","referer": "https://ballnaka.tv/"
  },
      {
        "name":"True Sport HD3",
@@ -131,6 +145,11 @@
 	 "url": "https://doomovielive.b-cdn.net/hd-nba_720/index.m3u8","referer": "https://doomovie.com/"
 },
      {
+       "name":"NBA TV",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
+	 "url": "https://player.ballnaka.tv/?channel=nba&cate=sport","referer": "https://player.ballnaka.tv"
+},
+     {
        "name":"TRUE TENNIS",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=tennis&cate=sport","referer": "https://player.ballnaka.tv"
@@ -149,6 +168,11 @@
        "name":"GOLF CHANNEL",
         "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
 	 "url": "https://player.ballnaka.tv/?channel=golf&cate=sport","referer": "https://player.ballnaka.tv"
+},
+     {
+       "name":"NFL NETWORK",
+        "image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
+	 "url": "https://player.ballnaka.tv/?channel=nfl&cate=sport","referer": "https://player.ballnaka.tv"
 },
      {
        "name":"NFL NETWORK",
