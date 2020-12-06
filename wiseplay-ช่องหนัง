@@ -189,6 +189,48 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
      "url": "https://cdn6.goprimetime.info/feed/LC27/playlist.m3u8",
      "import": false
+    },
+  { 
+     "name": "Live SKY 1",
+      "image": "https://i.imgur.com/qDcOkZR.png",              
+      "url": "https://zecallion.com:443//live/KTU_sky1111.m3u8",
+     "import": false
+},
+  { 
+     "name": "Live SKY 2",
+      "image": "https://i.imgur.com/jL3vhXm.png",              
+      "url": "https://zecallion.com:443//live/KTU_sky12.m3u8",
+     "import": false
+},
+  { 
+     "name": "Live SKY 3",
+      "image": "https://i.imgur.com/ezjnOT1.png",              
+      "url": "https://zecallion.com:443//live/KTU_sky13.m3u8",
+     "import": false
+},
+  { 
+     "name": "Live SKY 4",
+      "image": "https://i.imgur.com/0DB0pQG.png",              
+      "url": "https://zecallion.com:443//live/KTU_sky14.m3u8",
+     "import": false
+},
+  { 
+     "name": "UP MOVIES",
+      "image": "https://sv1.picz.in.th/images/2020/07/10/5oVGub.png",              
+      "url": "https://zecallion.com:443//live/KTU_movie3.m3u8",
+     "import": false
+},
+  { 
+     "name": "MOVIES 1",
+      "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
+      "url": "https://zecallion.com:443//live/KTU_movie1.m3u8",
+     "import": false
+},
+  { 
+     "name": "MOVIES 2",
+      "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
+      "url": "https://zecallion.com:443//live/KTU_movie2.m3u8",
+     "import": false 
 },
           {
             "name": "TV CABLE 1",  
