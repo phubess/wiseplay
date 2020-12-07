@@ -36,6 +36,11 @@
       "url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
        "import": false 
 },
+   {
+       "name":"btsport1",
+        "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/btsport1.png",
+     "url": "https://vvipscore.com/live.php?id=22665","referer": "https://vvipscore.com/" 
+},
  {
        "name":"beinsport1 fr",
        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
