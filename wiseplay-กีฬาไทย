@@ -235,6 +235,11 @@
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
           "url": "https://www.doofootball.com/live/streaming/foxsporthd/575865","referer": "https://www.doofootball.com/"
 },
+{ 
+          "name": "FOX Sports 2",
+          "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
+          "url": "https://live.vvipscore.com/vvipscore_app/fox2/chunks.m3u8","referer": "https://vvipscore.com/"
+},
      {
        "name":"FOX Sports 2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",
