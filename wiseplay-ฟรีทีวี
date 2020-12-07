@@ -1,8 +1,14 @@
- {
+ { 
+   "name": "TV",
+   "author": "PHUBESS",
+   "url": "??",
+   "image": "https://cdn6.aptoide.com/imgs/7/1/3/713f401d4b72ebb768f1f4feeeeac7ce_icon.png",
+   "groups": [   
+   {
     "name": "Digital TV",
     "image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
     "stations": [ 
- 
+
    {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
@@ -19,6 +25,7 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "http://tv10.chang55.com/ch17-ch3/playlist.m3u8",
    "import": false
+
 },
    { 
     "name":"5 HD",
@@ -28,7 +35,8 @@
    { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://moviektu.com/TV_CableSV1/Ch5-HD/index.m3u8",
+    "url": "
+",
     "import": false
 },
    { 
@@ -303,6 +311,8 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0010.png",              
      "url": "https://moviektu.com/TV_CableSV1/NEW-TV/index.m3u8",
      "import": false
+
+     
 },
    {
      "name": "ALTV4",
@@ -327,12 +337,6 @@
      "image": "https://sv1.picz.in.th/images/2020/09/20/OEvbwf.png",              
      "url": "https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/playlist.m3u8",
      "import": false
- },
-   {
-     "name": "TPTV",
-     "image": "https://sv1.picz.in.th/images/2020/09/20/OErLT1.png",              
-     "url": "https://moviektu.com/TV_CableSV1/tptv/index.m3u8",
-     "import": false
 },
    {
      "name": "TPTV",
@@ -341,4 +345,4 @@
      "import": false
 },
 ]
-}
+  }
