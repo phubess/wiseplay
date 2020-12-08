@@ -1,0 +1,121 @@
+{
+	"name": "wiseplay",
+	"author": "phubess",
+	"image": "https://c8.alamy.com/comp/HGD02W/tv-logo-design-set-eps-8-supported-HGD02W.jpg",
+	"url": "??",
+	"groups": [
+        {
+ 
+ 
+  	        "name": "Digital TV",
+                "image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
+		"url": "https://bit.ly/3n09Y3F",
+                "import": false
+     },
+ 
+       {
+		 "name": "MOVIES",
+                 "image": "https://d8xxy3dl0iwm6.cloudfront.net/wp-content/uploads/2016/12/Open_true2.png",
+                 "url": "https://bit.ly/39ViBJc",
+                 "import": false
+      },
+ 
+      {
+		 "name": "VARIETY",
+                 "image": "https://logodix.com/logo/1696519.jpg",
+                 "url": "https://bit.ly/2K5OX96",
+                 "import": false  
+     },
+ 
+      {
+		"name": "สาระคดี",
+                 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_te6XT3XxiOjQiWyh8_ZJ6j6aX3wAe6AXyg&usqp=CAU",
+                 "url": "https://bit.ly/3gpQ6Vn",
+                 "import": false 
+     },
+ 
+      {
+		"name": "การ์ตูน",
+                 "image": "https://www.pngkey.com/png/detail/877-8779194_cartoon-network-nickelodeon-disney-channel-logo-png-cartoon.png",
+                 "url": "https://bit.ly/33Sxpog",
+                 "import": false
+      },
+ 
+      {
+		"name": "กีฬาไทย",
+                 "image": "https://i.pinimg.com/originals/df/6b/02/df6b0274ef07c195f32a2a7a7e7556e6.png",
+                 "url": "https://bit.ly/36Ve7R0",
+                 "import": false
+      },
+ 
+      {
+		"name": "กีฬาต่างประเทศ",
+                 "image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
+                 "url": "https://bit.ly/3n0bXF9",
+                 "import": false
+      },
+ 
+      {
+		"name": "karaoke",
+                 "image": "https://www.stagweb.co.uk/img/activities/big/karaoke1.jpg",
+                 "url": "https://bit.ly/3mTTcDk",
+                 "import": false
+      },
+ 
+      {
+		"name": "ภาพยนต์ชนโรง",
+                 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR51QaOZZhGIHCjj5MYNIEQcDDMArsldpPFBQ&usqp=CAU",
+                 "url": "https://bit.ly/39SQkTz",
+                 "import": false
+      },
+ 
+      {
+		"name": "ภาพยนต์",
+                 "image": "https://www.kindpng.com/picc/m/114-1146405_png-image-peoplepng-com-movie-time-logo-png.png",
+                 "url": "https://bit.ly/36YW8ZQ",
+                 "import": false
+     },
+ 
+      {
+		"name": "ซิทคอม",
+                 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbm9ZRMI01fP0JKKFSPRAziRLdGYR8basOyQ&usqp=CAU",
+                 "url": "https://bit.ly/3oww2U3",
+                 "import": false
+      },
+ 
+      {
+		"name": "หนังการ์ตูน",
+                 "image": "https://bit.ly/37zNXCt",
+                 "url": "https://bit.ly/36VHuT1",
+                 "import": false
+      },
+ 
+      {
+		"name": "หนังไทย",
+                 "image": "https://www.kindpng.com/picc/m/287-2874735_photo-thai-movie-icon-hd-png-download.png",
+                 "url": "https://bit.ly/2VUiDc6",
+                 "import": false
+      },
+ 
+      {
+		"name": "หนังค่ายMARVE&DC",
+                 "image": "https://i.ytimg.com/vi/wbNdhDT8-e0/maxresdefault.jpg",
+                 "url": "https://bit.ly/37Nyzm4",
+                 "import": false
+     },
+ 
+      {
+		"name": "คอนเสิร์ต",
+                 "image": "https://bit.ly/33U5XX7",
+                 "url": "https://bit.ly/3lUeXBP",
+                 "import": false
+     },
+ 
+      {
+		"name": "หนังจีน",
+                 "image": "https://image.dek-d.com/26/2600661/112662442",
+                 "url": "",
+                 "import": false
+	},
+       ]
+	}
