@@ -1,0 +1,185 @@
+{  
+    "name": "VARIETY", 
+    "image": "https://bit.ly/2VPfv0V",       
+    "stations": [ 
+ { 
+    "name": "LIFE TIME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
+     "url": "https://bit.ly/3mRyofB",
+     "import": false 
+},
+ {
+     "name": "FOOD NETWORK HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
+     "url": "https://player.we-play.tv/channel.php?name=foodnetwork&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+    "name": "CHIANGRAI CHANNEL",
+     "image": "https://yt3.ggpht.com/ytc/AAUvwnj2RvZQ0xGn814CelpYiOd9fTsxdtq-XVXmfkJ-gQ=s176-c-k-c0x00ffffff-no-rj",              
+     "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+     "import": false
+},
+ {
+    "name": "MTV LIVE ",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOmD8ZGXMPyuVAWF_kg4xgvWHOPs6eLKonGA&usqp=CAU",              
+     "url": "http://203.154.177.124:8899/live/ch2/playlist.m3u8",
+     "import": false
+},
+ {
+    "name": "MTV ASIA",
+     "image": "https://bit.ly/36g1xLO",              
+     "url": "https://cdn6.goprimetime.info/feed/LC3/playlist.m3u8",
+     "import": false
+},
+ {
+    "name": "channel V",
+     "image": "https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg",              
+     "url": "https://cdn6.goprimetime.info/feed/LC14/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "KMTV HD",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
+     "url": "https://player.we-play.tv/channel.php?name=kmtv&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "Stringray iConcerts HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
+     "url": "https://player.we-play.tv/channel.php?name=iconcerts&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "TRUE MUSIC HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+     "url": "https://moviektu.com/TV_CableSV1/True-Music-HD/index.m3u8",
+     "import": false
+},
+ {
+     "name": "True Inside HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "https://moviektu.com/TV_CableSV1/Inside-HD/index.m3u8",
+     "import": false
+},
+ {
+     "name": "Thaithai",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3c46870c-8069-494f-a3c4-4f878e7c348e.png",              
+     "url": "https://moviektu.com/TV_CableSV1/Thaithai/index.m3u8",
+     "import": false
+},
+ {
+     "name": "Verytv",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/8b311ba7-dccd-45cb-9b1f-dffca6ee98e2.png",              
+     "url": "https://moviektu.com/TV_CableSV1/Verytv/index.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE LITLE MONK",
+     "image": "http://cms.dmpcdn.com/livetv/2019/07/15/129bbe6c-c859-4d8f-b719-f6a6f87b7668_original.jpg",              
+     "url": "https://moviektu.com/TV_CableSV1/realitychannel-hd/index.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE MUSIC HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+     "url": "https://ball8k.com/m/ch.php?stream=truemusic","referer": "https://ball8k.com/"
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment","referer": "https://player.we-play.tv"
+ 
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "Star Chinese Channel",
+     "image": "https://www.doofree88.com/storage/live/EITd6uJrDu0DYpiBEcuDYKSoDs3oCxiohCSOOyVB.png",              
+     "url": "https://player.we-play.tv/channel.php?name=scc&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "FANTV",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/19/ef0c5b42-e46f-490c-83d5-8e660f66fb07.png",              
+     "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=345a4277dd864037b6b4fb5a562af59c",
+     "import": false
+},
+ {
+     "name": "ไทไชโย",
+     "image": "https://bit.ly/37GqAXM",              
+     "url": "http://niklive.com:80/live/warning/index.m3u8/416",
+     "import": false
+ 
+},
+ {
+     "name": "Asian Food Channel ",
+     "image": "http://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",              
+     "url": "https://boxmovielive.com:443/live/hd-afc.m3u8",
+     "import": false
+},
+ {
+     "name": "playboy tv",
+     "image": "https://www.catdumb.tv/wp-content/uploads/2019/08/8-118.jpg",              
+     "url": "https://cdn6.goprimetime.info/feed/LC54/playlist.m3u8",
+     "import": false
+},
+   { 
+      "name": "True X-ZYTE",
+      "image": "https://bit.ly/37a9p0o",              
+       "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   { 
+      "name": "True X-ZYTE",
+      "image": "https://bit.ly/37a9p0o",              
+       "url": "https://doomovielive.b-cdn.net/hd-xzyte_720/index.m3u8","referer": "https://doomovie.com/"
+},
+   { 
+      "name": "Waku Waku Japan",
+      "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
+       "url": "https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   { 
+      "name": "Comedy Central",
+      "image": "https://www.doofree88.com/storage/live/7Fr0GIpJu7kNMaCRREN6bWTeS3fpRNnhStyytFB9.png",              
+       "url": "https://doomovielive.b-cdn.net/hd-comedycentral_720/index.m3u8","referer": "https://doomovie.com/"
+},
+   {
+     "name": "TLC HD",
+     "image": "https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",              
+     "url": "https://boxmovielive.com:443/live/hd-tlc.m3u8",
+     "import": false
+},
+{
+ 
+    "name":"TLC HD",
+    "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+    "url": "https://player.we-play.tv/channel.php?name=tlc&cate=documentary","referer": "https://player.we-play.tv"
+},
+  {
+      "name": "Amazing Hi Show",
+      "image": "http://www.chang55.com/movie/upload/movie_img/AMAZING-HI-SHOW-CH1_Thumb.png",
+      "url": "http://203.154.243.89:1214/",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+ 
+},
+   {
+     "name": "CABLE 37 HD",
+     "image": "https://sv1.picz.in.th/images/2020/10/17/b7cOc9.png",              
+     "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "ลูกทุ่ง TVHD",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/Op2Qtt.jpg",              
+     "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "LAO STAR",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",              
+     "url": "https://cdn6.goprimetime.info/feed/LC58/playlist.m3u8",
+     "import": false
+},
+]
+  }
