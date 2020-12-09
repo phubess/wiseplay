@@ -41,6 +41,12 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv","referer": "https://player.we-play.tv"
 },
+{
+"name": "CH7 HD",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-ch7&api_key=mc6Ghb2","referer":"https://www.ufa191.co/"
+"playInNatPlayer": "true"    
+},
    { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
