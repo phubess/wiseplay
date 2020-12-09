@@ -238,6 +238,12 @@
       "url": "https://zecallion.com:443//live/KTU_movie2.m3u8",
      "import": false 
 },
+  { 
+     "name": "MOVIES 3",
+      "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
+      "url": "https://zecallion.com:443/live/KTU_ipm-aflim.m3u8",
+     "import": false 
+},
           {
             "name": "TV CABLE 1",  
              "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
