@@ -40,7 +40,7 @@
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv","referer": "https://player.we-play.tv"
-},
+    },
 {
    "name": "CH7 HD",
     "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
@@ -308,8 +308,6 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0010.png",              
      "url": "https://moviektu.com/TV_CableSV1/NEW-TV/index.m3u8",
      "import": false
-
-     
 },
    {
      "name": "ALTV4",
