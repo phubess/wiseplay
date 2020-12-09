@@ -74,6 +74,12 @@
   {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "https://boxmovielive.com:443/live/foxactionmovie-enz.m3u8", 
+     "import": false  
+},
+  {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "https://zecallion.com:443/live/KTU_Fox-Action.m3u8", 
      "import": false  
 },
@@ -93,7 +99,12 @@
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "https://zecallion.com:443/live/KTU_fox-family.m3u8",     
      "import": false
- 
+},
+   {
+     "name": "Fox Family Movies",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
+     "url": "https://boxmovielive.com:443/live/fox-familyz.m3u8",     
+     "import": false 
 },
    {
      "name": "Fox Family Movies",
@@ -108,8 +119,14 @@
    {
      "name": "FOX CRIME",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704510.jpeg",              
-     "url": "https://boxmovielive.com:443/live/foxcrime.m3u8", 
+     "url": "https://boxmovielive.com:443/live/fox-crime.m3u8", 
       "import": false   
+},
+   {
+     "name": "Fox Life",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "https://boxmovielive.com:443/live/hd-foxlifez.m3u8", 
+      "import": false
 },
    {
      "name": "Fox Life",
@@ -166,6 +183,12 @@
    {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
+     "url": "http://tv2.a-play.online/warner/playlist.m3u8",
+     "import": false
+},
+   {
+    "name": "Warner TV",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://doomovielive.b-cdn.net/hd-warnertv_720/index.m3u8","referer": "https://doomovie.com/"
 },
    {
@@ -183,6 +206,12 @@
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
      "url": "https://player.we-play.tv/channel.php?name=paramount&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   {
+     "name": "Paramount Channel",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
+     "url": "http://tv2.a-play.online/paramount/playlist.m3u8",
+     "import": false
 },
    {
      "name": "Paramount Channel",
