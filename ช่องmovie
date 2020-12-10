@@ -457,6 +457,12 @@
      "import": false
 },
    {
+     "name": "THRILL",
+     "image": "https://stagingcms.cignal.tv/Upload/Images/THRILL.png",              
+     "url": "https://cdn6.goprimetime.info/feed/LC26/playlist.m3u8",
+     "import": false
+},
+   {
      "name": "Cool Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0170.png",              
      "url": "http://niklive.com:80/app-android/Cool/playlist.m3u8",
