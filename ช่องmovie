@@ -321,6 +321,36 @@
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   { 
+     "name": "TV CABLE 6",
+      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+      "url": "https://cdn6.goprimetime.info/feed/LC52/playlist.m3u8",
+     "import": false
+},
+  { 
+     "name": "Movie1",
+      "image": "https://sv1.picz.in.th/images/2020/08/16/EPR17g.jpg",              
+      "url": "https://cdn6.goprimetime.info/feed/LC1/playlist.m3u8",
+     "import": false
+},
+  { 
+     "name": "Movie2",
+      "image": "https://sv1.picz.in.th/images/2020/08/16/EPRiTy.jpg",              
+      "url": "https://cdn6.goprimetime.info/feed/LC2/playlist.m3u8",
+     "import": false
+},
+  { 
+     "name": "Movie3",
+      "image": "https://sv1.picz.in.th/images/2020/08/16/EPULVZ.jpg",              
+      "url": "https://cdn6.goprimetime.info/feed/LC11/playlist.m3u8",
+     "import": false
+},
+  { 
+     "name": "Movie4",
+      "image": "https://sv1.picz.in.th/images/2020/08/16/EPqJe2.jpg",              
+      "url": "http://tv3.a-play.online:80/aplay/amovie/tracks-v1a1/mono.m3u8",
+     "import": false
+},
+  { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
       "url": "https://boxmovielive.com:443/live/FLAz.m3u8",
