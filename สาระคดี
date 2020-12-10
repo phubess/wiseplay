@@ -44,22 +44,34 @@
 }, 
   { 
       "name": "History HD",
-      "image": "https://www.iptv4k.tv/images/tv/aMSptXZDr1VTY1AuenYb8leieP6SIIxunnamed.jpg",              
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
        "url": "https://player.we-play.tv/channel.php?name=history&cate=documentary","referer": "https://player.we-play.tv"
 }, 
   { 
       "name": "History HD",
-      "image": "https://www.iptv4k.tv/images/tv/aMSptXZDr1VTY1AuenYb8leieP6SIIxunnamed.jpg",              
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
        "url": "https://doomovielive.b-cdn.net/hd-history_720/index.m3u8","referer": "https://doomovie.com/"
+}, 
+  { 
+      "name": "History HD",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
+       "url": "http://tv2.a-play.online/history/playlist.m3u8",
+       "import": false
 },
   { 
     "name": "H2",
-    "image": "https://www.iptv4k.tv/images/tv/iqtuRRJIjUHpFmQIMe82qJfvkgzPxffunnamed_(1).jpg",              
+    "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
+    "url": "http://tv2.a-play.online/h2/playlist.m3u8",
+    "import": false
+},
+  { 
+    "name": "H2",
+    "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
     "url": "https://doomovielive.b-cdn.net/hd-history2_720/index.m3u8","referer": "https://doomovie.com/"   
 }, 
   { 
       "name": "H2",
-      "image": "https://www.iptv4k.tv/images/tv/iqtuRRJIjUHpFmQIMe82qJfvkgzPxffunnamed_(1).jpg",              
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
        "url": "https://player.we-play.tv/channel.php?name=h2&cate=documentary","referer": "https://player.we-play.tv"
 },
   { 
