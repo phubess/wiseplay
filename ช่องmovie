@@ -391,6 +391,12 @@
    { 
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
+       "url": "http://tv2.a-play.online/tvn/playlist.m3u8",
+       "import": false
+},
+   { 
+      "name": "TVN",
+      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=tvn&cate=entertainment","referer": "https://player.we-play.tv"
 },
    {
