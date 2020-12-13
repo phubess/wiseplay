@@ -22,7 +22,7 @@
   { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://niklive.com/live/Ch5-HD/index.m3u8",
+    "url": "https://niklive.com:443/live/Ch5-HD/index.m3u8",
     "import": false
 },
   { 
@@ -43,7 +43,7 @@
   { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://niklive.com/live/Ch7-HD/index.m3u8",
+    "url": "https://niklive.com:443/live/Ch7-HD/index.m3u8",
     "import": false
 },
    { 
@@ -54,7 +54,7 @@
    { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "https://niklive.com/live/9MCOT-HD/index.m3u8",
+    "url": "https://niklive.com:443/live/9MCOT-HD/index.m3u8",
     "import": false
 },
    { 
@@ -70,7 +70,7 @@
    { 
     "name":"NBT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "https://niklive.com/live/NBT/index.m3u8",
+    "url": "https://niklive.com:443/live/NBT/index.m3u8",
     "import": false
 },
    { 
@@ -86,7 +86,7 @@
    { 
     "name":"ThaiPBS",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "https://niklive.com/live/ThaiPbs/index.m3u8",
+    "url": "https://niklive.com:443/live/ThaiPbs/index.m3u8",
     "import": false
 },
    { 
@@ -102,7 +102,7 @@
    { 
     "name":"Amarin",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://niklive.com/live/Amarintv-HD/index.m3u8",
+    "url": "https://niklive.com:443/live/Amarintv-HD/index.m3u8",
     "import": false
 },
    { 
@@ -125,7 +125,7 @@
    { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "https://niklive.com/live/ONE-HD/index.m3u8",
+    "url": "https://niklive.com:443/live/ONE-HD/index.m3u8",
     "import": false
 },
    { 
@@ -141,7 +141,7 @@
    { 
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "https://niklive.com/live/Thairathtv/index.m3u8",
+    "url": "https://niklive.com:443/live/Thairathtv/index.m3u8",
     "import": false
 },
    { 
@@ -157,7 +157,7 @@
    { 
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "https://moviektu.com/TV_CableSV1/PPTV/index.m3u8",
+    "url": "https://niklive.com:443/live/PPTV/index.m3u8",
     "import": false
 },
    { 
@@ -176,6 +176,12 @@
      "url": "https://stream.ztvthai.online/dtv/dtv-gmm-playlist.m3u8",
      "import": false
 },
+   {
+     "name": "GMM25 HD",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",              
+     "url": "https://niklive.com:443/live/gmm25/index.m3u8",
+     "import": false
+},
    { 
     "name":"GMM25",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
@@ -189,7 +195,7 @@
    {
      "name": "TNN16",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",              
-     "url": "https://moviektu.com/TV_CableSV1/TNN-16/index.m3u8",
+     "url": "https://niklive.com:443/live/TNN-16/index.m3u8",
      "import": false
 },
    {
@@ -206,7 +212,7 @@
    {
      "name": "True4U",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
-     "url": "https://moviektu.com/TV_CableSV1/True4u/index.m3u8",
+     "url": "https://niklive.com:443/live/True4u/index.m3u8",
      "import": false
 },
    {
@@ -234,7 +240,7 @@
    { 
     "name":"Workpoint",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
-    "url": "https://moviektu.com/TV_CableSV1/Workpointtv/index.m3u8",
+    "url": "https://niklive.com:443/live/Workpointtv/index.m3u8",
     "import": false
 },
    { 
@@ -245,7 +251,7 @@
    { 
     "name":"MONO29",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
-    "url": "https://moviektu.com/TV_CableSV1/MONO29/index.m3u8", 
+    "url": "https://niklive.com:443/live/MONO29/index.m3u8", 
     "import": false
 },
    { 
@@ -261,7 +267,7 @@
    {
      "name": "Nation",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",              
-     "url": "https://moviektu.com/TV_CableSV1/NATIONTV/index.m3u8",
+     "url": ""https://niklive.com:443/live/NATIONTV/index.m3u8,
      "import": false
 },
    { 
@@ -283,7 +289,7 @@
    { 
     "name":"CH8",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
-    "url": "https://moviektu.com/TV_CableSV1/CH8/index.m3u8",
+    "url": "https://niklive.com:443/live/CH8/index.m3u8",
     "import": false
 },
    { 
@@ -298,7 +304,7 @@
      "import": false
 },
    {
-     "name": "NEW18 HD",
+     "name": "NEW18",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0010.png",              
      "url": "https://moviektu.com/TV_CableSV1/NEW-TV/index.m3u8",
      "import": false
@@ -306,7 +312,7 @@
    {
      "name": "ALTV4",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",              
-     "url": "https://moviektu.com/TV_CableSV1/altv/index.m3u8",
+     "url": "https://niklive.com:443/live/altv/index.m3u8",
      "import": false
 },
    {
