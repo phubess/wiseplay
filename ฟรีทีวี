@@ -5,7 +5,7 @@
  {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "https://moviektu.com/TV_CableSV1/CH3-HD/index.m3u8",
+    "url": "https://niklive.com/live/Ch3-HD/index.m3u8",
    "import": false
 },
 {
@@ -22,7 +22,7 @@
   { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://moviektu.com/TV_CableSV1/CH5-HD/index.m3u8",
+    "url": "https://niklive.com/live/Ch5-HD/index.m3u8",
     "import": false
 },
   { 
@@ -43,7 +43,7 @@
   { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://moviektu.com/TV_CableSV1/Ch7-HD/index.m3u8",
+    "url": "https://niklive.com/live/Ch7-HD/index.m3u8",
     "import": false
 },
    { 
@@ -54,7 +54,7 @@
    { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "https://moviektu.com/TV_CableSV1/9MCOT-HD/index.m3u8",
+    "url": "https://niklive.com/live/9MCOT-HD/index.m3u8",
     "import": false
 },
    { 
@@ -70,7 +70,7 @@
    { 
     "name":"NBT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "https://moviektu.com/TV_CableSV1/NBT/index.m3u8",
+    "url": "https://niklive.com/live/NBT/index.m3u8",
     "import": false
 },
    { 
@@ -86,7 +86,7 @@
    { 
     "name":"ThaiPBS",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "https://moviektu.com/TV_CableSV1/ThaiPbs/index.m3u8",
+    "url": "https://niklive.com/live/ThaiPbs/index.m3u8",
     "import": false
 },
    { 
@@ -102,7 +102,7 @@
    { 
     "name":"Amarin",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://moviektu.com/TV_CableSV1/Amarintv-HD/index.m3u8",
+    "url": "https://niklive.com/live/Amarintv-HD/index.m3u8",
     "import": false
 },
    { 
@@ -125,7 +125,7 @@
    { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "https://moviektu.com/TV_CableSV1/ONE-HD/index.m3u8",
+    "url": "https://niklive.com/live/ONE-HD/index.m3u8",
     "import": false
 },
    { 
@@ -141,7 +141,7 @@
    { 
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "https://moviektu.com/TV_CableSV1/Thairathtv/index.m3u8",
+    "url": "https://niklive.com/live/Thairathtv/index.m3u8",
     "import": false
 },
    { 
