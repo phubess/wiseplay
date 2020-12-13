@@ -19,6 +19,12 @@
        "url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary","referer": "https://player.we-play.tv"
 }, 
   { 
+      "name": "Animal Planet",
+      "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
+       "url": "https://boxmovielive.com:443/live/Animalplanet2.m3u8",
+       "import": false
+}, 
+  { 
       "name": "Discovery Asia",
       "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
        "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary","referer": "https://player.we-play.tv"
@@ -112,6 +118,12 @@
        "name": "BBC Earth",
         "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
          "url": "https://doomovielive.b-cdn.net/sd-bbcearth_720/index.m3u8","referer": "https://doomovie.com/"
+},
+    { 
+       "name": "BBC Earth",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+         "url": "https://boxmovielive.com:443/live/hd-asian.m3u8",
+         "import": false
 },
    { 
        "name": "BBC Lifestyle",
