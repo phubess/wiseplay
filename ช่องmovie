@@ -74,7 +74,7 @@
   {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com:443/live/foxactionmovie-enz.m3u8", 
+     "url": "https://boxmovielive.com:443/live/foxactionmovie-en7.m3u8", 
      "import": false  
 },
   {
@@ -115,7 +115,7 @@
    {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com:443/live/fox-familyz.m3u8",     
+     "url": "https://boxmovielive.com:443/live/fox-family7.m3u8",     
      "import": false 
 },
    {
@@ -132,12 +132,18 @@
      "name": "FOX CRIME",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704510.jpeg",              
      "url": "https://boxmovielive.com:443/live/fox-crime.m3u8", 
-      "import": false   
+      "import": false  
 },
    {
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
-     "url": "https://boxmovielive.com:443/live/hd-foxlifez.m3u8", 
+     "url": "https://zecallion.com:443/live/KTU_hd-foxlife.m3u8", 
+      "import": false
+},
+   {
+     "name": "Fox Life",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "https://boxmovielive.com:443/live/hd-foxlife7.m3u8", 
       "import": false
 },
    {
@@ -156,9 +162,14 @@
      "url": "https://doomovielive.b-cdn.net/hd-tfilm_720/index.m3u8","referer": "https://doomovie.com/"
 },
    {
+     "name": "True Film HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+     "url": "https://boxmovielive.com:443/live/true-filmhd17.m3u8",
+},
+   {
      "name": "True Film HD2",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
-     "url": "https://boxmovielive.com:443/live/true-filmhd2z.m3u8",
+     "url": "https://boxmovielive.com:443/live/true-filmhd27.m3u8",
      "import": false
 },
    {
@@ -174,7 +185,7 @@
    {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
-     "url": "https://boxmovielive.com:443/live/hd-asianseriesz.m3u8",
+     "url": "https://boxmovielive.com:443/live/asianseries7.m3u8",
      "import": false
 },
    {
@@ -359,7 +370,7 @@
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com:443/live/moviehitsz.m3u8",
+      "url": "https://boxmovielive.com:443/live/moviehits7.m3u8",
      "import": false
 },
   { 
