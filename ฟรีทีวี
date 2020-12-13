@@ -84,7 +84,7 @@
     "url": "https://cdn1.cloud-streaming.live/digital/nbt/digital-sp/nbt/chunks.m3u8","referer": "https://bettopfivemovie.com/"
 },
   { 
-    "name":"ThaiPBS",
+    "name":"ThaiPBS HD ",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
     "url": "https://niklive.com:443/live/ThaiPbs/index.m3u8",
     "import": false
