@@ -11,6 +11,12 @@
 {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
+    "url": "http://niklive.com:80/app-android/3hd/playlist.m3u8",
+   "import": false
+},
+{
+    "name":"3 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "https://player.we-play.tv/channel.php?name=ch3hd&cate=digitaltv","referer": "https://player.we-play.tv"
 },
 {
@@ -23,6 +29,12 @@
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://niklive.com:443/live/Ch5-HD/index.m3u8",
+    "import": false
+},
+ { 
+    "name":"5 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
+    "url": "http://niklive.com:80/app-android/CH5/playlist.m3u8",
     "import": false
 },
   { 
@@ -38,13 +50,19 @@
   { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv","referer": "https://player.we-play.tv"
+    "url": "http://niklive.com:80/app-android/CH7/playlist.m3u8",
+    "import": false
 },
   { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "https://niklive.com:443/live/Ch7-HD/index.m3u8",
     "import": false
+},
+  { 
+    "name":"7 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+    "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv","referer": "https://player.we-play.tv"
 },
   { 
     "name":"7 HD",
@@ -60,12 +78,24 @@
   { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
+    "url": "http://niklive.com:80/app-android/mcot/playlist.m3u8",
+    "import": false
+},
+  { 
+    "name":"MCOT HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "https://player.we-play.tv/channel.php?name=mcothd&cate=digitaltv","referer": "https://player.we-play.tv"
 },
   { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "https://cdn1.cloud-streaming.live/digital/mcot/digital/mcot/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+  { 
+    "name":"NBT HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+    "url": "https://niklive.com:443/live/NBT/index.m3u8",
+    "import": false
 },
   { 
     "name":"NBT HD",
