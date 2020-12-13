@@ -68,13 +68,13 @@
  {
      "name": "TRUE MUSIC HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://moviektu.com/TV_CableSV1/True-Music-HD/index.m3u8",
+     "url": "",
      "import": false
 },
  {
      "name": "True Inside HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "https://moviektu.com/TV_CableSV1/Inside-HD/index.m3u8",
+     "url": "https://niklive.com:443/live/True-Music-HD/index.m3u8",
      "import": false
  },
  {
@@ -92,13 +92,13 @@
  {
      "name": "Verytv",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/8b311ba7-dccd-45cb-9b1f-dffca6ee98e2.png",              
-     "url": "https://moviektu.com/TV_CableSV1/Verytv/index.m3u8",
+     "url": "https://niklive.com:443/live/Verytv/index.m3u8",
      "import": false
 },
  {
      "name": "TRUE LITLE MONK",
      "image": "http://cms.dmpcdn.com/livetv/2019/07/15/129bbe6c-c859-4d8f-b719-f6a6f87b7668_original.jpg",              
-     "url": "https://moviektu.com/TV_CableSV1/realitychannel-hd/index.m3u8",
+     "url": "https://niklive.com:443/live/realitychannel-hd/index.m3u8",
      "import": false
 },
  {
