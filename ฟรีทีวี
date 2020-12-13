@@ -1,5 +1,5 @@
 {
-    "name": "Digital TV",
+    "name": "ฟรีทีวี",
     "image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
     "stations": [ 
  {
@@ -19,7 +19,7 @@
     "url": "http://tv10.chang55.com/ch17-ch3/playlist.m3u8",
    "import": false
 },
-  { 
+ { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://niklive.com:443/live/Ch5-HD/index.m3u8",
@@ -30,7 +30,7 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://cdn1.cloud-streaming.live/digital/ch5/digital/5hd/chunks.m3u8","referer": "https://bettopfivemovie.com/"
 },
-   { 
+  { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://player.we-play.tv/channel.php?name=ch5hd&cate=digitaltv","referer": "https://player.we-play.tv"
@@ -46,7 +46,7 @@
     "url": "https://niklive.com:443/live/Ch7-HD/index.m3u8",
     "import": false
 },
-   { 
+  { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "https://cdn1.cloud-streaming.live/digital/ch7/digital/7hd/chunks.m3u8","referer": "https://bettopfivemovie.com/"
