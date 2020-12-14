@@ -103,7 +103,7 @@
    {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://zecallion.com:443/live/KTU_fox-family.m3u8",     
+     "url": "https://zecallion.com:443/live/KTU_fox-family7.m3u8",     
      "import": false
 },
    {
@@ -166,12 +166,7 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
      "url": "https://boxmovielive.com:443/live/true-filmhd17.m3u8",
      "import": false
-},
-   {
-     "name": "True Film HD2",
-     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
-     "url": "https://boxmovielive.com:443/live/true-filmhd27.m3u8",
-     "import": false
+
 },
    {
      "name": "True Film HD2",
@@ -365,7 +360,7 @@
   { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com:443/live/FLA1.m3u8",
+      "url": "https://boxmovielive.com:443/live/FLA123.m3u8",
      "import": false
 },
   { 
