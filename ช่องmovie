@@ -53,7 +53,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com:443/live/foxmoviesz.m3u8",
+     "url": "https://boxmovielive.com:443/live/foxmovies.m3u8",
      "import": false
 },
    {
@@ -121,7 +121,7 @@
    {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com:443/live/fox-family7.m3u8",     
+     "url": "https://boxmovielive.com:443/live/fox-family6.m3u8",     
      "import": false 
 },
    {
@@ -277,7 +277,7 @@
   { 
      "name": "Series+HD",
       "image": "https://i.imgur.com/MIKKM2Y.png",              
-      "url": "https://zecallion.com:443//live/KTU_ipmsiri.m3u8",
+      "url": "https://boxmovielive.com:443/live/seri.m3u8",
      "import": false
 },
   { 
