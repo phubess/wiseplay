@@ -298,12 +298,7 @@
                 "name": "Bein 1",
                "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
                "url": "https://player.ballnaka.tv/?channel=bein1&cate=sport","referer": "https://ballnaka.tv/
-},
- { 
-                "name": "Bein 1 AIS",
-               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
-               "url": "https://aisplay.ais.co.th/portal/live?vid=5e69984f609ced33cfa4e734","playInNatPlayer": "true",
-               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+
 },
  { 
                 "name": "Bein 1",
