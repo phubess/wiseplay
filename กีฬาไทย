@@ -297,7 +297,13 @@
  { 
                 "name": "Bein 1",
                "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
-               "url": "https://player.ballnaka.tv/?channel=bein1&cate=sport","referer": "https://ballnaka.tv/"
+               "url": "https://player.ballnaka.tv/?channel=bein1&cate=sport","referer": "https://ballnaka.tv/
+},
+ { 
+                "name": "Bein 1 AIS",
+               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
+               "url": "https://aisplay.ais.co.th/portal/live?vid=5e69984f609ced33cfa4e734","playInNatPlayer": "true",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
  { 
                 "name": "Bein 1",
@@ -336,6 +342,12 @@
                 "name": "Bein 2",
                "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",           
                 "url": "https://www.doonung1234.com/match/view/7641/bein2","referer" :"https://www.doonung1234.com/" 
+},
+ { 
+                "name": "T-Sports",
+               "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",           
+                "url": "https://aisplay.ais.co.th/portal/live?vid=5f9e9488b5d11069fedce784","playInNatPlayer": "true",
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
  {
       "name": "hisport",
