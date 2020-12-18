@@ -13,12 +13,18 @@
        "name": "ไอดี สเตชั่น",
        "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
        "url": "https://bit.ly/3qzq1rr",
-       "import": false           		    
+       "import": false
+},
+    {
+       "name": "3bbsports1",
+       "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
+       "url": "http://196.53.250.49:8888/live/stream/xx/12.m3u8",
+       "import": false   
 },
     {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "http://ip2121.com:8081/4kweb/true1/chunks.m3u8", 
+	 "url": "http://196.53.250.49:8888/live/stream/xx/4.m3u8", 
          "import": false
 
 },
@@ -54,34 +60,22 @@
      {
        "name":"True Premier Football HD 2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	 "url": "https://live.andaman888th.com/live/tpf2/sport/tpf2-sp/chunks.m3u8","referer": "https://andaman888th.com/"
-},
-     {
-       "name":"True Premier Football HD 2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	 "url": "https://ip2121.com/web/truepremier2/chunks.m3u8", 
-         "import": false
-
+	 "url": "https://live.andaman888th.com/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://andaman888th.com/"
 },
      {
        "name":"True Premier Football HD 3",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	 "url": "https://ip2121.com/web/truepremier3/chunks.m3u8", 
-         "import": false
-
+	 "url": "https://live.andaman888th.com/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://andaman888th.com/"
 },
      {
        "name":"True Premier Football HD 4",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
-	 "url": "https://ip2121.com/web/truepremier4/chunks.m3u8", 
-         "import": false
-
+	 "url": "https://live.andaman888th.com/live/tpf4/sport/tpf4/chunks.m3u8","referer": "https://andaman888th.com/" 
 },
      {
        "name":"True Premier Football HD 5",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
-	 "url": "https://ip2121.com/web/truepremier5/chunks.m3u8", 
-         "import": false
+	 "url": "https://live.andaman888th.com/live/tpf5/sport/tpf5/chunks.m3u8", "referer": "https://andaman888th.com/"
 },
      {	 
          "name":"True Sport HD",
