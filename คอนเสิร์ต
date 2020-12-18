@@ -1,17 +1,12 @@
-#EXTM3U
- 
-#EXTINF:-1 group-title="คอนเสิร์ต"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1605748450_songtopia-livehouse-clash-back_cover.jpg",Songtopia Livehouse Clash Back 2020
-https://sm-cache1.mrtmovie.com/hls/content/nas05/mvc/Concert/Songtopia_Livehouse_Clash_Back_2020/Clash_Back.mp4/index.m3u8
-#EXTINF:-1 group-title="คอนเสิร์ต"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1599812162_songtopia-livehouse_cover.jpg",Songtopia Livehouse By AIS PLAY Present เสก Loso Live’n Roll
-https://sm-cache1.mrtmovie.com/hls/content/nas05/mvc/Concert/Songtopia_Livehouse_By_AIS_PLAY_Present_SekLoso_Live_Roll/SEKLOSO.mp4/index.m3u8
-#EXTINF:-1 group-title="คอนเสิร์ต"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1605695851_peck-palitchoke-15th-anniversary_cover.jpg",Peck Palitchoke 15Th Anniversary The Final Odyssey Concert
-https://sm-cache1.mrtmovie.com/hls/content/nas05/mvc/Concert/Peck_Palitchoke_15Th_Anniversary_2020/Peck_Palitchoke_2020.mp4/index.m3u8
-#EXTINF:-1 group-title="คอนเสิร์ต"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1595582741_asanee-wasan-sen-yai-concert_cover.jpg",คอนเสิร์ตเส้นใหญ่ อัสนี-วสันต์ โชติกุล
-https://sm-cache1.mrtmovie.com/hls/content/nas05/mvc/Concert/Asanee_Wasan_Sen_Yai_Concert/Asanee_wasan_Sen_yai_Concert.mp4/index.m3u8
+{
+   "name": "Songtopia Livehouse by AIS PLAY Present “The Signature Of Silly Fools",  
+   "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/ais-htWGF1-fKIlc.91255202.poster.SD.jpg", 
+   "url": "https://aisplay.ais.co.th/portal/get_item/5fd08e9c954f9da153a8df62/","playInNatPlayer": "true",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 
-
-
-
+},
+]
+}
 
 
 
