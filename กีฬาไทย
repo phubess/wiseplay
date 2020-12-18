@@ -26,12 +26,7 @@
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",
        "url": "https://aisplay.ais.co.th/portal/live?vid=5f9e9488b5d11069fedce784","playInNatPlayer": "true",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
-   {
-       "name": "beIN SPORTS 1",
-       "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_1.png",
-       "url": "https://aisplay.ais.co.th/portal/live?vid=5e69984f609ced33cfa4e734","playInNatPlayer": "true",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+
 },
     {
        "name":"True Premier Football HD 1",
