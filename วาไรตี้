@@ -28,6 +28,12 @@
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
  {
+     "name": "SONGTOPIA Livehouse By AIS PLAY",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Songtopia.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5ae30339aae73145d0edb67f","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+ {
     "name": "CHIANGRAI CHANNEL",
      "image": "https://yt3.ggpht.com/ytc/AAUvwnj2RvZQ0xGn814CelpYiOd9fTsxdtq-XVXmfkJ-gQ=s176-c-k-c0x00ffffff-no-rj",              
      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
