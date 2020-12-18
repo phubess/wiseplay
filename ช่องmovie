@@ -247,6 +247,13 @@
    {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
+     "url": "http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live2/tv4ch91.stream/playlist.m3u8",
+     "referer": "http://pglivetv.com/"
+     
+},
+   {
+     "name": "Paramount Channel",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
      "url": "https://cdn6.goprimetime.info/feed/LC27/playlist.m3u8",
      "import": false
 },
