@@ -2,12 +2,7 @@
     "name": "VARIETY", 
     "image": "https://bit.ly/2VPfv0V",       
     "stations": [ 
- { 
-    "name": "LIFE TIME",
-     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
-     "url": "https://bit.ly/3miUJl8",
-     "import": false 
-},
+
  {
      "name": "FOOD NETWORK HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
@@ -117,6 +112,12 @@
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
      "url": "http://tv2.a-play.online/blueanten/playlist.m3u8",
      "import": false
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT AIS",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=59ab204faae7311c5f0cc5ea","playInNatPlayer": "true",
+     "userAgent": "exoplayer_video",
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
