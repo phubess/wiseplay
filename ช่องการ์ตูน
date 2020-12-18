@@ -11,11 +11,7 @@
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
      "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer": "https://player.we-play.tv"
-     },
-    { 
-        "name":"Cartoon Network",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-     "url": "https://bit.ly/2Kx5vHs","referer": "https://aisplay.ais.co.th/"
+     
      
 },
     { 
