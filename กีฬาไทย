@@ -26,12 +26,6 @@
 	 "url": "http://196.53.250.49:8888/live/stream/xx/4.m3u8", 
          "import": false
 },
-    {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "http://cloudlive-bl2.ddns.net:1936/transcoder_F1/premierhd1_fwiptv.stream/chunklist_w1260560651.m3u8", 
-         "import": false
-},
      {	 
          "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
@@ -301,7 +295,7 @@
                "name": "Bein 2",
                "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",              
                "url": "https://www.andaman888th.com/ดูบอลออนไลน์/beinsport2/","referer": "https://www.andaman888th.com",
-	       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+	       
 },
  { 
                 "name": "Bein 2",
