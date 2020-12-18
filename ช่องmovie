@@ -247,8 +247,8 @@
    {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "http://pglivetv.com/live_content.php?mid=180189",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+     "url": "http://pglivetv.com/live_content.php?mid=180189","embed": "true","playInNatPlayer": "true",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
      
 },
    {
