@@ -68,25 +68,25 @@
  {
      "name": "TRUE MUSIC HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://bit.ly/37wgxpA",
+     "url": "https://niklive.com:443/live/True-Music-HD/index.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE MUSIC HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+     "url": "https://bit.ly/3h0yAr6",
      "import": false
 },
  {
      "name": "True Inside HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "https://niklive.com:443/live/True-Music-HD/index.m3u8",
-     "import": false
- },
- {
-     "name": "True Inside HD",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "https://bit.ly/33YgsbP",
+     "url": "https://niklive.com:443/live/Inside-HD/index.m3u8",
      "import": false
 },
  {
      "name": "Thaithai",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3c46870c-8069-494f-a3c4-4f878e7c348e.png",              
-     "url": "https://moviektu.com/TV_CableSV1/Thaithai/index.m3u8",
+     "url": "https://niklive.com:443/live/Thaithai/index.m3u8",
      "import": false
 },
  {
