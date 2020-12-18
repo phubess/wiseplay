@@ -117,7 +117,7 @@
      "name": "BLUEANT ENTERTAINMENT AIS",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
      "url": "https://aisplay.ais.co.th/portal/live?vid=59ab204faae7311c5f0cc5ea","playInNatPlayer": "true",
-     "userAgent": "exoplayer_video",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
