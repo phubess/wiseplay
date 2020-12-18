@@ -138,6 +138,12 @@
      "import": false
 },
  {
+     "name": "BLUEANT EXTREME AIS",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=59ab219daae7311c60cf2046","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+ {
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
      "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment","referer": "https://player.we-play.tv"
