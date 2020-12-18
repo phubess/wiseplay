@@ -11,7 +11,12 @@
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
      "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer": "https://player.we-play.tv"
-     
+ },
+    { 
+        "name":"Cartoon Network AIS",
+        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5a52f069aae731507f5387bb","playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"    
      
 },
     { 
@@ -87,6 +92,12 @@
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
        "url": "http://tv2.a-play.online/babytv/playlist.m3u8",
        "import": false
+},
+    { 
+      "name": "TOONEE",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png",              
+       "url": "https://aisplay.ais.co.th/portal/live?vid=5d424cdbaae73145f7f2b675","playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
     { 
       "name": "BabyTV",
