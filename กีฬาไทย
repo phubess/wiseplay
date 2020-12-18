@@ -13,18 +13,7 @@
        "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
        "url": "http://196.53.250.49:8888/live/stream/xx/12.m3u8",
        "import": false 
-},
-   {
-       "name": "ไอดี สเตชั่น",
-       "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
-       "url": "https://bit.ly/3qVZyoe",
-       "import": false 
-},
-   {
-       "name":"True Premier Football HD 1 FHD",
-        "image": "https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png",
-	 "url": "https://bit.ly/2West8Y", 
-         "import": false
+
 },
    {
        "name":"True Premier Football HD 1 ",
@@ -43,7 +32,6 @@
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "http://cloudlive-bl2.ddns.net:1936/transcoder_F1/premierhd1_fwiptv.stream/chunklist_w1260560651.m3u8", 
          "import": false
-
 },
      {	 
          "name":"True Premier Football HD 1",
