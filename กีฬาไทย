@@ -12,7 +12,7 @@
     {
        "name": "ไอดี สเตชั่น",
        "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
-       "url": "https://tv.trueid.net/live/idstation","playInNatPlayer": "true",
+       "url": "https://tv.trueid.net/embed/idstation?autoplay=yes&nopageview=yes","playInNatPlayer": "true",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
        
 },
