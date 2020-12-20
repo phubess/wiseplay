@@ -123,7 +123,7 @@
  {
      "name": "BLUEANT ENTERTAINMENT",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
-     "url": "http://live2.aplayhd.xyz/aplay/blueanten-1.m3u8",
+     "url": "https://boxmovielive.com:443/live/blueant.m3u8",
      "import": false
 },
  {
@@ -141,6 +141,12 @@
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
      "url": "http://live2.aplayhd.xyz/aplay/blueanten-1.m3u8", 
+     "import": false
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://boxmovielive.com:443/live/blueantex.m3u8", 
      "import": false
 },
  {
