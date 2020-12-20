@@ -203,8 +203,8 @@
    {
      "name": "KBS World HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
-     "url": "http://tv2.a-play.online/kbs/playlist.m3u8",
-     "import": false
+     "url": "https://tv.trueid.net/embed/kbs-world-hd?autoplay=yes&nopageview=yes",
+     "playInNatPlayer": "true"
 },
    {
      "name": "KBS World HD",
