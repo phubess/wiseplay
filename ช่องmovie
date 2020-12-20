@@ -203,8 +203,8 @@
    {
      "name": "KBS World HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
-     "url": "https://tv.trueid.net/embed/kbs-world-hd?autoplay=yes&nopageview=yes",
-     "playInNatPlayer": "true"
+     "url": "http://live2.aplayhd.xyz/aplay/kbs-1.m3u8",
+     "import": false
 },
    {
      "name": "KBS World HD",
@@ -214,7 +214,7 @@
    {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "http://tv2.a-play.online/warner/playlist.m3u8",
+     "url": "http://live2.aplayhd.xyz/aplay/warner-1.m3u8",
      "import": false
 },
    {
@@ -247,7 +247,7 @@
    {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "http://tv2.a-play.online/paramount/playlist.m3u8",
+     "url": "http://live2.aplayhd.xyz/aplay/paramount-1.m3u8",
      "import": false
 },
    {
@@ -317,6 +317,12 @@
       "url": "https://zecallion.com:443/live/KTU_ipm-aflim782.m3u8",
      "import": false 
 },
+  { 
+     "name": "MOVIES 4",
+      "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
+      "url": "https://boxmovielive.com:443/live/moviesat.m3u8",
+     "import": false 
+},
           {
             "name": "TV CABLE 1",  
              "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
@@ -350,30 +356,6 @@
      "name": "TV CABLE 6",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
       "url": "https://cdn6.goprimetime.info/feed/LC52/playlist.m3u8",
-     "import": false
-},
-  { 
-     "name": "Movie1",
-      "image": "https://sv1.picz.in.th/images/2020/08/16/EPR17g.jpg",              
-      "url": "https://cdn6.goprimetime.info/feed/LC1/playlist.m3u8",
-     "import": false
-},
-  { 
-     "name": "Movie2",
-      "image": "https://sv1.picz.in.th/images/2020/08/16/EPRiTy.jpg",              
-      "url": "https://cdn6.goprimetime.info/feed/LC2/playlist.m3u8",
-     "import": false
-},
-  { 
-     "name": "Movie3",
-      "image": "https://sv1.picz.in.th/images/2020/08/16/EPULVZ.jpg",              
-      "url": "https://cdn6.goprimetime.info/feed/LC11/playlist.m3u8",
-     "import": false
-},
-  { 
-     "name": "Movie4",
-      "image": "https://sv1.picz.in.th/images/2020/08/16/EPqJe2.jpg",              
-      "url": "http://tv3.a-play.online:80/aplay/amovie/tracks-v1a1/mono.m3u8",
      "import": false
 },
   { 
@@ -425,17 +407,12 @@
       "name": "AXN HD",
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
        "url": "https://doomovielive.b-cdn.net/hd-axn_720/index.m3u8","referer": "https://doomovie.com/"
-},
-   {
-     "name": "AXN HD",
-     "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
-     "url": "http://ip2121.com:8081/live2/AXN_Y/chunks.m3u8",
-     "import": false
+
 },
    { 
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
-       "url": "http://tv2.a-play.online/tvn/playlist.m3u8",
+       "url": "http://live2.aplayhd.xyz/aplay/tvn-1.m3u8",
        "import": false
 },
    { 
