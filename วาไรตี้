@@ -60,7 +60,7 @@
  {
      "name": "KMTV HD",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
-     "url": "htps://boxmovielive.com:443/live/kmtv-1.m3u8",
+     "url": "htps://boxmovielive.com:443/live/kmtv.m3u8",
      "import": false
 },
  {
@@ -71,7 +71,7 @@
  {
      "name": "Stringray iConcerts HD",
      "image": "htttp://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
-     "url": "htps://boxmovielive.com:443/live/siconcerts9.m3u8",
+     "url": "htps://boxmovielive.com:443/live/siconcerts.m3u8",
      "import": false
 },
  {
