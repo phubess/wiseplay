@@ -361,13 +361,13 @@
   { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com:443/live/FLA4.m3u8",
+      "url": "https://boxmovielive.com:443/live/FLA1.m3u8",
      "import": false
 },
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com:443/live/moviehits.m3u8",
+      "url": "https://boxmovielive.com:443/live/moviehits1.m3u8",
      "import": false
 },
   { 
@@ -412,7 +412,7 @@
    { 
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
-       "url": "http://live2.aplayhd.xyz/aplay/tvn-1.m3u8",
+       "url": "https://boxmovielive.com:443/live/tvn.m3u8",
        "import": false
 },
    { 
