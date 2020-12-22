@@ -106,13 +106,6 @@
          "import": false
 },
    {
-      "name": "World Animal",
-      "image": "https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",
-      "url": "http://203.154.243.89:1201/",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
-},
-   {
       "name": "pet club tv",
       "image": "https://i.vimeocdn.com/video/722791670_640.jpg",
       "url": "https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8",
