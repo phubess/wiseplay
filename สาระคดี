@@ -1,6 +1,7 @@
 { 
-    "name": "สาระคดี", 
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_te6XT3XxiOjQiWyh8_ZJ6j6aX3wAe6AXyg&usqp=CAU",       
+    "name": "สาระคดี",
+    "author": "update 23/12/2020",
+    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
         "name":"Discovery Channel",
