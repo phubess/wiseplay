@@ -47,13 +47,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "http://tv2.a-play.online/foxpremium/playlist.m3u8",
-     "import": false
-},
-   {
-     "name": "FOX MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com:443/live/foxmovies.m3u8",
+     "url": "https://boxmovielive.com:443/live/foxmovie.m3u8",
      "import": false
 },
    {
@@ -80,7 +74,7 @@
   {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com:443/live/foxactionmovie-en4.m3u8", 
+     "url": "https://boxmovielive.com:443/live/foxactionmovie-en1.m3u8", 
      "import": false  
 },
   {
@@ -109,7 +103,7 @@
    {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://zecallion.com:443/live/KTU_fox-family7.m3u8",     
+     "url": "https://zecallion.com:443/live/KTU_fox-family1.m3u8",     
      "import": false
 },
    {
@@ -137,7 +131,7 @@
    {
      "name": "FOX CRIME",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704510.jpeg",              
-     "url": "https://boxmovielive.com:443/live/fox-crime.m3u8", 
+     "url": "https://boxmovielive.com:443/live/foxcrime.m3u8", 
       "import": false  
 },
    {
@@ -149,7 +143,7 @@
    {
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
-     "url": "https://boxmovielive.com:443/live/hd-foxlife7.m3u8", 
+     "url": "http://196.53.250.49:8888/live/stream/xx/8.m3u8", 
       "import": false
 },
    {
@@ -218,7 +212,7 @@
      "import": false
 },
    {
-    "name": "Warner TV",
+    "name": "Warner TV AIS",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://aisplay.ais.co.th/portal/live?vid=597e004b7ed5a24e46f6725a","playInNatPlayer": "true",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
@@ -249,13 +243,6 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
      "url": "http://live2.aplayhd.xyz/aplay/paramount-1.m3u8",
      "import": false
-},
-   {
-     "name": "Paramount Channel",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "http://pglivetv.com/live_content.php?mid=180189","embed": "true","playInNatPlayer": "true",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-     
 },
    {
      "name": "Paramount Channel",
@@ -361,7 +348,7 @@
   { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com:443/live/FLA1.m3u8",
+      "url": "https://boxmovielive.com:443/live/FLA.m3u8",
      "import": false
 },
   { 
