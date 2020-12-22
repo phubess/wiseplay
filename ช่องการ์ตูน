@@ -36,6 +36,12 @@
     "url": "https://doomovielive.b-cdn.net/sd-cartoonnetwork_480/index.m3u8","referer": "https://doomovie.com/"
 },
     { 
+        "name":"Cartoon Network",
+        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+        "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/cn.m3u8",
+        "import": false
+},
+    { 
         "name":"Nick Jr.",
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
         "url": "http://live3.aplayhd.xyz:80/a-play/nickjr.m3u8",
