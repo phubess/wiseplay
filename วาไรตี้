@@ -2,8 +2,7 @@
     "name": "VARIETY", 
     "image": "https://bit.ly/2VPfv0V",       
     "stations": [ 
-
- {
+{
     "name": "Lifetime",
      "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
      "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/life.m3u8",
@@ -45,7 +44,7 @@
      "import": false
 },
  {
-    "name": "MTV LIVE ",
+    "name": "MTV LIVE",
      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOmD8ZGXMPyuVAWF_kg4xgvWHOPs6eLKonGA&usqp=CAU",              
      "url": "http://203.154.177.124:8899/live/ch2/playlist.m3u8",
      "import": false
