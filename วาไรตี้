@@ -28,6 +28,12 @@
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
  {
+     "name": "Asian Food Network AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+     "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/afood.m3u8",
+     "import": false
+},
+ {
       "name": "Lifetime",
      "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
      "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/life.m3u8",
