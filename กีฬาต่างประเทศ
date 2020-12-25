@@ -10,7 +10,31 @@
       "url": "http://203.154.243.31:8081/live/tennis/index.m3u8 ",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
- 
+},
+ {
+      "name": "Astro supersport",
+      "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",
+      "url": "http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8",
+       "import": false 
+},
+ {
+      "name": "Astro supersport 2",
+      "image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",
+      "url": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+       "import": false        
+},
+ {
+      "name": "Astro supersport 3",
+      "image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",
+      "url": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+       "import": false        
+ },
+ {
+      "name": "Astro supersport 4",
+      "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",
+      "url": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
+       "import": false       
+       
 },
  {
       "name": "One Golf",
