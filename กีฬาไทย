@@ -42,6 +42,12 @@
 	 "url": "http://196.53.250.49:8888/live/stream/xx/4.m3u8", 
          "import": false
 },
+    {
+       "name":"True Premier Football HD 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+	 "url": "https://www.moviemocha.com/live_sched_sa/dootv.php?play=156","referer": "https://www.moviemocha.com/" 
+         
+},
      {	 
          "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
