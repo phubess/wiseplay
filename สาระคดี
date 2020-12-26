@@ -34,6 +34,12 @@
        "url": "https://doomovielive.b-cdn.net/hd-natgeo_720/index.m3u8","referer": "https://doomovie.com/"
 }, 
   { 
+      "name": "Nat Geo Wild true",
+      "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
+       "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/natgo.m3u8",
+       "import": false
+}, 
+  { 
       "name": "Nat Geo Wild",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
        "url": "https://player.we-play.tv/channel.php?name=natwild&cate=documentary","referer": "https://player.we-play.tv"
@@ -44,6 +50,12 @@
        "url": "https://doomovielive.b-cdn.net/hd-natgeowild_720/index.m3u8","referer": "https://doomovie.com/"  
 }, 
   { 
+      "name": "History HD true",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
+       "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/history.m3u8",
+       "import": false
+}, 
+  { 
       "name": "History HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
        "url": "https://player.we-play.tv/channel.php?name=history&cate=documentary","referer": "https://player.we-play.tv"
@@ -52,6 +64,12 @@
       "name": "History HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
        "url": "https://doomovielive.b-cdn.net/hd-history_720/index.m3u8","referer": "https://doomovie.com/"
+},
+  { 
+    "name": "H2 true",
+    "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
+    "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/h2.m3u8",
+     "import": false
 },
   { 
     "name": "H2",
