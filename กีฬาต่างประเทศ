@@ -12,6 +12,11 @@
       "playInNatPlayer": "true"
 },
  {
+      "name": "LIVERPOOL TV",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/lfctv.png",
+      "url": "https://www.ball24.tv/allchannel/?id=lfctv","referer": "https://www.ball24.tv/"
+},
+ {
       "name": "Astro supersport",
       "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",
       "url": "http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8",
