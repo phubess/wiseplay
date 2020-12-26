@@ -1,12 +1,18 @@
 {  
     "name": "VARIETY", 
-    "author": "update 24/12/2020",
+    "author": "update 27/12/2020",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
      "name": "FOOD NETWORK HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
      "url": "https://player.we-play.tv/channel.php?name=foodnetwork&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "FOOD NETWORK HD true",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
+     "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/foodch.m3u8",
+     "import": false 
 },
  {
      "name": "FOOD NETWORK HD",
