@@ -1,6 +1,6 @@
 { 
       "name": "phubess",
-      "author": "update 23/12/2020",
+      "author": "update 26/12/2020",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -34,7 +34,13 @@
        "name": "eGG",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0167.png",
        "url": "https://aisplay.ais.co.th/portal/live?vid=599f96967ed5a2632888002c","playInNatPlayer": "true",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"     
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" 
+},
+    {
+       "name":"True Premier Football HD 1 true",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+	 "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/epl1789.m3u8", 
+         "import": false
 },
     {
        "name":"True Premier Football HD 1",
