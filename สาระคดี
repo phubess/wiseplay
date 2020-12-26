@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 23/12/2020",
+    "author": "update 27/12/2020",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -70,6 +70,12 @@
          "import": false
 }, 
   { 
+      "name": "Outdoor Channel true",
+      "image": "https://www.iptv4k.tv/images/tv/aSZu0tK0JMPTQEn5z3QMdbKEJKsuoh6201805091959181891278412.jpg",              
+       "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/out.m3u8",
+       "import": false
+}, 
+  { 
       "name": "Outdoor Channel",
       "image": "https://www.iptv4k.tv/images/tv/aSZu0tK0JMPTQEn5z3QMdbKEJKsuoh6201805091959181891278412.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=outdoor&cate=documentary","referer": "https://player.we-play.tv"
@@ -78,6 +84,12 @@
       "name": "Love Nature",
       "image": "https://www.iptv4k.tv/images/tv/32D9btl5XnaiFPsLprTHZSQl3uFpYl6love-nature-4k.png",              
        "url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary","referer": "https://player.we-play.tv"
+},
+    { 
+       "name": "BBC Earth",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+         "url": "https://zecallion.com/live/KTU_bbc123.m3u8",
+         "import": false
 },
     { 
        "name": "BBC Earth",
