@@ -4,9 +4,9 @@
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {
-       "name": "ไอดี สเตชั่น",
-       "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
-       "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/ider.m3u8",
+       "name": "True Premier Football HD 1 true",
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+       "url": "https://moviektu.com/cdn.livetv.streamingtv/pel/pell11.m3u8",
        "import": false  
 },
   {
@@ -22,9 +22,9 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" 
 },
   {
-       "name":"True Premier Football HD 1 true",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	"url": "https://moviektu.com/cdn.livetv.streamingtv/pel/pell11.m3u8", 
+       "name":"ไอดี สเตชั่น",
+        "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
+	"url": "https://moviektu.com/cdn.livetv.streamingtv/vn/ider.m3u8", 
         "import": false
 },
   {
