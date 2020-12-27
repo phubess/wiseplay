@@ -3,12 +3,7 @@
       "author": " update 27/12/2020",
       "image": " https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
-{
-      "name":"โปรแกรมฟุตบอล",
-      "image":"https://lh3.googleusercontent.com/AUeWJzL1dhZX3nB3jECajbNCsGdVQaLpQBFt94GqnV6c747C3MZwo9EQAoq3cbUfCA",
-      "url": "https://chklive.com/","embed": "true","playInNatPlayer": "true",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+
   {
        "name": "ไอดี สเตชั่น",
        "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
@@ -60,19 +55,19 @@
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "https://www.doonung1234.com/match/view/7632/epl1backup","referer": "https://www.doonung1234.com/"
 },
-     {
+  {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "https://live.andaman888th.com/live/tpf1/sport/tpf1-480/chunks.m3u8","referer": "https://andaman888th.com/" 
 },
-     {
+  {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
          "referer": "https://dooball66.com/",  
         "playInNatPlayer": "true"
 },
-     {
+  {
        "name":"True Premier Football HD 2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
 	 "url": "https://live.andaman888th.com/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://andaman888th.com/"
@@ -97,29 +92,29 @@
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=thd1&cate=sport","referer": "https://ballnaka.tv/"
 },
-     {
+  {
        "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
 	 "url": "https://ip2121.com/web/tsp1/chunks.m3u8", 
          "import": false
 },
-     {
+  {
        "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
 	 "url": "https://doomovielive.b-cdn.net/hd-tsport1_720/index.m3u8","referer": "https://doomovie.com/" 
 },
-     {
+  {
        "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
 	 "url": "https://ip2121.com/web/tsp2/chunks.m3u8", 
          "import": false
 },
-     {	 
+   {	 
          "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=thd2&cate=sport","referer": "https://ballnaka.tv/"
 },
-     {
+   {
        "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
 	 "url": "https://doomovielive.b-cdn.net/hd-tsport2_720/index.m3u8","referer": "https://doomovie.com/" 
