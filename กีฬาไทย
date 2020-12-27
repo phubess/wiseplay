@@ -4,65 +4,64 @@
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
-
-     "name":"โปรแกรมฟุตบอล",
+      "name":"โปรแกรมฟุตบอล",
       "image":"https://lh3.googleusercontent.com/AUeWJzL1dhZX3nB3jECajbNCsGdVQaLpQBFt94GqnV6c747C3MZwo9EQAoq3cbUfCA",
       "url": "https://chklive.com/","embed": "true","playInNatPlayer": "true",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
-    {
+  {
        "name": "ไอดี สเตชั่น",
        "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
        "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/ider.m3u8",
        "import": false  
 },
-    {
+  {
        "name": "3bbsports1",
        "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
        "url": "http://196.53.250.49:8888/live/stream/xx/12.m3u8",
        "import": false  
 },
-    {
+  {
        "name": "T-Sports",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",
        "url": "https://aisplay.ais.co.th/portal/live?vid=5f9e9488b5d11069fedce784","playInNatPlayer": "true",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
-    {
+  {
        "name": "eGG",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0167.png",
        "url": "https://aisplay.ais.co.th/portal/live?vid=599f96967ed5a2632888002c","playInNatPlayer": "true",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" 
 },
-    {
+  {
        "name":"True Premier Football HD 1 true",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/epl1789.m3u8", 
          "import": false
 },
-    {
+  {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "http://196.53.250.49:8888/live/stream/xx/4.m3u8", 
          "import": false
 },
-    {
+  {
         "name": "True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
         "url": "https://stream.warpballsod.tv/epl1.m3u8","referer": "https://www.warpballsod.tv/play-channel"
 	"import": false
 },
-    {
+  {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "https://www.moviemocha.com/live_sched_sa/dootv.php?play=156","referer": "https://www.moviemocha.com/" 
 },
-     {	 
+  {	 
          "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=tpf1&cate=sport","referer": "https://ballnaka.tv/"
 },
-    {
+  {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "https://www.doonung1234.com/match/view/7632/epl1backup","referer": "https://www.doonung1234.com/"
