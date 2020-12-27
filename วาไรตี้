@@ -55,24 +55,7 @@
      "image": "https://yt3.ggpht.com/ytc/AAUvwnj2RvZQ0xGn814CelpYiOd9fTsxdtq-XVXmfkJ-gQ=s176-c-k-c0x00ffffff-no-rj",              
      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
      "import": false
-},
- {
-    "name": "MTV LIVE",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOmD8ZGXMPyuVAWF_kg4xgvWHOPs6eLKonGA&usqp=CAU",              
-     "url": "http://203.154.177.124:8899/live/ch2/playlist.m3u8",
-     "import": false
-},
- {
-    "name": "MTV ASIA",
-     "image": "https://bit.ly/36g1xLO",              
-     "url": "https://cdn6.goprimetime.info/feed/LC3/playlist.m3u8",
-     "import": false
-},
- {
-    "name": "channel V",
-     "image": "https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg",              
-     "url": "https://cdn6.goprimetime.info/feed/LC14/playlist.m3u8",
-     "import": false
+
 },
  {
      "name": "KMTV HD",
@@ -84,12 +67,6 @@
      "name": "KMTV HD",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
      "url": "https://player.we-play.tv/channel.php?name=kmtv&cate=entertainment","referer": "https://player.we-play.tv"
-},
- {
-     "name": "Stringray iConcerts HD",
-     "image": "htttp://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
-     "url": "htps://boxmovielive.com:443/live/siconcerts.m3u8",
-     "import": false
 },
  {
      "name": "Stringray iConcerts HD",
@@ -131,11 +108,7 @@
      "image": "http://cms.dmpcdn.com/livetv/2019/07/15/129bbe6c-c859-4d8f-b719-f6a6f87b7668_original.jpg",              
      "url": "https://niklive.com:443/live/realitychannel-hd/index.m3u8",
      "import": false
-},
- {
-     "name": "TRUE MUSIC HD",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://ball8k.com/m/ch.php?stream=truemusic","referer": "https://ball8k.com/"
+
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
@@ -193,18 +166,7 @@
      "image": "https://bit.ly/37GqAXM",              
      "url": "http://niklive.com:80/live/warning/index.m3u8/416",
      "import": false
- },
- {
-     "name": "Asian Food Channel ",
-     "image": "http://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",              
-     "url": "https://boxmovielive.com:443/live/hd-afc.m3u8",
-     "import": false
-},
- {
-     "name": "playboy tv",
-     "image": "https://www.catdumb.tv/wp-content/uploads/2019/08/8-118.jpg",              
-     "url": "https://cdn6.goprimetime.info/feed/LC54/playlist.m3u8",
-     "import": false
+ 
 },
    { 
       "name": "True X-ZYTE",
