@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 22/12/2020",
+    "author": "update 27/12/2020",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -373,12 +373,24 @@
 },
    { 
       "name": "Hits",
-      "image": "https://www.iptv4k.tv/images/tv/IViPz40fTLALdEeNWNTnFyyzI2CTiwLhit.jpg",              
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",              
        "url": "https://player.we-play.tv/channel.php?name=hits&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "Hits AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5e44fa35d817de012cef5618","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+ {
+     "name": "Hits Movies AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5e44faeeaae73158d325f8f9","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
    { 
       "name": "Hits Movies",
-      "image": "https://www.iptv4k.tv/images/tv/GC4qmOCKR9AWud81sKn2N4mN4UFA9bxhitsmovies.jpg",              
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",              
        "url": "https://player.we-play.tv/channel.php?name=hitsmovies&cate=entertainment","referer": "https://player.we-play.tv"
 },
    { 
@@ -412,6 +424,12 @@
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=scm&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "Zeenung AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=597e18ce7ed5a24e45c3ab23","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   { 
       "name": "Zeenung",
