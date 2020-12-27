@@ -38,6 +38,12 @@
     "url": "https://niklive.com:443/live/Ch5-HD/index.m3u8",
     "import": false
 },
+ {
+     "name": "5 HD AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5b335ab3d817de6d62889a6b","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
  { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
@@ -59,6 +65,12 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=ddfa47e726444446864b14e0e819fdde",
     "import": false
+},
+ {
+     "name": "7 HD AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5abdd28daae73161cb8ef446","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   { 
     "name":"7 HD",
@@ -82,6 +94,12 @@
     "url": "https://niklive.com:443/live/9MCOT-HD/index.m3u8",
     "import": false
 },
+ {
+     "name": "MCOT HD AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5efec3f10f6d9dc4b26c6e77","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
   { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
@@ -103,6 +121,12 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
     "url": "https://niklive.com:443/live/NBT/index.m3u8",
     "import": false
+},
+ {
+     "name": "NBT HD AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   { 
     "name":"NBT HD",
@@ -126,6 +150,12 @@
     "url": "https://niklive.com:443/live/ThaiPbs/index.m3u8",
     "import": false
 },
+ {
+     "name": "ThaiPBS HD AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=597b93a97ed5a24e45c3ab13","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
   { 
     "name":"ThaiPBS HD ",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
@@ -147,6 +177,12 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
     "url": "https://niklive.com:443/live/Amarintv-HD/index.m3u8",
     "import": false
+},
+ {
+     "name": "Amarin HD AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5b335b61bf6aee16d8c33382","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   { 
     "name":"Amarin",
@@ -171,6 +207,12 @@
     "url": "https://niklive.com:443/live/ONE-HD/index.m3u8",
     "import": false
 },
+ {
+     "name": "ONE HD AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5a1685baaae731375f0eb728","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
   { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
@@ -193,6 +235,12 @@
     "url": "https://niklive.com:443/live/Thairathtv/index.m3u8",
     "import": false
 },
+ {
+     "name": "ไทยรัฐTV 32HD AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=595924c3aae7312c00c6fcd9","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
   { 
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
@@ -214,6 +262,12 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
     "url": "https://niklive.com:443/live/PPTV/index.m3u8",
     "import": false
+},
+ {
+     "name": "PPTV HD AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5d4bebb6aae7315312049035","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   { 
     "name":"PPTV HD",
@@ -242,6 +296,12 @@
      "url": "https://stream.ztvthai.online/dtv/dtv-gmm-playlist.m3u8",
      "import": false
 },
+ {
+     "name": "GMM25 AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=59592d98aae7312bfffb2c8a","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
   {
      "name": "GMM25",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",              
@@ -264,6 +324,12 @@
      "url": "https://niklive.com:443/live/TNN-16/index.m3u8",
      "import": false
 },
+ {
+     "name": "TNN16 AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=59671d1cd817de1df19711a6","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
   {
      "name": "TNN16",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",              
@@ -280,6 +346,12 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
      "url": "https://niklive.com:443/live/True4u/index.m3u8",
      "import": false
+},
+ {
+     "name": "True4U AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5b3359d9bf6aee16d7459c25","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   {
      "name": "True4U HD",
@@ -302,6 +374,12 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
      "url": "https://stream.ztvthai.online/dtv/wpf-dtv-playlist.m3u8",
      "import": false
+},
+ {
+     "name": "Workpoint AIS",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=59590b6ed817de1df1747472","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   { 
     "name":"Workpoint",
@@ -410,6 +488,12 @@
      "image": "https://sv1.picz.in.th/images/2020/09/20/OErLT1.png",              
      "url": "http://live.parliament.go.th/livestream/encoder3/playlist.m3u8",
      "import": false
+},
+ {
+     "name": "Voice To Home 9",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/V2H9TV.png",              
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5fdb33c120ccacf849c813ef","playInNatPlayer": "true",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
 ]
 }
