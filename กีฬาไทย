@@ -15,7 +15,6 @@
        "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
        "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/ider.m3u8",
        "import": false  
-       
 },
     {
        "name": "3bbsports1",
@@ -28,8 +27,7 @@
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",
        "url": "https://aisplay.ais.co.th/portal/live?vid=5f9e9488b5d11069fedce784","playInNatPlayer": "true",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-     
- },
+},
     {
        "name": "eGG",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0167.png",
