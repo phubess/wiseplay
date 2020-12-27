@@ -49,6 +49,16 @@
          "import": false
 },
     {
+        "name": "True Premier Football HD 1",
+        "image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl1.png",
+        "url": "https://stream.warpballsod.tv/epl1.m3u8","referer": "https://www.warpballsod.tv/play-channel"
+},
+    {
+        "name": "True Premier Football HD 1",
+        "image": "http://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl1.png",
+        "url": "http://www.sportdoofree.com/tv-online?kp=epl1&dd=True Premier HD 1(TH)",
+},
+    {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "https://www.moviemocha.com/live_sched_sa/dootv.php?play=156","referer": "https://www.moviemocha.com/" 
