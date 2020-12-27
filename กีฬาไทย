@@ -82,17 +82,17 @@
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
 	 "url": "https://live.andaman888th.com/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://andaman888th.com/"
 },
-     {
+   {
        "name":"True Premier Football HD 4",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
 	 "url": "https://live.andaman888th.com/live/tpf4/sport/tpf4/chunks.m3u8","referer": "https://andaman888th.com/" 
 },
-     {
+   {
        "name":"True Premier Football HD 5",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
 	 "url": "https://live.andaman888th.com/live/tpf5/sport/tpf5/chunks.m3u8", "referer": "https://andaman888th.com/"
 },
-     {	 
+  {	 
          "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=thd1&cate=sport","referer": "https://ballnaka.tv/"
