@@ -4,9 +4,9 @@
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {
-      "name": "3bbsports1",
-       "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
-       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
+         "name": "3bbsports1",
+        "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
+        "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
   {
         "name":"ไอดี สเตชั่น",
