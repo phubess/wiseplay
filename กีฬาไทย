@@ -12,13 +12,13 @@
         "name":"ไอดี สเตชั่น",
          "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
          "url": "https://niklive.com:443/live/id/index.m3u8", 
-          "import": false
+         "import": false
 },
   {
-        "name":"True Premier Football HD 1",
-         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "https://niklive.com:443/live/epl11/index.m3u8", 
-         "import": false
+       "name":"True Premier Football HD 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+        "url": "https://niklive.com:443/live/epl11/index.m3u8", 
+        "import": false
 },
   {
        "name":"True Premier Football HD 1",
