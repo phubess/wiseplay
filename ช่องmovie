@@ -75,7 +75,7 @@
   {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com:443/live/foxactionmovie-en.m3u8", 
+     "url": "https://boxmovielive.com:443/live/action1.m3u8", 
      "import": false  
 },
   {
@@ -111,7 +111,7 @@
    {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com:443/live/foxfamily.m3u8",     
+     "url": "https://boxmovielive.com:443/live/foxfamily9.m3u8",     
      "import": false 
 },
    {
@@ -345,7 +345,13 @@
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com:443/live/moviehits0.m3u8",
+      "url": "https://boxmovielive.com:443/live/hits1.m3u8",
+     "import": false
+},
+  { 
+     "name": "MONOPLUS",
+      "image": "https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png?4",              
+      "url": "https://boxmovielive.com/live/monoplus4.m3u8",
      "import": false
 },
   { 
