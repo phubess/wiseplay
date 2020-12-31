@@ -48,7 +48,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://niklive.com/live/Fox%E2%80%8Bmovie/index.m3u8",
+     "url": "https://boxmovielive.com:443/live/foxmovie.m3u8",
      "import": false
 },
    {
@@ -106,7 +106,7 @@
    {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com:443/live/foxfamily9.m3u8",     
+     "url": "https://boxmovielive.com:443/live/foxfam.m3u8",     
      "import": false 
 },
    {
@@ -118,12 +118,6 @@
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "https://doomovielive.b-cdn.net/hd-foxfamily_720/index.m3u8","referer": "https://doomovie.com/" 
-},
-   {
-     "name": "FOX CRIME",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704510.jpeg",              
-     "url": "https://boxmovielive.com:443/live/foxcrime.m3u8", 
-      "import": false  
 },
    {
      "name": "Fox Life",
@@ -155,7 +149,7 @@
    {
      "name": "True Film HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
-     "url": "https://boxmovielive.com:443/live/true-filmhd17.m3u8",
+     "url": "https://boxmovielive.com:443/live/true-filmhd.m3u8",
      "import": false
 
 },
@@ -227,7 +221,7 @@
    {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "https://boxmovielive.com/live/para1.m3u8",
+     "url": "https://boxmovielive.com/live/par.m3u8",
      "import": false
 },
    {
@@ -263,7 +257,7 @@
   { 
      "name": "Series+HD",
       "image": "https://i.imgur.com/MIKKM2Y.png",              
-      "url": "https://boxmovielive.com:443/live/seri.m3u8",
+      "url": "https://boxmovielive.com:443/live/series1.m3u8",
      "import": false
 },
   { 
@@ -326,15 +320,9 @@
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   { 
-     "name": "TV CABLE 6",
-      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-      "url": "https://cdn6.goprimetime.info/feed/LC52/playlist.m3u8",
-     "import": false
-},
-  { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com:443/live/FLA1.m3u8",
+      "url": "https://boxmovielive.com:443/live/FLA.m3u8",
      "import": false
 },
   { 
