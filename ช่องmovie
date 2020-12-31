@@ -101,12 +101,7 @@
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "https://zecallion.com:443/live/KTU_Foxfamily.m3u8",     
      "import": false
-},
-   {
-     "name": "Fox Family Movies",
-     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "http://77.83.117.60:8888/02_FoxFamilyHD_TH_720p/chunklist.m3u8",     
-     "import": false
+
 },
    {
      "name": "Fox Family Movies",
