@@ -9,12 +9,6 @@
        "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
   {
-       "name": "eGG",
-       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0167.png",
-       "url": "https://aisplay.ais.co.th/portal/live?vid=599f96967ed5a2632888002c","playInNatPlayer": "true",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" 
-},
-  {
        "name":"ไอดี สเตชั่น",
         "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
 	"url": "https://niklive.com:443/live/id/index.m3u8", 
