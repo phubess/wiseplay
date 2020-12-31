@@ -1,12 +1,7 @@
-{ 
-    "name": "ภาพยนต์ชนโรง ", 
-    "image": "https://www.kindpng.com/picc/m/114-1146405_png-image-peoplepng-com-movie-time-logo-png.png",       
-    "stations": [ 
 {
  "name": "update 31-12-2020",  
 "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
-"url": "??",
-},
+"stations": [
  {
    "name": "วันเดอร์ วูแมน 1984",  
    "image": "https://nungdeemak.com/images/movie/mh72Rjd9UlQk0iJG0SaBZw2dlTiEMFT.jpg",  
