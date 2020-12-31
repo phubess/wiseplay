@@ -48,7 +48,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com:443/live/foxmovie.m3u8",
+     "url": "https://niklive.com/live/Fox%E2%80%8Bmovie/index.m3u8",
      "import": false
 },
    {
@@ -88,7 +88,7 @@
   {
      "name": "FOX ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     "url": "http://tv2.a-play.online/foxth/playlist.m3u8", 
+     "url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8", 
      "import": false  
 },
    {
@@ -99,7 +99,7 @@
    {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://zecallion.com:443/live/KTU_fox-family1.m3u8",     
+     "url": "https://zecallion.com:443/live/KTU_Foxfamily.m3u8",     
      "import": false
 },
    {
@@ -204,7 +204,7 @@
    {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/warner.m3u8",
+     "url": "https://niklive.com:443/live/Warner/index.m3u8",
      "import": false
 },
    {
@@ -222,12 +222,7 @@
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://player.we-play.tv/channel.php?name=warner&cate=entertainment","referer": "https://player.we-play.tv"
-},
-   {
-    "name": "Warner TV",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "https://cdn6.goprimetime.info/feed/LC28/playlist.m3u8",
-     "import": false
+
 },
    {
      "name": "Paramount Channel",
@@ -243,31 +238,31 @@
    {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "https://cdn6.goprimetime.info/feed/LC27/playlist.m3u8",
+     "url": "https://niklive.com:443/live/Paramout/index.m3u8",
      "import": false
 },
   { 
      "name": "Live SKY 1",
       "image": "https://i.imgur.com/qDcOkZR.png",              
-      "url": "https://zecallion.com:443//live/KTU_ipm1.m3u8",
+      "url": "https://zecallion.com:443/live/KTU_ipm1.m3u8",
      "import": false
 },
   { 
      "name": "Live SKY 2",
       "image": "https://i.imgur.com/jL3vhXm.png",              
-      "url": "https://zecallion.com:443//live/KTU_wwe12.m3u8",
+      "url": "https://zecallion.com:443/live/KTU_wwe12.m3u8",
      "import": false
 },
   { 
      "name": "Live SKY 3",
       "image": "https://i.imgur.com/ezjnOT1.png",              
-      "url": "https://zecallion.com:443//live/KTU_his13.m3u8",
+      "url": "https://zecallion.com:443/live/KTU_his13.m3u8",
      "import": false
 },
   { 
      "name": "Live SKY 4",
       "image": "https://i.imgur.com/0DB0pQG.png",              
-      "url": "https://zecallion.com:443//live/KTU_War457.m3u8",
+      "url": "https://zecallion.com:443/live/KTU_War457.m3u8",
      "import": false
 },
   { 
