@@ -9,10 +9,10 @@
        "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
   {
-       "name":"ไอดี สเตชั่น",
-        "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
-	"url": "https://niklive.com:443/live/id/index.m3u8", 
-        "import": false
+      "name":"ไอดี สเตชั่น",
+       "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
+       "url": "https://niklive.com:443/live/id/index.m3u8", 
+       "import": false
 },
   {
        "name":"True Premier Football HD 1",
