@@ -48,7 +48,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com:443/live/foxmovie.m3u8",
+     "url": "http://27.254.142.14/foxmovie.m3u8",
      "import": false
 },
    {
@@ -75,7 +75,7 @@
   {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com:443/live/action1.m3u8", 
+     "url": "http://27.254.142.14/foxaction.m3u8", 
      "import": false  
 },
   {
@@ -83,7 +83,12 @@
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "https://zecallion.com:443/live/KTU_Fox-A456.m3u8", 
      "import": false  
-
+},
+  {
+     "name": "FOX ไทย",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "http://27.254.142.14/foxthai.m3u8", 
+     "import": false
 },
   {
      "name": "FOX ไทย",
@@ -106,7 +111,7 @@
    {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com:443/live/foxfam.m3u8",     
+     "url": "http://27.254.142.14/foxfamily.m3u8",     
      "import": false 
 },
    {
@@ -166,7 +171,7 @@
    {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
-     "url": "https://boxmovielive.com:443/live/asianseries7.m3u8",
+     "url": "http://27.254.142.14/asianseries.m3u8",
      "import": false
 },
    {
@@ -178,12 +183,6 @@
      "name": "True Thai Film",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
      "url": "https://doomovielive.b-cdn.net/sd-thaifilm_480/index.m3u8","referer": "https://doomovie.com/"
-},
-   {
-     "name": "KBS World HD",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
-     "url": "http://live2.aplayhd.xyz/aplay/kbs-1.m3u8",
-     "import": false
 },
    {
      "name": "KBS World HD",
@@ -355,6 +354,12 @@
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
       "url": "https://player.we-play.tv/channel.php?name=ccm&cate=entertainment","referer": "https://player.we-play.tv"
 },
+  { 
+     "name": "Celestial Classic Movies",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
+      "url": "http://27.254.142.14/ccm.m3u8",
+      "import": false
+},
    { 
       "name": "Hits",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",              
@@ -391,7 +396,7 @@
    { 
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
-       "url": "https://boxmovielive.com:443/live/tvn.m3u8",
+       "url": "http://27.254.142.14/tvn.m3u8",
        "import": false
 },
    { 
