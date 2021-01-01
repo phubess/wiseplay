@@ -39,12 +39,6 @@
      "import": false
 },
  {
-      "name": "TLC",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",              
-     "url": "http://27.254.142.14/tlc.m3u8",
-     "import": false
-},
- {
       "name": "Lifetime",
      "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
      "url": "https://niklive.com:443/live/LIFE-TIME/index.m3u8",
@@ -208,7 +202,7 @@
    {
      "name": "TLC HD",
      "image": "https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",              
-     "url": "https://boxmovielive.com:443/live/hd-tlc.m3u8",
+     "url": "http://27.254.142.14/tlc.m3u8",
      "import": false
 },
 {
