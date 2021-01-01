@@ -51,7 +51,7 @@
     { 
       "name": "Nickelodeon",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
-       "url": "http://tv2.a-play.online/nickelodeon/playlist.m3u8",
+       "url": "http://27.254.142.14/nickelodeon.m3u8",
        "import": false
 },
     { 
@@ -98,12 +98,6 @@
       "name": "Aniplus",
       "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids","referer": "https://player.we-play.tv"
-},
-    { 
-      "name": "BabyTV",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
-       "url": "http://tv2.a-play.online/babytv/playlist.m3u8",
-       "import": false
 },
     { 
       "name": "TOONEE",
