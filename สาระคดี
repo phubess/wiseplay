@@ -50,9 +50,9 @@
        "url": "https://doomovielive.b-cdn.net/hd-natgeowild_720/index.m3u8","referer": "https://doomovie.com/"  
 }, 
   { 
-      "name": "History HD true",
+      "name": "History HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-       "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/history.m3u8",
+       "url": "http://27.254.142.14/history.m3u8",
        "import": false
 }, 
   { 
@@ -90,7 +90,7 @@
   { 
       "name": "Outdoor Channel true",
       "image": "https://www.iptv4k.tv/images/tv/aSZu0tK0JMPTQEn5z3QMdbKEJKsuoh6201805091959181891278412.jpg",              
-       "url": "https://moviektu.com/cdn.livetv.streamingtv/vn/out.m3u8",
+       "url": "http://27.254.142.14/outdoor.m3u8",
        "import": false
 }, 
   { 
