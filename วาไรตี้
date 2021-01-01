@@ -45,12 +45,6 @@
      "import": false
 },
  {
-     "name": "SONGTOPIA Livehouse By AIS PLAY",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Songtopia.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5ae30339aae73145d0edb67f","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
- {
     "name": "CHIANGRAI CHANNEL",
      "image": "https://yt3.ggpht.com/ytc/AAUvwnj2RvZQ0xGn814CelpYiOd9fTsxdtq-XVXmfkJ-gQ=s176-c-k-c0x00ffffff-no-rj",              
      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
@@ -72,6 +66,12 @@
      "name": "Stringray iConcerts HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
      "url": "https://player.we-play.tv/channel.php?name=iconcerts&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "Stringray iConcerts HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
+     "url": "http://27.254.142.14/iconcert.m3u8",
+     "import": false
 },
  {
      "name": "TRUE MUSIC HD",
