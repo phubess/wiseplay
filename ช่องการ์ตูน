@@ -14,6 +14,13 @@
      "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer": "https://player.we-play.tv"
  },
     { 
+        "name":"Cartoon Network",
+        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+     "url": "http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/cnw.stream/playlist.m3u8","referer": "http://pglivetv.com/"
+     "playInNatPlayer": "true",
+     
+ },
+    { 
         "name":"Cartoon Network AIS",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
      "url": "https://aisplay.ais.co.th/portal/live?vid=5a52f069aae731507f5387bb","playInNatPlayer": "true",
