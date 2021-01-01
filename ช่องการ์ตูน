@@ -16,9 +16,8 @@
     { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-     "url": "http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/cnw.stream/playlist.m3u8",
-     "playInNatPlayer": "true",
-     
+        "url": "http://pglivetv.com/test_live.php?link=https://tv4.chang55.com:446/live/cnw.stream/playlist.m3u8",
+        "import": false
  },
     { 
         "name":"Cartoon Network AIS",
