@@ -177,75 +177,73 @@
      "url": "http://niklive.com:80/live/warning/index.m3u8/416",
      "import": false
 },
-  { 
+ { 
       "name": "True X-ZYTE",
       "image": "https://bit.ly/37a9p0o",              
        "url": "http://27.254.142.14/xzyte.m3u8",
        "import": false
 },
-   { 
+  { 
       "name": "True X-ZYTE",
       "image": "https://bit.ly/37a9p0o",              
        "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment","referer": "https://player.we-play.tv"
 },
-   { 
+  { 
       "name": "True X-ZYTE",
       "image": "https://bit.ly/37a9p0o",              
        "url": "https://doomovielive.b-cdn.net/hd-xzyte_720/index.m3u8","referer": "https://doomovie.com/"
 },
-   { 
+  { 
       "name": "Waku Waku Japan",
       "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
        "url": "https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment","referer": "https://player.we-play.tv"
 },
-   { 
+  { 
       "name": "Waku Waku Japan",
       "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
        "url": "https://zecallion.com/live/KTU_wakuwaku.m3u8",
        "import": false
 },
-   { 
+  { 
       "name": "Comedy Central",
       "image": "https://www.doofree88.com/storage/live/7Fr0GIpJu7kNMaCRREN6bWTeS3fpRNnhStyytFB9.png",              
        "url": "https://doomovielive.b-cdn.net/hd-comedycentral_720/index.m3u8","referer": "https://doomovie.com/"
 },
-   {
+  {
      "name": "TLC HD",
      "image": "https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",              
      "url": "http://27.254.142.14/tlc.m3u8",
      "import": false
 },
 {
- 
     "name":"TLC HD",
     "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
     "url": "https://player.we-play.tv/channel.php?name=tlc&cate=documentary","referer": "https://player.we-play.tv"
 },
-  {
+ {
       "name": "Amazing Hi Show",
       "image": "http://www.chang55.com/movie/upload/movie_img/AMAZING-HI-SHOW-CH1_Thumb.png",
       "url": "http://203.154.243.89:1214/",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
- 
 },
-   {
+  {
      "name": "CABLE 37 HD",
      "image": "https://sv1.picz.in.th/images/2020/10/17/b7cOc9.png",              
      "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
      "import": false
 },
-   {
+  {
      "name": "ลูกทุ่ง TVHD",
      "image": "https://sv1.picz.in.th/images/2020/10/06/Op2Qtt.jpg",              
      "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
      "import": false
 },
-   {
+  {
      "name": "LAO STAR",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",              
      "url": "https://cdn6.goprimetime.info/feed/LC58/playlist.m3u8",
      "import": false
 },
 ]
-  }
+}
