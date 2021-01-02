@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 2/1/2021",
+    "author": "update 3/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -117,7 +117,7 @@
  {
      "name": "BLUEANT ENTERTAINMENT",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
-     "url": "https://boxmovielive.com:443/live/blueant1.m3u8",
+     "url": "https://boxmovielive.com/live/tex11.m3u8",
      "import": false
 },
  {
