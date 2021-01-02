@@ -376,7 +376,7 @@
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com:443/live/hits1.m3u8",
+      "url": "https://boxmovielive.com:443/live/hits.m3u8",
      "import": false
 },
   { 
