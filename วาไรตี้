@@ -54,7 +54,7 @@
  {
      "name": "KMTV HD",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
-     "url": "htps://boxmovielive.com:443/live/kmtv1.m3u8",
+     "url": "htps://boxmovielive.com:443/live/kmtv.m3u8",
      "import": false
 },
  {
@@ -70,7 +70,7 @@
  {
      "name": "Stringray iConcerts HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
-     "url": "http://27.254.142.14/iconcert.m3u8",
+     "url": "https://boxmovielive.com/live/icon.m3u8",
      "import": false
 },
  {
@@ -82,7 +82,7 @@
  {
      "name": "TRUE MUSIC HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://bit.ly/3h0yAr6",
+     "url": "http://boxmovie-th.com/app-api-android/doo/truemusic/playlist.m3u8",
      "import": false
 },
  {
@@ -164,6 +164,12 @@
      "name": "FANTV",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/19/ef0c5b42-e46f-490c-83d5-8e660f66fb07.png",              
      "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=345a4277dd864037b6b4fb5a562af59c",
+     "import": false
+},
+ {
+     "name": "MTV His",
+     "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1583825165718_movie_image.png",              
+     "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8",
      "import": false
 },
  {
