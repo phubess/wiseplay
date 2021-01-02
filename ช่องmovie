@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 31/12/2020",
+    "author": "update 2/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -178,6 +178,12 @@
      "name": "True Thai Film",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
      "url": "https://player.we-play.tv/channel.php?name=truethaifilm&cate=entertainment","referer": "https://player.we-play.tv" 
+},
+   {
+     "name": "True Thai Film",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
+     "url": "https://niklive.com/live/ktu-thaifilm/chunks.m3u8",
+     "import": false
 },
    {
      "name": "True Thai Film",
