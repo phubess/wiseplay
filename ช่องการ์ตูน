@@ -22,13 +22,13 @@
     { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "http://live3.aplayhd.xyz:80/a-play/ctnw.m3u8",
+        "url": "https://boxmovielive.com/live/cn.m3u8",
         "import": false    
 },
     { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "http://tv2.a-play.online/cartoonnetwork/playlist.m3u8",
+        "url": "http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8",
         "import": false
 },
     { 
@@ -63,6 +63,12 @@
       "name": "Nickelodeon",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
        "url": "https://player.ballnaka.tv/?channel=nickelodeon&cate=kids","referer": "https://player.ballnaka.tv/"
+},
+    { 
+      "name": "Disney XD",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9247aa93-56ff-4746-acd3-bdf52d597ed6.png",              
+       "url": "https://boxmovielive.com/live/disney.m3u8",
+       "import": false
 },
     { 
       "name": "Disney XD",
@@ -113,6 +119,12 @@
     { 
       "name": "BabyTV",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
+       "url": "https://boxmovielive.com/live/ba1.m3u8",
+       "import": false
+},
+    { 
+      "name": "BabyTV",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
        "url": "https://doomovielive.b-cdn.net/sd-babytv_480/index.m3u8","referer": "https://doomovie.com/"
 },
     { 
@@ -122,21 +134,16 @@
        "import": false
 },
     { 
-      "name": "ANIMAX",
-      "image": "https://tv.itver.cc/wp-content/uploads/2014/09/Animax.jpg",              
-       "url": "https://cdn6.goprimetime.info/feed/LC38/playlist.m3u8",
+      "name": "Disney Channel",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
+       "url": "https://zecallion.com/live/KTU_745654.m3u8",
        "import": false
+
 },
     { 
-      "name": "SANOOK",
-      "image": "https://res06.bignox.com/noxinfluencer/youtube/avatar/bb697b8b2b791eaaee1c0e04a03ec909.png",              
-       "url": "https://cdn6.goprimetime.info/feed/LC53/playlist.m3u8",
-       "import": false
-},
-    { 
-      "name": "miao mi",
-      "image": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/1527562168_artcard-miao-mi.jpg",              
-       "url": "http://203.154.177.124:8899/live/ch20/playlist.m3u8",
+      "name": "EBS KIDS",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1607413394209_movie_image.png",              
+       "url": "http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8",
        "import": false
 },
    {
