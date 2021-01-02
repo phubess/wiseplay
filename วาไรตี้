@@ -108,7 +108,12 @@
      "image": "http://cms.dmpcdn.com/livetv/2019/07/15/129bbe6c-c859-4d8f-b719-f6a6f87b7668_original.jpg",              
      "url": "https://niklive.com:443/live/realitychannel-hd/index.m3u8",
      "import": false
-
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://niklive.com/live/BlueAnt/index.m3u8",
+     "import": false
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
