@@ -334,43 +334,41 @@
       "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
       "url": "http://61.19.242.134/feed/LC6/index.m3u8",
      "import": false    
- 
-     
 },
-          {
-            "name": "TV CABLE 1",  
-             "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-         "url": "https://www.fwiptv.cc/player_demo.php?channel=60257",
-             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+  {
+     "name": "TV CABLE 1",  
+      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+      "url": "https://www.fwiptv.cc/player_demo.php?channel=60257",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
-          {
-            "name": "TV CABLE 2",  
-             "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-         "url": "https://player.we-play.tv/channel.php?name=hi-def1&cate=entertainment","referer": "https://player.we-play.tv"
+  {
+       "name": "TV CABLE 2",  
+       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+       "url": "https://player.we-play.tv/channel.php?name=hi-def1&cate=entertainment","referer": "https://player.we-play.tv"
 },
-          {
-            "name": "TV CABLE 3",  
-             "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-         "url": "https://live1.thaitvstream.com:443/play/pmnewstv/index.m3u8",
-             "import": false
+  {
+       "name": "TV CABLE 3",  
+       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+       "url": "https://live1.thaitvstream.com:443/play/pmnewstv/index.m3u8",
+       "import": false
 },
-          {
-            "name": "TV CABLE 4",  
-             "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-         "url": "https://www.fwiptv.cc/player_demo.php?channel=89781",
-             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"  
+  {
+       "name": "TV CABLE 4",  
+       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+       "url": "https://www.fwiptv.cc/player_demo.php?channel=89781",
+       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"  
 },
-          {
-            "name": "TV CABLE 5",  
-             "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-         "url": "https://www.fwiptv.cc/player_demo.php?channel=89782",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+  {
+        "name": "TV CABLE 5",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "https://www.fwiptv.cc/player_demo.php?channel=89782",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
       "url": "https://boxmovielive.com:443/live/FLA.m3u8",
-     "import": false
+      "import": false
 },
   { 
      "name": "TRUE MOVIE HITS",
@@ -389,9 +387,8 @@
       "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
       "url": "https://doofootball.livestream-cdn.com/iptv/sd-series.stream/chunks.m3u8",
      "import": false
- 
 },
-   {
+  {
      "name": "CTB",
      "image": "https://www.doohdbox.com/assets/20170709090502720443899.jpg",              
      "url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8",
