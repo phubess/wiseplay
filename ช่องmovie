@@ -436,20 +436,19 @@
       "name": "AXN HD",
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
        "url": "https://doomovielive.b-cdn.net/hd-axn_720/index.m3u8","referer": "https://doomovie.com/"
-
 },
-   { 
+  { 
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
        "url": "http://27.254.142.14/tvn.m3u8",
        "import": false
 },
-   { 
+  { 
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=tvn&cate=entertainment","referer": "https://player.we-play.tv"
 },
-   { 
+  { 
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
        "url": "https://doomovielive.b-cdn.net/sd-starchineselegend_480/index.m3u8","referer": "https://doomovie.com/"
@@ -470,48 +469,47 @@
       "image": "https://www.iptv4k.tv/images/tv/mUh7bNApHaKoEvmpvf0YUfqObUTjZZ9sd-zeenung.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=zeenung&cate=entertainment","referer": "https://player.we-play.tv"
 },
-   {
+  {
      "name": "MV ลาว",
      "image": "https://sv1.picz.in.th/images/2020/10/06/OpCwDn.png",              
      "url": "https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8",
      "import": false
 },
-   {
+  {
      "name": "TVB ไทย",
      "image": "https://sv1.picz.in.th/images/2020/10/06/OpPQuI.jpg",              
      "url": "https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8",
      "import": false
 },
-   {
+  {
      "name": "MIX MAJOR",
      "image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",              
      "url": "https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8",
      "import": false
 },
-   {
+  {
      "name": "CHANNEL8",
      "image": "https://sv1.picz.in.th/images/2020/10/09/OeRVVb.png",              
      "url": "https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
      "import": false
 },
-   {
+  {
      "name": "THRILL",
      "image": "https://stagingcms.cignal.tv/Upload/Images/THRILL.png",              
      "url": "http://61.19.242.134/feed/LC26/index.m3u8",
      "import": false
 },
-   {
+  {
      "name": "Cool Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0170.png",              
      "url": "http://niklive.com:80/app-android/Cool/playlist.m3u8",
      "import": false
 },
-   {
+  {
      "name": "Lakorn Thai",
      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcZ9E0PlYJdGLQ7B5J0keDN7X0N07fRhZRg&usqp=CAU",              
      "url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
      "import": false
 },
- 
 ]
 }
