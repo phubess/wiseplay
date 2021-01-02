@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 2/1/2021",
+    "author": "update 3/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -42,7 +42,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://zecallion.com:443/live/KTU_FoxMmm1.m3u8",
+     "url": "https://niklive.com/live/Fox​movie/index.m3u8",
      "import": false
 },
    {
@@ -91,6 +91,12 @@
      "import": false  
 },
   {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "https://boxmovielive.com/live/action1.m3u8", 
+     "import": false
+},
+  {
      "name": "FOX ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
      "url": "http://27.254.142.14/foxthai.m3u8", 
@@ -110,7 +116,13 @@
    {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://zecallion.com:443/live/KTU_Foxfamily.m3u8",     
+     "url": "https://boxmovielive.com/live/foxfam.m3u8",     
+     "import": false
+},
+   {
+     "name": "Fox Family Movies",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
+     "url": "https://zecallion.com/live/KTU_fox-family.m3u8",     
      "import": false
 },
    {
