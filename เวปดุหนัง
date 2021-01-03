@@ -19,9 +19,14 @@
     "url": "https://doonung24hr.com/","embed": true
 },
  {
-    "name": "movies2th",  
-    "image": "https://movies2th.com/wp-content/uploads/2020/12/Logo.png", 
-    "url": "https://movies2th.com/","embed": true
+    "name": "doonung1234",  
+    "image": "https://www.doonung1234.com/asset/web/img/logo.png", 
+    "url": "https://www.doonung1234.com/","embed": true
+},
+ {
+    "name": "movie2freehd",  
+    "image": "https://movie2freehd.com/wp-content/uploads/2020/11/logo.png", 
+    "url": "https://movie2freehd.com/","embed": true
 },
  {
     "name": "we-play",  
@@ -32,7 +37,11 @@
     "name": "fwiptv",  
     "image": "https://www.fwiptv.cc/images/fwiptv/fwiptv.png", 
     "url": "https://www.fwiptv.cc/","embed": true
-    
+ },
+ {
+    "name": "pglivetv User...pd183176 Pas...1818",  
+    "image": "http://pglivetv.com/movie/upload/img/it_edit_4_4c52e45b9ce511cb2f7eaa97693710dc.png", 
+    "url": "http://pglivetv.com/movie.php?mcid=2","embed": true   
 },
 ]
 }
