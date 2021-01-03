@@ -87,7 +87,11 @@
     "name": "movieclubhd",  
     "image": "https://www.movieclubhd.tv/themes/images/logo.png", 
     "url": "https://www.movieclubhd.tv/th/","embed": true  
-  
+ },
+ {
+    "name": "i-live.tv",  
+    "image": "https://i-live.tv/wp-content/uploads/2020/12/i-live.png", 
+    "url": "https://bit.ly/38QxyKq","embed": true    
   
   
 },
