@@ -51,7 +51,12 @@
  {
     "name": "2499hdonline",  
     "image": "https://2499hdonline.com/wp-content/uploads/2020/10/2499-logo2.jpg?v=1.0", 
-    "url": "https://2499hdonline.com/","embed": true   
+    "url": "https://2499hdonline.com/","embed": true 
+  },
+ {
+    "name": "movie2ok",  
+    "image": "https://movie2ok.com/wp-content/uploads/2020/09/logo-3.png", 
+    "url": "https://movie2ok.com/","embed": true
 },
 ]
 }
