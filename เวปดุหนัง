@@ -34,6 +34,11 @@
     "url": "https://www.mgmmovie.com/","embed": true
 },
  {
+    "name": "365hd",  
+    "image": "https://365hd.net/wp-content/uploads/2020/07/RED-365.png", 
+    "url": "https://365hd.net/","embed": true
+},
+ {
     "name": "we-play",  
     "image": "https://www.we-play.tv/images/logo.png", 
     "url": "https://www.we-play.tv/movies","embed": true
