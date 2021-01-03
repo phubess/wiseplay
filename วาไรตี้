@@ -172,6 +172,12 @@
      "import": false
 },
  {
+     "name": "playboytv",
+     "image": "https://seeklogo.net/wp-content/uploads/2013/04/playboy-tv-eps-vector-logo.png",              
+     "url": "http://61.19.242.134/feed/LC54/index.m3u8",
+     "import": false
+},
+ {
      "name": "ไทไชโย",
      "image": "https://bit.ly/37GqAXM",              
      "url": "http://niklive.com:80/live/warning/index.m3u8/416",
