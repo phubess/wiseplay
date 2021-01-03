@@ -4,21 +4,21 @@
     "stations": [ 
  { 
     "name": "movieonline4k",  
-   "image": "https://movieonline4k.com/images/logo/jnZVUksBzq5JNkIcJsU8UDPKFpUtCUawrLuHEhqi1pgfia6PusQLFtlVylRjlh78.png", 
-   "url": "https://movieonline4k.com/","embed": true
-   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+    "image": "https://movieonline4k.com/images/logo/jnZVUksBzq5JNkIcJsU8UDPKFpUtCUawrLuHEhqi1pgfia6PusQLFtlVylRjlh78.png", 
+    "url": "https://movieonline4k.com/","embed": true
+    
 },
  {
-   "name": "700freehd",  
-   "image": "https://700freehd.com/wp-content/uploads/2020/02/700logo-e1582033816718.png", 
-   "url": "https://700freehd.com/","embed": true
-   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+    "name": "700freehd",  
+    "image": "https://700freehd.com/wp-content/uploads/2020/02/700logo-e1582033816718.png", 
+    "url": "https://700freehd.com/","embed": true
+    
 },
  {
-   "name": "fwiptv",  
-   "image": "https://www.fwiptv.cc/images/fwiptv/fwiptv.png", 
-   "url": "https://www.fw-iptv.com/","embed": true
-   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+    "name": "fwiptv",  
+    "image": "https://www.fwiptv.cc/images/fwiptv/fwiptv.png", 
+    "url": "https://www.fw-iptv.com/","embed": true
+    
 },
 ]
 }
