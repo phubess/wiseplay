@@ -74,10 +74,14 @@
     "url": "https://www.mawintv.com/","embed": true
  },
  {
-    "name": "nung2hdd",  
-    "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png", 
-    "url": "https://www.nung2hdd.com/","embed": true
-  
+    "name": "youflix4k",  
+    "image": "https://youflix4k.com/uploads/png/3ed883eaeaa01628bf232f39939a80d0.png", 
+    "url": "https://youflix4k.com/","embed": true
+ },
+ {
+    "name": "see2movie",  
+    "image": "https://see2movie.com/wp-content/uploads/2020/12/see2movielogo.png", 
+    "url": "https://see2movie.com/","embed": true 
   
   
   
