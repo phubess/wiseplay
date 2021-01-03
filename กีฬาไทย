@@ -4,12 +4,12 @@
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {
-         "name": "3bbsports1",
+         "name": "3bbsports 1",
          "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
          "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
   {
-        "name":"ไอดี สเตชั่น",
+        "name":"id station",
          "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
          "url": "https://niklive.com:443/live/id/index.m3u8", 
          "import": false
