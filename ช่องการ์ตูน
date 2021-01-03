@@ -106,6 +106,12 @@
        "url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids","referer": "https://player.we-play.tv"
 },
     { 
+      "name": "Animax",
+      "image": "https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg",              
+       "url": "http://61.19.242.134/feed/LC38/index.m3u8",
+       "import": false
+},
+    { 
       "name": "TOONEE",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png",              
        "url": "https://aisplay.ais.co.th/portal/live?vid=5d424cdbaae73145f7f2b675","playInNatPlayer": "true",
