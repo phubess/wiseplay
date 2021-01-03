@@ -82,7 +82,11 @@
     "name": "see2movie",  
     "image": "https://see2movie.com/wp-content/uploads/2020/12/see2movielogo.png", 
     "url": "https://see2movie.com/","embed": true 
-  
+ },
+ {
+    "name": "movieclubhd",  
+    "image": "https://www.movieclubhd.tv/themes/images/logo.png", 
+    "url": "https://www.movieclubhd.tv/th/","embed": true  
   
   
   
