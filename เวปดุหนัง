@@ -1,0 +1,19 @@
+{  
+    "name": "เวปดูหนัง", 
+    "image": "https://pgslotvip.game/wp-content/uploads/2020/09/tips065.jpg",       
+    "stations": [ 
+ { 
+    "name": "movieonline4k",  
+   "image": "https://movieonline4k.com/images/logo/jnZVUksBzq5JNkIcJsU8UDPKFpUtCUawrLuHEhqi1pgfia6PusQLFtlVylRjlh78.png", 
+   "url": "https://movieonline4k.com/","embed": true
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+ {
+   "name": "fwiptv",  
+   "image": "https://www.fwiptv.cc/images/fwiptv/fwiptv.png", 
+   "url": "https://www.fw-iptv.com/","embed": true
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+]
+}
+
