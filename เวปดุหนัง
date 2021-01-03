@@ -62,6 +62,11 @@
     "name": "doomv",  
     "image": "https://doomv.com/images/logo/bBpuXHJkD8Og5HNriIza7Q0iw7BAQbddoomv.jpg", 
     "url": "https://doomv.com/","embed": true
+ },
+ {
+    "name": "nangdd",  
+    "image": "https://nangdd.com/images/logo/iub5f9NeasuqsSrbxul4X7LDSzIORocNANGDD-LOGO.png", 
+    "url": "https://nangdd.com/","embed": true
 },
 ]
 }
