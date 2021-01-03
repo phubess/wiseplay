@@ -29,6 +29,11 @@
     "url": "https://movie2freehd.com/","embed": true
 },
  {
+    "name": "mgmmovie",  
+    "image": "https://www.mgmmovie.com/images/logo/tYfRQLFzGz0a2HQvjkPGB9mkaMr8B7cmgmmovie.png", 
+    "url": "https://www.mgmmovie.com/","embed": true
+},
+ {
     "name": "we-play",  
     "image": "https://www.we-play.tv/images/logo.png", 
     "url": "https://www.we-play.tv/movies","embed": true
@@ -39,9 +44,9 @@
     "url": "https://www.fwiptv.cc/","embed": true
  },
  {
-    "name": "pglivetv User...pd183176 Pas...1818",  
-    "image": "http://pglivetv.com/movie/upload/img/it_edit_4_4c52e45b9ce511cb2f7eaa97693710dc.png", 
-    "url": "http://pglivetv.com/movie.php?mcid=2","embed": true   
+    "name": "",  
+    "image": "", 
+    "url": "","embed": true   
 },
 ]
 }
