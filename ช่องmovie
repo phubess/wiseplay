@@ -42,7 +42,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://niklive.com/live/Fox​movie/index.m3u8",
+     "url": "https://niklive.com/live/Foxmovie/index.m3u8",
      "import": false
 },
    {
@@ -145,12 +145,6 @@
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
      "url": "https://zecallion.com:443/live/KTU_hd-foxlife.m3u8", 
-      "import": false
-},
-  {
-     "name": "Fox Life",
-     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
-     "url": "http://196.53.250.49:8888/live/stream/xx/8.m3u8", 
       "import": false
 },
   {
