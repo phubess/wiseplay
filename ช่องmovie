@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 3/1/2021",
+    "author": "update 7/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -48,7 +48,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com/live/foxmovie1.m3u8",
+     "url": "https://boxmovielive.com/live/foxmovie.m3u8",
      "import": false
 },
    {
@@ -93,7 +93,7 @@
  {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com/live/action1.m3u8", 
+     "url": "https://boxmovielive.com/live/fox0.m3u8", 
      "import": false
 },
  {
@@ -210,12 +210,6 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://niklive.com:443/live/Warner/index.m3u8",
      "import": false
-},
-   {
-    "name": "Warner TV AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=597e004b7ed5a24e46f6725a","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
    {
     "name": "Warner TV",
@@ -367,13 +361,19 @@
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com:443/live/hits.m3u8",
+      "url": "https://boxmovielive.com/live/moviehits.m3u8",
      "import": false
 },
   { 
      "name": "MONOPLUS+",
       "image": "https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png?4",              
-      "url": "https://boxmovielive.com/live/monoplus5.m3u8",
+      "url": "https://boxmovielive.com/live/monop.m3u8",
+     "import": false
+},
+  { 
+     "name": "3BB Series",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610007017443_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/3bbas.m3u8",
      "import": false
 },
   { 
@@ -403,18 +403,6 @@
       "name": "Hits",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",              
        "url": "https://player.we-play.tv/channel.php?name=hits&cate=entertainment","referer": "https://player.we-play.tv"
-},
- {
-     "name": "Hits AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5e44fa35d817de012cef5618","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
- {
-     "name": "Hits Movies AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5e44faeeaae73158d325f8f9","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
    { 
       "name": "Hits Movies",
@@ -451,6 +439,12 @@
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=scm&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  { 
+      "name": "Star Chinese Movies",
+      "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
+       "url": "https://boxmovielive.com/live/starmovie.m3u8",
+       "import": false
 },
  {
      "name": "Zeenung AIS",
