@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 3/1/2021",
+      "author": "update 7/1/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -12,17 +12,11 @@
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
      "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer": "https://player.we-play.tv"
- },
-    { 
-        "name":"Cartoon Network AIS",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5a52f069aae731507f5387bb","playInNatPlayer": "true",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"    
- },
+},
     { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://boxmovielive.com/live/cn.m3u8",
+        "url": "https://boxmovielive.com/live/cn1.m3u8",
         "import": false    
 },
     { 
@@ -125,7 +119,7 @@
     { 
       "name": "BabyTV",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
-       "url": "https://boxmovielive.com/live/ba1.m3u8",
+       "url": "https://boxmovielive.com/live/baby.m3u8",
        "import": false
 },
     { 
@@ -144,7 +138,12 @@
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
        "url": "https://zecallion.com/live/KTU_745654.m3u8",
        "import": false
-
+},
+    { 
+      "name": "Cartoonmovies",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1608380402143_movie_image.jpg",              
+       "url": "http://61.19.242.134/feed/LC53/index.m3u8",
+       "import": false
 },
     { 
       "name": "EBS KIDS",
@@ -156,6 +155,12 @@
          "name": "boomerang",  
          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQh5Qlg7buTLIDFX5pMHWaPM5SlHWr6IJjw&usqp=CAU",  
          "url": "https://doomovielive.b-cdn.net/sd-boomerang_480/index.m3u8","referer": "https://doomovie.com/"
+},
+   {
+         "name": "Boomerang V",  
+         "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603037653783_movie_image.png",  
+         "url": "https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8",
+         "import": false
 },
    {
          "name": "JaTingJa",  
