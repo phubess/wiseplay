@@ -321,7 +321,13 @@
      "name": "MOVIES 8",
       "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
       "url": "http://61.19.242.134/feed/LC6/index.m3u8",
-     "import": false    
+     "import": false 
+},
+  { 
+     "name": "MOVIES 8",
+      "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
+      "url": "https://zecallion.com/live/KTU_sky1.m3u8",
+     "import": false 
 },
   {
      "name": "TV CABLE 1",  
