@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 2/1/2021",
+    "author": "update 7/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -11,7 +11,7 @@
   {         
         "name":"Discovery Channel",
         "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
-         "url": "https://boxmovielive.com/live/discovery2.m3u8",  
+         "url": "http://160.119.77.116:8081/iptv/sd-discovery.stream/chunks.m3u8",  
          "import": false
 }, 
   { 
@@ -66,7 +66,7 @@
   { 
       "name": "Nat Geo Wild ",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
-       "url": "https://boxmovielive.com/live/nat2.m3u8",
+       "url": "https://boxmovielive.com/live/nat1.m3u8",
        "import": false
 }, 
   { 
