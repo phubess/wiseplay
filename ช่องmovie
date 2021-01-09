@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 7/1/2021",
+    "author": "update 9/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -42,7 +42,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://niklive.com/live/Foxmovie/index.m3u8",
+     "url": "http://160.119.77.117/iptv/hd-foxpremium.stream/chunks.m3u8",
      "import": false
 },
    {
@@ -87,13 +87,13 @@
   {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://zecallion.com:443/live/KTU_Fox-A456.m3u8", 
+     "url": "https://zecallion.com/live/KTU_Foxfg.m3u8", 
      "import": false  
 },
  {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com/live/fox0.m3u8", 
+     "url": "https://boxmovielive.com/live/fox12.m3u8", 
      "import": false
 },
  {
@@ -122,7 +122,7 @@
   {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://zecallion.com/live/KTU_fox-family.m3u8",     
+     "url": "https://zecallion.com/live/KTU_401family.m3u8",     
      "import": false
 },
   {
@@ -230,7 +230,7 @@
    {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "https://boxmovielive.com/live/par.m3u8",
+     "url": "https://boxmovielive.com/live/par10.m3u8",
      "import": false
 },
    {
@@ -240,94 +240,71 @@
      "import": false
 },
   { 
-     "name": "Live SKY 1",
-      "image": "https://i.imgur.com/qDcOkZR.png",              
-      "url": "https://zecallion.com:443/live/KTU_ipm1.m3u8",
+     "name": "TV CABLE 1",
+      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/KTU_sky3.m3u8",
      "import": false
 },
   { 
-     "name": "Live SKY 2",
-      "image": "https://i.imgur.com/jL3vhXm.png",              
-      "url": "https://zecallion.com:443/live/KTU_wwe12.m3u8",
+     "name": "TV CABLE 2",
+      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/KTU_sky4.m3u8",
      "import": false
 },
   { 
-     "name": "Live SKY 3",
-      "image": "https://i.imgur.com/ezjnOT1.png",              
-      "url": "https://zecallion.com:443/live/KTU_his33.m3u8",
+     "name": "TV CABLE 3",
+      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/KTU_ipm-aflim889.m3u8",
      "import": false
 },
   { 
-     "name": "Live SKY 4",
-      "image": "https://i.imgur.com/0DB0pQG.png",              
-      "url": "https://zecallion.com:443/live/KTU_War457.m3u8",
+     "name": "TV CABLE 4",
+      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/KTU_ipmskyworld3.m3u8",
      "import": false
 },
   { 
-     "name": "Series+HD",
-      "image": "https://i.imgur.com/MIKKM2Y.png",              
-      "url": "https://boxmovielive.com:443/live/series1.m3u8",
+     "name": "TV CABLE 5",
+      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/KTU_ipm-iasia.m3u8",
      "import": false
 },
   { 
-     "name": "UP MOVIES",
-      "image": "https://sv1.picz.in.th/images/2020/07/10/5oVGub.png",              
-      "url": "https://zecallion.com:443//live/KTU_upmovie4123.m3u8",
+     "name": "TV CABLE 6",
+      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/KTU_upmovie5.m3u8",
      "import": false
 },
   { 
      "name": "MOVIES 1",
       "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
-      "url": "https://zecallion.com/live/KTU_ipmskyworldhd3.m3u8",
-     "import": false
-},
-  { 
-     "name": "MOVIES 2",
-      "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
-      "url": "https://zecallion.com:443//live/KTU_ipm-iasia332.m3u8",
-     "import": false 
-},
-  { 
-     "name": "MOVIES 3",
-      "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
-      "url": "https://zecallion.com:443/live/KTU_ipm-aflim782.m3u8",
-     "import": false 
-},
-  { 
-     "name": "MOVIES 4",
-      "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
       "url": "https://boxmovielive.com:443/live/moviesat.m3u8",
      "import": false 
 },
   { 
-     "name": "MOVIES 5",
+     "name": "MOVIES 2",
       "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
       "url": "http://61.19.242.134/feed/LC52/index.m3u8",
      "import": false 
 },
   { 
-     "name": "MOVIES 6",
+     "name": "MOVIES 3",
       "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
       "url": "http://61.19.242.134/feed/LC2/index.m3u8",
      "import": false 
 },
   { 
-     "name": "MOVIES 7",
+     "name": "MOVIES 4",
       "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
       "url": "http://61.19.242.134/feed/LC1/index.m3u8",
      "import": false     
  },
   { 
-     "name": "MOVIES 8",
+     "name": "MOVIES 5",
       "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
       "url": "http://61.19.242.134/feed/LC6/index.m3u8",
      "import": false 
-},
-  { 
-     "name": "MOVIES 8",
-      "image": "https://pluspng.com/img-png/png-hd-movie-hd-movie-movie-hd-png-300.png",              
-      "url": "https://zecallion.com/live/KTU_sky1.m3u8",
-     "import": false 
+
 },
   {
      "name": "TV CABLE 1",  
@@ -361,19 +338,13 @@
   { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com:443/live/FLA.m3u8",
+      "url": "https://boxmovielive.com/live/FLA10.m3u8",
       "import": false
 },
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/moviehits.m3u8",
-     "import": false
-},
-  { 
-     "name": "MONOPLUS+",
-      "image": "https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png?4",              
-      "url": "https://boxmovielive.com/live/monop.m3u8",
+      "url": "https://boxmovielive.com/live/moviehits100.m3u8",
      "import": false
 },
   { 
@@ -449,7 +420,7 @@
   { 
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
-       "url": "https://boxmovielive.com/live/starmovie.m3u8",
+       "url": "https://boxmovielive.com/live/starmovie10.m3u8",
        "import": false
 },
  {
