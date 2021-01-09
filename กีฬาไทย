@@ -17,7 +17,7 @@
   {
         "name":"id station",
          "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
-         "url": "https://niklive.com:443/live/id/index.m3u8", 
+         "url": "https://niklive.com/live/id-kuy/index.m3u8", 
          "import": false
 },
   {
