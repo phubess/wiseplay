@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 7/1/2021",
+    "author": "update 9/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -117,13 +117,7 @@
  {
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "http://live2.aplayhd.xyz/aplay/blueanten-1.m3u8", 
-     "import": false
-},
- {
-     "name": "BLUEANT EXTREME",
-     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "https://boxmovielive.com:443/live/blueantex1.m3u8", 
+     "url": "https://boxmovielive.com/live/tex.m3u8", 
      "import": false
 },
  {
