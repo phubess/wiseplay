@@ -22,13 +22,13 @@
   { 
       "name": "Animal Planet",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
-       "url": "https://boxmovielive.com/live/anim.m3u8",
+       "url": "https://boxmovielive.com/live/anim0.m3u8",
        "import": false
 }, 
   { 
       "name": "Animal Planet",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
-       "url": "https://zecallion.com/live/KTU_animal.m3u8",
+       "url": "http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8",
        "import": false
 }, 
   { 
@@ -60,7 +60,7 @@
   { 
       "name": "Nat Geo Wild ",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
-       "url": "https://zecallion.com/live/KTU_45NatGeoHD.m3u8",
+       "url": "https://zecallion.com/live/KTU_45NatGeoHD23.m3u8",
        "import": false
 }, 
   { 
