@@ -1,7 +1,7 @@
 { 
     "name": "phubess",
-    "author": "update 26/12/2020",
-    "image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",       
+    "author": "update 10/1/2021",
+    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  
  
@@ -13,9 +13,69 @@
       "playInNatPlayer": "true"
 },
  {
+      "name": "EUROSPORT4",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/160005210714_movie_image.jpg",
+      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400",
+       "import": false 
+},
+ {
+      "name": "EURO 44 4K",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326824732_movie_image.jpg",
+      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400",
+       "import": false
+},
+ {
+      "name": "EURO 45 4K",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326834995_movie_image.jpg",
+      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000",
+       "import": false       
+},
+ {
+      "name": "EURO 46 4K",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/159432685862_movie_image.jpg",
+      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600",
+       "import": false 
+ },
+ {
+      "name": "EURO 48 4K",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326868699_movie_image.jpg",
+      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800",
+       "import": false     
+ },
+ {
+      "name": "EURO 50 4K",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326878113_movie_image.jpg",
+      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000",
+       "import": false     
+},
+ {
+      "name": "EURO 2 4K",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326889477_movie_image.jpg",
+      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200",
+       "import": false  
+},
+ {
+      "name": "EURO 3 4K",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/159432690430_movie_image.jpg",
+      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800",
+       "import": false
+},
+ {
+      "name": "BAYERN MUNICH TV",
+      "image": "https://i.vimeocdn.com/video/599199796.webp?mw=800&mh=451&q=70",
+      "url": "http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live",
+       "import": false
+},
+ {
       "name": "LIVERPOOL TV",
       "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/lfctv.png",
       "url": "https://www.ball24.tv/allchannel/?id=lfctv","referer": "https://www.ball24.tv/"
+},
+ {
+      "name": "beIN Xtra",
+      "image": "https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",
+      "url": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
+       "import": false 
 },
  {
       "name": "Astro supersport",
