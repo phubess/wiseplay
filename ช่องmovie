@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 10/1/2021",
+    "author": "update 12/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -273,6 +273,18 @@
      "name": "TV CABLE 6",
       "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
       "url": "https://boxmovielive.com/live/KTU_upmovie5.m3u8",
+     "import": false
+},
+  { 
+     "name": "TV CABLE 7",
+      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
+      "url": "https://zecallion.com/live/KTU_sky111.m3u8",
+     "import": false
+},
+  { 
+     "name": "TV CABLE 7",
+      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
+      "url": "https://zecallion.com/live/KTU_sky222.m3u8",
      "import": false
 },
   { 
