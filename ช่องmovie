@@ -87,7 +87,7 @@
   {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://zecallion.com/live/KTU_Foxfg.m3u8", 
+     "url": "https://zecallion.com/live/KTU_Foxfg24.m3u8", 
      "import": false  
 },
  {
@@ -142,9 +142,15 @@
      "url": "https://doomovielive.b-cdn.net/hd-foxfamily_720/index.m3u8","referer": "https://doomovie.com/" 
 },
   {
+     "name": "MONO +",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610356115615_movie_image.jpg",              
+     "url": "https://boxmovielive.com/live/mono1.m3u8", 
+      "import": false
+},
+  {
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
-     "url": "https://zecallion.com:443/live/KTU_hd-foxlife.m3u8", 
+     "url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8", 
       "import": false
 },
   {
@@ -412,6 +418,12 @@
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
        "url": "http://27.254.142.14/tvn.m3u8",
+       "import": false
+},
+  { 
+      "name": "TVN",
+      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
+       "url": "https://boxmovielive.com/live/tvn1.m3u8",
        "import": false
 },
   { 
