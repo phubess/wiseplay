@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 10/1/2021",
+    "author": "update 15/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  
@@ -11,6 +11,12 @@
       "url": "http://203.154.243.31:8081/live/tennis/index.m3u8 ",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
+},
+ {
+      "name": "TeleSport",
+      "image": "https://ru1.su/images/sport7/TeleSport.jpg",
+      "url": "https://cdn1-2.tele-sport.ru/abr/line2/live/line2_1080p/chunks.m3u8",
+       "import": false
 },
  {
       "name": "EUROSPORT4",
