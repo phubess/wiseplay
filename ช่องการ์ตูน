@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 12/1/2021",
+      "author": "update 16/1/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -16,7 +16,7 @@
     { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://boxmovielive.com/live/cn1.m3u8",
+        "url": "https://boxmovielive.com/live/CN1.m3u8",
         "import": false    
 },
     { 
@@ -73,7 +73,7 @@
     { 
       "name": "Disney XD",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9247aa93-56ff-4746-acd3-bdf52d597ed6.png",              
-       "url": "https://boxmovielive.com/live/disney.m3u8",
+       "url": "http://160.119.77.117/iptv/hd-disneyxd.stream/chunks.m3u8",
        "import": false
 },
     { 
@@ -131,7 +131,7 @@
     { 
       "name": "BabyTV",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
-       "url": "https://boxmovielive.com/live/baby.m3u8",
+       "url": "https://boxmovielive.com/live/fox.m3u8",
        "import": false
 },
     { 
