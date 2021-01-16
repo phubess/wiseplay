@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 16/1/2021",
+    "author": "update 17/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {
@@ -36,12 +36,6 @@
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
         "url": "https://niklive.com/live/epl1-07-8/index.m3u8", 
-        "import": false
-},
-  {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "http://cloudlive-bl2.ddns.net:1936/transcoder_F1/premierhd1_fwiptv.stream/chunklist_w783776957.m3u8", 
         "import": false
 },
   {
@@ -108,7 +102,7 @@
   {
        "name":"True Premier Football HD 5",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
-	 "url": https://niklive.com/live/feed/epl5/index.m3u8"",
+	 "url": "https://niklive.com/live/feed/epl5/index.m3u8",
 	"import": false 
 },
   {
