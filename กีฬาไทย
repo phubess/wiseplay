@@ -1,18 +1,12 @@
     {
     "name": "phubess",
-    "author": "update 14/1/2021",
+    "author": "update 16/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {
          "name": "3bbsports 1",
          "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
          "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv" 
-},
-  {
-        "name":"TEST",
-         "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1609827560613_movie_image.png",
-         "url": "https://zecallion.com/live/KTU_ew.m3u8", 
-         "import": false	
 },
   {
         "name":"id station",
@@ -23,7 +17,13 @@
   {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "http://27.254.142.14/epl1_1080.m3u8", 
+        "url":"http://api-center.movieclubhd.tv/api_xml2/tv/ch/get/play?channel_code=premierhd1&user_loggedsession=609e3199d42b793688e1351acc97e614 ", 
+        "import": false
+},
+  {
+       "name":"True Premier Football HD 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+        "url": "https://sorchelsea6969.shortcm.li/premier1/@Sor.m3u8", 
         "import": false
 },
   {
