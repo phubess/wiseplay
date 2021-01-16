@@ -11,14 +11,8 @@
   {
         "name":"id station",
          "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
-         "url": "https://niklive.com/live/id-kuy/index.m3u8", 
+         "url": "https://niklive.com/live/i-d-ee/index.m3u8", 
          "import": false
-},
-  {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url":"https://bit.ly/3qq2GHJ", 
-        "import": false
 },
   {
        "name":"True Premier Football HD 1",
@@ -35,13 +29,13 @@
   {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "https://niklive.com:443/live/epl1001/index.m3u8", 
+        "url": "https://niklive.com/live/epl1-0-55/index.m3u8", 
         "import": false
 },
   {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "https://niklive.com:443/live/epl1002/index.m3u8", 
+        "url": "https://niklive.com/live/epl1-07-8/index.m3u8", 
         "import": false
 },
   {
@@ -81,7 +75,19 @@
   {
        "name":"True Premier Football HD 2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
+	 "url": "https://niklive.com/live/ep-l200-1/index.m3u8",
+	 "import": false
+},
+  {
+       "name":"True Premier Football HD 2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
 	 "url": "https://live.andaman888th.com/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://andaman888th.com/"
+},
+ {
+       "name":"True Premier Football HD 3",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
+	 "url": "https://niklive.com/live/ep-l3-3/index.m3u8",
+	  "import": false
 },
  {
        "name":"True Premier Football HD 3",
@@ -91,7 +97,19 @@
   {
        "name":"True Premier Football HD 4",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
+	 "url": "https://niklive.com/live/feed/epl4/index.m3u8",
+	 "import": false
+},
+  {
+       "name":"True Premier Football HD 4",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
 	 "url": "https://live.andaman888th.com/live/tpf4/sport/tpf4/chunks.m3u8","referer": "https://andaman888th.com/" 
+},
+  {
+       "name":"True Premier Football HD 5",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
+	 "url": https://niklive.com/live/feed/epl5/index.m3u8"",
+	"import": false 
 },
   {
        "name":"True Premier Football HD 5",
