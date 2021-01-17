@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 9/1/2021",
+    "author": "update 17/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -16,7 +16,7 @@
 }, 
   {         
         "name":"mysci",
-        "image": "https://bit.ly/3bCd4bv",
+        "image": "https://bit.ly/2XMGyev",
          "url": "http://27.254.142.14/mysci.m3u8",  
          "import": false
 }, 
@@ -28,7 +28,7 @@
   { 
       "name": "Animal Planet",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
-       "url": "https://boxmovielive.com/live/anim0.m3u8",
+       "url": "https://boxmovielive.com/live/anim2.m3u8",
        "import": false
 }, 
   { 
@@ -60,19 +60,13 @@
   { 
       "name": "Nat Geo Wild true",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
-       "url": "https://niklive.com/live/NATGeoHD/index.m3u8",
+       "url": "https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8",
        "import": false
 }, 
   { 
       "name": "Nat Geo Wild ",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
        "url": "https://zecallion.com/live/KTU_45NatGeoHD23.m3u8",
-       "import": false
-}, 
-  { 
-      "name": "Nat Geo Wild ",
-      "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
-       "url": "https://boxmovielive.com/live/nat1.m3u8",
        "import": false
 }, 
   { 
@@ -126,7 +120,7 @@
   { 
        "name": "4K LOVE NATURE",
         "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1592281297136_movie_image.jpg",
-         "url": "https://zecallion.com/live/KTU_889.m3u8",
+         "url": "ttps://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
          "import": false
 },
   { 
@@ -154,7 +148,7 @@
     { 
        "name": "BBC Earth",
         "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-         "url": "https://zecallion.com/live/KTU_bbc123.m3u8",
+         "url": "http://160.119.77.117/iptv/sd-bbcearth.stream/chunks.m3u8",
          "import": false
 },
     { 
