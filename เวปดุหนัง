@@ -92,7 +92,11 @@
     "name": "i-live.tv",  
     "image": "https://i-live.tv/wp-content/uploads/2020/12/i-live.png", 
     "url": "https://bit.ly/38QxyKq","embed": true    
-  
+  },
+ {
+    "name": "moviehdzone",  
+    "image": "https://moviehdzone.com/wp-content/uploads/2020/05/moviehdzone.png", 
+    "url": "https://moviehdzone.com/","embed": true 
   
 },
 ]
