@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 17/1/2021",
+    "author": "update 18/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -58,7 +58,7 @@
  {
      "name": "Stringray iConcerts HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
-     "url": "https://boxmovielive.com/live/siconcerts.m3u8",
+     "url": "https://www.boxmovie-th.com/boxmovies/iconcerts/index.m3u8",
      "import": false
 },
  {
@@ -70,7 +70,7 @@
  {
      "name": "TRUE MUSIC HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://boxmovielive.com/live/s1.m3u8",
+     "url": "https://boxmovielive.com/live/s11.m3u8",
      "import": false
 },
  {
