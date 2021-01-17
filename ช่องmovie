@@ -281,6 +281,41 @@
       "url": "https://boxmovielive.com/live/starmovie10.m3u8",
      "import": false
 },
+  { 
+     "name": "TV CABLE 7",
+      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
+      "url": "http://61.19.242.134/feed/LC11/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true" 
+},
+  {      
+     "name": "BOX FILM",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610581422208_movie_image.jpg",
+      "url": "http://61.19.242.134/feed/LC52/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"    
+ },
+  {      
+     "name": "SUN TV",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610581571699_movie_image.jpg",
+      "url": "http://61.19.242.134/feed/LC1/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"     
+},
+  {      
+     "name": "SAMURAI",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610453274378_movie_image.jpg",
+      "url": "http://61.19.242.134/feed/LC2/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"   
+},
+  {      
+     "name": "MediaTV",
+      "image": "https://www.upload.ee/image/11066363/MediaTV.jpg",
+      "url": "http://61.19.242.134/feed/LC3/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
   {
      "name": "TV CABLE 1",  
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
