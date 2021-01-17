@@ -97,7 +97,11 @@
     "name": "movie11",  
     "image": "https://movie11.com/wp-content/themes/numberone/MOVIE11RE.png", 
     "url": "https://movie11.com/","embed": true 
-  
+  },
+ {
+    "name": "foxzmoviehd",  
+    "image": "https://www.foxzmoviehd.com/images/logo/GHPpW1IjoIUw4nl57xMxAzORQaF8WXHFoxzmoviehd_logo2.png", 
+    "url": "https://www.foxzmoviehd.com/","embed": true 
 },
 ]
 }
