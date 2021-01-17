@@ -1,16 +1,62 @@
 { 
     "name": "phubess",
-    "author": "update 15/1/2021",
+    "author": "update 17/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
- 
- 
-    {
+ {
        "name": "TENNIS TV",
       "image": "https://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",
       "url": "http://203.154.243.31:8081/live/tennis/index.m3u8 ",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
+},
+ {
+      "name": "skynet sport hd",
+      "image": "https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png",
+      "url": "http://thaicable.myftp.org:8000/live/infosat/2020/2.m3u8",
+       "import": false
+},
+ {
+      "name": "",
+      "image": "",
+      "url": "",
+       "import": false
+ },
+ {
+      "name": "",
+      "image": "",
+      "url": "",
+       "import": false
+ },
+ {
+      "name": "",
+      "image": "",
+      "url": "",
+       "import": false
+ },
+ {
+      "name": "",
+      "image": "",
+      "url": "",
+       "import": false
+  },
+ {
+      "name": "",
+      "image": "",
+      "url": "",
+       "import": false
+},
+ {
+      "name": "",
+      "image": "",
+      "url": "",
+       "import": false
+  
+       
+       
+       
+       
+       
 },
  {
       "name": "TeleSport",
