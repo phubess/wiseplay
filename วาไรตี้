@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 16/1/2021",
+    "author": "update 17/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -11,7 +11,7 @@
  {
      "name": "FOOD NETWORK HD true",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
-     "url": "https://niklive.com:443/live/Food/index.m3u8",
+     "url": "https://niklive.com/live/feed/t-food/index.m3u8",
      "import": false 
 },
  {
@@ -24,13 +24,13 @@
  {
      "name": "Asian Food Network ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
-     "url": "https://niklive.com:443/live/AsianFood/index.m3u8",
+     "url": "https://niklive.com/live/feed/t-afood/index.m3u8",
      "import": false
 },
  {
       "name": "Lifetime",
      "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
-     "url": "https://niklive.com:443/live/LIFE-TIME/index.m3u8",
+     "url": "https://niklive.com/live/feed/t-life/index.m3u8",
      "import": false
 },
  {
@@ -42,7 +42,7 @@
  {
      "name": "KMTV HD",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
-     "url": "https://boxmovielive.com/live/kmtv.m3u8",
+     "url": "https://boxmovielive.com/live/kmtv1.m3u8",
      "import": false
 },
  {
@@ -58,7 +58,7 @@
  {
      "name": "Stringray iConcerts HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
-     "url": "https://boxmovielive.com/live/icon.m3u8",
+     "url": "https://boxmovielive.com/live/siconcerts.m3u8",
      "import": false
 },
  {
@@ -70,7 +70,7 @@
  {
      "name": "TRUE MUSIC HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://boxmovielive.com/live/s.m3u8",
+     "url": "https://boxmovielive.com/live/s1.m3u8",
      "import": false
 },
  {
