@@ -146,7 +146,15 @@
      "name": "playboytv",
      "image": "https://seeklogo.net/wp-content/uploads/2013/04/playboy-tv-eps-vector-logo.png",              
      "url": "http://61.19.242.134/feed/LC54/index.m3u8",
-     "import": false
+     "userAgent": "exoplayer_video",
+     "playInNatPlayer": "true" 
+},
+ {
+     "name": "V Channel",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1606637020738_movie_image.png",              
+     "url": "http://61.19.242.134/feed/LC14/index.m3u8",
+     "userAgent": "exoplayer_video",
+     "playInNatPlayer": "true" 
 },
  {
      "name": "ไทไชโย",
