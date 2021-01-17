@@ -102,6 +102,11 @@
     "name": "moviemaster",  
     "image": "https://moviemaster-th.com/wp-content/uploads/2020/05/Logo.png", 
     "url": "https://moviemaster-th.com/","embed": true 
+  },
+ {
+    "name": "nung4you.com",  
+    "image": "https://nung4you.com/images/logo/aKO7fgDiv6jlY4LVKzrPxzzg1QSgle9nung4you.png", 
+    "url": "https://nung4you.com/","embed": true 
 },
 ]
 }
