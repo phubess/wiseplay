@@ -28,11 +28,6 @@
     { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://doomovielive.b-cdn.net/sd-cartoonnetwork_480/index.m3u8","referer": "https://doomovie.com/"
-},
-    { 
-        "name":"Cartoon Network",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "https://niklive.com:443/live/cn/index.m3u8",
         "import": false
 },
