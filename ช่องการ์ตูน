@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 18/1/2021",
+      "author": "update 19/1/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -29,6 +29,12 @@
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "https://niklive.com:443/live/cn/index.m3u8",
+        "import": false
+},
+    { 
+        "name":"Cartoon Network",
+        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/74.m3u8",
         "import": false
 },
     { 
@@ -133,6 +139,12 @@
       "name": "BabyTV",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
        "url": "https://doomovielive.b-cdn.net/sd-babytv_480/index.m3u8","referer": "https://doomovie.com/"
+},
+    { 
+      "name": "Disney Channel",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
+       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/73.m3u8",
+       "import": false
 },
     { 
       "name": "Disney Channel",
