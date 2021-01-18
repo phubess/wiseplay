@@ -28,7 +28,7 @@
   { 
       "name": "Animal Planet",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
-       "url": "https://boxmovielive.com/live/anim2.m3u8",
+       "url": "https://boxmovielive.com/live/anim.m3u8",
        "import": false
 }, 
   { 
@@ -185,9 +185,23 @@
          "import": false
 },
    {
+      "name": "CRIME+",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1604174980134_movie_image.jpg",
+      "url": "http://61.19.242.134/feed/LC43/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+   {
       "name": "pet club tv",
       "image": "https://i.vimeocdn.com/video/722791670_640.jpg",
       "url": "https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+   {
+      "name": "amazing",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610851206682_movie_image.png",
+      "url": "http://203.154.243.32:8088/live/amazing/index.m3u8",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
 },
