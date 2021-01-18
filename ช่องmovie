@@ -274,15 +274,10 @@
       "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
       "url": "https://boxmovielive.com/live/serie2.m3u8",
      "import": false
+
 },
   { 
      "name": "TV CABLE 6",
-      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/starmovie10.m3u8",
-     "import": false
-},
-  { 
-     "name": "TV CABLE 7",
       "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1607351169417_movie_image.jpg",              
       "url": "http://61.19.242.134/feed/LC11/index.m3u8",
       "userAgent": "exoplayer_video",
@@ -352,9 +347,15 @@
       "import": false
 },
   { 
+     "name": "True Film Asia",
+      "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
+      "url": "https://boxmovielive.com/live/truef.m3u8",
+      "import": false
+},
+  { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/moviehits100.m3u8",
+      "url": "https://boxmovielive.com/live/truem.m3u8",
      "import": false
 },
   { 
