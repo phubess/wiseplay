@@ -7,12 +7,7 @@
          "name": "3bbsports 1",
          "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
          "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv" 
-},
-  { 
-	 "name": "3bbsports 1",
-         "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
-         "url": "https://goolag2u.shortcm.li/3BBSport1.m3u8",
-	 "import": false
+
 },
   {
         "name":"id station",
@@ -392,7 +387,7 @@
 },
  {
       "name": "hisport",
-      "image": "https://bit.ly/2KTEqP3",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603438600967_movie_image.jpg",
       "url": "http://203.154.243.31:8081/live/hisport/index.m3u8",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
