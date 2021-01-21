@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 20/1/2021",
+    "author": "update 21/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -169,6 +169,12 @@
      "import": false
 },
   {
+     "name": "True Film HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+     "url": "https://boxmovielive.com/live/es.m3u8",
+     "import": false
+},
+  {
      "name": "True Film HD2",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
      "url": "https://doomovielive.b-cdn.net/hd-tfilm2_720/index.m3u8","referer": "https://doomovie.com"
@@ -306,7 +312,7 @@
 },
   {      
      "name": "MediaTV",
-      "image": "https://www.upload.ee/image/11066363/MediaTV.jpg",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611086023545_movie_image.jpg",
       "url": "http://61.19.242.134/feed/LC3/index.m3u8",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
