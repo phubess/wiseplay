@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 17/1/2021",
+    "author": "update 23/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -35,15 +35,15 @@
        "import": false
  },
  {
-      "name": "",
-      "image": "",
-      "url": "",
+      "name": "beIN SPORTS 4",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",
+      "url": "http://160.119.77.116:8081/iptv/hd-bein4.stream/chunks.m3u8",
        "import": false
   },
  {
-      "name": "",
-      "image": "",
-      "url": "",
+      "name": "beIN SPORTS 7",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_7.png",
+      "url": "http://160.119.77.116:8081/iptv/hd-bein7.stream/chunks.m3u8",
        "import": false
 },
  {
