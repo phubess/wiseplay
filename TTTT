@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1,beIN Sports 1 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537e.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 2 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c28e6ada110428c.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 3 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c1cd9336c20447.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 4 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cb8e0c630331c99.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 5 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/594192a366a92a2.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 6 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6c08342090703c0.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 7 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/df5181a2955f69f.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 8 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0655abb3211a4b7.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 9 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/66f1baaf1e65744.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 10 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fdf644197a97dd6.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 11 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cda020ee54800f0.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 12 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e90c4f14e943eab.ts|User-Agent=1m3u8
+#EXTINF:-1,beIN Sports 13 (Arabian)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3362f1d656c3205.ts|User-Agent=1m3u8
 #EXTINF:-1,5USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1,BBC AME HD (ENG)
