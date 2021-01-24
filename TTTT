@@ -59,9 +59,43 @@
  http://thaicable.myftp.org:8000/live/infosat/2020/29.m3u8
  #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",30
  http://thaicable.myftp.org:8000/live/infosat/2020/30.m3u8
- 
- 
- 
- 
- 
- 
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",31
+ http://thaicable.myftp.org:8000/live/infosat/2020/31.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",32
+ http://thaicable.myftp.org:8000/live/infosat/2020/32.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",33
+ http://thaicable.myftp.org:8000/live/infosat/2020/33.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",34
+ http://thaicable.myftp.org:8000/live/infosat/2020/34.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",35
+ http://thaicable.myftp.org:8000/live/infosat/2020/35.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",36
+ http://thaicable.myftp.org:8000/live/infosat/2020/36.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",37
+ http://thaicable.myftp.org:8000/live/infosat/2020/37.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",38
+ http://thaicable.myftp.org:8000/live/infosat/2020/38.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",39
+ http://thaicable.myftp.org:8000/live/infosat/2020/39.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",40
+ http://thaicable.myftp.org:8000/live/infosat/2020/40.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",41
+ http://thaicable.myftp.org:8000/live/infosat/2020/41.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",42
+ http://thaicable.myftp.org:8000/live/infosat/2020/42.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",43
+  http://thaicable.myftp.org:8000/live/infosat/2020/43.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",44
+http://thaicable.myftp.org:8000/live/infosat/2020/44.m3u8 
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",45
+ http://thaicable.myftp.org:8000/live/infosat/2020/45.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",46
+ http://thaicable.myftp.org:8000/live/infosat/2020/46.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",47
+ http://thaicable.myftp.org:8000/live/infosat/2020/47.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",48
+ http://thaicable.myftp.org:8000/live/infosat/2020/48.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",49
+ http://thaicable.myftp.org:8000/live/infosat/2020/49.m3u8
+ #EXTINF:-1 group-title="ภาพยนต์ "tvg-logo="",50
+http://thaicable.myftp.org:8000/live/infosat/2020/50.m3u8
