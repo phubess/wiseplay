@@ -1,31 +1,31 @@
 #EXTM3U
- #EXTINF:-1,
+ #EXTINF:-1",
  http://thaicable.myftp.org:8000/live/infosat/2020/1.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/1.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/2.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/3.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/4.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/5.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/6.m3u8
  #EXTINF:-1,
   http://thaicable.myftp.org:8000/live/infosat/2020/7.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/8.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/9.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/10.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
- #EXTINF:-1,
+ #EXTINF:-1",
   http://thaicable.myftp.org:8000/live/infosat/2020/13.m3u8
  
  
