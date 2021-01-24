@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 23/1/2021",
+    "author": "update 24/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -9,6 +9,12 @@
       "url": "http://203.154.243.31:8081/live/tennis/index.m3u8 ",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
+},
+ {
+      "name": "FIGHT BOX",
+      "image": "https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png",
+      "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8",
+       "import": false
 },
  {
       "name": "skynet sport hd",
@@ -67,54 +73,6 @@
       "name": "TeleSport",
       "image": "https://ru1.su/images/sport7/TeleSport.jpg",
       "url": "https://cdn1-2.tele-sport.ru/abr/line2/live/line2_1080p/chunks.m3u8",
-       "import": false
-},
- {
-      "name": "EUROSPORT4",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/160005210714_movie_image.jpg",
-      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400",
-       "import": false 
-},
- {
-      "name": "EURO 44 4K",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326824732_movie_image.jpg",
-      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400",
-       "import": false
-},
- {
-      "name": "EURO 45 4K",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326834995_movie_image.jpg",
-      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000",
-       "import": false       
-},
- {
-      "name": "EURO 46 4K",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/159432685862_movie_image.jpg",
-      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600",
-       "import": false 
- },
- {
-      "name": "EURO 48 4K",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326868699_movie_image.jpg",
-      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800",
-       "import": false     
- },
- {
-      "name": "EURO 50 4K",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326878113_movie_image.jpg",
-      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000",
-       "import": false     
-},
- {
-      "name": "EURO 2 4K",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594326889477_movie_image.jpg",
-      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200",
-       "import": false  
-},
- {
-      "name": "EURO 3 4K",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/159432690430_movie_image.jpg",
-      "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800",
        "import": false
 },
  {
@@ -251,11 +209,7 @@
        "name":"sportdigital",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",
      "url": "https://www.doonung1234.com/match/view/7688/sportdigital","referer": "https://www.doonung1234.com/"
-},
-  {
-       "name":"telekomsport1 romania",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--884.png",
-     "url": "https://www.doonung1234.com/match/view/7684/telekomsport1ro","referer": "https://www.doonung1234.com/"
+
 },
   {
        "name":"digisport1 romania",
@@ -288,11 +242,7 @@
      "url": "https://www.doonung1234.com/match/view/7672/elevensports1pt","referer": "https://www.doonung1234.com/"
 
 
-},
-     {
-       "name":"MUTV",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/mutv.jpg",
-     "url": "https://www.lineballsod.com/doball/live-ch26a/","referer": "https://www.lineballsod.com/" 
+
 },
    ]
    }
