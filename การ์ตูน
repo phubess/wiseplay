@@ -1,0 +1,22 @@
+
+
+{
+  "name":"movie",
+"image":"https://i.gifer.com/IPNp.gif",
+  	"stations": [
+
+
+{
+"name":"EP-01-นิทานคนบาป",
+"image":"https://i.ytimg.com/vi/R5wuzcdk2ig/maxresdefault.jpg",
+"imageScale": "centerCrop",
+"url":"n5WdsOgKjCM",
+"embed" : "true"
+},
+
+
+
+
+
+]
+}
