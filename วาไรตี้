@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 21/1/2021",
+    "author": "update 27/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -33,6 +33,12 @@
      "import": false
 },
  {
+     "name": "GEM",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611707943462_movie_image.jpg",              
+     "url": "https://boxmovielive.com/live/gem.m3u8",
+     "import": false
+},
+ {
       "name": "Lifetime",
      "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
      "url": "https://niklive.com/live/feed/t-life/index.m3u8",
@@ -47,7 +53,7 @@
  {
      "name": "KMTV HD",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
-     "url": "https://boxmovielive.com/live/kmtv1.m3u8",
+     "url": "https://www.boxmovie-th.com/boxmovies/KMTV/index.m3u8",
      "import": false
 },
  {
@@ -76,6 +82,12 @@
      "name": "TRUE MUSIC HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
      "url": "https://boxmovielive.com/live/s11.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE Fashion",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610852372853_movie_image.png",              
+     "url": "https://www.boxmovie-th.com/boxmovies/fashiontv/index.m3u8",
      "import": false
 },
  {
