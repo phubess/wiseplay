@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 27/1/2021",
+    "author": "update 28/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -158,6 +158,20 @@
      "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1583825165718_movie_image.png",              
      "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8",
      "import": false
+},
+ {
+     "name": "คมเคียว",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603494358497_movie_image.jpg",              
+     "url": "http://203.154.243.32:8088/live/komkaew/index.m3u8",
+     "userAgent": "exoplayer_video",
+     "playInNatPlayer": "true" 
+},
+ {
+     "name": "World Concert",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632270250_movie_image.png",              
+     "url": "http://203.154.243.32:8088/live/worldconcert/index.m3u8",
+     "userAgent": "exoplayer_video",
+     "playInNatPlayer": "true" 
 },
  {
      "name": "playboytv",
