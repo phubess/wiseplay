@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 27/1/2021",
+    "author": "update 28/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -226,6 +226,12 @@
    {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
+     "url": "https://boxmovielive.com/live/f1.m3u8",
+     "import": false
+},
+   {
+    "name": "Warner TV",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://niklive.com/live/War-ner/index.m3u8",
      "import": false
 },
@@ -248,7 +254,7 @@
    {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "https://boxmovielive.com/live/par10.m3u8",
+     "url": "https://boxmovielive.com/live/t.m3u8",
      "import": false
 },
    {
