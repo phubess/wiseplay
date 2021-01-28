@@ -155,6 +155,18 @@
     { 
        "name": "BBC Earth",
         "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+         "url": "https://cdn-edge-sg2.idoohd.com/play/26042b2862a782b8f44225a89f4c0104/b1fc685bd38431a624fb4a8cf63ca807/1611879312/playlist.m3u8",
+         "import": false
+},
+    { 
+       "name": "BBC Earth",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+         "url": "https://cdn-edge-sg2.idoohd.com/play/26042b2862a782b8f44225a89f4c0104/7c154f94c223d2f2b0a42be03f8e5865/1611879406/playlist.m3u8",
+         "import": false
+},
+    { 
+       "name": "BBC Earth",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
          "url": "http://160.119.77.117/iptv/sd-bbcearth.stream/chunks.m3u8",
          "import": false
 },
