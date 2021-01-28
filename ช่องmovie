@@ -377,6 +377,12 @@
      "import": false
 },
   { 
+     "name": "TRUE MOVIE HITS",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://cdn-edge-sg2.idoohd.com/play/a58ba27ec7d163555d409a9831534f76/e221efc3b951a72cb051d00cb16b329b/1611879460/playlist.m3u8",
+     "import": false
+},
+  { 
      "name": "TRUE Series",
       "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
       "url": "https://doofootball.livestream-cdn.com/iptv/sd-series.stream/chunks.m3u8",
