@@ -200,6 +200,12 @@
   {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
+     "url": "https://boxmovielive.com/live/as.m3u8",
+     "import": false
+},
+  {
+     "name": "True Asian Series HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
      "url": "https://player.we-play.tv/channel.php?name=trueasianhd&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
@@ -360,7 +366,7 @@
   { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com/live/FLA.m3u8",
+      "url": "https://boxmovielive.com/live/filmasia.m3u8",
       "import": false
 },
   { 
