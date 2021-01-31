@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 28/1/2021",
+    "author": "update 31/1/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -34,6 +34,12 @@
       "name": "skynet sport hd",
       "image": "https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png",
       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/2.m3u8",
+       "import": false
+},
+ {
+      "name": "premiersport 2",
+      "image": "https://sport-tv-guide.live/images/tv-station-bet365-1442.png",
+      "url": "http://cdn7.hhdstreams.club/live/abr_ch12/playlist.m3u8",
        "import": false
 },
  {
