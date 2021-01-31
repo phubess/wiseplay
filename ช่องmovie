@@ -156,6 +156,12 @@
   {
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "https://cdn-edge-sg3.iptv4k.tv/play/57be457b98b9adf8c23d018a1b6f26c3/30478f86fc7c345ea6b11dbf71457471/1612116466/playlist.m3u8", 
+      "import": false
+},
+  {
+     "name": "Fox Life",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
      "url": "http://160.119.77.117/iptv/hd-foxlife.stream/chunks.m3u8", 
       "import": false
 },
