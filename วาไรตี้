@@ -117,6 +117,12 @@
  {
      "name": "BLUEANT ENTERTAINMENT",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "http://api-center.movieclubhd.tv/api_xml2/tv/ch/get/play?channel_code=blueant&user_loggedsession=609e3199d42b793688e1351acc97e614",
+     "import": false
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
      "url": "https://niklive.com/live/feed/blueantent/index.m3u8",
      "import": false
 },
