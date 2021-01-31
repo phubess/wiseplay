@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 27/1/2021",
+      "author": "update 31/1/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -16,7 +16,7 @@
     { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://www.boxmovie-th.com/boxmovies/cartoon-network/index.m3u8",
+        "url": "https://boxmovielive.com/live/cn.m3u8",
         "import": false    
 },
     { 
@@ -132,7 +132,7 @@
     { 
       "name": "BabyTV",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
-       "url": "https://boxmovielive.com/live/baby1.m3u8",
+       "url": "https://boxmovielive.com/live/baby.m3u8",
        "import": false
 },
     { 
