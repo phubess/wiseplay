@@ -6,7 +6,7 @@
   {
     "name": "TEST",
       "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",
-      "url": "https://livebox.co/LiveTv/Player?contentHash=70&returnUrl=%2FLiveTv",
+      "url": "https://livebox.co/LiveTv/Player?contentHash=70&returnUrl=%2FLiveTv","referer": "https://livebox.co/LiveTv"
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
   
