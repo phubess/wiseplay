@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 28/1/2021",
+    "author": "update 2/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -12,6 +12,19 @@
         "name":"Discovery Channel",
         "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
          "url": "http://160.119.77.116:8081/iptv/sd-discovery.stream/chunks.m3u8",  
+         "import": false
+}, 
+  {         
+        "name":"NEW TV",
+        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1609216991804_movie_image.jpg",
+         "url": "https://cdn6.goprimetime.info//feed//newtv//index.m3u8",  
+         "userAgent": "exoplayer_video",
+         "playInNatPlayer": "true"
+}, 
+  {         
+        "name":"mysci",
+        "image": "https://bit.ly/2XMGyev",
+         "url": "https://boxmovielive.com/live/mysci.m3u8",  
          "import": false
 }, 
   {         
@@ -213,6 +226,13 @@
       "name": "pet club tv",
       "image": "https://i.vimeocdn.com/video/722791670_640.jpg",
       "url": "https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+   {
+      "name": "AMIMAL SHOW",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/16115656062_movie_image.png",
+      "url": "http://203.154.243.32:8088/live/amazing/index.m3u8",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
 },
