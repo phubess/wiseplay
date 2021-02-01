@@ -5,18 +5,11 @@
     "stations": [ 
   {
     "name": "TEST",
-      "image": "https://bit.ly/33mwVq4",
-      "url": "http://61.19.242.134/feed/LC8/index.m3u8",
+      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",
+      "url": "https://livebox.co/LiveTv/Player?contentHash=70&returnUrl=%2FLiveTv",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
-  },     
-  {
   
-    "name": "BOX FILM",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610581422208_movie_image.jpg",
-      "url": "http://61.19.242.134/feed/LC52/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"    
  },
 ]
 }
