@@ -12,12 +12,6 @@
 {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "https://livebox.co/LiveTv/Player?contentHash=1&returnUrl=%2FLiveTv","referer": "https://livebox.co/"
-    "playInNatPlayer": "true"
-},
-{
-    "name":"3 HD",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "https://tv.trueid.net/embed/ch3-hd?autoplay=yes&nopageview=yes",
     "playInNatPlayer": "true"
 },
