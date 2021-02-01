@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 31/1/2021",
+    "author": "update 1/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -11,7 +11,7 @@
  {
      "name": "FOOD NETWORK HD true",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
-     "url": "https://niklive.com/live/feed/t-food/index.m3u8",
+     "url": "https://cdn-edge-sg2.idoohd.com/play/f3d63e84b57ffd8df408ede82fdd1dfc/c9f53909d83c203ac88c62dbc3dc22bd/1612188450/playlist.m3u8",
      "import": false 
 },
  {
@@ -29,7 +29,7 @@
  {
      "name": "Asian Food Network ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
-     "url": "https://niklive.com/live/feed/t-afood/index.m3u8",
+     "url": "https://cdn-edge-sg2.idoohd.com/play/74bc33777a64ae332fa10662e723c21a/b499bd68d193e19f3f9c1a784dbc8b6b/1612188538/playlist.m3u8",
      "import": false
 },
  {
