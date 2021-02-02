@@ -7,15 +7,46 @@
 
 
 {
-"name":"EP-01-นิทานคนบาป",
-"image":"https://i.ytimg.com/vi/R5wuzcdk2ig/maxresdefault.jpg",
-"url":"https://www.fwiptv.cc/player_anmovie.php?channel=781771",
-"embed" : "true"
+"name":"True Film Asia",
+"image":"https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",
+"url":"https://tumlive109.dvrdns.org:30443/tumlive/FLA/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTE6NDI6MzUgQU0maGFzaF92YWx1ZT1Ydko0MWRST2lCRlg1a2dOMDRoK2xnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=",
+"import": false
 },
-
-
-
-
-
+{
+"name":"TRUE MOVIE HITS",
+"image":"http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",
+"url":"https://tumlive109.dvrdns.org:30443/tumlive/MOVH/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTE6NDI6MzUgQU0maGFzaF92YWx1ZT1Ydko0MWRST2lCRlg1a2dOMDRoK2xnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=",
+"import": false
+},
+{
+"name":"True Asian Series HD",
+"image":"http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",
+"url":"https://tumlive109.dvrdns.org:30443/tumlive/TrueAsiaHD/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTE6NDI6MzUgQU0maGFzaF92YWx1ZT1Ydko0MWRST2lCRlg1a2dOMDRoK2xnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=",
+"import": false
+},
+{
+"name":"live SKY1",
+"image":"https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
+"url":"https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd1.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTE6NDI6MzUgQU0maGFzaF92YWx1ZT1Ydko0MWRST2lCRlg1a2dOMDRoK2xnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=",
+"import": false
+},
+{
+"name":"live SKY2",
+"image":"https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
+"url":"https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd2.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTE6NDI6MzUgQU0maGFzaF92YWx1ZT1Ydko0MWRST2lCRlg1a2dOMDRoK2xnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=",
+"import": false
+},
+{
+"name":"live SKY3",
+"image":"https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
+"url":"https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd3.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTE6NDI6MzUgQU0maGFzaF92YWx1ZT1Ydko0MWRST2lCRlg1a2dOMDRoK2xnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=",
+"import": false
+},
+{
+"name":"live SKY4",
+"image":"https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
+"url":"https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd4.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTE6NDI6MzUgQU0maGFzaF92YWx1ZT1Ydko0MWRST2lCRlg1a2dOMDRoK2xnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=",
+"import": false
+},
 ]
 }
