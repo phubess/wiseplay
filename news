@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES"tvg-logo="",BEIN MOVIES 1
 http://iptv6.premium-stv.com:25461/sourcebeinentersnow/5442249662/1466
+#EXTINF:-1 group-title="MOVIES"tvg-logo="",BEIN MOVIES 2
+http://iptv6.premium-stv.com:25461/sourcebeinentersnow/5442249662/1467
