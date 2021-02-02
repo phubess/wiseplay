@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="tumlive"tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",live SKY1
+https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd1.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTI6MDY6MDUgUE0maGFzaF92YWx1ZT1VZ2ljd245UnJUZGZ2MGFma2ZYNmd3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=
+#EXTINF:-1 group-title="tumlive"tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",live SKY2
+https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd2.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTI6MDY6MDUgUE0maGFzaF92YWx1ZT1VZ2ljd245UnJUZGZ2MGFma2ZYNmd3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=
+#EXTINF:-1 group-title="tumlive"tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",live SKY3
+https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd3.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTI6MDY6MDUgUE0maGFzaF92YWx1ZT1VZ2ljd245UnJUZGZ2MGFma2ZYNmd3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=
+#EXTINF:-1 group-title="tumlive"tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",live SKY4
+https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd4.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTI6MDY6MDUgUE0maGFzaF92YWx1ZT1VZ2ljd245UnJUZGZ2MGFma2ZYNmd3PT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=
+
+
+
+
+
+
