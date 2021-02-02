@@ -23,6 +23,13 @@
   {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+        "url": "https://node11.cloud-streaming.com/ball8k_t1/trueepl1_480p/chunks.m3u8","referer": "https://ball8k.com/"
+}, 
+       
+},
+  {
+       "name":"True Premier Football HD 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
         "url": "http://119.59.116.83:8081/4k/t1/playlist.m3u8", 
         "import": false
 },
