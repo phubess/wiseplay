@@ -11,7 +11,7 @@
   {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "https://live7.fwstream.com/transcoder_F1/premierhd1_fwiptv.stream/chunks.m3u8?nimblesessionid=325823&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTI6MjI6MDAgUE0maGFzaF92YWx1ZT1yWmFLS1RleW1BZEhzdW1DWGVXd0hnPT0mdmFsaWRtaW51dGVzPTI=", 
+        "url": "https://live9.fwstream.com/transcoder_F1/premierhd1_fwiptv.stream/chunks.m3u8?nimblesessionid=329721&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTI6Mjc6MzYgUE0maGFzaF92YWx1ZT1RS2NIR3RrUnJzU1hVUkpBLzRVbHpRPT0mdmFsaWRtaW51dGVzPTI=", 
         "import": false
 },
   {
@@ -24,8 +24,6 @@
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
         "url": "https://node11.cloud-streaming.com/ball8k_t1/trueepl1_480p/chunks.m3u8","referer": "https://ball8k.com/"
-}, 
-       
 },
   {
        "name":"True Premier Football HD 1",
