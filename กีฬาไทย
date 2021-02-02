@@ -79,25 +79,25 @@
  {
        "name":"True Premier Football HD 3",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	 "url": "https://www.boxmovie-th.com/boxmovies/EPL3/index.m3u8",
-	  "import": false
+	"url": "https://www.boxmovie-th.com/boxmovies/EPL3/index.m3u8",
+	 "import": false
 },
  {
        "name":"True Premier Football HD 3",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	 "url": "https://live.andaman888th.com/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://andaman888th.com/"
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
+	"url": "https://live.andaman888th.com/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://andaman888th.com/"
 },
   {
        "name":"True Premier Football HD 4",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
-	 "url": "https://niklive.com/live/feed/epl4/index.m3u8",
-	 "import": false
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
+       "url": "https://niklive.com/live/feed/epl4/index.m3u8",
+       "import": false
 },
   {
        "name":"True Premier Football HD 4",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
-	 "url": "https://www.boxmovie-th.com/boxmovies/EPL4/index.m3u8",
-	 "import": false
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
+       "url": "https://www.boxmovie-th.com/boxmovies/EPL4/index.m3u8",
+       "import": false
 },
   {
        "name":"True Premier Football HD 4",
