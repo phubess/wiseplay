@@ -10,7 +10,8 @@
 "name":"True Film Asia",
 "image":"https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",
 "url":"https://tumlive109.dvrdns.org:30443/tumlive/FLA/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTE6NDI6MzUgQU0maGFzaF92YWx1ZT1Ydko0MWRST2lCRlg1a2dOMDRoK2xnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=",
-"import": false
+"userAgent": "exoplayer_video",
+ "playInNatPlayer": "true"
 },
 {
 "name":"TRUE MOVIE HITS",
@@ -28,7 +29,8 @@
 "name":"live SKY1",
 "image":"https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
 "url":"https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd1.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjEgMTE6NDI6MzUgQU0maGFzaF92YWx1ZT1Ydko0MWRST2lCRlg1a2dOMDRoK2xnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEyNC4xMjEuOTAuNDg=",
-"import": false
+"userAgent": "exoplayer_video",
+ "playInNatPlayer": "true"
 },
 {
 "name":"live SKY2",
