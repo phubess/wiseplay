@@ -27,18 +27,6 @@
 },
   {
        "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "http://119.59.116.83:8081/4k/t1/playlist.m3u8", 
-        "import": false
-},
-  {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "https://niklive.com/live/epl1-07-8/index.m3u8", 
-        "import": false
-},
-  {
-       "name":"True Premier Football HD 1",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
        "url": "http://160.119.77.117/iptv/bsb-epl1.stream/chunks.m3u8",
         "import": false
