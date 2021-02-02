@@ -7,11 +7,7 @@
        "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "https://player.ballnaka.tv/?channel=cnhd&cate=kids","referer": "https://ballnaka.tv/"
-},
-    { 
-        "name":"Cartoon Network",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-       "url": "https://www.iptv4k.tv/tv/441","referer": "https://www.iptv4k.tv/"
+
 },
     { 
         "name":"Cartoon Network",
@@ -39,7 +35,7 @@
     { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/74.m3u8",
+        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/76.m3u8",
         "import": false
 },
     { 
@@ -218,6 +214,13 @@
       "image": "https://ih1.redbubble.net/image.1092690512.3342/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",              
        "url": "http://stream.atr.ua/lale//live/index.m3u8",
        "import": false
+ },
+    { 
+      "name": "Nick Junior",
+      "image": "",              
+       "url": "http://203.207.56.228/live/iptv018.m3u8",
+       "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true" 
  
 },
 ]
