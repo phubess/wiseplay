@@ -1,15 +1,3 @@
-{
-    "name": "phubess",
-    "author": "เทส",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1FCk4ILwKxcNzcvjHpj0lqPVfuUCGKeg2w&usqp=CAU",
-    "stations": [ 
-  {
-    "name": "TEST",
-      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",
-      "url": "https://livebox.co/LiveTv/Player?contentHash=70&returnUrl=%2FLiveTv","referer": "https://livebox.co/LiveTv"
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
-  
- },
-]
-}
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/JCvjvxp/bein.jpg",BEIN MOVIES 1
+http://novaiptv.vip:80/kaled/kaled@2019/8748
