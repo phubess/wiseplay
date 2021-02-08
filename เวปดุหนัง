@@ -1,6 +1,6 @@
 {  
     "name": "เวปดูหนัง",
-    "author": "update 3/1/2021",
+    "author": "update 8/2/2021",
     "image": "https://pgslotvip.game/wp-content/uploads/2020/09/tips065.jpg",       
     "stations": [ 
  { 
@@ -119,9 +119,39 @@
     "url": "https://xn--l3car8bzaq6f.baanball.com/","embed": true   
 },
  {
-    "name": "baanball",  
-    "image": "https://ดูบอลสด.baanball.com/images/logo/WOpjn9yHrZoI6DI83d81fYFS9l99TPMsafe_image.png", 
-    "url": "https://xn--l3car8bzaq6f.baanball.com/","embed": true      
+    "name": "doofree365",  
+    "image": "https://backend.doofree365.com/public/setting/1610452849_c6ea3c131c0fb41e4517.png", 
+    "url": "https://doofree365.com/","embed": true  
+},
+ {
+    "name": "dooball66",  
+    "image": "https://dooball66.com/wp-content/uploads/2020/07/cropped-logo.png", 
+    "url": "https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/","embed": true 
+},
+ {
+    "name": "ballnaka",  
+    "image": "https://ballnaka.tv/images/logo.png", 
+    "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C","embed": true
+},
+ {
+    "name": "ball8k",  
+    "image": "https://ball8k.com/m/assets/img/ball8k_logo.png", 
+    "url": "https://ball8k.com/m/index.php","embed": true  
+ },
+ {
+    "name": "ballsodhd",  
+    "image": "https://ballsodhd.com/wp-content/uploads/2019/12/121382.jpg", 
+    "url": "https://ballsodhd.com/","embed": true 
+ },
+ {
+    "name": "bettopfivemovie",  
+    "image": "https://bettopfivemovie.com/wp-content/uploads/2020/04/Logo-bettopfivemovie-new2.png", 
+    "url": "https://bettopfivemovie.com/","embed": true 
+ },
+ {
+    "name": "doofree88",  
+    "image": "https://www.doofree88.com/images/logo.png", 
+    "url": "https://www.doofree88.com/","embed": true 
 },
 ]
 }
