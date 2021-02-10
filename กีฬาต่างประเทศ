@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 10/2/2021",
+    "author": "update 11/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -50,7 +50,8 @@
       "name": "skynet sport hd",
       "image": "https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png",
       "url": "http://103.208.24.234:1935/live1/SKYNET-SPORT-HD.stream/playlist.m3u8",
-       "import": false
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true" 
 },
  {
       "name": "premiersport 2",
