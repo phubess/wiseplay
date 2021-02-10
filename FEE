@@ -1,0 +1,313 @@
+{
+"name": "Test TV",
+"author": "thanh51- Path gg.gg/4hf11",
+"image": "https://wiseplay.tv/wp-content/uploads/2016/10/logo512.png",
+"url": "http://w3ubin.com/NkQOeAv4G.w3u",
+"imageScale": "",
+"contact": "",
+"groups": [
+{
+"name": "doomovie-hd.com",
+"image": "https://www.doomovie-hd.com/assets/img/dmhd.png",
+"stations": [
+{
+"image": "https://i.postimg.cc/wMRGFDFm/lich.jpg",
+"name": "ตารางฟุตบอล",
+"url": "https://www.chklive.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true"
+},
+{
+"name": "BEIN SPORT HD 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=18",
+"isHost": true
+},
+{
+"name": "BEIN SPORT HD 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=19",
+"isHost": true
+},
+{
+"name": "BEIN SPORT HD 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein3.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=20",
+"isHost": true
+},
+{
+"name": "BEIN SPORT HD 4",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein4.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=21",
+"isHost": true
+},
+{
+"name": "TRUE SPORT HD1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=22",
+"isHost": true
+},
+{
+"name": "TRUE SPORT HD2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=23",
+"isHost": true
+},
+{
+"name": "TRUE SPORT HD3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=24",
+"isHost": true
+},
+{
+"name": "NBA HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=25",
+"isHost": true
+},
+{
+"name": "TENNIS HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=26",
+"isHost": true
+},
+{
+"name": "GOLF CHANNEL HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=27",
+"isHost": true
+},
+{
+"name": "FOX SPORT HD1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=28",
+"isHost": true
+},
+{
+"name": "FOX SPORT 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=29",
+"isHost": true
+},
+{
+"name": "FOX SPORT 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=30",
+"isHost": true
+},
+{
+"name": "TRUE SPORT 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=31",
+"isHost": true
+},
+{
+"name": "TRUE SPORT 5",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=32",
+"isHost": true
+},
+{
+"name": "TRUE SPORT 6",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=33",
+"isHost": true
+},
+{
+"name": "TRUE SPORT 7",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=60",
+"isHost": true
+},
+{
+"name": "EURO SPORT",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport1.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=69",
+"isHost": true
+},
+{
+"name": "EURO SPORT2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport2.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=70",
+"isHost": true
+},
+{
+"name": "EDGE HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-edge.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=115",
+"isHost": true
+},
+{
+"name": "TRUE SPORT HD4",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=116",
+"isHost": true
+},
+{
+"name": "Premier Football HD 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=151",
+"isHost": true
+},
+{
+"name": "Premier Football HD 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=152",
+"isHost": true
+},
+{
+"name": "Premier Football HD 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=153",
+"isHost": true
+},
+{
+"name": "Premier Football HD 4",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=154",
+"isHost": true
+},
+{
+"name": "Premier Football HD 5",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
+"isHost": true
+},
+{
+"name": "PPTV HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=9",
+"isHost": true
+},
+{
+"name": "MUTV UK",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=71",
+"isHost": true
+},
+{
+"name": "WWE US",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-wwe.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=72",
+"isHost": true
+},
+{
+"name": "LFCTV UK",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/uk-lfctv.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=73",
+"isHost": true
+},
+{
+"name": "CHELSEA TV",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportsplus.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=74",
+"isHost": true
+},
+{
+"name": "SKYNET SPORT 6",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=75",
+"isHost": true
+},
+{
+"name": "SKYNET SPORT 5",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=76",
+"isHost": true
+},
+{
+"name": "SKYNET SPORT 4",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=77",
+"isHost": true
+},
+{
+"name": "SKYNET SPORT 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=78",
+"isHost": true
+},
+{
+"name": "SKYNET SPORT 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=79",
+"isHost": true
+},
+{
+"name": "SKYNET SPORT 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=80",
+"isHost": true
+},
+{
+"name": "SKYNET SPORT HD",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=81",
+"isHost": true
+},
+{
+"name": "Sport TV 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/20180603112102Sport TV 1.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=139",
+"isHost": true
+},
+{
+"name": "Sport TV 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/20180603112031Sport TV 2.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=140",
+"isHost": true
+},
+{
+"name": "Sport TV 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/20180603111957Sport TV 3.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=141",
+"isHost": true
+},
+{
+"name": "Sport TV 4",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/20180603111929Sport TV 4.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=142",
+"isHost": true
+},
+{
+"name": "Sport TV 5",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/20180603111852Sport TV 5.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=143",
+"isHost": true
+},
+{
+"name": "Bein France 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/20180417112454Bein France 1.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=148",
+"isHost": true
+},
+{
+"name": "Bein France 2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/20180417112437Bein France 2.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=149",
+"isHost": true
+},
+{
+"name": "Bein France 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/20180417112309Bein France 3.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=150",
+"isHost": true
+},
+{
+"name": "BT SPORT HD1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=156",
+"isHost": true
+},
+{
+"name": "BT SPORT HD2",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=157",
+"isHost": true
+}
+]
+}
+]
+}
+]
