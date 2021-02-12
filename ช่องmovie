@@ -331,42 +331,73 @@
   {
        "name": "TV CABLE 2",  
        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-       "url": "https://player.we-play.tv/channel.php?name=hi-def1&cate=entertainment","referer": "https://player.we-play.tv"
+       "url": "http://45.91.134.168:8080/Ktu-sky2/sky2/4",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   {
        "name": "TV CABLE 3",  
        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-       "url": "https://live1.thaitvstream.com:443/play/pmnewstv/index.m3u8",
-       "import": false
+       "url": "http://45.91.134.168:8080/Ktu-live-sky1/live-sky1/5",
+       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   {
        "name": "TV CABLE 4",  
        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-       "url": "https://www.fwiptv.cc/player_demo.php?channel=89781",
+       "url": "http://45.91.134.168:8080/Ktu-live-sky2/live-sky2/6",
        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"  
 },
   {
         "name": "TV CABLE 5",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "https://www.fwiptv.cc/player_demo.php?channel=89782",
+        "url": "http://45.91.134.168:8080/Ktu-live-sky3/live-sky3/7",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+ },
+  {
+        "name": "TV CABLE 6",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://45.91.134.168:8080/Ktu-live-sky4/live-sky4/8",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"       
+},
+  {
+        "name": "TV CABLE 7",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://45.91.134.168:8080/Ktu-series/series/9",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"          
+ },
+  {
+        "name": "TV CABLE 8",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://45.91.134.168:8080/Ktu-movies-sat-asia/movies-sat-asia/10",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
+},
+  {
+        "name": "TV CABLE 9",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://45.91.134.168:8080/Ktu-asia-film/asia-film/11",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
+},
+  {
+        "name": "TV CABLE 10",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://45.91.134.168:8080/Ktu-i-movie/i-movie/12",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+  {
+        "name": "TV CABLE 11",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://45.91.134.168:8080/Ktu-i-asia/i-asia/13",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "http://27.254.142.14/flimasia.m3u8",
-      "import": false
-},
-  { 
-     "name": "True Film Asia",
-      "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com/live/filmasia.m3u8",
+      "url": "https://boxmovielive.com/live/fa.m3u8",
       "import": false
 },
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/his1.m3u8",
+      "url": "https://boxmovielive.com/live/h.m3u8",
      "import": false
 },
   { 
@@ -385,12 +416,6 @@
      "name": "Celestial Classic Movies",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
       "url": "https://player.we-play.tv/channel.php?name=ccm&cate=entertainment","referer": "https://player.we-play.tv"
-},
-  { 
-     "name": "Celestial Classic Movies",
-      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
-      "url": "http://27.254.142.14/ccm.m3u8",
-      "import": false
 },
    { 
       "name": "Hits",
@@ -415,13 +440,7 @@
   { 
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
-       "url": "http://27.254.142.14/tvn.m3u8",
-       "import": false
-},
-  { 
-      "name": "TVN",
-      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
-       "url": "https://www.boxmovie-th.com/boxmovies/TVN/index.m3u8",
+       "url": "https://boxmovielive.com/live/tvn.m3u8",
        "import": false
 },
   { 
@@ -438,12 +457,7 @@
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=scm&cate=entertainment","referer": "https://player.we-play.tv"
-},
-  { 
-      "name": "Star Chinese Movies",
-      "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
-       "url": "https://boxmovielive.com/live/starmovie10.m3u8",
-       "import": false
+
 },
  {
      "name": "Zeenung AIS",
