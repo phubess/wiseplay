@@ -1,52 +1,17 @@
 {  
     "name": "เวปดูหนัง",
-    "author": "update 9/2/2021",
+    "author": "update 13/2/2021",
     "image": "https://pgslotvip.game/wp-content/uploads/2020/09/tips065.jpg",       
     "stations": [ 
  { 
-    "name": "doo2you",  
-    "image": "https://www.234.in.th/images/2020/12/21/898989.png", 
-    "url": "https://www.doo2you.com/","embed": true
-},
+   "name": "doball4you",  
+    "image": "https://doball4you.com/wp-content/themes/understrap/img/doball4you_logo.gif", 
+    "url": "https://doball4you.com/","embed": true 
+ },
  {
-    "name": "700freehd",  
-    "image": "https://700freehd.com/wp-content/uploads/2020/02/700logo-e1582033816718.png", 
-    "url": "https://700freehd.com/","embed": true
-},
- {
-    "name": "doonung24hr",  
-    "image": "https://doonung24hr.com/wp-content/uploads/2020/10/donung24hr.png", 
-    "url": "https://doonung24hr.com/","embed": true
-},
- {
-    "name": "doonung1234",  
-    "image": "https://www.doonung1234.com/asset/web/img/logo.png", 
-    "url": "https://www.doonung1234.com/","embed": true
-},
- {
-    "name": "movie2freehd",  
-    "image": "https://movie2freehd.com/wp-content/uploads/2020/11/logo.png", 
-    "url": "https://movie2freehd.com/","embed": true
-},
- {
-    "name": "mgmmovie",  
-    "image": "https://www.mgmmovie.com/images/logo/tYfRQLFzGz0a2HQvjkPGB9mkaMr8B7cmgmmovie.png", 
-    "url": "https://www.mgmmovie.com/","embed": true
-},
- {
-    "name": "365hd",  
-    "image": "https://365hd.net/wp-content/uploads/2020/07/RED-365.png", 
-    "url": "https://365hd.net/","embed": true
-},
- {
-    "name": "we-play",  
-    "image": "https://www.we-play.tv/images/logo.png", 
-    "url": "https://www.we-play.tv/movies","embed": true
-},
- {
-    "name": "fwiptv",  
-    "image": "https://www.fwiptv.cc/images/fwiptv/fwiptv.png", 
-    "url": "https://www.fwiptv.cc/","embed": true
+    "name": "ballsodhd",  
+    "image": "https://ballsodhd.com/wp-content/uploads/2019/12/121382.jpg", 
+    "url": "https://ballsodhd.com/","embed": true 
  },
  {
     "name": "2499hdonline",  
