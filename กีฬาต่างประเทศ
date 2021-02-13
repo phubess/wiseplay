@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 11/2/2021",
+    "author": "update 13/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -28,11 +28,10 @@
       "url": "https://ball8k.com/m/ch.php?stream=beinsports2tu","referer": "https://ball8k.com/"
 },     
 {
-       "name": "NBA ONESHOT",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1608379656243_movie_image.jpg",
-      "url": "http://203.154.243.32:8088/live/nba/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
+       "name": "vsport football",
+      "image": "https://i1.adis.ws/i/dna/VSport_football?fmt=jpg&bg=rgb(255,255,255)&qlt=100&w=1200&h=1200",
+      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5422.m3u8",
+      "import": false
 },
  {
       "name": "FIGHT BOX",
@@ -100,11 +99,60 @@
       "image": "https://media.info/i/lf/300/1489224113/6550.png",
       "url": "https://chostv.mobie.in/choos/sports/arena1.m3u8",
        "import": false 
-       
-       
-       
-       
-       
+ },
+ {
+      "name": "star sport 1",
+      "image": "https://bit.ly/2ZdZe7y",
+      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5430.m3u8",
+       "import": false       
+ },
+ {
+      "name": "star sport 2",
+      "image": "https://i.pinimg.com/originals/f4/42/09/f4420978ab1464b77de927ca4fa6527f.png",
+      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5430.m3u8",
+       "import": false       
+},
+ {
+      "name": "tivibu spor",
+      "image": "https://sport-tv-guide.live/images/stations/a648.png",
+      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5439.m3u8",
+       "import": false       
+},
+ {
+      "name": "sk2",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/sk2.jpg",
+      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5444.m3u8",
+       "import": false       
+ },
+ {
+      "name": "nbatv",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
+      "url": http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5450.m3u8"",
+       "import": false       
+ },
+  {
+       "name":"digisport1 HD",
+        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",
+        "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5454.m3u8", 
+        "import": false
+ },
+  {
+       "name":"beinsports max 8",
+        "image": "http://one-iptv.com/logoX/bein/beinmax8.png",
+        "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5466.m3u8", 
+        "import": false
+  },
+  {
+       "name":"beinsport 2",
+        "image": "https://overseer.blackboxsys.net/images/png/hd-bein2.png",
+        "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5481.m3u8", 
+        "import": false
+  },
+  {
+       "name":"beinsport 5",
+        "image": "https://overseer.blackboxsys.net/images/png/hd-bein5.png",
+        "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5478.m3u8", 
+        "import": false
 },
  {
       "name": "TeleSport",
@@ -121,7 +169,8 @@
  {
       "name": "LIVERPOOL TV",
       "image": "https://ball8k.com/stream/img_ch/20201015234027_1602779966739.jpg",
-      "url": "https://ball8k.com/m/ch.php?stream=lfctv","referer": "https://ball8k.com/"
+      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5425.m3u8",
+      "import": false
 },
  {
       "name": "MUTV",
@@ -169,7 +218,7 @@
       "name": "Diemasport1",
       "image": "https://ball8k.com/stream/img_ch/20200923165711_diemasport1.jpg",
       "url": "https://ball8k.com/m/ch.php?stream=diemasport1","referer": "https://ball8k.com/"
-         
+       
 },
  {
       "name": "Cmorefootball",
