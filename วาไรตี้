@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 1/2/2021",
+    "author": "update 14/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -11,8 +11,9 @@
  {
      "name": "FOOD NETWORK HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
-     "url": "https://boxmovielive.com/live/food.m3u8",
-     "import": false 
+     "url": "http://45.91.134.168:8080/Ktu-food-network/food-network/14",
+     "userAgent": "exoplayer_video",
+     "playInNatPlayer": "true" 
 },
  {
      "name": "Asian Food Network ",
@@ -111,31 +112,22 @@
  {
      "name": "BLUEANT ENTERTAINMENT",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
-     "url": "http://api-center.movieclubhd.tv/api_xml2/tv/ch/get/play?channel_code=blueant&user_loggedsession=609e3199d42b793688e1351acc97e614",
-     "import": false
-},
- {
-     "name": "BLUEANT ENTERTAINMENT",
-     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
-     "url": "https://niklive.com/live/feed/blueantent/index.m3u8",
-     "import": false
+     "url": "http://45.91.134.168:8080/Ktu-bluered/bluered/50",
+     "userAgent": "exoplayer_video",
+     "playInNatPlayer": "true"
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
      "url": "https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment","referer": "https://player.we-play.tv"
+
 },
  {
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "https://boxmovielive.com/live/tex1.m3u8", 
-     "import": false
-},
- {
-     "name": "BLUEANT EXTREME",
-     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "https://niklive.com/live/Blue-Ant/index.m3u8", 
-     "import": false
+     "url": "http://45.91.134.168:8080/Ktu-blueantex/blueantex/34", 
+     "userAgent": "exoplayer_video",
+     "playInNatPlayer": "true"
 },
  {
      "name": "BLUEANT EXTREME",
