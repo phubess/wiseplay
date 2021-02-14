@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 13/2/2021",
+    "author": "update 14/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {
@@ -92,12 +92,6 @@
        "name":"True Premier Football HD 3",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
 	"url": "https://live.andaman888th.com/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://andaman888th.com/"
-},
-  {
-       "name":"True Premier Football HD 4",
-       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
-       "url": "https://niklive.com/live/feed/epl4/index.m3u8",
-       "import": false
 },
   {
        "name":"True Premier Football HD 4",
