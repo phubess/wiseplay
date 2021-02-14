@@ -4,12 +4,7 @@
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
-     "name": "FOOD NETWORK HD",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
-     "url": "https://player.we-play.tv/channel.php?name=foodnetwork&cate=entertainment","referer": "https://player.we-play.tv"
-},
- {
-     "name": "FOOD NETWORK HD",
+    "name": "FOOD NETWORK HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
      "url": "http://45.91.134.168:8080/Ktu-food-network/food-network/14",
      "userAgent": "exoplayer_video",
@@ -30,31 +25,15 @@
  {
      "name": "GEM",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611707943462_movie_image.jpg",              
-     "url": "https://boxmovielive.com/live/gem.m3u8",
+     "url": "http://45.126.83.51/session/4b965e82-6e78-11eb-a799-ba99ac333be4/uq2663/h/h19/02.m3u8",
      "import": false
-},
- {
-      "name": "Lifetime",
-     "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
-     "url": "https://niklive.com/live/feed/t-life/index.m3u8",
-     "import": false
+
 },
  {
     "name": "CHIANGRAI CHANNEL",
      "image": "https://yt3.ggpht.com/ytc/AAUvwnj2RvZQ0xGn814CelpYiOd9fTsxdtq-XVXmfkJ-gQ=s176-c-k-c0x00ffffff-no-rj",              
      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
      "import": false
-},
- {
-     "name": "KMTV HD",
-     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
-     "url": "https://www.boxmovie-th.com/boxmovies/KMTV/index.m3u8",
-     "import": false
-},
- {
-     "name": "KMTV HD",
-     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
-     "url": "https://player.we-play.tv/channel.php?name=kmtv&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
      "name": "Stringray iConcerts HD",
@@ -70,43 +49,19 @@
  {
      "name": "TRUE MUSIC HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://niklive.com:443/live/True-Music-HD/index.m3u8",
+     "url": "https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8",
      "import": false
 },
  {
-     "name": "TRUE MUSIC HD",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://boxmovielive.com/live/truemusci.m3u8",
+     "name": "FTV",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1578592825654_movie_image.png",              
+     "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
      "import": false
 },
  {
-     "name": "TRUE Fashion",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610852372853_movie_image.png",              
-     "url": "https://www.boxmovie-th.com/boxmovies/fashiontv/index.m3u8",
-     "import": false
-},
- {
-     "name": "True Inside HD",
+     "name": "True Inside",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "https://niklive.com:443/live/Inside-HD/index.m3u8",
-     "import": false
-},
- {
-     "name": "Thaithai",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3c46870c-8069-494f-a3c4-4f878e7c348e.png",              
-     "url": "https://niklive.com:443/live/Thaithai/index.m3u8",
-     "import": false
-},
- {
-     "name": "Verytv",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/8b311ba7-dccd-45cb-9b1f-dffca6ee98e2.png",              
-     "url": "https://niklive.com:443/live/Verytv/index.m3u8",
-     "import": false
-},
- {
-     "name": "TRUE LITLE MONK",
-     "image": "http://cms.dmpcdn.com/livetv/2019/07/15/129bbe6c-c859-4d8f-b719-f6a6f87b7668_original.jpg",              
-     "url": "https://niklive.com:443/live/realitychannel-hd/index.m3u8",
+     "url": "http://160.119.77.116:8081/iptv/sd-inside.stream/chunks.m3u8",
      "import": false
 },
  {
@@ -132,6 +87,12 @@
  {
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "http://www.boxmovie-th.com/boxmovies2/blueantex/index.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
      "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
@@ -152,27 +113,6 @@
      "import": false
 },
  {
-     "name": "คมเคียว",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603494358497_movie_image.jpg",              
-     "url": "http://203.154.243.32:8088/live/komkaew/index.m3u8",
-     "userAgent": "exoplayer_video",
-     "playInNatPlayer": "true" 
-},
- {
-     "name": "World Concert",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632270250_movie_image.png",              
-     "url": "http://203.154.243.32:8088/live/worldconcert/index.m3u8",
-     "userAgent": "exoplayer_video",
-     "playInNatPlayer": "true" 
-},
- {
-     "name": "playboytv",
-     "image": "https://seeklogo.net/wp-content/uploads/2013/04/playboy-tv-eps-vector-logo.png",              
-     "url": "http://61.19.242.134/feed/LC54/index.m3u8",
-     "userAgent": "exoplayer_video",
-     "playInNatPlayer": "true" 
-},
- {
      "name": "V Channel",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1606637020738_movie_image.png",              
      "url": "http://61.19.242.134/feed/LC14/index.m3u8",
@@ -188,18 +128,14 @@
  { 
       "name": "True X-ZYTE",
       "image": "https://bit.ly/37a9p0o",              
-       "url": "http://27.254.142.14/xzyte.m3u8",
+       "url": "http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8",
        "import": false
 },
   { 
       "name": "True X-ZYTE",
       "image": "https://bit.ly/37a9p0o",              
        "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment","referer": "https://player.we-play.tv"
-},
-  { 
-      "name": "True X-ZYTE",
-      "image": "https://bit.ly/37a9p0o",              
-       "url": "https://doomovielive.b-cdn.net/hd-xzyte_720/index.m3u8","referer": "https://doomovie.com/"
+
 },
   { 
       "name": "Waku Waku Japan",
@@ -209,19 +145,8 @@
   { 
       "name": "Waku Waku Japan",
       "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
-       "url": "https://zecallion.com/live/KTU_wakuwaku.m3u8",
+       "url": "http://www.boxmovie-th.com/boxmovies2/Wakuwakujapan/index.m3u8",
        "import": false
-},
-  { 
-      "name": "Comedy Central",
-      "image": "https://www.doofree88.com/storage/live/7Fr0GIpJu7kNMaCRREN6bWTeS3fpRNnhStyytFB9.png",              
-       "url": "https://doomovielive.b-cdn.net/hd-comedycentral_720/index.m3u8","referer": "https://doomovie.com/"
-},
-  {
-     "name": "TLC HD",
-     "image": "https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",              
-     "url": "https://boxmovielive.com/live/tlc1.m3u8",
-     "import": false
 },
 {
     "name":"TLC HD",
