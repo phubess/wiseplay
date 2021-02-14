@@ -6,7 +6,7 @@
  {
        "name": "TENNIS TV",
       "image": "https://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",
-      "url": "http://203.154.243.31:8081/live/tennis/index.m3u8 ",
+      "url": "http://203.154.243.31:8081/live/tennis/index.m3u8",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
 },     
@@ -81,7 +81,7 @@
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",
       "url": "http://160.119.77.116:8081/iptv/hd-bein4.stream/chunks.m3u8",
        "import": false
-  },
+ },
  {
       "name": "beIN SPORTS 7",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_7.png",
@@ -206,7 +206,6 @@
       "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",
       "url": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
        "import": false       
-       
 },
  {
       "name": "One Golf",
@@ -218,7 +217,6 @@
       "name": "Diemasport1",
       "image": "https://ball8k.com/stream/img_ch/20200923165711_diemasport1.jpg",
       "url": "https://ball8k.com/m/ch.php?stream=diemasport1","referer": "https://ball8k.com/"
-       
 },
  {
       "name": "Cmorefootball",
@@ -236,45 +234,40 @@
       "url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
        "import": false 
 },
-   {
-       "name":"btsport1",
-        "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/btsport1.png",
-     "url": "https://vvipscore.com/live.php?id=22665","referer": "https://vvipscore.com/" 
-},
  {
        "name":"beinsport1 fr",
        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
        "url": "https://www.doonung1234.com/match/view/7702/beinsport1fr","referer": "https://www.doonung1234.com/" 
 },
-   {
+  {
        "name":"beinsport2 fr",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--401.png",
-     "url": "https://www.doonung1234.com/match/view/7728/beinsport2fr","referer": "https://www.doonung1234.com/" 
+        "url": "https://www.doonung1234.com/match/view/7728/beinsport2fr","referer": "https://www.doonung1234.com/" 
 },
-     {
+  {
        "name":"foxsport1 nl",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",
-     "url": "https://www.doonung1234.com/match/view/7667/foxsport1nl","referer": "https://www.doonung1234.com/" 
+        "url": "https://www.doonung1234.com/match/view/7667/foxsport1nl","referer": "https://www.doonung1234.com/" 
 },
-     {
+  {
        "name":"foxsport2 nl",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--242.png",
-     "url": "https://www.doonung1234.com/match/view/7665/foxsport2nl","referer": "https://www.doonung1234.com/"
+       "url": "https://www.doonung1234.com/match/view/7665/foxsport2nl","referer": "https://www.doonung1234.com/"
 },
  {
        "name":"foxsport3 nl",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--243.png",
-     "url": "https://www.doonung1234.com/match/view/7674/foxsport3nl","referer": "https://www.doonung1234.com/"
+       "url": "https://www.doonung1234.com/match/view/7674/foxsport3nl","referer": "https://www.doonung1234.com/"
 },
  {
        "name":"foxsport4 nl",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--244.png",
-     "url": "https://www.doonung1234.com/match/view/7664/foxsport4nl","referer": "https://www.doonung1234.com/"
+       "url": "https://www.doonung1234.com/match/view/7664/foxsport4nl","referer": "https://www.doonung1234.com/"
 },
  {
        "name":"sporttv1",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
-     "url": "https://www.doonung1234.com/match/view/7663/sporttv1","referer": "https://www.doonung1234.com/"
+       "url": "https://www.doonung1234.com/match/view/7663/sporttv1","referer": "https://www.doonung1234.com/"
 },
  {
        "name":"sporttv2",
@@ -284,17 +277,17 @@
  {
        "name":"sporttv3",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",
-     "url": "https://www.doonung1234.com/match/view/7689/sporttv3","referer": "https://www.doonung1234.com/"
+      "url": "https://www.doonung1234.com/match/view/7689/sporttv3","referer": "https://www.doonung1234.com/"
 },
  {
        "name":"sporttv4",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",
-     "url": "https://www.doonung1234.com/match/view/7688/sporttv4","referer": "https://www.doonung1234.com/"
+       "url": "https://www.doonung1234.com/match/view/7688/sporttv4","referer": "https://www.doonung1234.com/"
 },
  {
        "name":"sportdigital",
         "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",
-     "url": "https://www.doonung1234.com/match/view/7688/sportdigital","referer": "https://www.doonung1234.com/"
+       "url": "https://www.doonung1234.com/match/view/7688/sportdigital","referer": "https://www.doonung1234.com/"
 
 },
   {
