@@ -9,10 +9,17 @@
          "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
   {
-       "name":"True Premier Football HD 1",
+       "name":"True Premier Football HD 1 B",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "https://doball4you.com/play2.api.php?id=9869",
-	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+        "url": "http://www.boxmovie-th.com/boxmovies2/premierhd1/playlist.m3u8",
+	"import": false
+},
+  {
+       "name":"True Premier Football HD 1 K",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+        "url": "http://203.159.94.40:25461/Ktu-EPL1/EPL1/4", 
+        "userAgent": "exoplayer_video",
+        "playInNatPlayer": "true"
 },
   {
        "name":"True Premier Football HD 1",
