@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 3/2/2021",
+    "author": "update 14/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -154,7 +154,7 @@
   { 
     "name":"ThaiPBS HD ",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=d7182fae6e9f4d929bdb5ae06059bda8",
+    "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
     "import": false
 },
   { 
@@ -182,7 +182,7 @@
   { 
     "name":"Amarin",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=78f57ebcf6064b308d75208a20756983",
+    "url": "https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u8",
     "import": false
 },
   { 
@@ -211,7 +211,7 @@
   { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=7e069540a35942e89245865a84add64a",
+    "url": "https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8",
     "import": false
 },
   { 
@@ -239,7 +239,7 @@
   { 
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=b1bc90419ccb4885bb0b544bb2b8ee83",
+    "url": "http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
     "import": false
 },
   { 
@@ -333,8 +333,9 @@
   {
      "name": "True4U HD",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
-     "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=9ece9059930d4331a3d445f96fb30dff",
-     "import": false
+     "url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
   { 
     "name":"True4U",
@@ -368,12 +369,6 @@
     "name":"MONO29 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
     "url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8", 
-    "import": false
-},
-  { 
-    "name":"MONO29",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=fd23603db67344c69a8304a2fca268cd", 
     "import": false
 },
   { 
