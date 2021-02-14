@@ -39,12 +39,6 @@
      "url": "http://dootvthai-hd.com/cmd/hbo/maxhd/playlist.m3u8",
      "import": false
 },
-  {
-     "name": "MONO Plus",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611650924519_movie_image.jpg",              
-     "url": "https://boxmovielive.com/live/monop.m3u8",
-     "import": false
-},
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
@@ -54,8 +48,9 @@
    {
      "name": "FOX MOVIES ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com/live/foxmo.m3u8",
-     "import": false
+     "url": "http://45.91.134.168:8080/Ktu-foxpremium/foxpremium/31",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"  
 },
    {
      "name": "FOX MOVIES",
@@ -71,8 +66,15 @@
   {
      "name": "FOX ACTION MOVIES ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://cdn-edge-sg3.iptv4k.tv/play/ffbb1d25bf3e64caaa718084923dc3ad/1f6f044ab5a9f226d747de3f0904fa90/1612115761/playlist.m3u8", 
-     "import": false  
+     "url": "http://45.91.134.168:8080/Ktu-foxactionmovie/foxactionmovie/32", 
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+ },
+   {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "http://www.boxmovie-th.com/boxmovies2/FoxactionmovieTH/index.m3u8",
+      "import": false
  },
    {
      "name": "FOX ACTION MOVIES",
@@ -83,20 +85,13 @@
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "https://doomovielive.b-cdn.net/hd-foxaction_720/index.m3u8","referer": "https://doomovie.com/"
-
 },
   {
-     "name": "FOX ACTION MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://niklive.com/live/warning/test/foxactionmovie-en/index.m3u8", 
-     "import": false  
-},
- {
-     "name": "FOX ACTION MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com/live/fox11.m3u8", 
-     "import": false
-
+     "name": "FOX ไทย",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "http://45.91.134.168:8080/Ktu-foxthai/foxthai/42", 
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
   {
      "name": "FOX ไทย",
@@ -110,17 +105,17 @@
      "url": "https://player.we-play.tv/channel.php?name=foxth&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
-     "name": "Fox Family Movies ไทย",
+     "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com/live/foxfamily.m3u8",     
-     "import": false
+     "url": "http://45.91.134.168:8080/Ktu-fox-family/foxfamily/33",     
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
   {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://zecallion.com/live/KTU_401family.m3u8",     
+     "url": "http://www.boxmovie-th.com/boxmovies2/fox-family/playlist.m3u8",
      "import": false
-
 },
   {
      "name": "Fox Family Movies",
@@ -135,8 +130,9 @@
   {
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
-     "url": "https://cdn-edge-sg3.iptv4k.tv/play/57be457b98b9adf8c23d018a1b6f26c3/30478f86fc7c345ea6b11dbf71457471/1612116466/playlist.m3u8", 
-      "import": false
+     "url": "http://45.91.134.168:8080/Ktu-foxlife/foxlife/43", 
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
   {
      "name": "Fox Life",
@@ -223,14 +219,16 @@
    {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "https://boxmovielive.com/live/warner.m3u8",
-     "import": false
+     "url": "http://45.91.134.168:8080/Ktu-warnertv/warnertv/48",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
    {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "https://niklive.com/live/War-ner/index.m3u8",
-     "import": false
+     "url": "http://203.154.177.124:8899/live/ch12/chunks.m3u8",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
    {
     "name": "Warner TV",
@@ -241,25 +239,17 @@
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://player.we-play.tv/channel.php?name=warner&cate=entertainment","referer": "https://player.we-play.tv"
-
+},
+   {
+     "name": "Paramount Channel",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
+     "url": "http://www.boxmovie-th.com/boxmovies2/Paramount/index.m3u8",
+     "import": false
 },
    {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
      "url": "https://player.we-play.tv/channel.php?name=paramount&cate=entertainment","referer": "https://player.we-play.tv"
-},
-   {
-     "name": "Paramount Channel",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "https://boxmovielive.com/live/para.m3u8",
-     "import": false
-},
-   {
-     "name": "Paramount Channel",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "https://niklive.com:443/live/Paramount/index.m3u8",
-     "import": false
-
 },
   { 
      "name": "3BB ASIA",
@@ -432,12 +422,6 @@
       "name": "AXN HD",
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
        "url": "https://doomovielive.b-cdn.net/hd-axn_720/index.m3u8","referer": "https://doomovie.com/"
-},
-  { 
-      "name": "TVN",
-      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
-       "url": "https://boxmovielive.com/live/tvn.m3u8",
-       "import": false
 },
   { 
       "name": "TVN",
