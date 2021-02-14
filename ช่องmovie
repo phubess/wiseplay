@@ -168,7 +168,7 @@
   {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
-     "url": ""http://160.119.77.117:80/iptv/hd-asian.stream/chunks.m3u8",
+     "url": "http://160.119.77.117:80/iptv/hd-asian.stream/chunks.m3u8",
      "import": false
 },
   {
