@@ -24,7 +24,7 @@
   {         
         "name":"mysci",
         "image": "https://bit.ly/2XMGyev",
-         "url": "https://boxmovielive.com/live/mysci.m3u8",  
+         "url": "https://boxmovielive.com/live/m1.m3u8",  
          "import": false
 }, 
   { 
@@ -35,7 +35,7 @@
   { 
       "name": "Animal Planet",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
-       "url": "https://boxmovielive.com/live/fi11.m3u8",
+       "url": "http://www.boxmovie-th.com/boxmovies2/Animalplanet/index.m3u8",
        "import": false
 }, 
   { 
@@ -52,7 +52,8 @@
   { 
       "name": "Discovery Asia",
       "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
-       "url": "https://doomovielive.b-cdn.net/hd-discovery_720/index.m3u8","referer": "https://doomovie.com/" 
+       "url": "http://160.119.77.117:80/iptv/hd-discovery.stream/chunks.m3u8",
+       "import": false
 }, 
   { 
       "name": "National Geographic",
@@ -62,7 +63,8 @@
   { 
       "name": "National Geographic",
       "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
-       "url": "https://doomovielive.b-cdn.net/hd-natgeo_720/index.m3u8","referer": "https://doomovie.com/"
+       "url": "http://160.119.77.117/iptv/hd-natgeo.stream/chunks.m3u8",
+       "import": false
 }, 
   { 
       "name": "Nat Geo Wild true",
@@ -71,53 +73,32 @@
        "import": false
 }, 
   { 
-      "name": "Nat Geo Wild ",
-      "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
-       "url": "https://zecallion.com/live/KTU_45NatGeoHD23.m3u8",
-       "import": false
-}, 
-  { 
       "name": "Nat Geo Wild",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
        "url": "https://player.we-play.tv/channel.php?name=natwild&cate=documentary","referer": "https://player.we-play.tv"
 }, 
   { 
-      "name": "Nat Geo Wild",
-      "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
-       "url": "https://doomovielive.b-cdn.net/hd-natgeowild_720/index.m3u8","referer": "https://doomovie.com/" 
-}, 
-  { 
       "name": "History HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-       "url": "http://27.254.142.14/history.m3u8",
+       "url": "https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8",
        "import": false
 }, 
   { 
       "name": "History HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-       "url": "https://niklive.com/live/HISTORY/index.m3u8",
+       "url": "http://160.119.77.117:80/iptv/hd-history.stream/chunks.m3u8",
        "import": false
 }, 
   { 
       "name": "History HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
        "url": "https://player.we-play.tv/channel.php?name=history&cate=documentary","referer": "https://player.we-play.tv"
-}, 
-  { 
-      "name": "History HD",
-      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-       "url": "https://doomovielive.b-cdn.net/hd-history_720/index.m3u8","referer": "https://doomovie.com/"
-},
-  { 
-    "name": "H2 true",
-    "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
-    "url": "https://niklive.com/live/H2/index.m3u8",
-     "import": false
 },
   { 
     "name": "H2",
     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
-    "url": "https://doomovielive.b-cdn.net/hd-history2_720/index.m3u8","referer": "https://doomovie.com/"   
+    "url": "https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8 ",
+     "import": false
 }, 
   { 
       "name": "H2",
@@ -127,7 +108,7 @@
   { 
        "name": "4K LOVE NATURE",
         "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1592281297136_movie_image.jpg",
-         "url": "ttps://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
+         "url": "https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
          "import": false
 },
   { 
@@ -140,67 +121,44 @@
   { 
       "name": "Outdoor Channel true",
       "image": "https://www.iptv4k.tv/images/tv/aSZu0tK0JMPTQEn5z3QMdbKEJKsuoh6201805091959181891278412.jpg",              
-       "url": "http://27.254.142.14/outdoor.m3u8",
-       "import": false
-}, 
+      "url": "http://45.91.134.168:8080/Ktu-outdoor/outdoor/28",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true" 
+},
   { 
-      "name": "Outdoor Channel",
-      "image": "https://www.iptv4k.tv/images/tv/aSZu0tK0JMPTQEn5z3QMdbKEJKsuoh6201805091959181891278412.jpg",              
-       "url": "https://player.we-play.tv/channel.php?name=outdoor&cate=documentary","referer": "https://player.we-play.tv"
- },
-    { 
-      "name": "Love Nature",
-      "image": "https://www.iptv4k.tv/images/tv/32D9btl5XnaiFPsLprTHZSQl3uFpYl6love-nature-4k.png",              
-       "url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary","referer": "https://player.we-play.tv"
-},
-    { 
        "name": "BBC Earth",
         "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-         "url": "https://cdn-edge-sg2.idoohd.com/play/26042b2862a782b8f44225a89f4c0104/b1fc685bd38431a624fb4a8cf63ca807/1611879312/playlist.m3u8",
+         "url": "https://laos-tech-live.b-cdn.net/sd-bbcearth_720/index.m3u8",
          "import": false
 },
-    { 
-       "name": "BBC Earth",
-        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-         "url": "https://cdn-edge-sg2.idoohd.com/play/26042b2862a782b8f44225a89f4c0104/7c154f94c223d2f2b0a42be03f8e5865/1611879406/playlist.m3u8",
-         "import": false
-},
-    { 
+  { 
        "name": "BBC Earth",
         "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
          "url": "http://160.119.77.117/iptv/sd-bbcearth.stream/chunks.m3u8",
          "import": false
 },
-    { 
-       "name": "BBC Earth",
-        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
-         "url": "https://doomovielive.b-cdn.net/sd-bbcearth_720/index.m3u8","referer": "https://doomovie.com/"
-},
    { 
        "name": "BBC Lifestyle",
         "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
-         "url": "https://doomovielive.b-cdn.net/sd-bbclifestyle_720/index.m3u8","referer": "https://doomovie.com/"
+        "url": "https://laos-tech-live.b-cdn.net/sd-bbclifestyle_720/index.m3u8",
+        "import": false
 },
-   { 
-       "name": "BBC Lifestyle",
-        "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
-         "url": "https://dl.dropboxusercontent.com/s/o79pge27vtkfgw3/bbclifestyle.m3u8",
+  { 
+       "name": "Explore Life",
+        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
+         "url": "https://laos-tech-live.b-cdn.net/sd-explife_480/index.m3u8",
+         "import": false
+},
+  { 
+       "name": "Explore Wild",
+        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png",
+         "url": "https://laos-tech-live.b-cdn.net/sd-expwild_480/index.m3u8",
          "import": false
 },
    { 
-       "name": "Explore Life",
-        "image": "https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",
-         "url": "https://doomovielive.b-cdn.net/sd-explife_480/index.m3u8","referer": "https://doomovie.com/"
-},
-   { 
-       "name": "Explore Wild",
-        "image": "https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",
-         "url": "https://doomovielive.b-cdn.net/sd-expwild_480/index.m3u8","referer": "https://doomovie.com/"
-},
-   { 
-       "name": "Explore Wild",
-        "image": "https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png",
-         "url": "https://niklive.com:443/live/TRUE-EXPLOREWILD/index.m3u8",
+       "name": "Explore Sci",
+        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
+         "url": "https://laos-tech-live.b-cdn.net/sd-expsci_480/index.m3u8",
          "import": false
 },
    {
@@ -214,20 +172,6 @@
       "name": "pet club tv",
       "image": "https://i.vimeocdn.com/video/722791670_640.jpg",
       "url": "https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
-},
-   {
-      "name": "AMIMAL SHOW",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/16115656062_movie_image.png",
-      "url": "http://203.154.243.32:8088/live/amazing/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
-},
-   {
-      "name": "amazing",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610851206682_movie_image.png",
-      "url": "http://203.154.243.32:8088/live/amazing/index.m3u8",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
 },
