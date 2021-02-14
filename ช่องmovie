@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 14/2/2021",
+    "author": "update 15/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -56,7 +56,7 @@
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment","referer": "https://player.we-play.tv"
- },
+},
   {
      "name": "FOX ACTION MOVIES ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
@@ -120,7 +120,8 @@
   {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://doomovielive.b-cdn.net/hd-foxfamily_720/index.m3u8","referer": "https://doomovie.com/" 
+     "url": "https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8",
+      "import": false
 },
   {
      "name": "Fox Life",
@@ -386,25 +387,16 @@
       "url": "https://laos-tech-live.b-cdn.net/sd-celestial_480/index.m3u8",
       "import": false
 },
-   { 
-      "name": "Hits",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png",              
-       "url": "https://player.we-play.tv/channel.php?name=hits&cate=entertainment","referer": "https://player.we-play.tv"
-},
-   { 
-      "name": "Hits Movies",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png",              
-       "url": "https://player.we-play.tv/channel.php?name=hitsmovies&cate=entertainment","referer": "https://player.we-play.tv"
-},
-   { 
+  { 
       "name": "AXN HD",
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
        "url": "https://player.we-play.tv/channel.php?name=axn&cate=entertainment","referer": "https://player.we-play.tv"
 },
-   { 
+  { 
       "name": "AXN HD",
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
-       "url": "https://doomovielive.b-cdn.net/hd-axn_720/index.m3u8","referer": "https://doomovie.com/"
+       "url": "https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8",
+       "import": false
 },
   { 
       "name": "TVN",
