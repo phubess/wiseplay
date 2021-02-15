@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 14/2/2021",
+    "author": "update 16/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -15,17 +15,11 @@
     "url": "https://tv.trueid.net/embed/ch3-hd?autoplay=yes&nopageview=yes",
     "playInNatPlayer": "true"
 },
- {
-     "name": "3 HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
 {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=a4485b656d764f308c63b14a8bf62326",
-   "import": false
+    "url": "https://doofootball.livestream-cdn.com:443/iptv/hd-ch3.stream/chunks.m3u8",
+    "import": false
 },
 {
     "name":"3 HD",
@@ -39,22 +33,17 @@
     "url": "http://a-play.online/tv/5HD/playlist.m3u8",
     "import": false
 },
- {
-     "name": "5 HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5b335ab3d817de6d62889a6b","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
  { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=1d92193b11fe490b8c67d0a88bee3fd6",
+    "url": "http://110.170.117.27:1935/apptv5hd1live/vdo/chunklist_w1011995023.m3u8",
     "import": false
 },
   { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://cdn1.cloud-streaming.live/digital/ch5/digital/5hd/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+    "url": "https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/playlist.m3u8",
+    "import": false
 },
   { 
     "name":"5 HD",
@@ -64,14 +53,9 @@
   { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=ddfa47e726444446864b14e0e819fdde",
-    "import": false
-},
- {
-     "name": "7 HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5abdd28daae73161cb8ef446","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+    "url": "https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8",
+     "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"7 HD",
@@ -81,7 +65,8 @@
   { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://cdn1.cloud-streaming.live/digital/ch7/digital/7hd/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+    "url": "https://doofootball.livestream-cdn.com:443/iptv/hd-ch7.stream/chunks.m3u8",
+    "import": false
 },
   { 
     "name":"MCOT HD",
@@ -89,16 +74,10 @@
     "url": "http://a-play.online/tv/9mcot/playlist.m3u8",
     "import": false
 },
- {
-     "name": "MCOT HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5efec3f10f6d9dc4b26c6e77","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
   { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=3ae2fd6ccaf6499e898de377ed74ea12",
+    "url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8",
     "import": false
 },
   { 
@@ -107,49 +86,29 @@
     "url": "https://player.we-play.tv/channel.php?name=mcothd&cate=digitaltv","referer": "https://player.we-play.tv"
 },
   { 
-    "name":"MCOT HD",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "https://cdn1.cloud-streaming.live/digital/mcot/digital/mcot/chunks.m3u8","referer": "https://bettopfivemovie.com/"
-},
-  { 
     "name":"NBT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
     "url": "http://a-play.online/tv/nbt/playlist.m3u8",
     "import": false
 },
- {
-     "name": "NBT HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+  { 
+    "name":"NBT HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+    "url": "https://cdn6.goprimetime.info//feed//chnbt//index.m3u8",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"NBT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=ce9a1585f45d4379970b95308df3f879",
+    "url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
     "import": false
-},
-  { 
-    "name":"NBT HD",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "https://doomovielive.b-cdn.net/sd-nbt_720/index.m3u8","referer": "https://doomovie.com/"
-},
-  { 
-    "name":"NBT HD",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "https://cdn1.cloud-streaming.live/digital/nbt/digital-sp/nbt/chunks.m3u8","referer": "https://bettopfivemovie.com/"
 },
   { 
     "name":"ThaiPBS HD ",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
     "url": "http://a-play.online/tv/thaipbs/playlist.m3u8",
     "import": false
-},
- {
-     "name": "ThaiPBS HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=597b93a97ed5a24e45c3ab13","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   { 
     "name":"ThaiPBS HD ",
@@ -165,19 +124,14 @@
   { 
     "name":"ThaiPBS",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "https://doomovielive.b-cdn.net/hd-tpbs_720/index.m3u8","referer": "https://doomovie.com/"
+    "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
+    "import": false
 },
   { 
     "name":"Amarin HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
     "url": "http://a-play.online/tv/amarin/playlist.m3u8",
     "import": false
-},
- {
-     "name": "Amarin HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5b335b61bf6aee16d8c33382","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   { 
     "name":"Amarin",
@@ -194,19 +148,14 @@
   { 
     "name":"Amarin",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://doomovielive.b-cdn.net/hd-amarin_720/index.m3u8","referer": "https://doomovie.com/"
+    "url": "https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8",
+    "import": false
 },
   { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
     "url": "http://a-play.online/tv/one/playlist.m3u8",
     "import": false
-},
- {
-     "name": "ONE HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5a1685baaae731375f0eb728","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   { 
     "name":"ONE HD",
@@ -222,20 +171,16 @@
   { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "https://doomovielive.b-cdn.net/hd-gmmone_720/index.m3u8","referer": "https://doomovie.com/"
+    "url": "https://cdn6.goprimetime.info/feed/chonehd/index.m3u8",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
     "url": "http://a-play.online/tv/thairath/playlist.m3u8",
     "import": false
-},
- {
-     "name": "ไทยรัฐTV 32HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=595924c3aae7312c00c6fcd9","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
+ },
   { 
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
@@ -250,7 +195,9 @@
   { 
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "https://doomovielive.b-cdn.net/hd-thairath_720/index.m3u8","referer": "https://doomovie.com/"
+    "url": "https://cdn6.goprimetime.info/feed/chthairath/index.m3u8",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"PPTV HD",
@@ -258,22 +205,11 @@
     "url": "http://a-play.online/tv/pptv/playlist.m3u8",
     "import": false
 },
- {
-     "name": "PPTV HD AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5d4bebb6aae7315312049035","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-},
   { 
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=623d009180394c528880c14e2254452a",
+    "url": "https://doofootball.livestream-cdn.com/iptv/hd-pptv.stream/chunks.m3u8",
     "import": false
-},
-  { 
-    "name":"PPTV HD",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "https://www.doo2you.com/pptv/","referer": "https://www.doo2you.com/"
 },
   { 
     "name":"PPTV HD",
@@ -283,13 +219,8 @@
   { 
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "https://cdn1.cloud-streaming.live/digital/pptv/digital-sp/pptv/chunks.m3u8","referer": "https://bettopfivemovie.com/"
-},
- {
-     "name": "GMM25 AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=59592d98aae7312bfffb2c8a","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+    "url": "http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8",
+    "import": false
 },
   { 
     "name":"GMM25",
@@ -299,36 +230,28 @@
   { 
     "name":"GMM25",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
-    "url": "https://doomovielive.b-cdn.net/sd-gmmchannel_480/index.m3u8","referer": "https://doomovie.com/"
+    "url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   {
      "name": "TNN16 HD",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",              
      "url": "http://a-play.online/tv/tnn16/playlist.m3u8",
      "import": false
-},
- {
-     "name": "TNN16 AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=59671d1cd817de1df19711a6","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 }, 
   { 
     "name":"TNN16",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
-    "url": "https://doomovielive.b-cdn.net/sd-tnn24_480/index.m3u8","referer": "https://doomovie.com/"
+    "url": "https://cdn6.goprimetime.info//feed//chtnn//index.m3u8",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   {
      "name": "True4U",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
      "url": "http://a-play.online/tv/true4u/playlist.m3u8",
      "import": false
-},
- {
-     "name": "True4U AIS",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5b3359d9bf6aee16d7459c25","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   {
      "name": "True4U HD",
@@ -340,24 +263,20 @@
   { 
     "name":"True4U",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
-    "url": "https://cdn1.cloud-streaming.live/digital/true4u/digital/true4u/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+    "url": "http://live2.dootvde.com/live/50017_true_4u.stream.smil/playist.m3u8",
+    "import": false
  },
-   { 
-    "name":"True4U",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
-    "url": "https://cdn1.cloud-streaming.live/digital/true4u/digital/true4u/chunks.m3u8","referer": "https://bettopfivemovie.com/"
-},
   { 
     "name":"Workpoint",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
-    "url": "http://119.59.125.74/stream/totnew.m3u8?channel_id=a9a68ab5471d4d39ba25695a66957067",
+    "url": "https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8oqDfX4ZWLWfGDP_yyEZRnI)/dm/3/x6g9qjj/s/live-3.m3u8",
      "import": false
 },
  {
-     "name": "Workpoint AIS",
+     "name": "Workpoint ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=59590b6ed817de1df1747472","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+     "url": "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8",
+     "import": false
 
 },
   { 
@@ -379,7 +298,9 @@
   { 
     "name":"MONO29",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
-    "url": "https://doomovielive.b-cdn.net/hd-mono_480/index.m3u8","referer": "https://doomovie.com/"
+    "url": "https://cdn6.goprimetime.info//feed//chmono29//index.m3u8",
+    "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
   { 
     "name":"Nation",
@@ -387,14 +308,28 @@
     "url": "https://player.we-play.tv/channel.php?name=nationtv&cate=digitaltv","referer": "https://player.we-play.tv"
 },
   { 
-    "name":"Nation",
+    "name":"Nation HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
-    "url": "https://cdn1.cloud-streaming.live/digital/nation/digital/nation/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+    "url": "https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSReZo0VcAYFZXI5APLckHMI)/dm/3/x6eoldf/d/live-3.m3u8",
+    "import": false
 },
   { 
-    "name":"CH8",
+    "name":"TOP NEWS HD",
+    "image": "https://sv1.picz.in.th/images/2021/02/14/oR2v30.md.png",
+    "url": "https://live.topnews.co.th/hls/topnews.m3u8",
+    "import": false
+},
+  { 
+    "name":"CH8 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
-    "url": "https://doomovielive.b-cdn.net/hd-ch8_480/index.m3u8","referer": "https://doomovie.com/"
+    "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+    "import": false
+},
+  { 
+    "name":"CH8 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+    "url": "http://live2.dootvde.com/live/50028_ch8.stream.smil/playist.m3u8",
+    "import": false
 },
   {
      "name": "NEW18",
@@ -425,12 +360,7 @@
      "image": "https://sv1.picz.in.th/images/2020/09/20/OErLT1.png",              
      "url": "http://live.parliament.go.th/livestream/encoder3/playlist.m3u8",
      "import": false
-},
- {
-     "name": "Voice To Home 9",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/V2H9TV.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5fdb33c120ccacf849c813ef","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+
 },
 ]
 }
