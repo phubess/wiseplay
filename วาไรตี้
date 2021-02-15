@@ -1,12 +1,12 @@
 {  
     "name": "VARIETY", 
-    "author": "update 14/2/2021",
+    "author": "update 15/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
     "name": "FOOD NETWORK HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
-     "url": "http://45.91.134.168:8080/Ktu-food-network/food-network/14",
+     "url": "http://45.91.134.168:8080/KTU-FoodChannelTH/piVAwzL5Tj/34",
      "userAgent": "exoplayer_video",
      "playInNatPlayer": "true" 
 },
