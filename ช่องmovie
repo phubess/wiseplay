@@ -40,11 +40,17 @@
      "import": false
 },
    {
-     "name": "FOX MOVIES ไทย",
+     "name": "FOX MOVIES ไทย k",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "http://45.91.134.168:8080/KTU-foxpremium/aidRvNO095/19",
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"  
+},
+   {
+     "name": "FOX MOVIES b",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "https://boxmovielive.com/live/foxmovie.m3u8",
+     "import": false
 },
    {
      "name": "FOX MOVIES",
@@ -58,14 +64,14 @@
      "url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
-     "name": "FOX ACTION MOVIES ไทย",
+     "name": "FOX ACTION MOVIES ไทย k",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "http://45.91.134.168:8080/KTU-FoxThai/KQoTRq83ni/22", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
  },
    {
-     "name": "FOX ACTION MOVIES",
+     "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "http://www.boxmovie-th.com/boxmovies2/FoxactionmovieTH/index.m3u8",
       "import": false
@@ -82,11 +88,17 @@
      "import": false
 },
   {
-     "name": "FOX ไทย",
+     "name": "FOX ไทย k",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
      "url": "http://45.91.134.168:8080/KTU-FoxThai/KQoTRq83ni/22", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
+},
+  {
+     "name": "FOX ไทย b",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "http://www.boxmovie-th.com/boxmovies2/foxthai/playlist.m3u8", 
+     "import": false  
 },
   {
      "name": "FOX ไทย",
@@ -100,16 +112,16 @@
      "url": "https://player.we-play.tv/channel.php?name=foxth&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
-     "name": "Fox Family Movies",
+     "name": "Fox Family Movies k",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "http://45.91.134.168:8080/KTU-foxfamily/x4kFYIrkU5/21",     
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
   {
-     "name": "Fox Family Movies",
+     "name": "Fox Family Movies b",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "http://www.boxmovie-th.com/boxmovies2/fox-family/playlist.m3u8",
+     "url": "https://boxmovielive.com/live/foxfa.m3u8",
      "import": false
 },
   {
@@ -124,11 +136,17 @@
       "import": false
 },
   {
-     "name": "Fox Life",
+     "name": "Fox Life k",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
      "url": "http://45.91.134.168:8080/KTU-foxlife/vrJbVii5Wp/23", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
+},
+  {
+     "name": "Fox Life b",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "http://www.boxmovie-th.com/boxmovies2/Foxlife/index.m3u8", 
+      "import": false
 },
   {
      "name": "Fox Life",
@@ -240,6 +258,24 @@
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
      "url": "https://player.we-play.tv/channel.php?name=paramount&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  { 
+     "name": "UP MOVIE",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613392955813_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/upmovie.m3u8",
+     "import": false
+},
+  { 
+     "name": "Sky 3",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613392215961_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/sky3.m3u8",
+     "import": false
+},
+  { 
+     "name": "Sky 4",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613392298679_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/sky4.m3u8",
+     "import": false
 },
   { 
      "name": "3BB ASIA",
