@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 15/2/2021",
+    "author": "update 16/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -42,7 +42,7 @@
    {
      "name": "FOX MOVIES ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "http://45.91.134.168:8080/Ktu-foxpremium/foxpremium/31",
+     "url": "http://45.91.134.168:8080/KTU-foxpremium/aidRvNO095/19",
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"  
 },
@@ -60,7 +60,7 @@
   {
      "name": "FOX ACTION MOVIES ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "http://45.91.134.168:8080/Ktu-foxactionmovie/foxactionmovie/32", 
+     "url": "http://45.91.134.168:8080/KTU-FoxThai/KQoTRq83ni/22", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
  },
@@ -84,7 +84,7 @@
   {
      "name": "FOX ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     "url": "http://45.91.134.168:8080/Ktu-foxthai/foxthai/42", 
+     "url": "http://45.91.134.168:8080/KTU-FoxThai/KQoTRq83ni/22", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
@@ -102,7 +102,7 @@
   {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "http://45.91.134.168:8080/Ktu-fox-family/foxfamily/33",     
+     "url": "http://45.91.134.168:8080/KTU-foxfamily/x4kFYIrkU5/21",     
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
@@ -126,7 +126,7 @@
   {
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
-     "url": "http://45.91.134.168:8080/Ktu-foxlife/foxlife/43", 
+     "url": "http://45.91.134.168:8080/KTU-foxlife/vrJbVii5Wp/23", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
@@ -201,7 +201,7 @@
   {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "http://45.91.134.168:8080/Ktu-warnertv/warnertv/48",
+     "url": "http://45.91.134.168:8080/KTU-Warner/NjdLEMU9xw/26",
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
@@ -222,6 +222,13 @@
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://player.we-play.tv/channel.php?name=warner&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+     "name": "Paramount Channel",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
+     "url": "http://45.91.134.168:8080/KTU-Paramount/y37MOkMlr4/27",
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
 },
   {
      "name": "Paramount Channel",
