@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 15/2/2021",
+    "author": "update 16/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -284,8 +284,7 @@
      "name": "TV CABLE 1",  
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
       "url": "http://45.91.134.168:8080/KTU-livesky1/XrkBZZvGXl/8",
-       "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"  
+       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
   {
        "name": "TV CABLE 2",  
