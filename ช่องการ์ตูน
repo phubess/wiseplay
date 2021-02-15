@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 14/2/2021",
+      "author": "update 15/2/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -14,7 +14,14 @@
        "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer": "https://player.we-play.tv"
 },
     { 
-        "name":"Cartoon Network",
+        "name":"Cartoon Network k",
+        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+        "url": "http://45.91.134.168:8080/KTU-cartoonnetwork/woQah5KPbX/46",
+        "userAgent": "ExoMedia4.3.0",
+        "playInNatPlayer": "true" 
+},
+    { 
+        "name":"Cartoon Network b",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "http://www.boxmovie-th.com/boxmovies2/cartoonnetwork/playlist.m3u8",
         "import": false    
@@ -30,6 +37,13 @@
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "http://thaicable.myftp.org:8000/live/infosat/2020/76.m3u8",
         "import": false
+},
+   { 
+        "name":"Nick Jr. k",
+        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
+        "url": "http://45.91.134.168:8080/KTU-NickJr/htA0Rzc6TJ/48",
+        "userAgent": "ExoMedia4.3.0",
+        "playInNatPlayer": "true"
 },
    { 
         "name":"Nick Jr.",
@@ -81,12 +95,6 @@
        "url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids","referer": "https://player.we-play.tv"
 },
   { 
-      "name": "Animax",
-      "image": "https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg",              
-       "url": "http://61.19.242.134/feed/LC38/index.m3u8",
-       "import": false
-},
-  { 
       "name": "TOONEE",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png",              
        "url": "https://aisplay.ais.co.th/portal/live?vid=5d424cdbaae73145f7f2b675","playInNatPlayer": "true",
@@ -98,7 +106,7 @@
        "url": "https://player.we-play.tv/channel.php?name=babytv&cate=kids","referer": "https://player.we-play.tv"
 },
   { 
-      "name": "BabyTV",
+      "name": "BabyTV b",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
        "url": "http://www.boxmovie-th.com/boxmovies2/hd-babytv/playlist.m3u8",
        "import": false
