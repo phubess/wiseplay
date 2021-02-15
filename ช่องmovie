@@ -283,79 +283,66 @@
   {
      "name": "TV CABLE 1",  
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-      "url": "http://45.91.134.168:8080/Ktu-Sky1/Sky1/3",
+      "url": "http://45.91.134.168:8080/KTU-livesky1/XrkBZZvGXl/8",
        "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"  
 },
   {
        "name": "TV CABLE 2",  
        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-       "url": "http://45.91.134.168:8080/Ktu-sky2/sky2/4",
+       "url": "http://45.91.134.168:8080/KTU-livesky2/Iy0Ps5qhE4/9",
          "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"  
 },
   {
        "name": "TV CABLE 3",  
        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-       "url": "http://45.91.134.168:8080/Ktu-live-sky1/live-sky1/5",
+       "url": "http://45.91.134.168:8080/KTU-livesky3/nqD4b2jVHH/10",
         "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"  
 },
   {
        "name": "TV CABLE 4",  
        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-       "url": "http://45.91.134.168:8080/Ktu-live-sky2/live-sky2/6",
+       "url": "http://45.91.134.168:8080/KTU-livesky4/5P7vimMJe3/11",
         "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"  
 },
   {
         "name": "TV CABLE 5",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/Ktu-live-sky3/live-sky3/7",
+        "url": "http://45.91.134.168:8080/KTU-series/malqGsZDYT/12",
         "userAgent": "exoplayer_video",
         "playInNatPlayer": "true"  
  },
   {
         "name": "TV CABLE 6",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/Ktu-live-sky4/live-sky4/8",
+        "url": "http://45.91.134.168:8080/KTU-movies-sat-asia/DCDyVDcyPd/13",
          "userAgent": "exoplayer_video",
        "playInNatPlayer": "true"         
 },
   {
         "name": "TV CABLE 7",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/Ktu-series/series/9",
+        "url": "http://45.91.134.168:8080/KTU-asia-film/EJ8zek6CXM/14",
          "userAgent": "exoplayer_video",
         "playInNatPlayer": "true"           
  },
   {
         "name": "TV CABLE 8",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/Ktu-movies-sat-asia/movies-sat-asia/10",
+        "url": "http://45.91.134.168:8080/KTU-i-movie/P7vxjNTct6/15",
          "userAgent": "exoplayer_video",
         "playInNatPlayer": "true"  
 },
   {
         "name": "TV CABLE 9",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/Ktu-asia-film/asia-film/11",
+        "url": "http://45.91.134.168:8080/KTU-i-asia/b6bIxT3Ysg/16",
         "userAgent": "exoplayer_video",
         "playInNatPlayer": "true"   
-},
-  {
-        "name": "TV CABLE 10",  
-        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/Ktu-i-movie/i-movie/12",
-         "userAgent": "exoplayer_video",
-        "playInNatPlayer": "true"  
-},
-  {
-        "name": "TV CABLE 11",  
-        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/Ktu-i-asia/i-asia/13",
-         "userAgent": "exoplayer_video",
-        "playInNatPlayer": "true"  
+
 },
   { 
      "name": "True Film Asia",
