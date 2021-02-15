@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 7/2/2021",
+    "author": "update 16/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -13,6 +13,13 @@
         "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
          "url": "http://160.119.77.116:8081/iptv/sd-discovery.stream/chunks.m3u8",  
          "import": false
+}, 
+  {         
+        "name":"viewworld",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuqrFiTvWEoitcNdSxPOBoLdZ7a9qQrjHElg&usqp=CAU",
+         "url": "http://45.91.134.168:8080/KTU-viewworld/1gp5k428iO/38",  
+         "userAgent": "ExoMedia4.3.0",
+         "playInNatPlayer": "true"
 }, 
   {         
         "name":"NEW TV",
@@ -39,7 +46,7 @@
        "import": false
 }, 
   { 
-      "name": "Discovery Asia",
+      "name": "Discovery Asia b",
       "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
        "url": "http://www.boxmovie-th.com/boxmovies2/DiscoveryAsia/index.m3u8",
        "import": false
@@ -67,7 +74,14 @@
        "import": false
 }, 
   { 
-      "name": "Nat Geo Wild true",
+      "name": "Nat Geo Wild k",
+      "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
+       "url": "http://45.91.134.168:8080/KTU-natgeowild/HeBbU7j5Tl/35",
+       "userAgent": "ExoMedia4.3.0",
+       "playInNatPlayer": "true"
+}, 
+  { 
+      "name": "Nat Geo Wild",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
        "url": "https://laos-tech-live.b-cdn.net/hd-natgeowild_720/index.m3u8",
        "import": false
@@ -115,13 +129,6 @@
        "name": "สำรวจโลก",
       "image": "https://bit.ly/33mwVq4",
       "url": "http://61.19.242.134/feed/LC8/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true" 
-}, 
-  { 
-      "name": "Outdoor Channel true",
-      "image": "https://www.iptv4k.tv/images/tv/aSZu0tK0JMPTQEn5z3QMdbKEJKsuoh6201805091959181891278412.jpg",              
-      "url": "http://45.91.134.168:8080/Ktu-outdoor/outdoor/28",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true" 
 },
