@@ -1,13 +1,13 @@
 {  
     "name": "VARIETY", 
-    "author": "update 15/2/2021",
+    "author": "update 16/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
-    "name": "FOOD NETWORK HD",
+    "name": "FOOD NETWORK HD k",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
      "url": "http://45.91.134.168:8080/KTU-FoodChannelTH/piVAwzL5Tj/34",
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
      "playInNatPlayer": "true" 
 },
  {
@@ -20,6 +20,12 @@
      "name": "Asian Food Network ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
      "url": "http://160.119.77.117:80/iptv/sd-asianfood.stream/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "KMTV",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
+     "url": "http://www.boxmovie-th.com/boxmovies2/KMTV/index.m3u8",
      "import": false
 },
  {
@@ -65,10 +71,10 @@
      "import": false
 },
  {
-     "name": "BLUEANT ENTERTAINMENT",
+     "name": "BLUEANT ENTERTAINMENT k",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
-     "url": "http://45.91.134.168:8080/Ktu-bluered/bluered/50",
-     "userAgent": "exoplayer_video",
+     "url": "http://45.91.134.168:8080/KTU-BlueRed/LC1iODDTN4/17",
+     "userAgent": "ExoMedia4.3.0",
      "playInNatPlayer": "true"
 },
  {
@@ -78,10 +84,10 @@
 
 },
  {
-     "name": "BLUEANT EXTREME",
+     "name": "BLUEANT EXTREME k",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "http://45.91.134.168:8080/Ktu-blueantex/blueantex/34", 
-     "userAgent": "exoplayer_video",
+     "url": "http://45.91.134.168:8080/KTU-BlueAnt/HHxajK7Cen/18", 
+     "userAgent": "ExoMedia4.3.0",
      "playInNatPlayer": "true"
 },
  {
