@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 17/2/2021",
+    "author": "update 16/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -43,7 +43,7 @@
      "name": "FOX MOVIES ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "http://45.91.134.168:8080/Ktu-foxpremium/foxpremium/31",
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"  
 },
    {
@@ -61,7 +61,7 @@
      "name": "FOX ACTION MOVIES ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "http://45.91.134.168:8080/Ktu-foxactionmovie/foxactionmovie/32", 
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
  },
    {
@@ -85,7 +85,7 @@
      "name": "FOX ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
      "url": "http://45.91.134.168:8080/Ktu-foxthai/foxthai/42", 
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
   {
@@ -103,7 +103,7 @@
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "http://45.91.134.168:8080/Ktu-fox-family/foxfamily/33",     
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
   {
@@ -127,7 +127,7 @@
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
      "url": "http://45.91.134.168:8080/Ktu-foxlife/foxlife/43", 
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
   {
@@ -202,14 +202,14 @@
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "http://45.91.134.168:8080/Ktu-warnertv/warnertv/48",
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
   {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "http://203.154.177.124:8899/live/ch12/chunks.m3u8",
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
   {
@@ -284,62 +284,63 @@
      "name": "TV CABLE 1",  
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
       "url": "http://45.91.134.168:8080/KTU-livesky1/XrkBZZvGXl/8",
-       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+       "userAgent": "ExoMedia4.3.0"
+       "playInNatPlayer": "true"
 },
   {
        "name": "TV CABLE 2",  
        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
        "url": "http://45.91.134.168:8080/KTU-livesky2/Iy0Ps5qhE4/9",
-         "userAgent": "exoplayer_video",
+         "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"  
 },
   {
        "name": "TV CABLE 3",  
        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
        "url": "http://45.91.134.168:8080/KTU-livesky3/nqD4b2jVHH/10",
-        "userAgent": "exoplayer_video",
+        "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"  
 },
   {
        "name": "TV CABLE 4",  
        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
        "url": "http://45.91.134.168:8080/KTU-livesky4/5P7vimMJe3/11",
-        "userAgent": "exoplayer_video",
+        "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"  
 },
   {
         "name": "TV CABLE 5",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://45.91.134.168:8080/KTU-series/malqGsZDYT/12",
-        "userAgent": "exoplayer_video",
+        "userAgent": "ExoMedia4.3.0",
         "playInNatPlayer": "true"  
  },
   {
         "name": "TV CABLE 6",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://45.91.134.168:8080/KTU-movies-sat-asia/DCDyVDcyPd/13",
-         "userAgent": "exoplayer_video",
+         "userAgent": "ExoMedia4.3.0",
        "playInNatPlayer": "true"         
 },
   {
         "name": "TV CABLE 7",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://45.91.134.168:8080/KTU-asia-film/EJ8zek6CXM/14",
-         "userAgent": "exoplayer_video",
+         "userAgent": "ExoMedia4.3.0",
         "playInNatPlayer": "true"           
  },
   {
         "name": "TV CABLE 8",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://45.91.134.168:8080/KTU-i-movie/P7vxjNTct6/15",
-         "userAgent": "exoplayer_video",
+         "userAgent": "ExoMedia4.3.0",
         "playInNatPlayer": "true"  
 },
   {
         "name": "TV CABLE 9",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://45.91.134.168:8080/KTU-i-asia/b6bIxT3Ysg/16",
-        "userAgent": "exoplayer_video",
+        "userAgent": "ExoMedia4.3.0",
         "playInNatPlayer": "true"   
 
 },
