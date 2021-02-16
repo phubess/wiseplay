@@ -1,8 +1,14 @@
     {
     "name": "phubess",
-    "author": "update 14/2/2021",
+    "author": "update 16/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
+  {
+       "name": "Buriram United",
+       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BRRThaiLeague2020.png",
+       "url": "https://aisplay.ais.co.th/portal/live?vid=5f9a759b785e02431d23e97f","playInNatPlayer": "true",
+       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
   {
          "name": "3bbsports 1",
          "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
@@ -13,13 +19,6 @@
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
         "url": "http://www.boxmovie-th.com/boxmovies2/premierhd1/playlist.m3u8",
 	"import": false
-},
-  {
-       "name":"True Premier Football HD 1 K",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "http://203.159.94.40:25461/Ktu-EPL1/EPL1/4", 
-        "userAgent": "exoplayer_video",
-        "playInNatPlayer": "true"
 },
   {
        "name":"True Premier Football HD 1",
