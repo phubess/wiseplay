@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 18/2/2021",
+    "author": "update 19/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -263,14 +263,14 @@
      "name": "i asia",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613484014732_movie_image.jpg",              
       "url": "http://203.159.94.81:25461/I asia/BSIbCVv06x/36",
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true" 
 },
   { 
      "name": "A FILM",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613484069216_movie_image.jpg",              
       "url": "http://203.159.94.81:25461/A Film/XDgdEXMG88/35",
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true" 
 },
   { 
@@ -283,14 +283,14 @@
      "name": "SERiES+HD",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452783954_movie_image.jpg",              
       "url": "http://203.159.94.81:25461/Serieshd/hJ4xLqFyix/31",
-     "userAgent": "exoplayer_video",
+     "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"  
 },
   { 
      "name": "moviesat",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611087913575_movie_image.jpg",              
       "url": "http://203.159.94.81:25461/Moviesat/JSYrGLYnqN/30",
-      "userAgent": "exoplayer_video",
+      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true" 
 },
   {      
