@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 16/2/2021",
+    "author": "update 18/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -260,40 +260,38 @@
      "url": "https://player.we-play.tv/channel.php?name=paramount&cate=entertainment","referer": "https://player.we-play.tv"
 },
   { 
-     "name": "UP MOVIE",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613392955813_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/upmovie.m3u8",
-     "import": false
+     "name": "i asia",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613484014732_movie_image.jpg",              
+      "url": "http://203.159.94.81:25461/I asia/BSIbCVv06x/36",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true" 
 },
   { 
-     "name": "Sky 3",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613392215961_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/sky3.m3u8",
-     "import": false
-},
-  { 
-     "name": "Sky 4",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613392298679_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/sky4.m3u8",
-     "import": false
+     "name": "A FILM",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613484069216_movie_image.jpg",              
+      "url": "http://203.159.94.81:25461/A Film/XDgdEXMG88/35",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true" 
 },
   { 
      "name": "3BB ASIA",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452973109_movie_image.jpg",              
       "url": "https://boxmovielive.com/live/3bb.m3u8",
-     "import": false
+      "import": false
 },
   { 
      "name": "SERiES+HD",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452783954_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/seriehd.m3u8",
-     "import": false
+      "url": "http://203.159.94.81:25461/Serieshd/hJ4xLqFyix/31",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"  
 },
   { 
      "name": "moviesat",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611087913575_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/moviesat.m3u8",
-     "import": false
+      "url": "http://203.159.94.81:25461/Moviesat/JSYrGLYnqN/30",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true" 
 },
   {      
      "name": "BOX FILM",
@@ -390,13 +388,13 @@
   { 
      "name": "True Film Asia",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com/live/fa.m3u8",
+      "url": "https://boxmovielive.com/live/filmasia.m3u8",
       "import": false
 },
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/h.m3u8",
+      "url": "https://boxmovielive.com/live/his.m3u8",
      "import": false
 },
   { 
