@@ -1,9 +1,15 @@
 {  
     "name": "phubess",
-    "author": "update 17/2/2021",
+    "author": "update 18/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
+    "name": "HBO thai",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "https://boxmovielive.com/live/hboth.m3u8",
+     "import": false
+ },
+   {
     "name": "HBO",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
      "url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
@@ -28,10 +34,24 @@
      "import": false
 },
   {
+     "name": "HBOFamily",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
+     "url": "http://203.159.94.81:25461/HBOFAMILYHD/1YGbmZwVhA/26",
+     "userAgent": "ExoMedia4.3.0",
+     "playInNatPlayer": "true" 
+},
+  {
      "name": "RedbyHBO",
      "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
      "url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
      "import": false
+},
+  {
+     "name": "RedbyHBO",
+     "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
+     "url": "http://203.159.94.81:25461/hbored/9J13bekLND/22",
+     "userAgent": "ExoMedia4.3.0",
+     "playInNatPlayer": "true"
 },
   {
      "name": "CINEMAX",
@@ -158,6 +178,13 @@
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
      "url": "https://player.we-play.tv/channel.php?name=fox-life&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+     "name": "HITS",
+     "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
+     "url": "http://45.91.134.168:8080/KTU-HITS/XTrzD4s8af/28", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
 },
   {
      "name": "True Film HD",
@@ -443,10 +470,11 @@
        "url": "https://player.we-play.tv/channel.php?name=scm&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
-     "name": "Zeenung AIS",
+     "name": "Zeenung",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",              
-     "url": "https://aisplay.ais.co.th/portal/live?vid=597e18ce7ed5a24e45c3ab23","playInNatPlayer": "true",
-     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+     "url": "http://61.19.242.134/feed/LC5/index.m3u8",
+     "userAgent": "ExoMedia4.3.0",
+        "playInNatPlayer": "true"
 },
   { 
       "name": "Zeenung",
