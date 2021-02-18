@@ -23,20 +23,6 @@
       "import": false
 },     
 {
-       "name": "WORLD SNOOKER",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwfii0KN3qPXnZH-EfPmBACbmSiwiPULteRUyPMuNwpdxjK8kn&usqp=CAU",
-      "url": "http://203.154.243.31:8081/live/snooker/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
-},     
-{
-       "name": "WTB WORLD",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/161101901821_movie_image.jpg",
-      "url": "http://203.154.243.32:8088/live/wtb/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
-},     
-{
        "name": "beIN SPORTS 1tu ",
       "image": "https://ball8k.com/stream/img_ch/20201019184909_beinsports1tu.jpg",
       "url": "https://ball8k.com/m/ch.php?stream=beinsports1tu","referer": "https://ball8k.com/"
