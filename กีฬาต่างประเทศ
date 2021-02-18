@@ -1,12 +1,31 @@
 { 
     "name": "phubess",
-    "author": "update 15/2/2021",
+    "author": "update 18/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
        "name": "TENNIS TV",
       "image": "https://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",
       "url": "http://203.154.243.31:8081/live/tennis/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},     
+{
+      "name": "TENNIS PLUS",
+      "image": "https://sv1.picz.in.th/images/2020/06/17/qeqCdP.png",
+      "url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
+      "import": false
+},     
+{
+      "name": "TENNIS CHANNEL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKNeW80645b2R-sKWgOyTPQT4-mxLaDsVIngk7axfRj5lGNFhx&usqp=CAU",
+      "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
+      "import": false
+},     
+{
+       "name": "WORLD SNOOKER",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwfii0KN3qPXnZH-EfPmBACbmSiwiPULteRUyPMuNwpdxjK8kn&usqp=CAU",
+      "url": "http://203.154.243.31:8081/live/snooker/index.m3u8",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
 },     
@@ -37,25 +56,6 @@
       "name": "FIGHT BOX",
       "image": "https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png",
       "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8",
-       "import": false
-},
- {
-      "name": "skynet sport hd",
-      "image": "https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png",
-      "url": "http://thaicable.myftp.org:8000/live/infosat/2020/2.m3u8",
-       "import": false
-},
- {
-      "name": "skynet sport hd",
-      "image": "https://www.beeduball.com/wp-content/themes/beeduball_v2/img/tvonline/skynethd.png",
-      "url": "http://103.208.24.234:1935/live1/SKYNET-SPORT-HD.stream/playlist.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true" 
-},
- {
-      "name": "premiersport 2",
-      "image": "https://sport-tv-guide.live/images/tv-station-bet365-1442.png",
-      "url": "http://cdn7.hhdstreams.club/live/abr_ch12/playlist.m3u8",
        "import": false
 },
  {
@@ -182,30 +182,6 @@
       "image": "https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",
       "url": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
        "import": false 
-},
- {
-      "name": "Astro supersport",
-      "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",
-      "url": "http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8",
-       "import": false 
-},
- {
-      "name": "Astro supersport 2",
-      "image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",
-      "url": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
-       "import": false        
-},
- {
-      "name": "Astro supersport 3",
-      "image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",
-      "url": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
-       "import": false        
- },
- {
-      "name": "Astro supersport 4",
-      "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",
-      "url": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
-       "import": false       
 },
  {
       "name": "One Golf",
