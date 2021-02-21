@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 20/2/2021",
+    "author": "update 21/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {
@@ -13,6 +13,12 @@
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
         "url": "http://ip2121.com:8081/4kweb/true1/chunks.m3u8", 
+        "import": false
+},
+  {
+       "name":"True Premier Football HD 1 b",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+        "url": "http://www.boxmovie-th.com/boxmovies2/premierhd1/playlist.m3u8", 
         "import": false
 },
   {
@@ -61,9 +67,9 @@
 	 "import": false
 },
   {
-       "name":"True Premier Football HD 2",
+       "name":"True Premier Football HD 2 b",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	 "url": "https://www.boxmovie-th.com/boxmovies/EPL2/index.m3u8",
+	 "url": "http://www.boxmovie-th.com/boxmovies2/premierhd2/playlist.m3u8",
 	 "import": false
 },
   {
@@ -78,9 +84,9 @@
 	  "import": false
 },
  {
-       "name":"True Premier Football HD 3",
+       "name":"True Premier Football HD 3 b",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	"url": "https://www.boxmovie-th.com/boxmovies/EPL3/index.m3u8",
+	"url": "http://www.boxmovie-th.com/boxmovies2/premierhd3/playlist.m3u8",
 	 "import": false
 },
  {
@@ -89,9 +95,9 @@
 	"url": "https://live.andaman888th.com/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://andaman888th.com/"
 },
   {
-       "name":"True Premier Football HD 4",
+       "name":"True Premier Football HD 4 b",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
-       "url": "https://www.boxmovie-th.com/boxmovies/EPL4/index.m3u8",
+       "url": "",
        "import": false
 },
   {
@@ -108,7 +114,7 @@
   {
        "name":"True Premier Football HD 5",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
-	 "url": "https://www.boxmovie-th.com/boxmovies/EPL5/index.m3u8",
+	 "url": "https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8",
 	"import": false
 },
   {
@@ -124,7 +130,7 @@
   {
        "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
-	 "url": "https://www.boxmovie-th.com/boxmovies/true-sport-hd/index.m3u8", 
+	 "url": "https://doofootball.livestream-cdn.com:443/iptv/hd-tsport1.stream/chunks.m3u8", 
          "import": false
 },
   {
@@ -135,7 +141,7 @@
   {
        "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
-	 "url": "https://www.boxmovie-th.com/boxmovies/true-sport-hd2/index.m3u8", 
+	 "url": "https://doofootball.livestream-cdn.com:443/iptv/hd-tsport2.stream/chunks.m3u8", 
          "import": false
 },
    {	 
@@ -156,23 +162,20 @@
   {	 
          "name":"True Sport HD3",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
-	 "url": "https://www.boxmovie-th.com/boxmovies/true-sport-hd3/index.m3u8",
+	 "url": "http://www.boxmovie-th.com/boxmovies2/hd-tsport3/playlist.m3u8",
 	 "import": false
-},
+ },
   {
-       "name":"True Sport HD3",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-tsport3_720/index.m3u8","referer": "https://doomovie.com/" 
+       "name":"True Sport HD4",
+        "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
+	 "url": "https://doofootball.livestream-cdn.com:443/iptv/hd-tsport4.stream/chunks.m3u8",
+	 "import": false
 },
   {
        "name":"True Sport HD4",
         "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
 	 "url": "https://live.andaman888th.com/live/truesporthd4/sport/truesporthd4/chunks.m3u8","referer": "https://andaman888th.com/" 
-},
-  {
-       "name":"True Sport HD4",
-        "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-tsport4_720/index.m3u8","referer": "https://doomovie.com/" 
+ 
 },
   {
        "name":"NBA TV",
@@ -184,11 +187,6 @@
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
         "url": "https://www.boxmovie-th.com/boxmovies/NBA/index.m3u8",
 	"import": false
-},
-  {
-       "name":"NBA TV",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-nba_720/index.m3u8","referer": "https://doomovie.com/"
 },
   {
        "name":"NBA TV",
