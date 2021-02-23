@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 19/2/2021",
+    "author": "update 23/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -461,13 +461,20 @@
   { 
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
-       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/101.m3u8",
+       "url": http://160.119.77.117/iptv/hd-starchinese.stream/chunks.m3u8"",
        "import": false
 },
   { 
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=scm&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+     "name": "Thrill",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",              
+     "url": "http://203.154.177.124:8899/live/ch21/chunks.m3u8",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
  {
      "name": "Zeenung",
