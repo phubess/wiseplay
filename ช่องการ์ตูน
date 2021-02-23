@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 20/2/2021",
+      "author": "update 23/2/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -35,11 +35,10 @@
        "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer": "https://player.we-play.tv"
 },
     { 
-        "name":"Cartoon Network k",
+        "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "http://45.91.134.168:8080/KTU-cartoonnetwork/woQah5KPbX/46",
-        "userAgent": "ExoMedia4.3.0",
-        "playInNatPlayer": "true" 
+        "url": "https://laos-tech-live.b-cdn.net/sd-cartoonnetwork_480/index.m3u8",
+         "import": false  
 },
     { 
         "name":"Cartoon Network b",
