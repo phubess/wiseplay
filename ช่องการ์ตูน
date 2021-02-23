@@ -51,12 +51,7 @@
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8",
         "import": false
-},
-   { 
-        "name":"Cartoon Network",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/76.m3u8",
-        "import": false
+
 },
    { 
         "name":"Nick Jr. k",
