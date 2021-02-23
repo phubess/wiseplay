@@ -473,7 +473,7 @@
   { 
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
-       "url": http://160.119.77.117/iptv/hd-starchinese.stream/chunks.m3u8"",
+       "url": "http://160.119.77.117/iptv/hd-starchinese.stream/chunks.m3u8",
        "import": false
 },
   { 
