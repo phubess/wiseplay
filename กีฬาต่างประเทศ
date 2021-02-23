@@ -23,9 +23,16 @@
       "import": false
 },     
 {
+       "name": "beIN SPORTS 2",
+      "image": "https://www.we-play.tv//uploads/posters/-poster1602703712.png",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1454.m3u8",      
+      "import": false
+},     
+{
        "name": "beIN SPORTS 1tu ",
       "image": "https://ball8k.com/stream/img_ch/20201019184909_beinsports1tu.jpg",
-      "url": "https://ball8k.com/m/ch.php?stream=beinsports1tu","referer": "https://ball8k.com/"
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1455.m3u8",
+      "import": false
 },     
 {
        "name": "beIN SPORTS 2tu ",
@@ -40,34 +47,100 @@
        "import": false
 },
  {
+      "name": "beIN SPORTS",
+      "image": "https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg",
+      "url": "ttp://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1457.m3u8",
+       "import": false
+},
+ {
       "name": "beIN SPORTS 1",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",
-      "url": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8",
        "import": false
  },
  {
       "name": "beIN SPORTS 2",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",
-      "url": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8",
        "import": false
  },
  {
       "name": "beIN SPORTS 3",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",
-      "url": "http://160.119.77.116:8081/iptv/hd-bein3.stream/chunks.m3u8",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8",
        "import": false
  },
  {
       "name": "beIN SPORTS 4",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",
-      "url": "http://160.119.77.116:8081/iptv/hd-bein4.stream/chunks.m3u8",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1456.m3u8",
+       "import": false
+ },
+ {
+      "name": "beIN SPORTS 5",
+      "image": "https://i.pinimg.com/originals/0e/da/56/0eda560bc00b99b8a9da424f66a90b60.png",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8",
+       "import": false
+  },
+ {
+      "name": "beIN SPORTS 6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxnZCGH2CfZQ1wUpF3KH73eeA9YniNCtb-A&usqp=CAU",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8",
        "import": false
  },
  {
       "name": "beIN SPORTS 7",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_7.png",
-      "url": "http://160.119.77.116:8081/iptv/hd-bein7.stream/chunks.m3u8",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8",
        "import": false
+ },
+ {
+      "name": "beIN SPORTS 8",
+      "image": "https://e.top4top.io/p_4032utho6.png",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8",
+       "import": false
+   },
+ {
+      "name": "beIN SPORTS 9",
+      "image": "https://f.top4top.io/p_4033usod7.png",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8",
+       "import": false     
+   },
+ {
+      "name": "beIN SPORTS 10",
+      "image": "https://a.top4top.net/p_403c1sit8.png",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8",
+       "import": false     
+   },
+ {
+      "name": "beIN SPORTS 11",
+      "image": "https://b.top4top.net/p_4037l45t9.png",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8",
+       "import": false     
+    },
+ {
+      "name": "beIN SPORTS 12",
+      "image": "https://bit.ly/3dClFf6",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8",
+       "import": false    
+   },
+ {
+      "name": "beIN SPORTS 13",
+      "image": "http://4.bp.blogspot.com/-KeL_sl9lrGI/VFIryEx2O_I/AAAAAAAAA6Q/m_svmXrvBWE/s1600/2%2B%2B-%2BCpa%2BDesiger%2Bcopy.png",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.m3u8",
+       "import": false     
+   },
+ {
+      "name": "beIN SPORTS 14",
+      "image": "http://4.bp.blogspot.com/--SpPFGHG-XI/VBEdD-bO6UI/AAAAAAAAADY/Yy9ysfVU2xk/s1600/14.png",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.m3u8",
+       "import": false     
+   },
+ {
+      "name": "beIN SPORTS 15",
+      "image": "http://1.bp.blogspot.com/-sI1PG1k_FL4/VBEdgAIZSwI/AAAAAAAAADg/Trq4Vk63TAM/s1600/f_beIN%2BSports%2BHD15%2B%5Bbein2%5D.png",
+      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.m3u8",
+       "import": false     
 },
  {
       "name": "SETANTA SPORTS HD",
