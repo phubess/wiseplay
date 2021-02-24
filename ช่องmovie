@@ -1,15 +1,9 @@
 {  
     "name": "phubess",
-    "author": "update 23/2/2021",
+    "author": "update 25/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
-    "name": "HBO thai",
-     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
-     "url": "https://boxmovielive.com/live/hboth.m3u8",
-     "import": false
- },
-   {
     "name": "HBO",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
      "url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
@@ -32,39 +26,21 @@
      "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
      "url": "http://dootvthai-hd.com/cmd/hbo/famhd/playlist.m3u8",
      "import": false
-},
-  {
-     "name": "HBOFamily",
-     "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
-     "url": "http://203.159.94.81:25461/HBOFAMILYHD/1YGbmZwVhA/26",
-     "userAgent": "ExoMedia4.3.0",
-     "playInNatPlayer": "true" 
+
 },
   {
      "name": "RedbyHBO",
      "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
      "url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
      "import": false
-},
-  {
-     "name": "RedbyHBO",
-     "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
-     "url": "http://203.159.94.81:25461/hbored/9J13bekLND/22",
-     "userAgent": "ExoMedia4.3.0",
-     "playInNatPlayer": "true"
+
 },
   {
      "name": "CINEMAX",
      "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
      "url": "http://dootvthai-hd.com/cmd/hbo/maxhd/playlist.m3u8",
      "import": false
-},
-   {
-     "name": "FOX MOVIES ไทย k",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "http://45.91.134.168:8080/KTU-foxpremium/aidRvNO095/19",
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"  
+
 },
    {
      "name": "FOX MOVIES b",
@@ -88,13 +64,7 @@
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment","referer": "https://player.we-play.tv"
-},
-  {
-     "name": "FOX ACTION MOVIES ไทย k",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "http://45.91.134.168:8080/KTU-FoxThai/KQoTRq83ni/22", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"
+
  },
    {
      "name": "FOX ACTION MOVIES b",
@@ -114,13 +84,6 @@
      "import": false
 },
   {
-     "name": "FOX ไทย k",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     "url": "http://45.91.134.168:8080/KTU-FoxThai/KQoTRq83ni/22", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"
-},
-  {
      "name": "FOX ไทย b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
      "url": "http://www.boxmovie-th.com/boxmovies2/foxthai/playlist.m3u8", 
@@ -136,13 +99,6 @@
      "name": "FOX ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=foxth&cate=entertainment","referer": "https://player.we-play.tv"
-},
-  {
-     "name": "Fox Family Movies k",
-     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "http://45.91.134.168:8080/KTU-foxfamily/x4kFYIrkU5/21",     
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"
 },
   {
      "name": "Fox Family Movies b",
