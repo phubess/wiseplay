@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 24/2/2021",
+    "author": "update 25/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {
@@ -136,7 +136,8 @@
   {
        "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-tsport1_720/index.m3u8","referer": "https://doomovie.com/" 
+	"url": "http://thaicable.myftp.org:8000/live/infosat/2020/68.m3u8",
+	"import": false
 },
   {
        "name":"True Sport HD2",
@@ -152,7 +153,8 @@
    {
        "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
-	 "url": "https://doomovielive.b-cdn.net/hd-tsport2_720/index.m3u8","referer": "https://doomovie.com/" 
+	"url": "http://thaicable.myftp.org:8000/live/infosat/2020/69.m3u8",
+       "import": false 
 },
   {	 
          "name":"True Sport HD3",
@@ -168,7 +170,7 @@
   {	 
          "name":"True Sport HD3",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
-	 "url": "http://www.boxmovie-th.com/boxmovies2/hd-tsport3/playlist.m3u8",
+	 "url": "http://thaicable.myftp.org:8000/live/infosat/2020/70.m3u8",
 	 "import": false
  },
   {
@@ -191,7 +193,7 @@
   {
         "name":"NBA TV",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
-        "url": "https://www.boxmovie-th.com/boxmovies/NBA/index.m3u8",
+        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/72.m3u8",
 	"import": false
 },
   {
@@ -207,7 +209,7 @@
   {
        "name":"TRUE TENNIS",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
-       "url": "https://www.boxmovie-th.com/boxmovies/tennis/index.m3u8",
+       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/73.m3u8",
        "import": false
 },
   {
@@ -218,7 +220,8 @@
   {
        "name":"GOLF CHANNEL",
         "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
-	 "url": "https://doomovielive.b-cdn.net/hd-golf_720/index.m3u8","referer": "https://doomovie.com/" 
+	 "url": "http://thaicable.myftp.org:8000/live/infosat/2020/74.m3u8",
+	"import": false 
 },
   {
        "name":"GOLF CHANNEL",
@@ -286,7 +289,8 @@
 { 
           "name": "FOX Sports HD",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
-          "url": "https://live.vvipscore.com/vvipscore_app/fox1/chunks.m3u8","referer": "https://vvipscore.com/"
+          "url": "http://thaicable.myftp.org:8000/live/infosat/2020/65.m3u8",
+	  "import": false
 },
 { 
           "name": "FOX Sports HD",
@@ -296,7 +300,8 @@
 { 
           "name": "FOX Sports 2",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
-          "url": "https://live.vvipscore.com/vvipscore_app/fox2/chunks.m3u8","referer": "https://vvipscore.com/"
+          "url": "http://thaicable.myftp.org:8000/live/infosat/2020/66.m3u8",
+	  "import": false",
 },
  {
        "name":"FOX Sports 2",
@@ -326,7 +331,8 @@
  { 
        "name": "FOX Sports 3",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
-       "url": "https://bit.ly/376eNSq","referer": "https://www.doofootball.com/"
+       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/67.m3u8",
+       "import": false",
 },
  { 
        "name": "Bein 1",
