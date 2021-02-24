@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 16/2/2021",
+    "author": "update 25/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -59,6 +59,12 @@
   { 
       "name": "Discovery Asia",
       "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
+       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/33.m3u8",
+       "import": false
+}, 
+  { 
+      "name": "Discovery Asia",
+      "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
        "url": "http://160.119.77.117:80/iptv/hd-discovery.stream/chunks.m3u8",
        "import": false
 }, 
@@ -66,6 +72,12 @@
       "name": "National Geographic",
       "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
        "url": "https://player.we-play.tv/channel.php?name=natgeo&cate=documentary","referer": "https://player.we-play.tv"
+}, 
+  { 
+      "name": "National Geographic",
+      "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
+       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/36.m3u8",
+       "import": false
 }, 
   { 
       "name": "National Geographic",
@@ -111,6 +123,12 @@
   { 
     "name": "H2",
     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
+    "url": "http://thaicable.myftp.org:8000/live/infosat/2020/38.m3u8",
+     "import": false
+},
+  { 
+    "name": "H2",
+    "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
     "url": "https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8 ",
      "import": false
 }, 
@@ -141,6 +159,12 @@
   { 
        "name": "BBC Earth",
         "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+         "url": "http://thaicable.myftp.org:8000/live/infosat/2020/40.m3u8",
+         "import": false
+},
+  { 
+       "name": "BBC Earth",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
          "url": "http://160.119.77.117/iptv/sd-bbcearth.stream/chunks.m3u8",
          "import": false
 },
@@ -148,6 +172,12 @@
        "name": "BBC Lifestyle",
         "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
         "url": "https://laos-tech-live.b-cdn.net/sd-bbclifestyle_720/index.m3u8",
+        "import": false
+},
+   { 
+       "name": "BBC Lifestyle",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
+        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/41.m3u8",
         "import": false
 },
   { 
