@@ -4,15 +4,14 @@
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {
-       
-       "name": "3bbsports 1",
-       "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
-       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
+      "name": "3bbsports 1",
+      "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
+      "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
   {	 
-        "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	"url": "https://player.ballnaka.tv/?channel=tpf1&cate=sport","referer": "https://ballnaka.tv/"
+      "name":"True Premier Football HD 1",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+      "url": "https://player.ballnaka.tv/?channel=tpf1&cate=sport","referer": "https://ballnaka.tv/"
 },
   {
        "name":"True Premier Football HD 1",
@@ -62,9 +61,9 @@
 },
   {
        "name":"True Premier Football HD 2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	 "url": "https://niklive.com/live/ep-l200-1/index.m3u8",
-	 "import": false
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
+       "url": "https://niklive.com/live/ep-l200-1/index.m3u8",
+       "import": false
 },
   {
        "name":"True Premier Football HD 2 b",
@@ -74,14 +73,14 @@
 },
   {
        "name":"True Premier Football HD 2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	 "url": "https://live.andaman888th.com/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://andaman888th.com/"
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
+	"url": "https://live.andaman888th.com/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://andaman888th.com/"
 },
  {
        "name":"True Premier Football HD 3",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	 "url": "https://niklive.com/live/ep-l3-3/index.m3u8",
-	  "import": false
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
+       "url": "https://niklive.com/live/ep-l3-3/index.m3u8",
+       "import": false
 },
  {
        "name":"True Premier Football HD 3 b",
@@ -183,7 +182,6 @@
        "name":"True Sport HD4",
         "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
 	 "url": "https://live.andaman888th.com/live/truesporthd4/sport/truesporthd4/chunks.m3u8","referer": "https://andaman888th.com/" 
- 
 },
   {
        "name":"NBA TV",
@@ -220,14 +218,14 @@
   {
        "name":"GOLF CHANNEL",
         "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
-	 "url": "http://thaicable.myftp.org:8000/live/infosat/2020/74.m3u8",
+        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/74.m3u8",
 	"import": false 
 },
   {
        "name":"GOLF CHANNEL",
        "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
        "url": "https://www.boxmovie-th.com/boxmovies/GolfCH/index.m3u8",
-	"import": false 
+       "import": false 
 },
   {
        "name":"GOLF CHANNEL",
@@ -301,7 +299,7 @@
           "name": "FOX Sports 2",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
           "url": "http://thaicable.myftp.org:8000/live/infosat/2020/66.m3u8",
-	  "import": false",
+	  "import": false
 },
  {
        "name":"FOX Sports 2",
