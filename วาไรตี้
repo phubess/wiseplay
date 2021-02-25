@@ -25,7 +25,7 @@
  {
      "name": "TRUE INSIDE",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "http://edge-n3.uplayhd.tv:8081/Dyd1AsEgzraQG1yx1_YmEw/1613676993/live/uplay-inside_480/playlist.m3u8",
+     "url": "",
      "import": false
 },
  {
@@ -47,7 +47,7 @@
      "url": "https://player.we-play.tv/channel.php?name=iconcerts&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
-     "name": "Stringray iConcerts HD",
+     "name": "Stringray iConcerts HD b",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
      "url": "http://www.boxmovie-th.com/boxmovies2/iconcerts/index.m3u8",
      "import": false
@@ -126,13 +126,13 @@
        "url": "https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment","referer": "https://player.we-play.tv"
 },
   { 
-      "name": "Waku Waku Japan",
+      "name": "Waku Waku Japan b",
       "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
        "url": "http://www.boxmovie-th.com/boxmovies2/Wakuwakujapan/index.m3u8",
        "import": false
 },
 {
-    "name":"TLC HD",
+    "name":"TLC HD b",
     "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
     "url": "http://www.boxmovie-th.com/boxmovies2/hd-tlc/playlist.m3u8",
     "import": false
