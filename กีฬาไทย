@@ -189,6 +189,12 @@
 	 "url": "https://player.we-play.tv/channel.php?name=nba&cate=sports","referer": "https://player.we-play.tv"
 },
   {
+        "name":"NBA TV b",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
+        "url": "http://www.boxmovie-th.com/boxmovies2/hd-nba/playlist.m3u8",
+	"import": false
+},
+  {
         "name":"NBA TV",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
         "url": "http://thaicable.myftp.org:8000/live/infosat/2020/72.m3u8",
@@ -203,6 +209,12 @@
        "name":"TRUE TENNIS",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=tennis&cate=sport","referer": "https://player.ballnaka.tv"
+},
+  {
+       "name":"TRUE TENNIS b",
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
+       "url": "http://www.boxmovie-th.com/boxmovies2/hd-tennis/playlist.m3u8",
+       "import": false
 },
   {
        "name":"TRUE TENNIS",
@@ -222,21 +234,15 @@
 	"import": false 
 },
   {
-       "name":"GOLF CHANNEL",
+       "name":"GOLF CHANNEL b",
        "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
-       "url": "https://www.boxmovie-th.com/boxmovies/GolfCH/index.m3u8",
+       "url": "http://www.boxmovie-th.com/boxmovies2/hd-golf/playlist.m3u8",
        "import": false 
 },
   {
        "name":"GOLF CHANNEL",
         "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
 	 "url": "https://player.ballnaka.tv/?channel=golf&cate=sport","referer": "https://player.ballnaka.tv"
-},
-  {
-       "name":"NFL NETWORK",
-        "image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
-	 "url": "https://www.boxmovie-th.com/boxmovies/NFL/index.m3u8",
-	 "import": false 
 },
   {
        "name":"NFL NETWORK",
@@ -254,9 +260,9 @@
 	 "url": "https://player.we-play.tv/channel.php?name=motor-vision&cate=sports","referer": "https://player.we-play.tv"
 },
    {
-      "name": "Motor Vision",
+      "name": "Motor Vision b",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
-      "url": "https://www.boxmovie-th.com/boxmovies/motorvision/index.m3u8",
+      "url": "http://www.boxmovie-th.com/boxmovies2/motorvision/playlist.m3u8",
        "import": false 
 },
   {
@@ -287,18 +293,26 @@
 { 
           "name": "FOX Sports HD",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
-          "url": "http://thaicable.myftp.org:8000/live/infosat/2020/65.m3u8",
+          "url": "https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8",
 	  "import": false
 },
 { 
           "name": "FOX Sports HD",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
-          "url": "https://www.doofootball.com/live/streaming/foxsporthd/575865","referer": "https://www.doofootball.com/"
+          "url": "http://thaicable.myftp.org:8000/live/infosat/2020/65.m3u8",
+	  "import": false
+
 },
 { 
           "name": "FOX Sports 2",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
           "url": "http://thaicable.myftp.org:8000/live/infosat/2020/66.m3u8",
+	  "import": false
+},
+{ 
+          "name": "FOX Sports 2",
+          "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
+          "url": "https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8",
 	  "import": false
 },
  {
@@ -310,11 +324,7 @@
           "name": "FOX Sports 2",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
           "url": "https://player.we-play.tv/channel.php?name=fox2&cate=sports","referer": "https://player.we-play.tv"
-},
- { 
-          "name": "FOX Sports 2",
-          "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
-          "url": "https://www.doofootball.com/live/streaming/foxsport2/575866","referer": "https://www.doofootball.com/"
+
 },
   {
        "name":"FOX Sports 3",
@@ -330,6 +340,18 @@
        "name": "FOX Sports 3",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/67.m3u8",
+       "import": false
+},
+ { 
+       "name": "FOX Sports 3",
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
+       "url": "https://laos-tech-live.b-cdn.net/sd-foxsports3_480/index.m3u8",
+       "import": false
+},
+ { 
+       "name": "Bein 1 b",
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
+       "url": "http://www.boxmovie-th.com/boxmovies2/bein1/index.m3u8",
        "import": false
 },
  { 
@@ -357,7 +379,8 @@
  { 
        "name": "Bein 2",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",              
-       "url": "https://www.doofootball.com/live/streaming/bein2/609911","referer" :"https://www.doofootball.com/"
+       "url": "http://www.boxmovie-th.com/boxmovies2/bein2/index.m3u8",
+       "import": false
 },
  { 
        "name": "Bein 2",
