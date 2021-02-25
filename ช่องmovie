@@ -160,6 +160,12 @@
      "url": "https://player.we-play.tv/channel.php?name=fox-life&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
+     "name": "FX",
+     "image": "https://www.tvchinese.net/uploads/tv/fxhd.jpg",              
+     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8", 
+      "import": false
+},
+  {
      "name": "HITS",
      "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
      "url": "http://45.91.134.168:8080/KTU-HITS/XTrzD4s8af/28", 
