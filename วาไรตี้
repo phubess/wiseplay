@@ -25,7 +25,7 @@
  {
      "name": "TRUE INSIDE",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "",
+     "url": "http://160.119.77.116:8081/iptv/sd-inside.stream/chunks.m3u8",
      "import": false
 },
  {
@@ -62,12 +62,6 @@
      "name": "FTV",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1578592825654_movie_image.png",              
      "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
-     "import": false
-},
- {
-     "name": "True Inside",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "http://160.119.77.116:8081/iptv/sd-inside.stream/chunks.m3u8",
      "import": false
 },
  {
