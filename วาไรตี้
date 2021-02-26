@@ -136,6 +136,18 @@
     "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
     "url": "https://player.we-play.tv/channel.php?name=tlc&cate=documentary","referer": "https://player.we-play.tv"
 },
+{
+    "name":"TLC HD b",
+    "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+    "url": "https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8",
+    "import": false
+},
+{
+    "name":"BTV4",
+    "image":"https://mytv.com.vn/upload/channel/615.png",
+    "url": "https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8",
+    "import": false
+},
  {
       "name": "Amazing Hi Show",
       "image": "http://www.chang55.com/movie/upload/movie_img/AMAZING-HI-SHOW-CH1_Thumb.png",
