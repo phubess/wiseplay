@@ -299,14 +299,14 @@
 { 
           "name": "FOX Sports HD",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
-          "url": "http://thaicable.myftp.org:8000/live/infosat/2020/65.m3u8",
+          "url": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8",
 	  "import": false
 
 },
 { 
           "name": "FOX Sports 2",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
-          "url": "http://thaicable.myftp.org:8000/live/infosat/2020/66.m3u8",
+          "url": "https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8",
 	  "import": false
 },
 { 
@@ -337,9 +337,9 @@
        "url": "https://player.we-play.tv/channel.php?name=fox3&cate=sports","referer": "https://player.we-play.tv"
 },
  { 
-       "name": "FOX Sports 3",
+       "name": "FOX Sports 3 HD",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
-       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/67.m3u8",
+       "url": "https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8",
        "import": false
 },
  { 
