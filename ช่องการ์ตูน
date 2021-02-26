@@ -150,6 +150,36 @@
        "import": false
 },
     { 
+      "name": "CBEEBIES",
+      "image": "https://sv1.picz.in.th/images/2021/01/03/l4G5Rk.png",              
+       "url": "https://doofootball.livestream-cdn.com/iptv/uk-cbeebieshd.stream/chunks.m3u8",
+       "import": false
+},
+    { 
+      "name": "Disney UK",
+      "image": "https://sv1.picz.in.th/images/2021/01/28/lJ2WLP.jpg",              
+       "url": "https://doofootball.livestream-cdn.com/iptv/uk-disney.stream/playlist.m3u8",
+       "import": false
+},
+    { 
+      "name": "M KIDZ",
+      "image": "https://sv1.picz.in.th/images/2021/02/16/oqS5FQ.jpg",              
+       "url": "http://210.210.155.35/session/a4928952-cfa9-11ea-b874-aa33b27a0a0f/uq2663/h/h98/index.m3u8",
+       "import": false       
+},
+    { 
+      "name": "CARTOONITO",
+      "image": "https://sv1.picz.in.th/images/2021/01/02/lzqaY0.jpg",              
+       "url": "https://doofootball.livestream-cdn.com/iptv/uk-cartoonito.stream/playlist.m3u8",
+       "import": false       
+},
+    { 
+      "name": "trtcocuk",
+      "image": "https://sv1.picz.in.th/images/2020/12/18/j6d1xQ.jpg",              
+       "url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
+       "import": false          
+},
+    { 
       "name": "Cartoonmovies",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1608380402143_movie_image.jpg",              
        "url": "http://61.19.242.134/feed/LC53/index.m3u8",
