@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 25/2/2021",
+      "author": "update 26/2/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -51,7 +51,12 @@
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8",
         "import": false
-
+},
+   { 
+        "name":"nickelodeon",
+        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611087108638_movie_image.jpg",
+        "url": "https://boxmovielive.com/live/nick.m3u8",
+        "import": false
 },
    { 
         "name":"Nick Jr. k",
