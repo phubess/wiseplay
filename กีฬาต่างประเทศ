@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 25/2/2021",
+    "author": "update 28/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -23,22 +23,106 @@
       "import": false
 },     
 {
-       "name": "beIN SPORTS 2",
-      "image": "https://www.we-play.tv//uploads/posters/-poster1602703712.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1454.m3u8",      
+       "name": "BTSPORT 1 HD",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/btsport1hd.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/342.m3u8",      
       "import": false
 },     
 {
-       "name": "beIN SPORTS 1tu ",
-      "image": "https://ball8k.com/stream/img_ch/20201019184909_beinsports1tu.jpg",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1455.m3u8",
+       "name": "BTSPORT 2 HD",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/btsport2hd.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/344.m3u8",
       "import": false
 },     
 {
-       "name": "beIN SPORTS 2tu ",
-      "image": "https://ball8k.com/stream/img_ch/20201019184909_beinsports2tu.jpg",
-      "url": "https://ball8k.com/m/ch.php?stream=beinsports2tu","referer": "https://ball8k.com/"
-
+       "name": "BTSPORT 3 HD",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/btsport3hd.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/346.m3u8",
+      "import": false
+},     
+{
+       "name": "BTSPORT ESPN",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/btespn.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/348.m3u8",
+      "import": false
+},     
+{
+       "name": "BTSPORT extra 1",
+      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-btsportextra1.png",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/350.m3u8",
+      "import": false
+},     
+{
+       "name": "BTSPORT extra 2",
+      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-btsportextra2.png",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/351.m3u8",
+      "import": false
+},     
+{
+       "name": "BTSPORT extra 3",
+      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-btsportextra3.png",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/352.m3u8",
+      "import": false      
+},     
+{
+       "name": "BTSPORT extra 4",
+      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-btsportextra4.png",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/353.m3u8",
+      "import": false      
+},     
+{
+       "name": "SKYSPORTS EPL",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skypl.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/324.m3u8",
+      "import": false
+},     
+{
+       "name": "SKYSPORTS Action",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skyaction.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/340.m3u8",
+      "import": false  
+},     
+{
+       "name": "SKYSPORTS Mix",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skymix.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/326.m3u8",
+      "import": false        
+},     
+{
+       "name": "SKYSPORTS Main Event",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skymain.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/328.m3u8",
+      "import": false        
+ },     
+{
+       "name": "SKYSPORTS Golf",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skigolf.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/330.m3u8",
+      "import": false 
+},     
+{
+       "name": "SKYSPORTS Football",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skyfootball.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/332.m3u8",
+      "import": false        
+ },     
+{
+       "name": "SKYSPORTS F1",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skyf1.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/334.m3u8",
+      "import": false       
+ },     
+{
+       "name": "SKYSPORTS Cricket",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skycricket.jpg",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/336.m3u8",
+      "import": false       
+},     
+{
+       "name": "SKYSPORTS Arena",
+      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-skysports-arena.png",
+      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/338.m3u8",
+      "import": false        
 },
  {
       "name": "FIGHT BOX",
