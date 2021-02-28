@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 25/2/2021",
+    "author": "update 28/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -140,6 +140,12 @@
     "name":"TLC HD b",
     "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
     "url": "https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8",
+    "import": false
+},
+{
+    "name":"Comedy Central",
+    "image":"https://static.uflixtv.com/images/tv/channels_icons/hd-comedycentral.png",
+    "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/102.m3u8",
     "import": false
 },
 {
