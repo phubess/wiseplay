@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 25/2/2021",
+    "author": "update 28/2/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -33,6 +33,12 @@
          "url": "https://cdn6.goprimetime.info//feed//newtv//index.m3u8",  
          "userAgent": "exoplayer_video",
          "playInNatPlayer": "true"
+}, 
+  {         
+        "name":"HGTV",
+        "image": "https://cdn.realscreen.com/wp/wp-content/uploads/2020/01/HGTV1.jpg?c067c8",
+         "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/74034.m3u8",  
+         "import": false
 }, 
   {         
         "name":"mysci b",
