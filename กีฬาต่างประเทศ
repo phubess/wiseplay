@@ -23,46 +23,116 @@
       "import": false
 },     
 {
-       "name": "SKYNET SPORT HD",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skynethd.jpg",
-      "url": "https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8",      
+       "name": "S 1",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bzn1hJ.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/74003.m3u8",      
       "import": false
+},     
+{
+       "name": "S 2",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bznKEb.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/74000.m3u8",      
+      "import": false      
  },     
 {
-       "name": "",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skynet1.jpg",
-      "url": "",      
+       "name": "S 3",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bznZXf.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73999.m3u8",      
       "import": false     
-},     
+  },     
 {
-       "name": "",
-      "image": "",
-      "url": "",      
-      "import": false      
-},     
+       "name": "S 4",
+      "image": "https://sv1.picz.in.th/images/2020/10/20/bzvawa.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73998.m3u8",      
+      "import": false    
+  },     
 {
-       "name": "",
-      "image": "",
-      "url": "",      
-      "import": false      
-},     
+       "name": "S 5",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bzr7dz.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73997.m3u8",      
+      "import": false    
+ },     
 {
-       "name": "",
-      "image": "",
-      "url": "",      
-      "import": false      
-},     
+       "name": "S 6",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrYPR.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73996.m3u8",      
+      "import": false     
+ },     
 {
-       "name": "",
-      "image": "",
-      "url": "",      
-      "import": false      
-},     
+       "name": "S 7",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrryR.png",
+      "url": "http://magco.rip/live/41246671289321/41604451921808/78997.m3u8",      
+      "import": false     
+ },     
 {
-       "name": "",
-      "image": "",
-      "url": "",      
-      "import": false      
+       "name": "S 8",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrHT0.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73995.m3u8",      
+      "import": false     
+ },     
+{
+       "name": "S 9",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrpNI.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73993.m3u8",      
+      "import": false     
+ },     
+{
+       "name": "S 10",
+      "image": "https://sv1.picz.in.th/images/2020/10/20/bzvvLz.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/74001.m3u8",      
+      "import": false     
+  },     
+{
+       "name": "S 11",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrITE.png",
+      "url": "http://magco.rip/live/41246671289321/41604451921808/79001.m3u8",      
+      "import": false    
+   },     
+{
+       "name": "S 12",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrMlN.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73994.m3u8",      
+      "import": false   
+  },     
+{
+       "name": "S 13",
+      "image": "https://sv1.picz.in.th/images/2020/10/20/bzXWG0.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73991.m3u8",      
+      "import": false         
+   },     
+{
+       "name": "S 14",
+      "image": "https://sv1.picz.in.th/images/2020/10/19/bzVKm8.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73990.m3u8",      
+      "import": false        
+   },     
+{
+       "name": "S 15",
+      "image": "https://sv1.picz.in.th/images/2020/10/20/bzVn2W.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73992.m3u8",      
+      "import": false        
+   },     
+{
+       "name": "S 16",
+      "image": "https://sv1.picz.in.th/images/2020/10/20/bzVG8b.png",
+      "url": "http://magco.rip/live/41246671289321/41604451921808/79008.m3u8",      
+      "import": false  
+ },     
+{
+       "name": "S 17",
+      "image": "https://sv1.picz.in.th/images/2021/02/19/oloCgN.png",
+      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/74002.m3u8",      
+      "import": false         
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       
 },     
 {
