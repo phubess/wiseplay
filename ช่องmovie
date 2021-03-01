@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 28/2/2021",
+    "author": "update 1/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -75,7 +75,7 @@
    {
      "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "http://www.boxmovie-th.com/boxmovies2/FoxactionmovieTH/index.m3u8",
+     "url": "https://boxmovielive.com/live/foxfa.m3u8",
       "import": false
  },
    {
@@ -94,12 +94,7 @@
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
      "url": "http://www.boxmovie-th.com/boxmovies2/foxthai/playlist.m3u8", 
      "import": false  
-},
-  {
-     "name": "FOX ไทย",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     "url": "http://thaicable.myftp.org:8000/live/infosat/2020/42.m3u8", 
-     "import": false  
+
 },
   {
      "name": "FOX ไทย",
@@ -115,14 +110,9 @@
   {
      "name": "Fox Family Movies b",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com/live/foxfa.m3u8",
+     "url": "https://boxmovielive.com/live/foxfad.m3u8",
      "import": false
-},
-  {
-     "name": "Fox Family Movies b",
-     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "http://www.boxmovie-th.com/boxmovies2/fox-family/playlist.m3u8",
-     "import": false
+
 },
   {
      "name": "Fox Family Movies",
@@ -454,13 +444,13 @@
   { 
      "name": "True Film Asia b",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com/live/filmasia.m3u8",
+      "url": "https://boxmovielive.com/live/filmasia1.m3u8",
       "import": false
 },
   { 
      "name": "TRUE MOVIE HITS b",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/his.m3u8",
+      "url": "https://boxmovielive.com/live/his1.m3u8",
      "import": false
 },
   { 
