@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 26/2/2021",
+    "author": "update 2/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -8,6 +8,13 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "http://a-play.online/tv/3HD/playlist.m3u8",
    "import": false
+},
+{
+    "name":"3 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
+    "url": "https://tv.trueid.net/embed/ch3-hd?autoplay=yes&nopageview=yes",
+    "userAgent": "okhttp/2.7.5",
+      "playInNatPlayer": "true"
 },
 {
     "name":"3 HD",
