@@ -221,6 +221,13 @@
      "import": false
 },
   {
+     "name": "True Thai Film k",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
+     "url": "https://boxmovielive.com/live/thaifilm1.m3u8",
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
      "name": "KBS World HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
      "url": "https://player.we-play.tv/channel.php?name=kbs&cate=entertainment","referer": "https://player.we-play.tv"
