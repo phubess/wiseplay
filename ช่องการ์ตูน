@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 28/2/2021",
+      "author": "update 3/3/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -23,6 +23,49 @@
         "url": "http://45.91.134.168:8080/KTU-kitkids/SYQsDqzSD2/41",
         "userAgent": "ExoMedia4.3.0",
         "playInNatPlayer": "true" 
+},
+    { 
+        "name":"UNIVERSALKIDS",
+        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614686035560_movie_image.jpg",
+        "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664",
+        "userAgent": "ExoMedia4.3.0",
+        "playInNatPlayer": "true" 
+},
+    { 
+        "name":"Nickelodeon US",
+        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614685207145_movie_image.jpg",
+        "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754",
+        "userAgent": "ExoMedia4.3.0",
+        "playInNatPlayer": "true"
+},
+    { 
+        "name":"Disney",
+        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614677897512_movie_image.jpg",
+        "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514",
+        "userAgent": "ExoMedia4.3.0",
+        "playInNatPlayer": "true"        
+ },
+    { 
+        "name":"Disney Junior ",
+        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614678087982_movie_image.jpg",
+        "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513",
+        "userAgent": "ExoMedia4.3.0",
+        "playInNatPlayer": "true"       
+  },
+    { 
+        "name":"NATGEO KIDS",
+        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614685330261_movie_image.jpg",
+        "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738",
+        "userAgent": "ExoMedia4.3.0",
+        "playInNatPlayer": "true"      
+ },
+    { 
+        "name":"CN Us",
+        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614689372283_movie_image.png",
+        "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683",
+        "userAgent": "ExoMedia4.3.0",
+        "playInNatPlayer": "true"
+
 },
     { 
      "name":"Cartoon Network",
