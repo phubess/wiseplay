@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 28/2/2021",
+    "author": "update 2/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -21,6 +21,50 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKNeW80645b2R-sKWgOyTPQT4-mxLaDsVIngk7axfRj5lGNFhx&usqp=CAU",
       "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
       "import": false
+},
+  {
+     "name": "NBA US",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614675200773_movie_image.jpg",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"      
+},
+  {
+     "name": "ESPN US",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614682860119_movie_image.png",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true" 
+},
+  {
+     "name": "ESPN +",
+     "image": "https://espn-cannonball-cdn.bamgrid.com/assets/originals/Share_Image_1200x675.jpg",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true" 
+},
+  {
+     "name": "GOLF NBC",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/161468100142_movie_image.png",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"         
+ },
+  {
+     "name": "FS1 USA ",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1604727222336_movie_image.png",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"        
+ },
+  {
+     "name": "FS2 USA",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1604727242710_movie_image.png",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"        
+      
+      
 },     
 {
       "name": "GINX Esports TV",
