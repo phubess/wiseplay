@@ -1,0 +1,259 @@
+{  
+    "name": "test",
+    "author": "update 2/3/2021",
+    "image": "https://i0.wp.com/wemschools.org/wp-content/uploads/2020/01/testenter.jpg?fit=640%2C360&ssl=1",       
+    "stations": [ 
+ { 
+   "name": "5USA HD by isatnarok",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "BBC AME HD (ENG)",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "Bravo (ENG)",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "CBSNY",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "CBSNEWYORK",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "CBSMIAMI",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "DISCOVERY CIVILIZATION",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/686", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "E! Entertainment USA",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "FX",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "HGTV (ENG)",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "History HD (ENG)",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "Lifetime HD (ENG)",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+   "name": "NATGEO",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "OLYMPIC CHANNEL  HD",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "SYFY",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "TOONCAST",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "DISNEY",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "DISNEYJR",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "DISNEYXD",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "Animal HD (ENG)",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "Investigation Discovery ID",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "MTV LIVE",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "NATGEO KIDS",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "Nickelodeon HD (ENG)",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "PARAMOUNT NETWORK (ENG)",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "TVC DEPORTES",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "ELEVEN SPORTS",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "SPORTSBAYAREA",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "Canal De Las Estrellas",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "FIGHT NETWORK",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "ESPN GOAL LINE",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "baby tv",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "CARTOON NETWORK",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "CINEMAX HD",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "DISCOVERY SCIENCE",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+  {
+  "name": "FORMULA 1",
+     "image": "",              
+     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+},
+   ]
+   }
