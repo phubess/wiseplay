@@ -1,19 +1,19 @@
 {  
     "name": "test",
-    "author": "update 2/3/2021",
+    "author": "update 3/3/2021",
     "image": "https://i0.wp.com/wemschools.org/wp-content/uploads/2020/01/testenter.jpg?fit=640%2C360&ssl=1",       
     "stations": [ 
  { 
-   "name": "5USA HD by isatnarok",
+   "name": "Sky Sports Main Event FHD VIP UK",
      "image": "",              
-     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481", 
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683736", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
   {
-   "name": "BBC AME HD (ENG)",
+   "name": "Sky Sports Main Event HD VIP UK",
      "image": "",              
-     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679", 
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683737", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
 },
