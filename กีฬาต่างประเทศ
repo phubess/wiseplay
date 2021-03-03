@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 2/3/2021",
+    "author": "update /3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -21,51 +21,16 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKNeW80645b2R-sKWgOyTPQT4-mxLaDsVIngk7axfRj5lGNFhx&usqp=CAU",
       "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
       "import": false
+
 },
-  {
-     "name": "NBA US",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614675200773_movie_image.jpg",              
-     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"      
+ {
+      "name": "beIN Xtra",
+      "image": "https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",
+      "url": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
+       "import": false 
 },
-  {
-     "name": "ESPN US",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614682860119_movie_image.png",              
-     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true" 
-},
-  {
-     "name": "ESPN +",
-     "image": "https://espn-cannonball-cdn.bamgrid.com/assets/originals/Share_Image_1200x675.jpg",              
-     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true" 
-},
-  {
-     "name": "GOLF NBC",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/161468100142_movie_image.png",              
-     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"         
- },
-  {
-     "name": "FS1 USA ",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1604727222336_movie_image.png",              
-     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"        
- },
-  {
-     "name": "FS2 USA",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1604727242710_movie_image.png",              
-     "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"        
-},
-  {
-     "name": "beIN Sports 1 TR",
+ {
+     "name": "beIN Sports 1 HD TR",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/681951", 
      "userAgent": "ExoMedia4.3.0",
@@ -81,14 +46,14 @@
   {
      "name": "beIN Sports 3 HD TR",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",              
-     "url": ""http://mytv.fun:8080/Oskartest/t4h92jfvp/6906, 
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/6906", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"         
  },
   {
      "name": "beIN Sports 4 HD TR",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",              
-     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/6905", 
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/13874", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"         
  },
@@ -123,7 +88,7 @@
   {
      "name": "Sports TV TR",
      "image": "https://img.sport-tv-guide.live/images/stations/a671.png",              
-     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/8737", 
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/8668", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"         
    },
@@ -182,14 +147,7 @@
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/626988", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"         
-   },
-  {
-     "name": "Sports TV ",
-     "image": "https://img.sport-tv-guide.live/images/stations/a671.png",              
-     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/8668", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"         
-   },
+  },
   {
      "name": "Sky Sport 1 FHD DE",
      "image": "https://overseer.blackboxsys.net/images/png/de-skysport1.png",              
@@ -261,9 +219,9 @@
       "playInNatPlayer": "true"    
      },
   {
-     "name": "Premier Sports 1 FHD ",
+     "name": "Premier Sports 1 FHD",
      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/premiersport.jpg",              
-     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683997", 
+     "url": "http://mytv.fun:8080/fbsmn78h8/7cjdn55tk/682992", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"   
     },
@@ -272,29 +230,50 @@
      "image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_1_Poland.png",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/524331", 
      "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"    
+      "playInNatPlayer": "true" 
+   },
+  {
+     "name": "Eleven Sports 2 HD",
+     "image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_2_Poland.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/99803", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+   },
+  {
+     "name": "Eleven Sports 3 HD",
+     "image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_3_Poland.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/99930", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
     },
   {
      "name": "Eleven Sports 4 HD",
      "image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_4_Poland.png",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/167186", 
      "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"    
-     },
+      "playInNatPlayer": "true" 
+  },
+  {
+     "name": "nSport Plus",
+     "image": "https://newstvonline.com/wp-content/uploads/2019/07/nSport-Sports-News-Channel.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/5238", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+ },
   {
      "name": "NBC Sports Network",
      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAU63Zc6x-JCjCakxainib9WuPXMLvoC8KBg&usqp=CAU",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/14403", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"   
-     },
+  },
   {
      "name": "LA LIGA HD",
      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/beinlaliga.jpg",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683833", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"   
-     },
+  },
   {
      "name": "beiN Sports HD US",
      "image": "https://yt3.ggpht.com/ytc/AAUvwngzSuzv0j-Cg-GvcsNa0240cHxnVP3X8HrlQc3psu4=s900-c-k-c0x00ffffff-no-rj",              
@@ -308,14 +287,14 @@
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683736", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"        
-   },
+  },
   {
-     "name": ""Sky Sports Football HD,
+     "name": "Sky Sports Football HD",
      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skyfootball.jpg",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683759", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"       
-   },
+  },
   {
      "name": "Sky Sports Cricket HD",
      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skycricket.jpg",              
@@ -343,605 +322,125 @@
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683751", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"        
-   },
+  },
   {
      "name": "Sky Sports Action HD",
      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skyaction.jpg",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/674009", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"      
-   },
+  },
   {
      "name": "Sky Sports Arena HD",
      "image": "https://www.pngkey.com/png/full/961-9612367_sky-sports-arena-sky-sports-arena-live-sky.png",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/682023", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"      
-    },
+  },
   {
      "name": "Sky Sports Mix HD",
      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skymix.jpg",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683754", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"     
-    },
+  },
   {
      "name": "MUTV HD ",
      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/mutv.jpg",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/684682", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"     
-    },
+  },
   {
-     "name": "Eleven Sports 1 HD UK",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSqaHSWmw61zDyUfu8LIoBr6i-dY3fmg3-Q&usqp=CAU",              
-     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/682019", 
+     "name": "BT Sport ESPN HD",
+     "image": "https://i-movie2u.com/wp-content/uploads/2020/02/btespn.jpg",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/684436", 
      "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"     
-   },
+      "playInNatPlayer": "true" 
+  },
   {
-     "name": "",
-     "image": "",              
-     "url": "", 
+     "name": "Eurosport 1 HD UK",
+     "image": "https://overseer.blackboxsys.net/images/png/uk-eurosport.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/684076", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+  },
+  {
+     "name": "Eurosport 2 HD UK",
+     "image": "https://overseer.blackboxsys.net/images/png/uk-eurosport2.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/684077", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+  },
+  {
+     "name": "Box Nation HD UK",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/220px-BoxNation_logo.jpg",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/15783", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"   
+  },
+  {
+     "name": "Fight Network UK",
+     "image": "https://wrestlingsc.com/wp-content/uploads/2020/08/86754896_1525314280965241_7842912240171745280_n2.jpg",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/15747", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"   
+  },
+  {
+     "name": "Eir Sports HD",
+     "image": "https://img.sport-tv-guide.live/images/stations/a213.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683868", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"  
+ },
+  {
+     "name": "TSN 1 HD US",
+     "image": "https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/6353", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"       
+  },
+  {
+     "name": "TSN 2 HD US",
+     "image": "https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/6352", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"      
-    },
-  {
-     "name": "",
-     "image": "",              
-     "url": "", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"     
-    },
-  {
-     "name": "",
-     "image": "",              
-     "url": "", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"     
-   },
-  {
-     "name": "",
-     "image": "",              
-     "url": "", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"     
-    },
-  {
-     "name": "",
-     "image": "",              
-     "url": "", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"     
-      
-      
-
-},     
-{
-       "name": "S 1",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bzn1hJ.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/74003.m3u8",      
-      "import": false
-},     
-{
-       "name": "S 2",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bznKEb.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/74000.m3u8",      
-      "import": false      
- },     
-{
-       "name": "S 3",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bznZXf.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73999.m3u8",      
-      "import": false     
-  },     
-{
-       "name": "S 4",
-      "image": "https://sv1.picz.in.th/images/2020/10/20/bzvawa.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73998.m3u8",      
-      "import": false    
-  },     
-{
-       "name": "S 5",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bzr7dz.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73997.m3u8",      
-      "import": false    
- },     
-{
-       "name": "S 6",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrYPR.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73996.m3u8",      
-      "import": false     
- },     
-{
-       "name": "S 7",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrryR.png",
-      "url": "http://magco.rip/live/41246671289321/41604451921808/78997.m3u8",      
-      "import": false     
- },     
-{
-       "name": "S 8",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrHT0.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73995.m3u8",      
-      "import": false     
- },     
-{
-       "name": "S 9",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrpNI.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73993.m3u8",      
-      "import": false     
- },     
-{
-       "name": "S 10",
-      "image": "https://sv1.picz.in.th/images/2020/10/20/bzvvLz.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/74001.m3u8",      
-      "import": false     
-  },     
-{
-       "name": "S 11",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrITE.png",
-      "url": "http://magco.rip/live/41246671289321/41604451921808/79001.m3u8",      
-      "import": false    
-   },     
-{
-       "name": "S 12",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bzrMlN.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73994.m3u8",      
-      "import": false   
-  },     
-{
-       "name": "S 13",
-      "image": "https://sv1.picz.in.th/images/2020/10/20/bzXWG0.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73991.m3u8",      
-      "import": false         
-   },     
-{
-       "name": "S 14",
-      "image": "https://sv1.picz.in.th/images/2020/10/19/bzVKm8.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73990.m3u8",      
-      "import": false        
-   },     
-{
-       "name": "S 15",
-      "image": "https://sv1.picz.in.th/images/2020/10/20/bzVn2W.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/73992.m3u8",      
-      "import": false        
-   },     
-{
-       "name": "S 16",
-      "image": "https://sv1.picz.in.th/images/2020/10/20/bzVG8b.png",
-      "url": "http://magco.rip/live/41246671289321/41604451921808/79008.m3u8",      
-      "import": false  
- },     
-{
-       "name": "S 17",
-      "image": "https://sv1.picz.in.th/images/2021/02/19/oloCgN.png",
-      "url": "http://no.stable.tel/live/rubor/uRP4fvMEUY/74002.m3u8",      
-      "import": false         
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-},     
-{
-       "name": "BTSPORT 1 HD",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/btsport1hd.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/342.m3u8",      
-      "import": false
-},     
-{
-       "name": "BTSPORT 2 HD",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/btsport2hd.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/344.m3u8",
-      "import": false
-},     
-{
-       "name": "BTSPORT 3 HD",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/btsport3hd.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/346.m3u8",
-      "import": false
-},     
-{
-       "name": "BTSPORT ESPN",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/btespn.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/348.m3u8",
-      "import": false
-},     
-{
-       "name": "BTSPORT extra 1",
-      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-btsportextra1.png",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/350.m3u8",
-      "import": false
-},     
-{
-       "name": "BTSPORT extra 2",
-      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-btsportextra2.png",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/351.m3u8",
-      "import": false
-},     
-{
-       "name": "BTSPORT extra 3",
-      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-btsportextra3.png",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/352.m3u8",
-      "import": false      
-},     
-{
-       "name": "BTSPORT extra 4",
-      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-btsportextra4.png",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/353.m3u8",
-      "import": false      
-},     
-{
-       "name": "SKYSPORTS EPL",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skypl.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/324.m3u8",
-      "import": false
-},     
-{
-       "name": "SKYSPORTS Action",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skyaction.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/340.m3u8",
-      "import": false  
-},     
-{
-       "name": "SKYSPORTS Mix",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skymix.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/326.m3u8",
-      "import": false        
-},     
-{
-       "name": "SKYSPORTS Main Event",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skymain.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/328.m3u8",
-      "import": false        
- },     
-{
-       "name": "SKYSPORTS Golf",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skigolf.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/330.m3u8",
-      "import": false 
-},     
-{
-       "name": "SKYSPORTS Football",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skyfootball.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/332.m3u8",
-      "import": false        
- },     
-{
-       "name": "SKYSPORTS F1",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skyf1.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/334.m3u8",
-      "import": false       
- },     
-{
-       "name": "SKYSPORTS Cricket",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skycricket.jpg",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/336.m3u8",
-      "import": false       
-},     
-{
-       "name": "SKYSPORTS Arena",
-      "image": "https://static.uflixtv.com/images/tv/channels_icons/uk-skysports-arena.png",
-      "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/338.m3u8",
-      "import": false        
-},
- {
-      "name": "FIGHT BOX",
-      "image": "https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png",
-      "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8",
-       "import": false
-},
- {
-      "name": "beIN SPORTS",
-      "image": "https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1457.m3u8",
-       "import": false
-},
- {
-      "name": "beIN SPORTS 1",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8",
-       "import": false
- },
- {
-      "name": "beIN SPORTS 2",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8",
-       "import": false
- },
- {
-      "name": "beIN SPORTS 3",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8",
-       "import": false
- },
- {
-      "name": "beIN SPORTS 4",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1456.m3u8",
-       "import": false
- },
- {
-      "name": "beIN SPORTS 5",
-      "image": "https://i.pinimg.com/originals/0e/da/56/0eda560bc00b99b8a9da424f66a90b60.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8",
-       "import": false
-  },
- {
-      "name": "beIN SPORTS 6",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxnZCGH2CfZQ1wUpF3KH73eeA9YniNCtb-A&usqp=CAU",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8",
-       "import": false
- },
- {
-      "name": "beIN SPORTS 7",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_7.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8",
-       "import": false
- },
- {
-      "name": "beIN SPORTS 8",
-      "image": "https://e.top4top.io/p_4032utho6.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8",
-       "import": false
-   },
- {
-      "name": "beIN SPORTS 9",
-      "image": "https://f.top4top.io/p_4033usod7.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8",
-       "import": false     
-   },
- {
-      "name": "beIN SPORTS 10",
-      "image": "https://a.top4top.net/p_403c1sit8.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8",
-       "import": false     
-   },
- {
-      "name": "beIN SPORTS 11",
-      "image": "https://b.top4top.net/p_4037l45t9.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8",
-       "import": false     
-    },
- {
-      "name": "beIN SPORTS 12",
-      "image": "https://bit.ly/3dClFf6",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8",
-       "import": false    
-   },
- {
-      "name": "beIN SPORTS 13",
-      "image": "http://4.bp.blogspot.com/-KeL_sl9lrGI/VFIryEx2O_I/AAAAAAAAA6Q/m_svmXrvBWE/s1600/2%2B%2B-%2BCpa%2BDesiger%2Bcopy.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.m3u8",
-       "import": false     
-   },
- {
-      "name": "beIN SPORTS 14",
-      "image": "http://4.bp.blogspot.com/--SpPFGHG-XI/VBEdD-bO6UI/AAAAAAAAADY/Yy9ysfVU2xk/s1600/14.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.m3u8",
-       "import": false     
-   },
- {
-      "name": "beIN SPORTS 15",
-      "image": "http://1.bp.blogspot.com/-sI1PG1k_FL4/VBEdgAIZSwI/AAAAAAAAADg/Trq4Vk63TAM/s1600/f_beIN%2BSports%2BHD15%2B%5Bbein2%5D.png",
-      "url": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.m3u8",
-       "import": false     
-},
- {
-      "name": "SETANTA SPORTS HD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png",
-      "url": "https://chostv.mobie.in/choos/sports/stantahd.m3u8",
-       "import": false
- },
- {
-      "name": "Fox Sports 501",
-      "image": "https://media.info/i/lf/300/1489224113/6550.png",
-      "url": "https://chostv.mobie.in/choos/sports/arena1.m3u8",
-       "import": false 
- },
- {
-      "name": "star sport 1",
-      "image": "https://bit.ly/2ZdZe7y",
-      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5430.m3u8",
-       "import": false       
- },
- {
-      "name": "star sport 2",
-      "image": "https://i.pinimg.com/originals/f4/42/09/f4420978ab1464b77de927ca4fa6527f.png",
-      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5430.m3u8",
-       "import": false       
-},
- {
-      "name": "tivibu spor",
-      "image": "https://sport-tv-guide.live/images/stations/a648.png",
-      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5439.m3u8",
-       "import": false       
-},
- {
-      "name": "sk2",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/sk2.jpg",
-      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5444.m3u8",
-       "import": false       
- },
- {
-      "name": "nbatv",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
-      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5450.m3u8",
-       "import": false       
- },
-  {
-       "name":"digisport1 HD",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",
-        "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5454.m3u8", 
-        "import": false
- },
-  {
-       "name":"beinsports max 8",
-        "image": "http://one-iptv.com/logoX/bein/beinmax8.png",
-        "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5466.m3u8", 
-        "import": false
   },
   {
-       "name":"beinsport 2",
-        "image": "https://overseer.blackboxsys.net/images/png/hd-bein2.png",
-        "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5481.m3u8", 
-        "import": false
+     "name": "TSN 3 HD US",
+     "image": "https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/6351", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"      
   },
   {
-       "name":"beinsport 5",
-        "image": "https://overseer.blackboxsys.net/images/png/hd-bein5.png",
-        "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5478.m3u8", 
-        "import": false
-},
- {
-      "name": "TeleSport",
-      "image": "https://ru1.su/images/sport7/TeleSport.jpg",
-      "url": "https://cdn1-2.tele-sport.ru/abr/line2/live/line2_1080p/chunks.m3u8",
-       "import": false
-},
- {
-      "name": "BAYERN MUNICH TV",
-      "image": "https://i.vimeocdn.com/video/599199796.webp?mw=800&mh=451&q=70",
-      "url": "http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live",
-       "import": false
-},
- {
-      "name": "LIVERPOOL TV",
-      "image": "https://ball8k.com/stream/img_ch/20201015234027_1602779966739.jpg",
-      "url": "http://ipflix.click/live/9nfl49lgjo/o3cceiyf5/5425.m3u8",
-      "import": false
-},
- {
-      "name": "MUTV",
-      "image": "https://ball8k.com/stream/img_ch/20201019222450_1603121025834.jpg",
-      "url": "https://ball8k.com/m/ch.php?stream=mutv","referer": "https://ball8k.com/"
-},
- {
-      "name": "beIN Xtra",
-      "image": "https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",
-      "url": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8",
-       "import": false 
-},
- {
-      "name": "One Golf",
-      "image": "https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png",
-      "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
-       "import": false 
-},
- {
-      "name": "Diemasport1",
-      "image": "https://ball8k.com/stream/img_ch/20200923165711_diemasport1.jpg",
-      "url": "https://ball8k.com/m/ch.php?stream=diemasport1","referer": "https://ball8k.com/"
-},
- {
-      "name": "Cmorefootball",
-      "image": "https://ball8k.com/stream/img_ch/20200923165701_cmorefootball.jpg",
-      "url": "https://ball8k.com/m/ch.php?stream=cmorefootball","referer": "https://ball8k.com/"
+     "name": "TSN 4 HD US",
+     "image": "https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/679808", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"     
  },
- {
-      "name": "Elevensports1",
-      "image": "https://ball8k.com/stream/img_ch/20201010213426_elevensports1pt.jpg",
-      "url": "https://ball8k.com/m/ch.php?stream=elevensports1pt","referer": "https://ball8k.com/"      
-},
- {
-      "name": "SUPER TENNIS",
-      "image": "https://tennisclubcadelmoro.files.wordpress.com/2017/10/supertennis.png",
-      "url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
-       "import": false 
-},
- {
-       "name":"beinsport1 fr",
-       "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
-       "url": "https://www.doonung1234.com/match/view/7702/beinsport1fr","referer": "https://www.doonung1234.com/" 
-},
   {
-       "name":"beinsport2 fr",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--401.png",
-        "url": "https://www.doonung1234.com/match/view/7728/beinsport2fr","referer": "https://www.doonung1234.com/" 
-},
+     "name": "TSN 5 HD US",
+     "image": "https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/6349", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"       
+  },
   {
-       "name":"foxsport1 nl",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--241.png",
-        "url": "https://www.doonung1234.com/match/view/7667/foxsport1nl","referer": "https://www.doonung1234.com/" 
-},
+     "name": "SuperSport Variety 2 HD",
+     "image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-2.png",              
+     "url": "http://mytv.fun:8080/fbsmn78h8/7cjdn55tk/678021", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"    
+  },
   {
-       "name":"foxsport2 nl",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--242.png",
-       "url": "https://www.doonung1234.com/match/view/7665/foxsport2nl","referer": "https://www.doonung1234.com/"
-},
- {
-       "name":"foxsport3 nl",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--243.png",
-       "url": "https://www.doonung1234.com/match/view/7674/foxsport3nl","referer": "https://www.doonung1234.com/"
-},
- {
-       "name":"foxsport4 nl",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--244.png",
-       "url": "https://www.doonung1234.com/match/view/7664/foxsport4nl","referer": "https://www.doonung1234.com/"
-},
- {
-       "name":"sporttv1",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
-       "url": "https://www.doonung1234.com/match/view/7663/sporttv1","referer": "https://www.doonung1234.com/"
-},
- {
-       "name":"sporttv2",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",
-     "url": "https://www.doonung1234.com/match/view/7660/sporttv2","referer": "https://www.doonung1234.com/"
-},
- {
-       "name":"sporttv3",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",
-      "url": "https://www.doonung1234.com/match/view/7689/sporttv3","referer": "https://www.doonung1234.com/"
-},
- {
-       "name":"sporttv4",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",
-       "url": "https://www.doonung1234.com/match/view/7688/sporttv4","referer": "https://www.doonung1234.com/"
-},
- {
-       "name":"sportdigital",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",
-       "url": "https://www.doonung1234.com/match/view/7688/sportdigital","referer": "https://www.doonung1234.com/"
-
-},
-  {
-       "name":"digisport1 romania",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",
-     "url": "https://xn--72cabb1dub2do5e1b4a8c.com/matchsys/live-football/555967/digisport1romania","referer": "https://xn--72cabb1dub2do5e1b4a8c.com/"
-},
-  {
-       "name":"digisport1 romania",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--880.png",
-     "url": "https://www.doonung1234.com/match/view/7683/digisport1romania","referer": "https://www.doonung1234.com/"
-},
-  {
-       "name":"digisport2 romania",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--881.png",
-     "url": "https://www.doonung1234.com/match/view/7631/digisport2romania","referer": "https://www.doonung1234.com/"
-},
-  {
-       "name":"digisport3 romania",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--882.png",
-     "url": "https://www.doonung1234.com/match/view/7641/digisport3romania","referer": "https://www.doonung1234.com/"
-},
-  {
-       "name":"digisport4 romania",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--883.png",
-     "url": "https://www.doonung1234.com/match/view/7673/digisport4romania","referer": "https://www.doonung1234.com/"
-},
-  {
-       "name":"elevensports1",
-        "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1500.png",
-     "url": "https://www.doonung1234.com/match/view/7672/elevensports1pt","referer": "https://www.doonung1234.com/"
-
+     "name": "SuperSport Football HD",
+     "image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png",              
+     "url": "http://mytv.fun:8080/fbsmn78h8/7cjdn55tk/678024", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"    
 
 
 },
