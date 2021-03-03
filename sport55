@@ -314,7 +314,7 @@
   {
      "name": "Eurosport 1 HD UK",
      "image": "https://overseer.blackboxsys.net/images/png/uk-eurosport.png",              
-     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/684075", 
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/684076", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
   },
@@ -328,7 +328,7 @@
   {
      "name": "Box Nation HD UK",
      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/220px-BoxNation_logo.jpg",              
-     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/671396", 
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/15783", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"   
      },
@@ -345,13 +345,6 @@
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683868", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"  
-},
-  {
-     "name": "Eir Sports 2 HD",
-     "image": "https://img.sport-tv-guide.live/images/stations/a214.png",              
-     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/683872", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"        
  },
   {
      "name": "TSN 1 HD US",
@@ -401,20 +394,7 @@
      "url": "http://mytv.fun:8080/fbsmn78h8/7cjdn55tk/678024", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"    
- },
-  {
-     "name": "DIGI Sport 1",
-     "image": "https://i-movie2u.com/wp-content/uploads/2020/02/digi1.jpg",              
-     "url": "http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/149962", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"      
- },
-  {
-     "name": "Telekom Sport 1",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Telekom_Sport_1_%282017%29.svg",              
-     "url": "http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/128252", 
-     "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"     
+ 
      
       
 },
