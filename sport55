@@ -204,14 +204,56 @@
      "image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_1_Poland.png",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/524331", 
      "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"    
+      "playInNatPlayer": "true" 
+   },
+  {
+     "name": "Eleven Sports 2 HD",
+     "image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_2_Poland.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/99803", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+   },
+  {
+     "name": "Eleven Sports 3 HD",
+     "image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_3_Poland.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/99930", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
     },
   {
      "name": "Eleven Sports 4 HD",
      "image": "https://www.thesportsdb.com/images/media/logo/Eleven_Sports_4_Poland.png",              
      "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/167186", 
      "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"    
+      "playInNatPlayer": "true" 
+  },
+  {
+     "name": "nSport Plus",
+     "image": "https://newstvonline.com/wp-content/uploads/2019/07/nSport-Sports-News-Channel.png",              
+     "url": "http://mytv.fun:8080/Oskartest/t4h92jfvp/5238", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
+  },
+  {
+     "name": "",
+     "image": "",              
+     "url": "", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"     
+     },
+  {
+     "name": "",
+     "image": "",              
+     "url": "", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"  
+    },
+  {
+     "name": "",
+     "image": "",              
+     "url": "", 
+     "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"   
      },
   {
      "name": "NBC Sports Network",
