@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 2/3/2021",
+    "author": "update 4/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -110,7 +110,7 @@
   {
      "name": "Fox Family Movies b",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com/live/asaa.m3u8",
+     "url": "https://boxmovielive.com/live/asaa11.m3u8",
      "import": false
 
 },
@@ -457,7 +457,7 @@
   { 
      "name": "TRUE MOVIE HITS b",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/his1.m3u8",
+      "url": "https://boxmovielive.com/live/his.m3u8",
      "import": false
 },
   { 
