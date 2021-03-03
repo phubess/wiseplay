@@ -75,7 +75,7 @@
    {
      "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com/live/foxfa.m3u8",
+     "url": "https://boxmovielive.com/live/foxac.m3u8",
       "import": false
  },
    {
@@ -110,7 +110,7 @@
   {
      "name": "Fox Family Movies b",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com/live/foxfad.m3u8",
+     "url": "https://boxmovielive.com/live/asaa.m3u8",
      "import": false
 
 },
@@ -217,7 +217,7 @@
   {
      "name": "True Thai Film b",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
-     "url": "https://boxmovielive.com/live/thaifilm1.m3u8",
+     "url": "https://boxmovielive.com/live/as1.m3u8",
      "import": false
 },
   {
