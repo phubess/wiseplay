@@ -64,6 +64,11 @@
      "import": false
 },
  {
+     "name": "TRUE MUSIC HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+     "url": "https://r3-sn-5fo-c37ed19.googleuservideo.com/ilike4kin_x2/truemusic/chunks.m3u8","referer": "https://fintv.live/"
+},
+ {
      "name": "FTV",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1578592825654_movie_image.png",              
      "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
