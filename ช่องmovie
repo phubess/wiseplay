@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 4/3/2021",
+    "author": "update 5/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -162,11 +162,21 @@
       "import": false
 },
   {
+     "name": "HITS f",
+     "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
+     "url": "https://bit.ly/3ebRWdc","referer": "https://fintv.live/" 
+},
+  {
      "name": "HITS k",
      "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
      "url": "http://45.91.134.168:8080/KTU-HITS/XTrzD4s8af/28", 
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
+},
+  {
+     "name": "HITS MOVIES f",
+     "image": "",              
+     "url": "https://bit.ly/2Pnmv5h","referer": "https://fintv.live/" 
 },
   {
      "name": "KBS World HD",
