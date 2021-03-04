@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 3/3/2021",
+    "author": "update 5/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -8,6 +8,12 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "http://a-play.online/tv/3HD/playlist.m3u8",
    "import": false
+},
+{
+    "name":"3 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
+    "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/chunklist.m3u8",
+    "import": false
 },
 {
     "name":"3 HD",
@@ -36,6 +42,12 @@
  { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
+    "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/chunklist.m3u8",
+    "import": false
+},
+ { 
+    "name":"5 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "http://110.170.117.27:1935/apptv5hd1live/vdo/chunklist_w1011995023.m3u8",
     "import": false
 },
@@ -49,6 +61,12 @@
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://player.we-play.tv/channel.php?name=ch5hd&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+  { 
+    "name":"7 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+    "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist.m3u8",
+    "import": false 
 },
   { 
     "name":"7 HD",
@@ -84,6 +102,12 @@
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8",
+    "import": false
+},
+  { 
+    "name":"MCOT HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
+    "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/mcothd/chunklist.m3u8",
     "import": false
 },
   { 
@@ -172,6 +196,12 @@
   { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+    "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/onehd/chunklist.m3u8",
+    "import": false
+},
+  { 
+    "name":"ONE HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
     "url": "https://player.we-play.tv/channel.php?name=one31&cate=digitaltv","referer": "https://player.we-play.tv"
 },
   { 
@@ -209,6 +239,12 @@
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
     "url": "http://a-play.online/tv/pptv/playlist.m3u8",
+    "import": false
+},
+  { 
+    "name":"PPTV HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+    "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist.m3u8",
     "import": false
 },
   { 
