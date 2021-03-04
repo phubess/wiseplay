@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 28/2/2021",
+    "author": "update 4/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -29,8 +29,14 @@
      "import": false
 },
  {
+     "name": "TRUE INSIDE",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "https://r3-sn-5fo-c37ed19.googleuservideo.com/ilike4kin_x2/trueinside/chunks.m3u8?nimblesessionid=46032953&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjEgMTE6MTI6MDQgQU0maGFzaF92YWx1ZT03VkZkNXA5QXlQSXdOMjd5TXdiWHJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9bmRkLTMxNTky","referer": "https://fintv.live/"
+     "import": false    
+},
+ {
      "name": "GEM",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611707943462_movie_image.jpg",              
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611707943462_movie_image.jpg",                                                                                                                                                                                          
      "url": "http://45.126.83.51/session/4b965e82-6e78-11eb-a799-ba99ac333be4/uq2663/h/h19/02.m3u8",
      "import": false
 
