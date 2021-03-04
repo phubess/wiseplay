@@ -9,6 +9,11 @@
       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
   {	 
+      "name":"True Premier Football HD 1 f",
+      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+      "url": "https://bit.ly/3qhgkfO","referer": "https://ballnaka.tv/"
+},
+  {	 
       "name":"True Premier Football HD 1",
       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
       "url": "https://player.ballnaka.tv/?channel=tpf1&cate=sport","referer": "https://ballnaka.tv/"
@@ -58,6 +63,11 @@
 	 "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
          "referer": "https://dooball66.com/",  
         "playInNatPlayer": "true"
+},
+  {
+       "name":"True Premier Football HD 2 f",
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
+	"url": "https://bit.ly/3qgB8UW","referer": "https://fintv.live/"
 },
   {
        "name":"True Premier Football HD 2",
