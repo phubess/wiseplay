@@ -29,9 +29,9 @@
      "import": false
 },
  {
-     "name": "TRUE INSIDE",
+     "name": "TRUE INSIDE f",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "https://r3-sn-5fo-c37ed19.googleuservideo.com/ilike4kin_x2/trueinside/chunks.m3u8","referer": "https://fintv.live/"
+     "url": "https://bit.ly/2Opg6G9","referer": "https://fintv.live/"
 },
  {
      "name": "GEM",
@@ -56,6 +56,12 @@
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
      "url": "http://www.boxmovie-th.com/boxmovies2/iconcerts/index.m3u8",
      "import": false
+ },
+ {
+     "name": "Stringray iConcerts HD f",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
+     "url": "https://bit.ly/30bx9OL","referer": "https://fintv.live/"
+    
 },
  {
      "name": "TRUE MUSIC HD",
@@ -64,9 +70,9 @@
      "import": false
 },
  {
-     "name": "TRUE MUSIC HD",
+     "name": "TRUE MUSIC HD f",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://r3-sn-5fo-c37ed19.googleuservideo.com/ilike4kin_x2/truemusic/chunks.m3u8","referer": "https://fintv.live/"
+     "url": "https://bit.ly/3qhs4Po","referer": "https://fintv.live/"
 },
  {
      "name": "FTV",
@@ -75,11 +81,10 @@
      "import": false
 },
  {
-     "name": "BLUEANT ENTERTAINMENT k",
+     "name": "BLUEANT ENTERTAINMENT f",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
-     "url": "http://45.91.134.168:8080/KTU-BlueRed/LC1iODDTN4/17",
-     "userAgent": "ExoMedia4.3.0",
-     "playInNatPlayer": "true"
+     "url": "https://bit.ly/3e4S2Dv","referer": "https://fintv.live/"
+    
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
@@ -88,11 +93,10 @@
 
 },
  {
-     "name": "BLUEANT EXTREME k",
+     "name": "BLUEANT EXTREME f",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "http://45.91.134.168:8080/KTU-BlueAnt/HHxajK7Cen/18", 
-     "userAgent": "ExoMedia4.3.0",
-     "playInNatPlayer": "true"
+     "url": "https://bit.ly/3qbxbAF","referer": "https://fintv.live/"
+     
 },
  {
      "name": "BLUEANT EXTREME",
@@ -104,6 +108,11 @@
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
      "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "FASHION TV f",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Fa915a6a2-2e64-49e4-8049-6741274ce00e.png&w=320&h=240",              
+     "url": "https://bit.ly/3rkzbrY","referer": "https://fintv.live/"
 },
  {
      "name": "V Channel",
