@@ -8,7 +8,8 @@
      "name": "3hd",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",              
      "url": "https://livebox.co/LiveTv/Player?contentHash=33&langTrackCode=auto&subTrackCode=auto&resolution=1080&returnUrl=%2FLiveTv",
-     "import": false
+      "userAgent": "ExoMedia4.3.0",
+      "playInNatPlayer": "true"
  },
 ]
 }
