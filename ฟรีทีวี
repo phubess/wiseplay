@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 5/3/2021",
+    "author": "update 7/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -311,7 +311,7 @@
   { 
     "name":"Workpoint HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
-    "url": "https://bit.ly/3uCRJ8A",
+    "url": "https://bit.ly/3v4vetM",
      "import": false
 },
  {
