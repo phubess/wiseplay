@@ -12,7 +12,13 @@
   {    
       "name": "fox-sports-1",
      "image": "https://www.doofree88.com/storage/live/1pKXzOFzNjaZkJgEjGLba9k51SnUJbEUf3fvHupQ.png",              
-     "url": "https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8?token=TqA-Sswh74eFz8wjdaeWkQ&expires=1615207214","referer": "https://www.doofree88.com/"
+     "url": "https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8","referer": "https://www.doofree88.com/"
+     
+ },
+  {    
+      "name": "sport-hd-3",
+     "image": "https://www.doofree88.com/storage/live/cTPAhptOIi9yB7Lhrh55Y6C47AL1ShWUu6LBgoom.png",              
+     "url": "https://www.doofree88.com/live/sport-hd-3","referer": "https://www.doofree88.com/"
  },
 ]
 }
