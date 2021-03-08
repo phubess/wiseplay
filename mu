@@ -13,7 +13,6 @@
       "name": "fox-sports-1",
      "image": "https://www.doofree88.com/storage/live/1pKXzOFzNjaZkJgEjGLba9k51SnUJbEUf3fvHupQ.png",              
      "url": "https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8","referer": "https://www.doofree88.com/"
-     
  },
   {    
       "name": "sport-hd-3",
