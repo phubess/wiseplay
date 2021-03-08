@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 8/3/2021",
+    "author": "update 11/3/2021",
     "image": "https://th-test-11.slatic.net/p/a85fb067cd4f1b4b2e28bb1bb15597cd.jpg",       
     "stations": [ 
  { 
