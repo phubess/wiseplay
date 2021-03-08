@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 7/3/2021",
+    "author": "update 8/3/2021",
     "image": "https://th-test-11.slatic.net/p/a85fb067cd4f1b4b2e28bb1bb15597cd.jpg",       
     "stations": [ 
  { 
@@ -10,9 +10,9 @@
      "url": "https://live.tubtoeball.net/tubtoeball/tpf1_480/chunks.m3u8","referer": "https://tubtoeball.net/"
  },
   {    
-      "name": "fox-movies",
-     "image": "",              
-     "url": "https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/fox-movies/entertainment/fox-movies_fhd/chunks.m3u8","referer": "https://www.we-play.tv/"
+      "name": "fox-sports-1",
+     "image": "https://www.doofree88.com/storage/live/1pKXzOFzNjaZkJgEjGLba9k51SnUJbEUf3fvHupQ.png",              
+     "url": "https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8?token=TqA-Sswh74eFz8wjdaeWkQ&expires=1615207214","referer": "https://www.doofree88.com/"
  },
 ]
 }
