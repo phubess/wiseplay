@@ -8,7 +8,11 @@
      "name": "True Premier Football HD 1",
      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",              
      "url": "https://live.tubtoeball.net/tubtoeball/tpf1_480/chunks.m3u8","referer": "https://tubtoeball.net/"
-     
+ },
+  {    
+      "name": "fox-movies",
+     "image": "",              
+     "url": "https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/fox-movies/entertainment/fox-movies_fhd/chunks.m3u8","referer": "https://www.we-play.tv/"
  },
 ]
 }
