@@ -5,11 +5,10 @@
     "stations": [ 
  { 
    
-     "name": "3hd",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",              
-     "url": "https://livebox.co/LiveTv/Player?contentHash=33&langTrackCode=auto&subTrackCode=auto&resolution=1080&returnUrl=%2FLiveTv",
-      "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"
+     "name": "True Premier Football HD 1",
+     "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",              
+     "url": "https://live.tubtoeball.net/tubtoeball/tpf1_480/chunks.m3u8","referer": "https://tubtoeball.net/"
+     
  },
 ]
 }
