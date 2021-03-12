@@ -48,12 +48,6 @@
         "import": false
 },
    { 
-        "name":"nickelodeon",
-        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611087108638_movie_image.jpg",
-        "url": "https://boxmovielive.com/live/nick.m3u8",
-        "import": false
-},
-   { 
         "name":"Nick Jr. k",
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
         "url": "http://edge-n2.uplayhd.tv:8081/iOiW_oppLKte2rYBlCZU2w/1615574654/live-o33-th/th-nickjr_480/playlist.m3u8",
@@ -123,20 +117,15 @@
   { 
       "name": "Disney Channel",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
-       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/73.m3u8",
-       "import": false
+       "url": "https://www.doofree88.com/live/disney-xd","referer": "https://www.doofree88.com/"
+    
 },
   { 
       "name": "Disney Channel",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
        "url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
        "import": false
-},
-    { 
-      "name": "Disney Channel",
-      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
-       "url": "https://laos-tech-live.b-cdn.net/hd-disneyxd_720/index.m3u8",
-       "import": false
+
 },
     { 
       "name": "CBEEBIES",
@@ -144,13 +133,7 @@
        "url": "https://doofootball.livestream-cdn.com/iptv/uk-cbeebieshd.stream/chunks.m3u8",
        "import": false
 },
-    { 
-      "name": "Disney UK",
-      "image": "https://sv1.picz.in.th/images/2021/01/28/lJ2WLP.jpg",              
-       "url": "https://doofootball.livestream-cdn.com/iptv/uk-disney.stream/playlist.m3u8",
-       "import": false
-},
-    { 
+   { 
       "name": "M KIDZ",
       "image": "https://sv1.picz.in.th/images/2021/02/16/oqS5FQ.jpg",              
        "url": "http://210.210.155.35/session/a4928952-cfa9-11ea-b874-aa33b27a0a0f/uq2663/h/h98/index.m3u8",
