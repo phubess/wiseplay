@@ -6,8 +6,9 @@
 {  
     "name":"True Premier Football HD 1 K",
    "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-   "url": "http://edge-n2.uplayhd.tv:8081/nyx-8x5TSkw4WohL2VVaBQ/1615569160/live-o33-th/uplay-epl1_720/playlist.m3u8",
-   "import": false
+   "url": "http://api-m.uplayhd.tv/api-m/tv/ch/play_v3/?c=th-cartoonnetwork&user_loggedsession=YHd6uSrY78uOOmSE5YnZUiEt3HpM9krkPHQAL3CNQhp3zmjEEp60474a2dc7339",
+    "userAgent": "okhttp/3.14.9",
+      "playInNatPlayer": "true"
 },
   ]
 }
