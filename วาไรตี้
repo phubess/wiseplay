@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 6/3/2021",
+    "author": "update 12/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -23,27 +23,27 @@
      "import": false
 },
  {
+     "name": "lifetime",
+     "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
+     "url": "http://edge-n3.uplayhd.tv:8081/H99tOKiXGoefiECStyZT9g/1615571958/live-o33-th/th-lifetime_720/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "KMTV",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
+     "url": "http://edge-n1.uplayhd.tv:8081/dDw3hx_rWgaU-Uc9kRZX-g/1615571934/live-o33-th/th-kmtv_720/playlist.m3u8",
+     "import": false
+},
+ {
      "name": "TRUE INSIDE",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
      "url": "http://160.119.77.116:8081/iptv/sd-inside.stream/chunks.m3u8",
      "import": false
 },
  {
-     "name": "TRUE INSIDE f",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "https://bit.ly/2Opg6G9","referer": "https://fintv.live/"
-},
- {
      "name": "GEM",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611707943462_movie_image.jpg",                                                                                                                                                                                          
      "url": "http://45.126.83.51/session/4b965e82-6e78-11eb-a799-ba99ac333be4/uq2663/h/h19/02.m3u8",
-     "import": false
-
-},
- {
-    "name": "CHIANGRAI CHANNEL",
-     "image": "https://yt3.ggpht.com/ytc/AAUvwnj2RvZQ0xGn814CelpYiOd9fTsxdtq-XVXmfkJ-gQ=s176-c-k-c0x00ffffff-no-rj",              
-     "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
      "import": false
 },
  {
@@ -52,27 +52,17 @@
      "url": "https://player.we-play.tv/channel.php?name=iconcerts&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
-     "name": "Stringray iConcerts HD b",
+     "name": "Stringray iConcerts HD ",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
-     "url": "http://www.boxmovie-th.com/boxmovies2/iconcerts/index.m3u8",
+     "url": "http://edge-n1.uplayhd.tv:8081/AO412JNa-esucfHOPvLgag/1615572099/live-o33-th/th-iconcerts_720/playlist.m3u8",
      "import": false
- },
- {
-     "name": "Stringray iConcerts HD f",
-     "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
-     "url": "https://bit.ly/30bx9OL","referer": "https://fintv.live/"
-    
 },
  {
      "name": "TRUE MUSIC HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
      "url": "https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8",
      "import": false
-},
- {
-     "name": "TRUE MUSIC HD f",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
-     "url": "https://bit.ly/3qhs4Po","referer": "https://fintv.live/"
+
 },
  {
      "name": "FTV",
@@ -81,22 +71,21 @@
      "import": false
 },
  {
-     "name": "BLUEANT ENTERTAINMENT f",
+     "name": "BLUEANT ENTERTAINMENT ",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
-     "url": "https://bit.ly/3e4S2Dv","referer": "https://fintv.live/"
-    
+     "url": "http://edge-n1.uplayhd.tv:8081/LMFmI6LKknECJK2ud3M3rg/1615571706/live-o33-th/th-blueant_720/playlist.m3u8",
+     "import": false
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
      "url": "https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment","referer": "https://player.we-play.tv"
-
 },
  {
-     "name": "BLUEANT EXTREME f",
+     "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "https://bit.ly/3qbxbAF","referer": "https://fintv.live/"
-     
+     "url": "http://edge-n2.uplayhd.tv:8081/E6I_vdnxrfyUfjpc2-8oZQ/1615571760/live-o33-th/th-blueantex_720/playlist.m3u8",
+     "import": false
 },
  {
      "name": "BLUEANT EXTREME",
@@ -108,11 +97,6 @@
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
      "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment","referer": "https://player.we-play.tv"
-},
- {
-     "name": "FASHION TV f",
-     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Fa915a6a2-2e64-49e4-8049-6741274ce00e.png&w=320&h=240",              
-     "url": "https://bit.ly/3rkzbrY","referer": "https://fintv.live/"
 },
  {
      "name": "V Channel",
@@ -137,12 +121,7 @@
       "name": "Waku Waku Japan",
       "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
        "url": "https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment","referer": "https://player.we-play.tv"
-},
-  { 
-      "name": "Waku Waku Japan b",
-      "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
-       "url": "http://www.boxmovie-th.com/boxmovies2/Wakuwakujapan/index.m3u8",
-       "import": false
+
 },
 {
     "name":"TLC HD b",
@@ -156,7 +135,7 @@
     "url": "https://player.we-play.tv/channel.php?name=tlc&cate=documentary","referer": "https://player.we-play.tv"
 },
 {
-    "name":"TLC HD b",
+    "name":"TLC HD ",
     "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
     "url": "https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8",
     "import": false
