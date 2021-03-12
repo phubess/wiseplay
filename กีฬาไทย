@@ -9,9 +9,15 @@
       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
   { 
-   "name":"True Premier Football HD 1 K",
+   "name":"True Premier Football HD 1 ",
    "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
    "url": "http://edge-n2.uplayhd.tv:8081/nyx-8x5TSkw4WohL2VVaBQ/1615569160/live-o33-th/uplay-epl1_720/playlist.m3u8",
+   "import": false
+},
+  { 
+   "name":"True Premier Football HD 1 ",
+   "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+   "url": "http://edge-n2.uplayhd.tv:8081/WqS5__0PYYXBwrExcy4d7Q/1615570474/live-o33-th/uplay-epl1bkp_720/playlist.m3u8",
    "import": false
 },
   {	 
