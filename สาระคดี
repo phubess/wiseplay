@@ -205,7 +205,12 @@
         "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
          "url": "http://edge-n3.uplayhd.tv:8081/sVqt2xcD0PLeQQkiun5JAQ/1615611741/live-o33-th/th-explife_480/playlist.m3u8",
          "import": false
-
+},
+  { 
+       "name": "Explore sci",
+        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
+         "url": "http://edge-n2.uplayhd.tv:8081/LQRE2WL-uDZYpHlUbJHnGA/1615612213/live-o33-th/th-expsci_480/playlist.m3u8",
+         "import": false
 },
    {
       "name": "CRIME+",
