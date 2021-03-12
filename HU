@@ -1,0 +1,588 @@
+{
+  "name": "CANALES MOVISTAR Y Canales España (TDT + Autonómicas)",
+  "author": "ListasWiseplay.com",
+"info": "Cualquier duda o sugerencia contactar con listaswiseplay.com",
+  "url": "https://pastebin.com/ZjA4B5SY",
+"image": "http://otxarkoaga.es/wp-content/uploads/logo_tdt.gif",
+  "groups": [
+{
+     
+         "name": "TODOS LOS CANALES DE PAGO TOTALMENTE GRATIS",
+      "image": "https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",
+      "info": "IMPORTANTE: Sincroniza siempre la lista antes de ver un evento, así te garantizas tener las últimas y mejores señales disponibles. Para los canales que se abren externamente, pulsar en el icono de Play (parte superior derecha) con un círculo en cuanto aparezca para abrir en el reproductor.",
+      "stations": [
+
+{"name": " TODOS LOS CANALES DE PAGO (INCLUIDO MOTOGP + FORMULA 1.. ETC ",
+"image":"http://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png",
+"url": "https://pastebin.com/raw/HpBX8Z7h#.m3u",
+"userAgent": "exoplayer_video",
+"isHost": true},
+
+{"name": " TODOS LOS CANALES DE PAGO (INCLUIDO MOTOGP + FORMULA 1.. ETC ",
+"image":"http://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png",
+"url": "https://pastebin.com/raw/0C5utBqQ#.m3u",
+"userAgent": "exoplayer_video",
+"isHost": true},
+
+ {
+                    "name": "#VAMOS",
+                    "image": "https://static.wixstatic.com/media/150734_342b469c934f4b4899595f03699e8135~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/19.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+                
+  {
+                    "name": "0 HD",
+                    "image": "https://static.wixstatic.com/media/150734_36a3a99d73904ce1acd08dba3ee20607~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/2.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+                            
+
+                   
+ {
+                    "name": "ESTRENOS HD",
+                    "image": "https://static.wixstatic.com/media/150734_bf4c10d2b31744f0ab8012556707905b~mv2.png",
+                     "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/3.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+        {
+                    "name": "DRAMA HD",
+                     "image": "https://static.wixstatic.com/media/150734_ad70a19354b94046935a43f4d6b600a3~mv2.png",
+                     "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/4.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+   
+      {
+			"name": "ACCION HD",
+			"image": "https://static.wixstatic.com/media/150734_84a25e6160694c1bbdeae60af85d85d0~mv2.png",
+			"url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/5.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+ 
+    {
+                    "name": "COMEDIA HD",
+					"image": "https://static.wixstatic.com/media/150734_0755c6957df24555a3b25d89c50120a1~mv2.png",
+					"url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/6.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+             
+      {
+					"name": "DOC&ROLL HD",
+					"image": "https://static.wixstatic.com/media/150734_c3004c1f899646e9bac90cbca1bbd6bc~mv2.png",
+					"url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/65.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+           
+                    {"name": "CALLE 13 HD",
+"image": "https://static.wixstatic.com/media/150734_eca1284fd1504d7eaf41179cd0ee039b~mv2.png",
+"url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/10.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+                    
+ {
+                    "name": "TCM HD",
+                    "image": "https://static.wixstatic.com/media/150734_cf378743995b4329a0460928a218802a~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/64.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+ {
+                    "name": "A&E HD",
+                    "image": "https://static.wixstatic.com/media/150734_4e5b01662f594b2d8c2148425cc174d9~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/67.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+
+ 
+ 
+{
+                    "name": "CRIME&INVESTIGATION",
+                    "image": "https://static.wixstatic.com/media/150734_e049909e500e46d99387483746fc549b~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/68.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+
+{
+                    "name": "BEIN LA LIGA HD",
+                    "image": "https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/16.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+
+{
+                    "name": "GOLTV",
+                    "image": "https://static.wixstatic.com/media/150734_cb97d3de3d664c8089bb8b6df6270645~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/17.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+
+
+{
+                    "name": "DEPORTES HD",
+                    "image": "https://static.wixstatic.com/media/150734_3964025188584e399c985ea69a4997c4~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/18.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+
+{
+                    "name": "PARTIDAZO",
+                    "image": "https://tv.orange.es/UpImages/2240/movistar_partidazo_84339f22b012cc284e34ee0b1.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/20.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "LIGA 123",
+                    "image": "https://3.bp.blogspot.com/-p44bVKyREU0/W7Eq5o_eYZI/AAAAAAABSJE/FbjJhfllUKo5oaG_wddBcSJKbhM-QiyAwCLcBGAs/s1600/LaLiga%2B123.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/7.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "BEIN SPORT ESPAÑA HD",
+                    "image": "https://static.wixstatic.com/media/150734_ec917a4c011e4a18b5fb90cf8519c089~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/21.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "MOTOGP HD",
+                    "image": "https://static.wixstatic.com/media/150734_6c654bbe68cf4596a8273e5c42329ab1~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/22.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "FORMULA 1 HD",
+                    "image": "https://static.wixstatic.com/media/150734_016572fa85854abcb8679f5e75ca9132~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/23.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "TOROS HD",
+                    "image": "https://static.wixstatic.com/media/150734_733f6da3992f45c599bb7dcb250abdfb~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/24.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "GOLF HD",
+                    "image": "https://static.wixstatic.com/media/150734_88630dfd45424e2883703dd7704e5bc2~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/25.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "BARÇA TV",
+                    "image": "https://static.wixstatic.com/media/150734_46368b7198264b53acf430e7d7708e3a~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/26.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "EUROSPORT HD",
+                    "image": "https://static.wixstatic.com/media/150734_41af9f246ac74019ae53af481980096f~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/27.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "NAT GEO WILD HD",
+                    "image": "https://static.wixstatic.com/media/150734_2d1f88a523bf497085eba849eb5241ac~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/29.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "DMAX",
+                    "image": "https://static.wixstatic.com/media/150734_4d8ccd4ba00d46eab9f64c80c24589cc~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/30.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "HISTORIA HD",
+                    "image": "https://static.wixstatic.com/media/150734_4d3e99dd9c1f4918b1cba60661d0c425~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/31.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "IBERALIA",
+                    "image": "https://static.wixstatic.com/media/150734_4efdf679eb6c4da59d2c37d18d1f2a66~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/32.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "CAZA Y PESCA",
+                    "image": "https://static.wixstatic.com/media/150734_b0685a625ad7458d98cbe13fa3e51826~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/33.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "SERIES HD",
+                    "image": "https://static.wixstatic.com/media/150734_a43e40cfb3e147e790385ede3deb12b7~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/34.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "FOX HD",
+                    "image": "https://static.wixstatic.com/media/150734_e0359d87a7df4ebfa87667dc3fbccf48~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/36.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "FOX LIFE HD",
+                    "image": "https://static.wixstatic.com/media/150734_ca44179f7d684ab7ae7f4143717b66de~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/37.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "AXN HD",
+                    "image": "https://static.wixstatic.com/media/150734_09845675a5344807b7d441eebe76dc88~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/38.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "AXN WHITE",
+                    "image": "https://static.wixstatic.com/media/150734_50c578b7d04941e696a9936ac0276d52~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/39.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+
+{
+                    "name": "COSMO HD",
+                    "image": "https://static.wixstatic.com/media/150734_b571285b6fb1428bb6c6cee712c68aa1~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/40.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+{
+                    "name": "COCINA",
+                    "image": "https://ik.imagekit.io/ulangotv/image/upload/60229_logo_canal_cocina1.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/44.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "DCASA",
+                    "image": "https://static.wixstatic.com/media/150734_c985340e3597425fa7a5eedeced3a2b4~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/66.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "COSMO HD",
+                    "image": "https://static.wixstatic.com/media/150734_b571285b6fb1428bb6c6cee712c68aa1~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/40.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "VIAJAR",
+                    "image": "https://static.wixstatic.com/media/150734_5dd0d922efdc4486a1f5376fe8722235~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/63.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "TNT",
+                    "image": "https://static.wixstatic.com/media/150734_01586cbfe4cf497787a621e6d4bf02c6~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/41.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "DISNEY CHANNEL HD",
+                    "image": "https://static.wixstatic.com/media/150734_3adbe5de15224b608997931b0c9b9fad~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/42.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+  {
+                    "name": "MTV",
+                    "image": "https://static.wixstatic.com/media/150734_d9a2aa09257840d4a3251deadb328eee~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/45.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "TAQ 1",
+                    "image": "https://static.wixstatic.com/media/150734_ec8e307f461d48cfa8c383dcc4f4fcc8~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/57.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "TAQ 2",
+                    "image": "https://static.wixstatic.com/media/150734_ec8e307f461d48cfa8c383dcc4f4fcc8~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/58.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "TAQ 3",
+                    "image": "https://static.wixstatic.com/media/150734_ec8e307f461d48cfa8c383dcc4f4fcc8~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/59.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "TAQ 4",
+                    "image": "https://static.wixstatic.com/media/150734_ec8e307f461d48cfa8c383dcc4f4fcc8~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/60.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "TAQ 5",
+                    "image": "https://static.wixstatic.com/media/150734_ec8e307f461d48cfa8c383dcc4f4fcc8~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/61.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },{
+                    "name": "TAQ 6",
+                    "image": "https://static.wixstatic.com/media/150734_ec8e307f461d48cfa8c383dcc4f4fcc8~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/62.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                },
+        {
+          "name": "LA LIGA TV HD",
+                    "image": "https://static.wixstatic.com/media/150734_ebc603c04db745e6832355217009a6b4~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/15.ts",
+                    "userAgent": "exoplayer_video",
+                    "isHost": false
+        },
+ 
+         ]
+},
+{
+            "name": "Canales TDT",
+            "image": "https://confilegal.com/wp-content/uploads/2018/02/Captura-de-pantalla-2018-02-01-a-las-19.00.06.png",
+"stations": [
+
+{
+          "name": "La 1",
+          "image": "http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png",
+           "url": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+			"embed": "true",
+                    "playInNatPlayer": "true"
+                  }, {
+"name": "La 2",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png",
+                     "url": "http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8",
+                    "referer": "http://telefivegb.com/canales/tdt/tv2/",
+                    "embed": "true",
+                    "playInNatPlayer": "true"
+                        }, 
+
+{
+    "name": "ANTENA 3",
+      "image": "http://o.aolcdn.com/hss/storage/midas/a7940cbf6cee741b9cefe77833a9605a/205228271/1493731075_712962_1493731585_sumario_normal.jpg",
+    "url": "https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8",
+		"embed": "true",
+                    "playInNatPlayer": "true"
+   }, {
+          "name": "Cuatro",
+                    "image": "http://tvonlinegratis.com/wp-content/uploads/2014/01/Cuatro-TV-Es-Logo-300x300.jpg",
+                    "url": "http://vergol.com/live1/cuatro.php",
+                    "referer": "http://verdirectotv.com/tv/nacionales2/cuatro.html",
+                    "isHost": true
+        }, {
+    "name": "Telecinco",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png",
+                    "url": "http://vergol.com/live1/telecinco.php",
+                    "referer": "http://verdirectotv.com/tv/nacionales2/telecinco.html",
+                    "isHost": true
+    }, {
+    "name": "La Sexta",
+                    "image": "http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg",
+                    "url": "https://livestartover.atresmedia.com/lasexta/master.m3u8" ,
+					"embed": "true",
+                    "playInNatPlayer": "true"
+    }, {
+"name": "24 Horas", "image": "http://www.hyperconectados.com/wp-content/uploads/24-horas-en-24horas.png", 
+"url": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8" ,
+"embed": "true",
+                    "playInNatPlayer": "true"
+  }, {
+"name": "Teledeporte",
+                    "image": "http://arabast.com/wp-content/uploads/2014/08/tve_teledeporte.png",
+                    "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8",
+                    "embed": "true",
+                    "playInNatPlayer": "true"
+  }, {
+       "name": "PARAMOUNT CHANNE", 
+					"image": "http://www.atoananet.com.br/links/2014/11/14/paramount-channel-chega-ao-brasil-nesta-sexta-feira.jpg", 
+					"url": "http://paramount.live.flumotion.com/live/playlist.m3u8", 
+					"embed": "true",
+                    "playInNatPlayer": "true"
+  }, {
+ "name": "13tv",
+                    "image": "http://1.bp.blogspot.com/-wy_aWa-BFu8/UE6PdMavkOI/AAAAAAAAEhc/gW36DmJpUfo/s1600/13tvlogonuevo.jpg",
+                    "url": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8",
+					"embed": "true",
+                    "playInNatPlayer": "true"
+  }, {
+    "name": "Be Mad",
+    "image": "https://www.vectorlogo.es/wp-content/uploads/2016/06/logo-vector-be-mad-circular.jpg",
+    "url": "http://vergol.com/live/bemad.php",
+    "referer" : "http://verdirectotv.com/",
+    "isHost" : "true"
+  }, {
+"name": "Disney Channel", "image": "http://1.bp.blogspot.com/_RUNMcJYvvy8/SMvR28VEwgI/AAAAAAAACBM/iGAEegambnM/s400/df.png", "url": "http://player.livesports.pw/disneychannel/", "embed": "false", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2873.0 Safari/537.36", "referer": "http://telefivegb.com/canales/animacion/disneychannel/", "isHost": true
+
+  }, {
+ "name": "Nova",
+                    "image": "http://blogs.antena3.com/clipping/2012/11/07/00360/31.jpg",
+                    "url": "https://livestartover.atresmedia.com/geonova/bitrate_4.m3u8",
+					"embed": "true",
+                    "playInNatPlayer": "true"
+    }, {
+                    "name": "Neox",
+                    "image": "http://parrillatv.mundo-r.com/parrillatv/imagenes/canales/neox.jpg",
+                    "url": "https://livestartover.atresmedia.com/geoneox/bitrate_4.m3u8",
+					"embed": "true",
+                    "playInNatPlayer": "true"
+ }, {
+     "name": "TEN", "image": "http://estaticos.elperiodico.com/resources/jpg/2/3/1461768703532.jpg", 
+"url": "http://player.livesports.pw/ten/", "embed": "false", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2873.0 Safari/537.36", "referer": "http://telefivegb.com/canales/tdt/ten/", "isHost": true 
+ }, {
+"name": "DKISS", "image": "http://www.kissfm.es/wp-content/uploads/2016/04/DKISS-WEB.png", "url": "http://player.livesports.pw/dkiss/", "embed": "false", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2873.0 Safari/537.36", "referer": "http://telefivegb.com/canales/MUSICA/dkiss/", "isHost": true
+    }, {
+"name": "Atreseries",
+                    "image": "http://elpalomitron.com/wp-content/uploads/2015/11/LOGO-ATRESERIES1-e1447218405447.jpg",
+                    "url": "http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8"
+        }, {
+    "name": "Mega",
+    "image": "http://canaltdt.es/wp-content/uploads/2015/06/mega.jpg",
+    "url": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on"
+    }, {
+    "name": "Divinity",
+                    "image": "http://www.caratulasylogos.com/sites/default/files/divinity.jpg",
+                    "url": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8",
+                    "embed": "true",
+                    "playInNatPlayer": "true"
+ 	}, {
+		"name": "FDF",
+                 "image": "http://tecavicas.es/wp-content/uploads/2013/03/2012_6_14_PHOTO-c6f6c6753dd910d9306ba85b0361904f-1339689259-97.jpg",
+                    "url": "http://vergol.com/live/fdf.php",
+                    "referer": "http://vercanalestv.com/tv/nacionales/fdf.html",
+                    "isHost": true
+	}, {
+"name": "GOL",
+                    "image": "http://iusport.com/upload/img/periodico/img_22530.jpg",
+                    "url": "http://telefivegb.com/canales/deporte/goltv/",
+                    "isHost": true
+}, {
+ "name": "Real Madrid TV",
+                    "image": "http://www.defensacentral.com/userfiles/2013/Dec_04/television_interior.jpg",
+                    "url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+					"embed": "true",
+                    "playInNatPlayer": "true"
+
+}, {
+"name": "DMAX", "image": "http://mirrors.fe.up.pt/pub/kodi/addons/gotham/plugin.video.dmax/icon.png", "url": "http://www.playerfs.com/hembedplayer/maxxxxxxxxxxxxf/1/650/400", "embed": "false", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2873.0 Safari/537.36", "referer": "http://cinestrenostv.tv/canales/envivo/max.html", "isHost": true
+}, {
+                    "name": "DISNEY CHANNEL HD",
+                    "image": "https://static.wixstatic.com/media/150734_3adbe5de15224b608997931b0c9b9fad~mv2.png",
+                    "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/42.ts",
+                     "userAgent": "exoplayer_video",
+                    "isHost": false
+                }, {
+     "name": "Energy",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSW55FddEx0hvEyW_maO_K889A7OK6yQFSeF17MKnECd5DrLP",
+                    "url": "http://vergol.com/live/energy.php",
+                    "referer": "http://verdirectotv.com/tv/nacionales/energy.html",
+                    "isHost": true
+  
+  }, 
+]
+
+},
+{
+            "name": "Autonómicas",
+            "image": "https://confilegal.com/wp-content/uploads/2018/02/Captura-de-pantalla-2018-02-01-a-las-19.00.06.png",
+"stations": [
+
+{
+       "name": "7tvrMurcia", 
+		"image": "https://www.fbrm.org/imagenes/noticias/zoomfotonoticia-2503.jpg", 
+	    "url": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on " 
+  }, 
+{
+"name": "TV Aragon", "image": "http://www.eurofontanilla.es//wp-content/uploads/AragonTV.jpg", "url": "http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8" 
+},  
+{
+"name": "Canal Sur Directo", "image": "http://tveonline.webcindario.com/CANAL-SUR-DIRECTO.png", "url": "http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8 " 
+}, 
+{ "name": "Eitb - P.Vasco ", "image": "http://www.freeetv.com/images/02_logo/canal_vasco_spain.jpg", "url": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
+					"embed": "true",
+                    "playInNatPlayer": "true"
+}, 
+{ 
+"name": "Navarra", "image": "https://d2jljza7x0a5yy.cloudfront.net/images/stories/noticias/logocanal6.jpg",
+ 					"url": "http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8",
+					"embed": "true",
+                    "playInNatPlayer": "true"
+}, 
+{ 
+"name": "IB3 Baleares", "image": "http://img3.wikia.nocookie.net/__cb20110623015245/logopedia/images/0/0e/IB3_logo_2008_2.jpg", "url": "http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8"
+}, 
+{ "name": "La Rioja", "image": "http://tveonline.webcindario.com/RIOJA.jpg", "url": "http://teledifusion.tv/rioja/rioja/chunklist_w1103628204.m3u8 " 
+}, 
+{ "name": "TPA7 ASTURIAS", "image": "http://tveonline.webcindario.com/TPA.jpg", "url": "http://195.55.74.204/rtpa/tv-iphone/stream.m3u8?GKID=ab4294323c0c11e8875000163e914f69 "
+},
+{ "name": "TV3 cataluña", "image": "http://4.bp.blogspot.com/-xvZtVTL3uCc/VP_YI2cMqQI/AAAAAAAADf8/jjXMQ7sDmjw/s1600/tv3.jpg", "url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8",
+"embed": "true",
+                    "playInNatPlayer": "true"
+},
+{ "name": "Galicia TV", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", "url": "http://europa-crtvg.flumotion.com/playlist.m3u8",
+"embed": "true",
+                    "playInNatPlayer": "true"
+},
+{ 
+"name": "TeleMadrid", "image": "http://vignette4.wikia.nocookie.net/logopedia/images/7/73/Free-vector-telemadrid_062753_telemadrid.png", "url": "http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8" ,
+"embed": "true",
+                    "playInNatPlayer": "true"
+},
+{
+ "name": "La Otra Madrid", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/1200px-LaOtra.svg.png", "url": "http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8 " 
+},
+{ 
+"name": "ETB SAT", "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6yCfua9ODv5_aADPL1UybIKYrVBgLDRn5_rkb_SxXz4QXqrZRyA", "url": "http://etbvhdfnogeo-lh.akamaihd.net/ETBEITBEUS_1_700@123477?videoId=3944167976001&lineUpId=&pubId=102076681001&playerId=3255438695001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,235&r=ALLBH&g=XRIFBBMKQYKI" },
+{ 
+"name": "TV Merilla", "image": "http://media.tvalacarta.info/canales/256x256/tvmelilla.png", "url": "http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8"
+ },
+{ 
+"name": "RTV Ceuta", "image": "http://www.ceutadeportiva.com/wp-content/themes/ceutadeportiva-2/pub/rtvce_270.png", "url": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8" ,
+"embed": "true",
+                    "playInNatPlayer": "true"
+},
+{
+"name": "TV Canal Extremadura", "image": "http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png", "url": "http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8" ,
+"embed": "true",
+                    "playInNatPlayer": "true"
+  }, 
+]
+
+}
+
+   ]
+                }
+ 
+      ]
+}
