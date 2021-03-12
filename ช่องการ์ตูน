@@ -39,18 +39,7 @@
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
        "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer": "https://player.we-play.tv"
-},
-    { 
-        "name":"Cartoon Network",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://laos-tech-live.b-cdn.net/sd-cartoonnetwork_480/index.m3u8",
-         "import": false  
-},
-    { 
-        "name":"Cartoon Network b",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://boxmovielive.com/live/cn.m3u8",
-        "import": false    
+
 },
    { 
         "name":"Cartoon Network",
@@ -67,9 +56,8 @@
    { 
         "name":"Nick Jr. k",
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
-        "url": "http://45.91.134.168:8080/KTU-NickJr/htA0Rzc6TJ/48",
-        "userAgent": "ExoMedia4.3.0",
-        "playInNatPlayer": "true"
+        "url": "http://edge-n2.uplayhd.tv:8081/iOiW_oppLKte2rYBlCZU2w/1615574654/live-o33-th/th-nickjr_480/playlist.m3u8",
+       "import": false
 },
    { 
         "name":"Nick Jr.",
@@ -87,13 +75,6 @@
       "name": "Nickelodeon",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
        "url": "https://player.ballnaka.tv/?channel=nickelodeon&cate=kids","referer": "https://player.ballnaka.tv/"
-
-},
-  { 
-      "name": "Disney XD",
-      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9247aa93-56ff-4746-acd3-bdf52d597ed6.png",              
-       "url": "https://player.we-play.tv/channel.php?name=disneyxd&cate=kids","referer": "https://player.we-play.tv"
-
 },
   { 
       "name": "Cartoon Club",
@@ -108,12 +89,8 @@
   { 
       "name": "True Spark Play",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",              
-       "url": "https://player.we-play.tv/channel.php?name=truesparkplay&cate=kids","referer": "https://player.we-play.tv"
-},
-  { 
-      "name": "Aniplus",
-      "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
-       "url": "https://player.ballnaka.tv/?channel=nickelodeon&cate=kids","referer": "https://player.ballnaka.tv/"
+       "url": "http://edge-n2.uplayhd.tv:8081/tghOUN8hCqVs0AxWRQmtFw/1615574544/live-o33-th/th-sparkplay_480/playlist.m3u8",
+       "import": false
 },
   { 
       "name": "Aniplus",
