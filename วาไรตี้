@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 12/3/2021",
+    "author": "update 13/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -25,13 +25,19 @@
  {
      "name": "lifetime",
      "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
-     "url": "http://edge-n3.uplayhd.tv:8081/H99tOKiXGoefiECStyZT9g/1615571958/live-o33-th/th-lifetime_720/playlist.m3u8",
+     "url": "http://edge-n2.uplayhd.tv:8081/mIhLjncehQPTchydtF0JCA/1615611367/live-o33-th/th-lifetime_720/playlist.m3u8",
      "import": false
 },
  {
      "name": "KMTV",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
-     "url": "http://edge-n1.uplayhd.tv:8081/dDw3hx_rWgaU-Uc9kRZX-g/1615571934/live-o33-th/th-kmtv_720/playlist.m3u8",
+     "url": "http://edge-n1.uplayhd.tv:8081/n-e7Ixqg61N3_622x0Lj9g/1615611387/live-o33-th/th-kmtv_720/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE INSIDE",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "http://edge-n3.uplayhd.tv:8081/RoHwAmyIrSzLWTDtKpMhlg/1615611308/live-o33-th/th-inside_480/playlist.m3u8",
      "import": false
 },
  {
@@ -54,7 +60,7 @@
  {
      "name": "Stringray iConcerts HD ",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
-     "url": "http://edge-n1.uplayhd.tv:8081/AO412JNa-esucfHOPvLgag/1615572099/live-o33-th/th-iconcerts_720/playlist.m3u8",
+     "url": "http://edge-n1.uplayhd.tv:8081/aUej6zHvnLoCVY-Ei_Ah7w/1615611418/live-o33-th/th-iconcerts_720/playlist.m3u8",
      "import": false
 },
  {
@@ -73,7 +79,7 @@
  {
      "name": "BLUEANT ENTERTAINMENT ",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
-     "url": "http://edge-n1.uplayhd.tv:8081/LMFmI6LKknECJK2ud3M3rg/1615571706/live-o33-th/th-blueant_720/playlist.m3u8",
+     "url": "http://edge-n2.uplayhd.tv:8081/40nWlsnA1iuXx0uIaXe4mw/1615611473/live-o33-th/th-blueant_720/playlist.m3u8",
      "import": false
 },
  {
@@ -84,7 +90,7 @@
  {
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "http://edge-n2.uplayhd.tv:8081/E6I_vdnxrfyUfjpc2-8oZQ/1615571760/live-o33-th/th-blueantex_720/playlist.m3u8",
+     "url": "http://edge-n2.uplayhd.tv:8081/EGwQ7-V_Cm15O_oHS1LPqw/1615611506/live-o33-th/th-blueantex_720/playlist.m3u8",
      "import": false
 },
  {
