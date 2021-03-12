@@ -92,10 +92,9 @@
        "url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids","referer": "https://player.we-play.tv"
 },
   { 
-      "name": "TOONEE",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png",              
-       "url": "https://aisplay.ais.co.th/portal/live?vid=5d424cdbaae73145f7f2b675","playInNatPlayer": "true",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+      "name": "Aniplus",
+      "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
+       "url": "https://player.ballnaka.tv/?channel=aniplus&cate=kids","referer": "https://player.ballnaka.tv/"
 },
   { 
       "name": "BabyTV",
@@ -105,14 +104,14 @@
   { 
       "name": "BabyTV b",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
-       "url": "http://www.boxmovie-th.com/boxmovies2/hd-babytv/playlist.m3u8",
-       "import": false
+       "url": "https://www.doofree88.com/live/baby-tv","referer": https://www.doofree88.com/""
+      
 },
   { 
-      "name": "Boomerang",
-      "image": "https://www.fashionluxury.info/wp-content/uploads/2019/09/217.png",              
-       "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/380.m3u8",
-       "import": false
+      "name": "Miaomi",
+      "image": "https://www.doofree88.com/storage/live/ftsWVzEOVL78VwJyBvzeBZSBP2IlJYMyhnkZ9Wpk.png",              
+       "url": "https://www.doofree88.com/live/miaomi","referer": https://www.doofree88.com/""
+ 
 },
   { 
       "name": "Disney Channel",
@@ -125,33 +124,21 @@
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
        "url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
        "import": false
-
-},
-    { 
-      "name": "CBEEBIES",
-      "image": "https://sv1.picz.in.th/images/2021/01/03/l4G5Rk.png",              
-       "url": "https://doofootball.livestream-cdn.com/iptv/uk-cbeebieshd.stream/chunks.m3u8",
-       "import": false
 },
    { 
       "name": "M KIDZ",
       "image": "https://sv1.picz.in.th/images/2021/02/16/oqS5FQ.jpg",              
        "url": "http://210.210.155.35/session/a4928952-cfa9-11ea-b874-aa33b27a0a0f/uq2663/h/h98/index.m3u8",
        "import": false       
+   
 },
-    { 
-      "name": "CARTOONITO",
-      "image": "https://sv1.picz.in.th/images/2021/01/02/lzqaY0.jpg",              
-       "url": "https://doofootball.livestream-cdn.com/iptv/uk-cartoonito.stream/playlist.m3u8",
-       "import": false       
-},
-    { 
+   { 
       "name": "trtcocuk",
       "image": "https://sv1.picz.in.th/images/2020/12/18/j6d1xQ.jpg",              
        "url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
        "import": false          
 },
-    { 
+  { 
       "name": "Cartoonmovies",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1608380402143_movie_image.jpg",              
        "url": "http://61.19.242.134/feed/LC53/index.m3u8",
@@ -183,13 +170,7 @@
          "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603037653783_movie_image.png",  
          "url": "https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8",
          "import": false
-},
-   {
-         "name": "JaTingJa",  
-         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0088.png",  
-         "url": "https://www.fwiptv.cc/player_demo.php?channel=696",
-         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"       
-},
+ },
   { 
       "name": "Larva",
       "image": "https://ih1.redbubble.net/image.1092690512.3342/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",              
