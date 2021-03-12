@@ -24,8 +24,7 @@
 {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "https://doofootball.livestream-cdn.com:443/iptv/hd-ch3.stream/chunks.m3u8",
-    "import": false
+    "url": "https://www.doofree88.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-3-hd","referer": "https://www.doofree88.com/"
 },
 {
     "name":"3 HD",
@@ -54,8 +53,8 @@
   { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/playlist.m3u8",
-    "import": false
+    "url": "https://www.doofree88.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-5-hd","referer": "https://www.doofree88.com/"
+    
 },
   { 
     "name":"5 HD",
@@ -89,8 +88,8 @@
   { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://doofootball.livestream-cdn.com:443/iptv/hd-ch7.stream/chunks.m3u8",
-    "import": false
+    "url": "https://www.doofree88.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-7-hd","referer": "https://www.doofree88.com/"
+    
 },
   { 
     "name":"MCOT HD",
@@ -178,8 +177,8 @@
   { 
     "name":"Amarin",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8",
-    "import": false
+    "url": "https://www.doofree88.com/live/amarin-hd","referer": "https://www.doofree88.com/"
+   
 },
   { 
     "name":"ONE HD",
@@ -250,8 +249,8 @@
   { 
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "https://doofootball.livestream-cdn.com/iptv/hd-pptv.stream/chunks.m3u8",
-    "import": false
+    "url": "https://www.doofree88.com/live/pptv","referer": "https://www.doofree88.com/"
+    
 },
   { 
     "name":"PPTV HD",
@@ -345,15 +344,20 @@
       "playInNatPlayer": "true"
 },
   { 
+    "name":"Nation HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
+    "url": "https://bit.ly/3vln9kf",
+    "import": false
+},
+  { 
     "name":"Nation",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
     "url": "https://player.we-play.tv/channel.php?name=nationtv&cate=digitaltv","referer": "https://player.we-play.tv"
 },
-  { 
-    "name":"Nation HD",
+ { 
+    "name":"Nation",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
-    "url": "https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSReZo0VcAYFZXI5APLckHMI)/dm/3/x6eoldf/d/live-3.m3u8",
-    "import": false
+    "url": "https://www.doofree88.com/live/nation-tv","referer": "https://www.doofree88.com/"
 },
   { 
     "name":"TOP NEWS HD",
@@ -368,7 +372,7 @@
     "import": false
 },
   { 
-    "name":"CH8 HD",
+    "name":"CH8",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
     "url": "http://live2.dootvde.com/live/50028_ch8.stream.smil/playist.m3u8",
     "import": false
@@ -376,7 +380,7 @@
   {
      "name": "NEW18 HD",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0010.png",              
-     "url": "https://bit.ly/3ksGgUp",
+     "url": "https://bit.ly/3laWrGD",
      "import": false
 },
   {
