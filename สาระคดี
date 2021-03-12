@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 12/3/2021",
+    "author": "update 13/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -11,7 +11,7 @@
   {         
         "name":"Discovery Channel",
         "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
-         "url": "http://edge-n3.uplayhd.tv:8081/H2ndqEUXont-O8mwo2IGnQ/1615572754/live-o33-th/th-discovery_720/playlist.m3u8",  
+         "url": "http://edge-n2.uplayhd.tv:8081/htvFD-ya58S2QNH4t0KFxA/1615611584/live-o33-th/th-discovery_720/playlist.m3u8",  
          "import": false
  }, 
   {    
@@ -48,7 +48,7 @@
   { 
       "name": "Animal Planet",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
-       "url": "http://edge-n2.uplayhd.tv:8081/OATemK4vYJ3oHHdtU1JpNw/1615572803/live-o33-th/th-animalplanet_720/playlist.m3u8",
+       "url": "http://edge-n3.uplayhd.tv:8081/iLfiqWHsdoBzHy1mv7d-MA/1615611619/live-o33-th/th-animalplanet_720/playlist.m3u8",
        "import": false
 }, 
   { 
@@ -81,7 +81,7 @@
   { 
       "name": "Discovery Asia",
       "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
-       "url": "http://edge-n2.uplayhd.tv:8081/C-o8UTqkHphpdA6_u0_5Kw/1615572713/live-o33-th/th-discoveryasia_720/playlist.m3u8",
+       "url": "http://edge-n1.uplayhd.tv:8081/srXF9JTYD0sbyM-QgvES3g/1615611649/live-o33-th/th-discoveryasia_720/playlist.m3u8",
        "import": false
 }, 
   { 
@@ -115,7 +115,7 @@
   { 
       "name": "Nat Geo Wild",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
-       "url": "",
+       "url": "http://edge-n2.uplayhd.tv:8081/ihxzi99s4JkwpxbLQx7NyQ/1615611676/live-o33-th/th-natgeowild_720/playlist.m3u8",
        "import": false
 }, 
   { 
@@ -126,7 +126,7 @@
   { 
       "name": "OUTDOOR",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/f2c30832-7d77-4a24-88ad-1d30c593bda1.png",              
-       "url": "http://edge-n3.uplayhd.tv:8081/McJiWhxxDT7IXxgAwQRR6Q/1615572999/live-o33-th/th-outdoor_720/playlist.m3u8",
+       "url": "http://edge-n3.uplayhd.tv:8081/IwI2y1l_m3dvZ2h6ykd8cw/1615611700/live-o33-th/th-outdoor_720/playlist.m3u8",
        "import": false
 }, 
   { 
@@ -203,7 +203,7 @@
   { 
        "name": "Explore life",
         "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
-         "url": "http://edge-n3.uplayhd.tv:8081/ucZJk9BlhK8PVRoYkQSjig/1615573477/live-o33-th/th-explife_480/playlist.m3u8",
+         "url": "http://edge-n3.uplayhd.tv:8081/sVqt2xcD0PLeQQkiun5JAQ/1615611741/live-o33-th/th-explife_480/playlist.m3u8",
          "import": false
 
 },
