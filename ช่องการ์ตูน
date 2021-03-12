@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 12/3/2021",
+      "author": "update 13/3/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -27,7 +27,7 @@
     { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "http://edge-n1.uplayhd.tv:8081/R4pG2O3hVlyO6ydbPySGyQ/1615569875/live-o33-th/th-cartoonnetwork_720/playlist.m3u8",
+        "url": "http://edge-n1.uplayhd.tv:8081/KDK1CL4slTaFEuP0EqAl6A/1615611072/live-o33-th/th-cartoonnetwork_720/playlist.m3u8",
          "import": false  
 },
     { 
@@ -48,9 +48,9 @@
         "import": false
 },
    { 
-        "name":"Nick Jr. k",
+        "name":"Nick Jr.",
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
-        "url": "http://edge-n2.uplayhd.tv:8081/iOiW_oppLKte2rYBlCZU2w/1615574654/live-o33-th/th-nickjr_480/playlist.m3u8",
+        "url": "http://edge-n3.uplayhd.tv:8081/p2urrXy-oRbO2N49jXkR9A/1615611134/live-o33-th/th-nickjr_480/playlist.m3u8",
        "import": false
 },
    { 
@@ -83,7 +83,7 @@
   { 
       "name": "True Spark Play",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",              
-       "url": "http://edge-n2.uplayhd.tv:8081/tghOUN8hCqVs0AxWRQmtFw/1615574544/live-o33-th/th-sparkplay_480/playlist.m3u8",
+       "url": "http://edge-n1.uplayhd.tv:8081/a6wcafNWTaPzICDMnWb_ug/1615611181/live-o33-th/th-sparkplay_480/playlist.m3u8",
        "import": false
 },
   { 
@@ -104,13 +104,13 @@
   { 
       "name": "BabyTV b",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
-       "url": "https://www.doofree88.com/live/baby-tv","referer": https://www.doofree88.com/""
+       "url": "https://www.doofree88.com/live/baby-tv","referer": https://www.doofree88.com/"
       
 },
   { 
       "name": "Miaomi",
       "image": "https://www.doofree88.com/storage/live/ftsWVzEOVL78VwJyBvzeBZSBP2IlJYMyhnkZ9Wpk.png",              
-       "url": "https://www.doofree88.com/live/miaomi","referer": https://www.doofree88.com/""
+       "url": "https://www.doofree88.com/live/miaomi","referer": https://www.doofree88.com/"
  
 },
   { 
