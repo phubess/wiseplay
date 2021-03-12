@@ -230,6 +230,12 @@
      "url": "https://player.we-play.tv/channel.php?name=warner&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
+     "name": "Paramount Channel",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
+     "url": "http://edge-n2.uplayhd.tv:8081/d47fJigZs9Ij-KMheV3jBA/1615611819/live-o33-th/th-paramount_720/playlist.m3u8",
+     "import": false
+},
+  {
        "name":"Paramount Channel",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",
 	   "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f",
