@@ -3,14 +3,7 @@
     "author": "update 13/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
-{
-   "name":"True Premier Football HD 1 K",
-   "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-   "url": "http://203.159.94.40:25461/Ktu-EPL1/EPL1/4",
-    "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true" 
- },
-  {  
+{  
     "name":"True Premier Football HD 1 K",
    "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
    "url": "http://api-m.uplayhd.tv/api-m/tv/ch/play_v3/?c=uplay-epl1&user_loggedsession=YHd6uSrY78uOOmSE5YnZUiEt3HpM9krkPHQAL3CNQhp3zmjEEp60474a2dc7339","referer": "http://api-m.uplayhd.tv/"
