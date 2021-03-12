@@ -62,7 +62,7 @@
   {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	"url": "https://www.doonung1234.com/match/view/7632/epl1backup","referer": "https://www.doonung1234.com/"
+	"url": "https://www.doofree88.com/live/premier-football-hd-1","referer": "https://www.doofree88.com/"
 },
   {
        "name":"True Premier Football HD 1",
@@ -77,21 +77,16 @@
         "playInNatPlayer": "true"
 },
   {
-       "name":"True Premier Football HD 2 f",
+       "name":"True Premier Football HD 2 ",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	"url": "https://bit.ly/3qgB8UW","referer": "https://fintv.live/"
+	"url": "http://edge-n2.uplayhd.tv:8081/bpewqeJ7MsTnju1Pi-MXrw/1615577518/live-o33-th/th-epl2_720/playlist.m3u8",
+	"import": false
 },
   {
-       "name":"True Premier Football HD 2",
-       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-       "url": "https://niklive.com/live/ep-l200-1/index.m3u8",
-       "import": false
-},
-  {
-       "name":"True Premier Football HD 2 b",
+       "name":"True Premier Football HD 2 ",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	 "url": "http://www.boxmovie-th.com/boxmovies2/premierhd2/playlist.m3u8",
-	 "import": false
+	 "url": "https://www.doofree88.com/live/premier-football-hd-2","referer": "https://www.doofree88.com/"
+	
 },
   {
        "name":"True Premier Football HD 2",
@@ -99,16 +94,10 @@
 	"url": "https://live.andaman888th.com/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://andaman888th.com/"
 },
  {
-       "name":"True Premier Football HD 3",
-       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-       "url": "https://niklive.com/live/ep-l3-3/index.m3u8",
-       "import": false
-},
- {
-       "name":"True Premier Football HD 3 b",
+       "name":"True Premier Football HD 3 ",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	"url": "http://www.boxmovie-th.com/boxmovies2/premierhd3/playlist.m3u8",
-	 "import": false
+	"url": "https://www.doofree88.com/live/premier-football-hd-3","referer": "https://www.doofree88.com/"
+	
 },
  {
        "name":"True Premier Football HD 3",
@@ -116,21 +105,9 @@
 	"url": "https://live.andaman888th.com/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://andaman888th.com/"
 },
   {
-       "name":"True Premier Football HD 4 b",
-       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
-       "url": "",
-       "import": false
-},
-  {
        "name":"True Premier Football HD 4",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
 	 "url": "https://live.andaman888th.com/live/tpf4/sport/tpf4/chunks.m3u8","referer": "https://andaman888th.com/" 
-},
-  {
-       "name":"True Premier Football HD 5",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
-	 "url": "https://niklive.com/live/feed/epl5/index.m3u8",
-	"import": false 
 },
   {
        "name":"True Premier Football HD 5",
@@ -211,16 +188,9 @@
 	 "url": "https://player.we-play.tv/channel.php?name=nba&cate=sports","referer": "https://player.we-play.tv"
 },
   {
-        "name":"NBA TV b",
+        "name":"NBA TV ",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
-        "url": "http://www.boxmovie-th.com/boxmovies2/hd-nba/playlist.m3u8",
-	"import": false
-},
-  {
-        "name":"NBA TV",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
-        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/72.m3u8",
-	"import": false
+        "url": "https://www.doofree88.com/live/nba-tv","referer": "https://www.doofree88.com/"
 },
   {
        "name":"NBA TV",
@@ -233,10 +203,10 @@
 	 "url": "https://player.ballnaka.tv/?channel=tennis&cate=sport","referer": "https://player.ballnaka.tv"
 },
   {
-       "name":"TRUE TENNIS b",
+       "name":"TRUE TENNIS ",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
-       "url": "http://www.boxmovie-th.com/boxmovies2/hd-tennis/playlist.m3u8",
-       "import": false
+       "url": "https://www.doofree88.com/live/tennis-hd","referer": "https://www.doofree88.com/"
+      
 },
   {
        "name":"TRUE TENNIS",
@@ -251,15 +221,9 @@
 },
   {
        "name":"GOLF CHANNEL",
-        "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
-        "url": "http://thaicable.myftp.org:8000/live/infosat/2020/74.m3u8",
-	"import": false 
-},
-  {
-       "name":"GOLF CHANNEL b",
        "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
-       "url": "http://www.boxmovie-th.com/boxmovies2/hd-golf/playlist.m3u8",
-       "import": false 
+       "url": "https://www.doofree88.com/live/golf-channel-thailand","referer": "https://www.doofree88.com/"
+     
 },
   {
        "name":"GOLF CHANNEL",
@@ -274,18 +238,12 @@
   {
        "name":"NFL NETWORK",
         "image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
-	 "url": "https://doomovielive.b-cdn.net/hd-nfl_720/index.m3u8","referer": "https://doomovie.com/" 
+	 "url": "https://www.doofree88.com/live/nfl-tv","referer": "https://www.doofree88.com/" 
 },
   {
        "name":"Motor Vision",
         "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
 	 "url": "https://player.we-play.tv/channel.php?name=motor-vision&cate=sports","referer": "https://player.we-play.tv"
-},
-   {
-      "name": "Motor Vision b",
-      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
-      "url": "http://www.boxmovie-th.com/boxmovies2/motorvision/playlist.m3u8",
-       "import": false 
 },
   {
        "name":"True Sport 2",
@@ -315,8 +273,8 @@
 { 
           "name": "FOX Sports HD",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
-          "url": "https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8",
-	  "import": false
+          "url": "https://www.doofree88.com/live/fox-sports-1","referer": "https://www.doofree88.com/"
+	  
 },
 { 
           "name": "FOX Sports HD",
@@ -334,8 +292,7 @@
 { 
           "name": "FOX Sports 2",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
-          "url": "https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8",
-	  "import": false
+          "url": "https://www.doofree88.com/live/fox-sports-2","referer": "https://www.doofree88.com/"
 },
  {
        "name":"FOX Sports 2",
@@ -367,14 +324,14 @@
  { 
        "name": "FOX Sports 3",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
-       "url": "https://laos-tech-live.b-cdn.net/sd-foxsports3_480/index.m3u8",
-       "import": false
+       "url": "https://www.doofree88.com/live/fox-sports-3","referer": "https://www.doofree88.com/"
+       
 },
  { 
-       "name": "Bein 1 b",
+       "name": "Bein 1",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
-       "url": "http://www.boxmovie-th.com/boxmovies2/bein1/index.m3u8",
-       "import": false
+       "url": "https://www.doofree88.com/live/bein-sports-1","referer": "https://www.doofree88.com/"
+     
 },
  { 
        "name": "Bein 1",
@@ -401,8 +358,8 @@
  { 
        "name": "Bein 2",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",              
-       "url": "http://www.boxmovie-th.com/boxmovies2/bein2/index.m3u8",
-       "import": false
+       "url": "https://www.doofree88.com/live/bein-sports-2","referer": "https://www.doofree88.com/"
+       
 },
  { 
        "name": "Bein 2",
