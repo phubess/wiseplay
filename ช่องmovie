@@ -216,7 +216,7 @@
   {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "http://edge-n2.uplayhd.tv:8081/0q8-nZ7nmMT94fTmQ_fH5w/1615576928/live-o33-th/th-warnertv_720/playlist.m3u8",
+     "url": "http://edge-n1.uplayhd.tv:8081/vv2-3Oin93v3l-4PoaREQw/1615610876/live-o33-th/th-warnertv_720/playlist.m3u8",
      "import": false
 },
   {
@@ -419,6 +419,12 @@
       "url": "http://160.119.77.117/iptv/sd-series.stream/playlist.m3u8",
      "import": false
 },
+  { 
+     "name": "CCM",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
+      "url": "http://edge-n3.uplayhd.tv:8081/XveAUV8p4JSIY7jnWOJRTg/1615610933/live-o33-th/th-celestial_720/playlist.m3u8",
+     "import": false
+},
   {
      "name": "CTB",
      "image": "https://www.doohdbox.com/assets/20170709090502720443899.jpg",              
@@ -439,12 +445,6 @@
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=tvn&cate=entertainment","referer": "https://player.we-play.tv"
-},
-  { 
-      "name": "Star Chinese Movies",
-      "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
-       "url": "http://160.119.77.117/iptv/hd-starchinese.stream/chunks.m3u8",
-       "import": false
 },
   { 
       "name": "Star Chinese Movies",
