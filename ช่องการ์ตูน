@@ -1,157 +1,157 @@
 { 
       "name": "phubess", 
-      "author": "update 14/3/2021",
+      "author": "update 13/3/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
-      "name":"LARVA",
+        "name":"LARVA",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrHDpGHs5qhEVSR6Z9a3POGBgL8DXOYa4mSA&usqp=CAU",
         "url": "http://45.91.134.168:8080/KTU-anipius/PURA4qkUkF/39",
         "userAgent": "ExoMedia4.3.0",
         "playInNatPlayer": "true" 
 },
-    { 
+ { 
         "name":"BABY PLUS",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvx-JWMQRyFVWqEbUG_E815rbN56eO7FMOFA&usqp=CAU",
         "url": "http://45.91.134.168:8080/KTU-babypius/0AhZEzH0hk/40",
         "userAgent": "ExoMedia4.3.0",
         "playInNatPlayer": "true" 
 },
-    { 
+ { 
         "name":"KiTKIds",
         "image": "data:image/jpeg;base64,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",
         "url": "http://45.91.134.168:8080/KTU-kitkids/SYQsDqzSD2/41",
         "userAgent": "ExoMedia4.3.0",
         "playInNatPlayer": "true" 
 },
-    { 
-     "name":"Cartoon Network",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://player.ballnaka.tv/?channel=cnhd&cate=kids","referer": "https://ballnaka.tv/"
+ { 
+       "name":"Cartoon Network",
+       "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+       "url": "https://player.ballnaka.tv/?channel=cnhd&cate=kids","referer":"https://ballnaka.tv/"
 },
-    { 
-        "name":"Cartoon Network",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-       "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer": "https://player.we-play.tv"
+ { 
+       "name":"Cartoon Network",
+       "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+       "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer":"https://player.we-play.tv"
 },
-   { 
+ { 
         "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8",
         "import": false
 },
-   { 
+ { 
         "name":"Nick Jr.",
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
         "url": "http://160.119.77.117/iptv/uk-nickjr.stream/chunks.m3u8",
         "import": false
 },
-  { 
+ { 
       "name": "Nickelodeon",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
-       "url": "https://player.we-play.tv/channel.php?name=nickelodeon&cate=kids","referer": "https://player.we-play.tv"
+      "url": "https://player.we-play.tv/channel.php?name=nickelodeon&cate=kids","referer":"https://player.we-play.tv"
 },
-  { 
+ { 
       "name": "Nickelodeon",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
-       "url": "https://player.ballnaka.tv/?channel=nickelodeon&cate=kids","referer": "https://player.ballnaka.tv/"
+      "url": "https://player.ballnaka.tv/?channel=nickelodeon&cate=kids","referer":"https://player.ballnaka.tv/"
 },
-  { 
+ { 
       "name": "Cartoon Club",
       "image": "https://www.iptv4k.tv/images/tv/Q8ZREIg9pyXw2xZKTTg6tUHeO3lkWtSunnamed_(2).jpg",              
-       "url": "https://player.we-play.tv/channel.php?name=cartoon-club&cate=kids","referer": "https://player.we-play.tv"
+      "url": "https://player.we-play.tv/channel.php?name=cartoon-club&cate=kids","referer": "https://player.we-play.tv"
 },
-  { 
+ { 
       "name": "True Spark Jump",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png",              
-       "url": "https://player.we-play.tv/channel.php?name=sparkjump&cate=kids","referer": "https://player.we-play.tv"
+      "url": "https://player.we-play.tv/channel.php?name=sparkjump&cate=kids","referer":"https://player.we-play.tv"
 },
-  { 
+ { 
       "name": "Aniplus",
       "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
-       "url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids","referer": "https://player.we-play.tv"
+      "url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids","referer":"https://player.we-play.tv"
 },
-  { 
+ { 
       "name": "Aniplus",
       "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
-       "url": "https://player.ballnaka.tv/?channel=aniplus&cate=kids","referer": "https://player.ballnaka.tv/"
+      "url": "https://player.ballnaka.tv/?channel=aniplus&cate=kids","referer":"https://player.ballnaka.tv/"
 },
-  { 
+ { 
       "name": "BabyTV",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
-       "url": "https://player.we-play.tv/channel.php?name=babytv&cate=kids","referer": "https://player.we-play.tv"
+      "url": "https://player.we-play.tv/channel.php?name=babytv&cate=kids","referer":"https://player.we-play.tv"
 },
-  { 
+ { 
       "name": "BabyTV ",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
-       "url": "https://www.doofree88.com/live/baby-tv","referer": https://www.doofree88.com/"
+      "url": "https://www.doofree88.com/live/baby-tv","referer":"https://www.doofree88.com/"
 },
-  { 
+ { 
       "name": "Miaomi",
       "image": "https://www.doofree88.com/storage/live/ftsWVzEOVL78VwJyBvzeBZSBP2IlJYMyhnkZ9Wpk.png",              
-       "url": "https://www.doofree88.com/live/miaomi","referer": https://www.doofree88.com/"
+      "url": "https://www.doofree88.com/live/miaomi","referer":"https://www.doofree88.com/"
 },
-  { 
+ { 
       "name": "Disney Channel",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
-       "url": "https://www.doofree88.com/live/disney-xd","referer": "https://www.doofree88.com/"
- },
-  { 
+      "url": "https://www.doofree88.com/live/disney-xd","referer":"https://www.doofree88.com/"
+},
+ { 
       "name": "Disney Channel",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
-       "url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
-       "import": false
+      "url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
+      "import": false
 },
-   { 
+ { 
       "name": "M KIDZ",
       "image": "https://sv1.picz.in.th/images/2021/02/16/oqS5FQ.jpg",              
-       "url": "http://210.210.155.35/session/a4928952-cfa9-11ea-b874-aa33b27a0a0f/uq2663/h/h98/index.m3u8",
-       "import": false       
+      "url": "http://210.210.155.35/session/a4928952-cfa9-11ea-b874-aa33b27a0a0f/uq2663/h/h98/index.m3u8",
+      "import": false       
 },
-   { 
+ { 
       "name": "trtcocuk",
       "image": "https://sv1.picz.in.th/images/2020/12/18/j6d1xQ.jpg",              
-       "url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
-       "import": false          
+      "url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
+      "import": false          
 },
-  { 
+ { 
       "name": "Cartoonmovies",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1608380402143_movie_image.jpg",              
-       "url": "http://61.19.242.134/feed/LC53/index.m3u8",
-       "userAgent": "exoplayer_video",
+      "url": "http://61.19.242.134/feed/LC53/index.m3u8",
+      "userAgent": "exoplayer_video",
       "playInNatPlayer": "true" 
 },
-    { 
+ { 
       "name": "ANIMAX",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1599121572832_movie_image.jpg",              
-       "url": "http://61.19.242.134/feed/LC38/index.m3u8",
-       "userAgent": "exoplayer_video",
+      "url": "http://61.19.242.134/feed/LC38/index.m3u8",
+      "userAgent": "exoplayer_video",
       "playInNatPlayer": "true" 
 },
-    { 
+ { 
       "name": "pet club tv",
       "image": "https://cdn2.ettoday.net/images/4602/4602278.jpg",              
-       "url": "http://61.19.242.134/feed/LC18/index.m3u8",
-       "userAgent": "exoplayer_video",
+      "url": "http://61.19.242.134/feed/LC18/index.m3u8",
+      "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"  
 },
-    { 
+ { 
       "name": "EBS KIDS",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1607413394209_movie_image.png",              
-       "url": "http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8",
-       "import": false
+      "url": "http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8",
+      "import": false
 },
-  {
-         "name": "Boomerang V",  
-         "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603037653783_movie_image.png",  
-         "url": "https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8",
-         "import": false
+ {
+      "name": "Boomerang V",  
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603037653783_movie_image.png",  
+      "url": "https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8",
+      "import": false
  },
   { 
       "name": "Larva",
       "image": "https://ih1.redbubble.net/image.1092690512.3342/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",              
-       "url": "http://stream.atr.ua/lale//live/index.m3u8",
-       "import": false
+      "url": "http://stream.atr.ua/lale//live/index.m3u8",
+      "import": false
 
 },
 ]
