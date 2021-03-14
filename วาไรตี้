@@ -111,6 +111,12 @@
      "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
+     "name": "Channel V HD",
+     "image": "https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg",              
+     "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8",
+     "import": false
+},
+ {
      "name": "V Channel",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1606637020738_movie_image.png",              
      "url": "http://61.19.242.134/feed/LC14/index.m3u8",
