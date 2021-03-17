@@ -27,24 +27,7 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
      "url": "http://160.119.77.117:80/iptv/sd-asianfood.stream/chunks.m3u8",
      "import": false
-},
- {
-     "name": "lifetime",
-     "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
-     "url": "http://edge-n2.uplayhd.tv:8081/mIhLjncehQPTchydtF0JCA/1615611367/live-o33-th/th-lifetime_720/playlist.m3u8",
-     "import": false
-},
- {
-     "name": "KMTV",
-     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
-     "url": "http://edge-n1.uplayhd.tv:8081/n-e7Ixqg61N3_622x0Lj9g/1615611387/live-o33-th/th-kmtv_720/playlist.m3u8",
-     "import": false
-},
- {
-     "name": "TRUE INSIDE",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "http://edge-n3.uplayhd.tv:8081/RoHwAmyIrSzLWTDtKpMhlg/1615611308/live-o33-th/th-inside_480/playlist.m3u8",
-     "import": false
+
 },
  {
      "name": "TRUE INSIDE",
@@ -62,12 +45,7 @@
      "name": "Stringray iConcerts HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
      "url": "https://player.we-play.tv/channel.php?name=iconcerts&cate=entertainment","referer": "https://player.we-play.tv"
-},
- {
-     "name": "Stringray iConcerts HD ",
-     "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
-     "url": "http://edge-n1.uplayhd.tv:8081/aUej6zHvnLoCVY-Ei_Ah7w/1615611418/live-o33-th/th-iconcerts_720/playlist.m3u8",
-     "import": false
+
 },
  {
      "name": "TRUE MUSIC HD",
@@ -81,29 +59,12 @@
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1578592825654_movie_image.png",              
      "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
      "import": false
-},
- {
-     "name": "BLUEANT ENTERTAINMENT ",
-     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
-     "url": "http://edge-n2.uplayhd.tv:8081/40nWlsnA1iuXx0uIaXe4mw/1615611473/live-o33-th/th-blueant_720/playlist.m3u8",
-     "import": false
+
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
      "url": "https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment","referer": "https://player.we-play.tv"
-},
- {
-     "name": "BLUEANT EXTREME",
-     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "http://edge-n2.uplayhd.tv:8081/EGwQ7-V_Cm15O_oHS1LPqw/1615611506/live-o33-th/th-blueantex_720/playlist.m3u8",
-     "import": false
-},
- {
-     "name": "BLUEANT EXTREME",
-     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "http://www.boxmovie-th.com/boxmovies2/blueantex/index.m3u8",
-     "import": false
 },
  {
      "name": "BLUEANT EXTREME",
