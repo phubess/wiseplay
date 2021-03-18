@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 17/3/2021",
+    "author": "update 18/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -250,7 +250,7 @@
   { 
      "name": "i asia b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613484014732_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/af.m3u8",
+      "url": "https://boxmovielive.com/live/iasia10.m3u8",
       "import": false
 
 },
@@ -269,7 +269,7 @@
   { 
      "name": "moviesat b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611087913575_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/up.m3u8",
+      "url": "https://boxmovielive.com/live/up1.m3u8",
       "import": false
 },
   {      
