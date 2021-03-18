@@ -1,24 +1,12 @@
     {
     "name": "phubess",
-    "author": "update 13/3/2021",
+    "author": "update 18/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
      "name": "3bbsports 1",
       "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
-},
-  { 
-   "name":"True Premier Football HD 1 ",
-   "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-   "url": "http://edge-n2.uplayhd.tv:8081/LsyWRHBNsY0_53w6Wzfd6Q/1615610594/live-o33-th/uplay-epl1_720/playlist.m3u8",
-   "import": false
-},
-  { 
-   "name":"True Premier Football HD 1 ",
-   "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-   "url": "http://edge-n1.uplayhd.tv:8081/7vBUmaAqgfTgDMGkckZH5A/1615610647/live-o33-th/uplay-epl1bkp_720/playlist.m3u8",
-   "import": false
 },
   {	 
       "name":"True Premier Football HD 1 ",
