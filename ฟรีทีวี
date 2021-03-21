@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 7/3/2021",
+    "author": "update 21/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -60,6 +60,12 @@
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://player.we-play.tv/channel.php?name=ch5hd&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+  { 
+    "name":"7 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+    "url": "http://digital.vpsinter.net/live/35/playlist.m3u8",
+    "import": false 
 },
   { 
     "name":"7 HD",
@@ -159,7 +165,7 @@
   { 
     "name":"Amarin HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "http://a-play.online/tv/amarin/playlist.m3u8",
+    "url": "http://digital.vpsinter.net/live/34/playlist.m3u8",
     "import": false
 },
   { 
@@ -183,7 +189,7 @@
   { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "http://a-play.online/tv/one/playlist.m3u8",
+    "url": "http://digital.vpsinter.net/live/31/playlist.m3u8",
     "import": false
 },
   { 
@@ -213,7 +219,7 @@
   { 
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "http://a-play.online/tv/thairath/playlist.m3u8",
+    "url": "http://digital.vpsinter.net/live/32/playlist.m3u8",
     "import": false
  },
   { 
@@ -237,7 +243,7 @@
   { 
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "http://a-play.online/tv/pptv/playlist.m3u8",
+    "url": "http://digital.vpsinter.net/live/36/playlist.m3u8",
     "import": false
 },
   { 
