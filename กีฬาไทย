@@ -148,10 +148,10 @@
 	 "url": "https://player.ballnaka.tv/?channel=thd3&cate=sport","referer": "https://ballnaka.tv/"
 },
   {	 
-         "name":"True Sport HD3",
+         "name":"True Sport HD3 F",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
-	 "url": "https://laos-tech-live.b-cdn.net/hd-tsport3_720/index.m3u8",
-	 "import": false
+	 "url": "https://www.chomfootball.com/livechannel/hd-tsport3/3644","referer": "https://www.chomfootball.com/"
+	 
  },
   {	 
          "name":"True Sport HD3",
