@@ -26,13 +26,11 @@
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "https://www.doomovie-hd.com/?r=tv_view&id=1","referer": "www.doomovie-hd.com/"
-    
 },
 {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "https://player.we-play.tv/channel.php?name=ch3hd&cate=digitaltv","referer": "https://player.we-play.tv"
-
 },
  { 
     "name":"5 HD",
@@ -40,7 +38,6 @@
     "url": "http://digital.vpsinter.net/live/1/playlist.m3u8",
     "userAgent": "ExoMedia4.3.0",
     "playInNatPlayer": "true"
-    
 },
  { 
     "name":"5 HD",
@@ -58,27 +55,26 @@
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://www.doomovie-hd.com/?r=tv_view&id=2","referer": "www.doomovie-hd.com/"
-    
 },
-  { 
+ { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://player.we-play.tv/channel.php?name=ch5hd&cate=digitaltv","referer": "https://player.we-play.tv"
 },
-  { 
+ { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "http://digital.vpsinter.net/live/35/playlist.m3u8",
     "userAgent": "ExoMedia4.3.0",
     "playInNatPlayer": "true"
 },
-  { 
+ { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist.m3u8",
     "import": false 
 },
-  { 
+ { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "http://live2.dootvde.com/live/50003_ch7.stream.smil/playist.m3u8",
@@ -91,38 +87,36 @@
      "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
 },
-  { 
+ { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv","referer": "https://player.we-play.tv"
 },
-  { 
+ { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "https://www.doomovie-hd.com/?r=tv_view&id=3","referer": "www.doomovie-hd.com/"
-    
 },
-  { 
+ { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "http://digital.vpsinter.net/live/30/playlist.m3u8",
     "userAgent": "ExoMedia4.3.0",
     "playInNatPlayer": "true"
-   
 },
-  { 
+ { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8",
     "import": false
 },
-  { 
+ { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/mcothd/chunklist.m3u8",
     "import": false
 },
-  { 
+ { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "https://player.we-play.tv/channel.php?name=mcothd&cate=digitaltv","referer": "https://player.we-play.tv"
