@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 22/3/2021",
+    "author": "update 24/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -103,8 +103,10 @@
   { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "http://a-play.online/tv/9mcot/playlist.m3u8",
-    "import": false
+    "url": "http://digital.vpsinter.net/live/30/playlist.m3u8", 
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
+   
 },
   { 
     "name":"MCOT HD",
@@ -126,8 +128,9 @@
   { 
     "name":"NBT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "http://a-play.online/tv/nbt/playlist.m3u8",
-    "import": false
+    "url": "http://digital.vpsinter.net/live/2/playlist.m3u8",
+     "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"NBT HD",
@@ -145,8 +148,9 @@
   { 
     "name":"ThaiPBS HD ",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "http://a-play.online/tv/thaipbs/playlist.m3u8",
-    "import": false
+    "url": "http://digital.vpsinter.net/live/3/playlist.m3u8",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"ThaiPBS HD ",
@@ -169,13 +173,8 @@
     "name":"Amarin HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
     "url": "http://digital.vpsinter.net/live/34/playlist.m3u8",
-    "import": false
-},
-  { 
-    "name":"Amarin",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_720p/playlist.m3u8",
-    "import": false
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"Amarin",
@@ -193,13 +192,8 @@
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
     "url": "http://digital.vpsinter.net/live/31/playlist.m3u8",
-    "import": false
-},
-  { 
-    "name":"ONE HD",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/playlist.m3u8",
-    "import": false
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"ONE HD",
@@ -223,7 +217,8 @@
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
     "url": "http://digital.vpsinter.net/live/32/playlist.m3u8",
-    "import": false
+     "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
  },
   { 
     "name":"ไทยรัฐTV 32HD",
@@ -247,7 +242,8 @@
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
     "url": "http://digital.vpsinter.net/live/36/playlist.m3u8",
-    "import": false
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"PPTV HD",
@@ -287,8 +283,9 @@
   {
      "name": "TNN16 HD",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",              
-     "url": "http://a-play.online/tv/tnn16/playlist.m3u8",
-     "import": false
+     "url": "http://digital.vpsinter.net/live/16/playlist.m3u8",
+      "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 }, 
   { 
     "name":"TNN16",
@@ -300,8 +297,9 @@
   {
      "name": "True4U",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
-     "url": "http://a-play.online/tv/true4u/playlist.m3u8",
-     "import": false
+     "url": "http://digital.vpsinter.net/live/24/playlist.m3u8",
+     "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
 },
   {
      "name": "True4U HD",
