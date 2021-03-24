@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 18/3/2021",
+    "author": "update 24/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -9,13 +9,7 @@
      "url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
      "import": false
 },
-   {     
-     "name": "HBO",
-     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
-     "url": "https://boxmovielive.com/live/hbohd1.m3u8",
-     "import": false
- },
-   {
+  {
      "name": "HBO HITS",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
      "url": "http://dootvthai-hd.com/cmd/hbo/hitshd/playlist.m3u8",
@@ -46,11 +40,6 @@
      "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
      "url": "http://dootvthai-hd.com/cmd/hbo/maxhd/playlist.m3u8",
      "import": false
-},
-   {
-     "name": "FOX MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://www.doofree88.com/live/fox-movies-premium-th","referer": "https://www.doofree88.com/"
 },
    {
      "name": "FOX MOVIES",
@@ -88,23 +77,6 @@
      "url": "https://player.we-play.tv/channel.php?name=fox-action&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
-     "name": "FOX ACTION MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://www.doofree88.com/live/fox-action-movies-th","referer": "https://www.doofree88.com/"
-    
-},
-  {
-     "name": "FOX ไทย b",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     "url": "http://www.boxmovie-th.com/boxmovies2/foxthai/playlist.m3u8", 
-     "import": false  
-},
-  {
-     "name": "FOX ไทย",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     "url": "https://www.doofree88.com/live/fox-thai","referer": "https://www.doofree88.com/"
-},
-  {
      "name": "FOX ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
      "url": "http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8", 
@@ -118,7 +90,7 @@
   {
      "name": "Fox Family Movies b",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com/live/foxfamily.m3u8",
+     "url": "https://boxmovielive.com/live/foxfam0.m3u8",
      "import": false
 
 },
@@ -131,6 +103,12 @@
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
      "url": "https://player.we-play.tv/channel.php?name=fox-life&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+     "name": "Fox Life",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/foxlife/chunklist.m3u8",
+     "import": false
 },
   {
      "name": "FX",
@@ -161,17 +139,6 @@
      "import": false
 },
   {
-     "name": "True Film HD",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
-     "url": "https://www.doofree88.com/live/film-hd","referer": "https://www.doofree88.com/"
-
-},
-  {
-     "name": "True Film HD 2",
-     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
-     "url": "https://www.doofree88.com/live/film-hd-2","referer": "https://www.doofree88.com/"
-},
-  {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
      "url": "http://160.119.77.117:80/iptv/hd-asian.stream/chunks.m3u8",
@@ -188,12 +155,6 @@
      "url": "http://45.91.134.168:8080/Ktu-thaiflim2/orjmR318Gr/738",
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
-},
-  {
-     "name": "True Thai Film b",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
-     "url": "https://boxmovielive.com/live/thaifilm1.m3u8",
-     "import": false
 },
   {
      "name": "KBS World HD",
@@ -216,31 +177,15 @@
   {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "http://edge-n1.uplayhd.tv:8081/vv2-3Oin93v3l-4PoaREQw/1615610876/live-o33-th/th-warnertv_720/playlist.m3u8",
-     "import": false
-},
-  {
-    "name": "Warner TV",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "https://www.doofree88.com/live/warner-tv-hd","referer": "https://www.doofree88.com/"
-},
-  {
-    "name": "Warner TV",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://player.we-play.tv/channel.php?name=warner&cate=entertainment","referer": "https://player.we-play.tv"
-},
-  {
-     "name": "Paramount Channel",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "http://edge-n2.uplayhd.tv:8081/d47fJigZs9Ij-KMheV3jBA/1615611819/live-o33-th/th-paramount_720/playlist.m3u8",
-     "import": false
+
 },
   {
        "name":"Paramount Channel",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",
-	   "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f",
-        "referer": "https://dooball66.com/",  
-        "playInNatPlayer": "true"
+       "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f",
+       "referer": "https://dooball66.com/",  
+       "playInNatPlayer": "true"
 },
   {
      "name": "Paramount Channel",
@@ -250,9 +195,14 @@
   { 
      "name": "i asia b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613484014732_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/iasia10.m3u8",
+      "url": "https://boxmovielive.com/live/iasia0.m3u8",
       "import": false
-
+},
+  { 
+     "name": "Sky 4",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614010500851_movie_image.jpg",              
+      "url": "https://boxmovielive.com/live/sky40.m3u8",
+      "import": false
 },
   { 
      "name": " ASIA Series b",
@@ -269,7 +219,7 @@
   { 
      "name": "moviesat b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611087913575_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/up1.m3u8",
+      "url": "https://boxmovielive.com/live/up0.m3u8",
       "import": false
 },
   {      
@@ -294,94 +244,19 @@
       "playInNatPlayer": "true"   
 },
   {
-     "name": "Live SKY 1",  
-      "image": "https://sv1.picz.in.th/images/2020/07/10/5o8POE.png",  
-      "url": "http://45.91.134.168:8080/KTU-livesky1/XrkBZZvGXl/8",
-       "userAgent": "ExoMedia4.3.0",
-       "playInNatPlayer": "true"
-},
-  {
-       "name": "Live SKY 2",  
-       "image": "https://sv1.picz.in.th/images/2020/07/10/5oH7p0.png",  
-       "url": "http://45.91.134.168:8080/KTU-livesky2/Iy0Ps5qhE4/9",
-         "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"  
-},
-  {
-       "name": "Live SKY 3",  
-       "image": "https://sv1.picz.in.th/images/2020/07/10/5oHTbv.png",  
-       "url": "http://45.91.134.168:8080/KTU-livesky3/nqD4b2jVHH/10",
-        "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"  
- },
-  {
-       "name": "Live SKY 3",  
-       "image": "https://sv1.picz.in.th/images/2020/07/10/5oHTbv.png",  
-       "url": "https://boxmovielive.com/live/sky3.m3u8",
-       "import": false
-},
-  {
-       "name": "Live SKY 4",  
-       "image": "https://sv1.picz.in.th/images/2020/07/10/5oH1NN.png",  
-       "url": "http://45.91.134.168:8080/KTU-livesky4/5P7vimMJe3/11",
-        "userAgent": "ExoMedia4.3.0",
-      "playInNatPlayer": "true"  
-},
-  {
-       "name": "Live SKY 4",  
-       "image": "https://sv1.picz.in.th/images/2020/07/10/5oH1NN.png",  
-       "url": "https://boxmovielive.com/live/sky4.m3u8",
-       "import": false
-},
-  {
         "name": "TV CABLE 1",  
-        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/KTU-series/malqGsZDYT/12",
-        "userAgent": "ExoMedia4.3.0",
-        "playInNatPlayer": "true"  
- },
-  {
-        "name": "TV CABLE 2",  
-        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/KTU-movies-sat-asia/DCDyVDcyPd/13",
-         "userAgent": "ExoMedia4.3.0",
-       "playInNatPlayer": "true"         
-},
-  {
-        "name": "TV CABLE 3",  
-        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/KTU-asia-film/EJ8zek6CXM/14",
-         "userAgent": "ExoMedia4.3.0",
-        "playInNatPlayer": "true"           
- },
-  {
-        "name": "TV CABLE 4",  
-        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/KTU-i-movie/P7vxjNTct6/15",
-         "userAgent": "ExoMedia4.3.0",
-        "playInNatPlayer": "true"  
-},
-  {
-        "name": "TV CABLE 5",  
-        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://45.91.134.168:8080/KTU-i-asia/b6bIxT3Ysg/16",
-        "userAgent": "ExoMedia4.3.0",
-        "playInNatPlayer": "true" 
-},
-  {
-        "name": "TV CABLE 6",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8",
         "import": false
 },
   {
-        "name": "TV CABLE 7",  
+        "name": "TV CABLE 2",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8",
         "import": false
 },
   {
-        "name": "TV CABLE 8",  
+        "name": "TV CABLE 3",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8",
         "import": false
@@ -413,25 +288,19 @@
   { 
      "name": "True Film Asia b",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com/live/filmasia.m3u8",
+      "url": "https://boxmovielive.com/live/filmasia0.m3u8",
       "import": false
 },
   { 
      "name": "TRUE MOVIE HITS b",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/hismovies.m3u8",
+      "url": "https://boxmovielive.com/live/his0.m3u8",
      "import": false
 },
   { 
      "name": "TRUE Series",
       "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
       "url": "http://160.119.77.117/iptv/sd-series.stream/playlist.m3u8",
-     "import": false
-},
-  { 
-     "name": "CCM",
-      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
-      "url": "http://edge-n3.uplayhd.tv:8081/XveAUV8p4JSIY7jnWOJRTg/1615610933/live-o33-th/th-celestial_720/playlist.m3u8",
      "import": false
 },
   {
@@ -445,11 +314,6 @@
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
        "url": "https://player.we-play.tv/channel.php?name=axn&cate=entertainment","referer": "https://player.we-play.tv"
 },
-  { 
-      "name": "AXN HD",
-      "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
-       "url": "https://www.doofree88.com/live/axn-hd","referer": "https://www.doofree88.com/"
- },
   { 
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
