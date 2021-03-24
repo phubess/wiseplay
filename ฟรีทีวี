@@ -7,7 +7,6 @@
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "http://digital.vpsinter.net/live/33/playlist.m3u8",
-    "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
 },
 {
@@ -25,7 +24,8 @@
 {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "https://www.doofree88.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-3-hd","referer": "https://www.doofree88.com/"
+    "url": "https://www.doomovie-hd.com/?r=tv_view&id=1","referer": "www.doomovie-hd.com/"
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
     "name":"3 HD",
@@ -37,8 +37,8 @@
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "http://digital.vpsinter.net/live/1/playlist.m3u8",
-    "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
+    
 },
  { 
     "name":"5 HD",
@@ -55,8 +55,8 @@
   { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://www.doofree88.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-5-hd","referer": "https://www.doofree88.com/"
-    
+    "url": "https://www.doomovie-hd.com/?r=tv_view&id=2","referer": "www.doomovie-hd.com/"
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   { 
     "name":"5 HD",
@@ -67,7 +67,6 @@
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "http://digital.vpsinter.net/live/35/playlist.m3u8",
-    "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
 },
   { 
@@ -97,14 +96,13 @@
   { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://www.doofree88.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-7-hd","referer": "https://www.doofree88.com/"
-    
+    "url": "https://www.doomovie-hd.com/?r=tv_view&id=3","referer": "www.doomovie-hd.com/"
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "http://digital.vpsinter.net/live/30/playlist.m3u8", 
-    "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
    
 },
