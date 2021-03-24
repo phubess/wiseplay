@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 24/3/2021",
+    "author": "update 25/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -26,7 +26,7 @@
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "https://www.doomovie-hd.com/?r=tv_view&id=1","referer": "www.doomovie-hd.com/"
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+    
 },
 {
     "name":"3 HD",
@@ -58,7 +58,7 @@
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://www.doomovie-hd.com/?r=tv_view&id=2","referer": "www.doomovie-hd.com/"
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+    
 },
   { 
     "name":"5 HD",
@@ -100,7 +100,7 @@
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "https://www.doomovie-hd.com/?r=tv_view&id=3","referer": "www.doomovie-hd.com/"
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+    
 },
   { 
     "name":"MCOT HD",
