@@ -201,7 +201,7 @@
   { 
      "name": "Sky 4",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614010500851_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/sky40.m3u8",
+      "url": "https://boxmovielive.com/live/sky41.m3u8",
       "import": false
 },
   { 
@@ -213,7 +213,7 @@
   { 
      "name": "SERiES+HD b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452783954_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/series25.m3u8",
+      "url": "https://boxmovielive.com/live/series.m3u8",
       "import": false
 },
   { 
