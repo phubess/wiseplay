@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 25/3/2021",
+    "author": "update 27/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -50,7 +50,7 @@
    {
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com/live/foxmovie.m3u8",
+     "url": "https://boxmovielive.com/live/foxmovie1.m3u8",
      "import": false
 },
    {
@@ -68,7 +68,7 @@
    {
      "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com/live/foxac.m3u8",
+     "url": "https://boxmovielive.com/live/foxac1.m3u8",
       "import": false
  },
    {
@@ -195,7 +195,7 @@
   { 
      "name": "i asia b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613484014732_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/iasia0.m3u8",
+      "url": "https://boxmovielive.com/live/iasia.m3u8",
       "import": false
 },
   { 
@@ -207,13 +207,13 @@
   { 
      "name": " ASIA Series b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452973109_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/3bb.m3u8",
+      "url": "https://boxmovielive.com/live/3bb1.m3u8",
       "import": false
 },
   { 
      "name": "SERiES+HD b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452783954_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/series.m3u8",
+      "url": "https://boxmovielive.com/live/series25.m3u8",
       "import": false
 },
   { 
@@ -280,18 +280,24 @@
      "name": "MOVIE 4",
       "image": "https://liontv.online/assets/20210105132027427053934.jpg",              
       "url": "http://196.53.248.18:8081/live/action001/chunks.m3u8",
-      "import": false  
+      "import": false
+},
+  { 
+     "name": "MOVIE 5",
+      "image": "https://liontv.online/assets/20210105132008498353327.jpg",              
+      "url": "http://196.53.248.18:8081/live/invest03/chunks.m3u8",
+      "import": false
 },
   { 
      "name": "True Film Asia b",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com/live/filmasia0.m3u8",
+      "url": "https://boxmovielive.com/live/filmasia33.m3u8",
       "import": false
 },
   { 
      "name": "TRUE MOVIE HITS b",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/his0.m3u8",
+      "url": "https://boxmovielive.com/live/his2.m3u8",
      "import": false
 },
   { 
