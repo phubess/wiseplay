@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 28/3/2021",
+    "author": "update 29/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -55,7 +55,7 @@
   {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "https://live.andaman888th.com/live/tpf1/sport/tpf1-480/chunks.m3u8","referer": "https://andaman888th.com/" 
+	 "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd1/","referer": "https://andaman888th.com/" 
 },
   {
        "name":"True Premier Football HD 1",
@@ -79,7 +79,7 @@
   {
        "name":"True Premier Football HD 2",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	"url": "https://live.andaman888th.com/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://andaman888th.com/"
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd2/","referer": "https://andaman888th.com/"
 },
  {
        "name":"True Premier Football HD 3 ",
@@ -90,12 +90,12 @@
  {
        "name":"True Premier Football HD 3",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	"url": "https://live.andaman888th.com/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://andaman888th.com/"
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd3/","referer": "https://andaman888th.com/"
 },
   {
        "name":"True Premier Football HD 4",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
-	 "url": "https://live.andaman888th.com/live/tpf4/sport/tpf4/chunks.m3u8","referer": "https://andaman888th.com/" 
+	 "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd4","referer": "https://andaman888th.com/" 
 },
   {
        "name":"True Premier Football HD 5",
@@ -137,8 +137,8 @@
 },
   {
        "name":"True Sport HD2",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
-	 "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd2","referer": "https://ball8k.com/"       
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
+       "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd2","referer": "https://ball8k.com/"       
 },
    {	 
          "name":"True Sport HD2",
@@ -170,14 +170,14 @@
  },
   {
        "name":"True Sport HD4",
-        "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
-	 "url": "https://www.doofree88.com/live/sport-hd-4","referer": "https://www.doofree88.com/"
+       "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
+       "url": "https://www.doofree88.com/live/sport-hd-4","referer": "https://www.doofree88.com/"
 	
 },
   {
        "name":"True Sport HD4",
-        "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
-	 "url": "https://live.andaman888th.com/live/truesporthd4/sport/truesporthd4/chunks.m3u8","referer": "https://andaman888th.com/" 
+       "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
+	"url": "https://live.andaman888th.com/live/truesporthd4/sport/truesporthd4/chunks.m3u8","referer": "https://andaman888th.com/" 
 },
   {
        "name":"NBA TV",
@@ -386,7 +386,7 @@
  { 
        "name": "Tsports",
        "image": "https://ball8k.com/stream/img_ch/20210223015955_tsports.jpg",           
-       "url": "https://ball8k.com/m_/channel.ball8k?stream=tsports","referer" :"" 
+       "url": "https://ball8k.com/m_/channel.ball8k?stream=tsports","referer" :"https://ball8k.com/" 
 },
  {
       "name": "hisport",
