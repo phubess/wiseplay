@@ -7,21 +7,7 @@
      "name": "3bbsports 1",
       "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
-},
-  {	 
-      "name":"True Premier Football HD 1 ",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-      "url": "https://live.andaman888th.com/live/tpf1/sport/tpf1-720/chunks.m3u8","referer": "https://live.andaman888th.com/"
-},
-  {	 
-      "name":"True Premier Football HD 1 ",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-      "url": "https://live.tubtoeball.net/tubtoeball/tpf1_480/chunks.m3u8","referer": "https://live.tubtoeball.net/"
-},
-  {	 
-      "name":"True Premier Football HD 1",
-      "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-      "url": "https://player.ballnaka.tv/?channel=tpf1&cate=sport","referer": "https://ballnaka.tv/"
+
 },
   {
        "name":"True Premier Football HD 1",
