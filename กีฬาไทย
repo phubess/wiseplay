@@ -55,7 +55,8 @@
   {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	 "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd1/","referer": "https://andaman888th.com/" 
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd1/","referer": "https://www.andaman888th.com",
+	  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
 },
   {
        "name":"True Premier Football HD 1",
@@ -79,7 +80,8 @@
   {
        "name":"True Premier Football HD 2",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd2/","referer": "https://andaman888th.com/"
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd2/","referer": "https://www.andaman888th.com",
+	  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
 },
  {
        "name":"True Premier Football HD 3 ",
@@ -90,12 +92,14 @@
  {
        "name":"True Premier Football HD 3",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd3/","referer": "https://andaman888th.com/"
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd3/","referer": "https://www.andaman888th.com",
+	  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
 },
   {
        "name":"True Premier Football HD 4",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
-	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd4","referer": "https://andaman888th.com/" 
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd4/","referer": "https://www.andaman888th.com",
+	  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
 },
   {
        "name":"True Premier Football HD 5",
@@ -106,7 +110,8 @@
   {
        "name":"True Premier Football HD 5",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
-	 "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd5/", "referer": "https://andaman888th.com/
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd5/","referer": "https://www.andaman888th.com",
+	  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
 },
   {	 
          "name":"True Sport HD",
@@ -360,7 +365,6 @@
        "name": "Bein 2",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",              
        "url": "https://www.andaman888th.com/ดูบอลออนไลน์/beinsport2/","referer": "https://www.andaman888th.com",
-       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
  { 
        "name": "Bein 2",
