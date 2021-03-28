@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 27/3/2021",
+    "author": "update 28/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -227,6 +227,12 @@
     "url": "https://cdn6.goprimetime.info/feed/chthairath/index.m3u8",
     "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
+},
+  { 
+    "name":"PPTV HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+    "url": "https://live.andaman888th.com/digital/pptv/playlist.m3u8","referer": "https://www.andaman888th.com/"
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   { 
     "name":"PPTV HD",
