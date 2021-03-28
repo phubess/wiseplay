@@ -1,16 +1,14 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 26/3/2021",
+    "author": "update 28/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "http://digital.vpsinter.net/live/33/playlist.m3u8",
-    "userAgent": "exoplayer_video",
-    "playInNatPlayer": "true"
-},
-{
+    https://player.ballnaka.tv/?channel=ch3hd&cate=digitaltv","referer":"https://ballnaka.tv/"
+ },
+{   
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/chunklist.m3u8",
@@ -36,7 +34,6 @@
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "http://digital.vpsinter.net/live/1/playlist.m3u8",
-    "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
 },
  { 
@@ -65,7 +62,6 @@
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "http://digital.vpsinter.net/live/35/playlist.m3u8",
-    "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
 },
  { 
@@ -107,7 +103,6 @@
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "http://digital.vpsinter.net/live/30/playlist.m3u8",
-    "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
 },
  { 
@@ -131,7 +126,6 @@
     "name":"NBT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
     "url": "http://digital.vpsinter.net/live/2/playlist.m3u8",
-     "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
 },
   { 
@@ -150,9 +144,8 @@
   { 
     "name":"ThaiPBS HD ",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "http://digital.vpsinter.net/live/3/playlist.m3u8",
-    "userAgent": "exoplayer_video",
-    "playInNatPlayer": "true"
+    "url": "https://www.ball24.tv/allchannel/?id=thaipbs","referer": "https://www.ball24.tv/"
+   
 },
   { 
     "name":"ThaiPBS HD ",
@@ -175,7 +168,6 @@
     "name":"Amarin HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
     "url": "http://digital.vpsinter.net/live/34/playlist.m3u8",
-    "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
 },
   { 
@@ -188,14 +180,6 @@
     "name":"Amarin",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
     "url": "https://www.doofree88.com/live/amarin-hd","referer": "https://www.doofree88.com/"
-   
-},
-  { 
-    "name":"ONE HD",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "http://digital.vpsinter.net/live/31/playlist.m3u8",
-    "userAgent": "exoplayer_video",
-    "playInNatPlayer": "true"
 },
   { 
     "name":"ONE HD",
@@ -218,9 +202,7 @@
   { 
     "name":"ไทยรัฐTV 32HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "http://digital.vpsinter.net/live/32/playlist.m3u8",
-     "userAgent": "exoplayer_video",
-    "playInNatPlayer": "true"
+    "url": "https://www.ball24.tv/allchannel/?id=thairath","referer": "https://www.ball24.tv/"
  },
   { 
     "name":"ไทยรัฐTV 32HD",
@@ -244,7 +226,6 @@
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
     "url": "http://digital.vpsinter.net/live/36/playlist.m3u8",
-    "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
 },
   { 
@@ -286,8 +267,7 @@
      "name": "TNN16 HD",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",              
      "url": "http://digital.vpsinter.net/live/16/playlist.m3u8",
-      "userAgent": "exoplayer_video",
-    "playInNatPlayer": "true"
+      "playInNatPlayer": "true"
 }, 
   { 
     "name":"TNN16",
@@ -300,8 +280,7 @@
      "name": "True4U",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
      "url": "http://digital.vpsinter.net/live/24/playlist.m3u8",
-     "userAgent": "exoplayer_video",
-    "playInNatPlayer": "true"
+     "playInNatPlayer": "true"
 },
   {
      "name": "True4U HD",
@@ -319,7 +298,7 @@
   { 
     "name":"Workpoint HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
-    "url": "https://bit.ly/3v4vetM",
+    "url": "https://bit.ly/2O2gY3W",
      "import": false
 },
  {
