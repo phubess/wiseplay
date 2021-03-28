@@ -1,62 +1,54 @@
     {
     "name": "phubess",
-    "author": "update 29/3/2021",
+    "author": "update 30/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
      "name": "3bbsports 1",
       "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
-
 },
-  {
+ {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
         "url": "http://ip2121.com:8081/4kweb/true1/chunks.m3u8", 
         "import": false
 },
-  {
+ {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
         "url": "http://ip2121.com:8081/web1/truepremier1/playlist.m3u8", 
         "import": false
 },
-  {
-       "name":"True Premier Football HD 1",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-        "url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8", 
-        "import": false
-},
-  {
+ {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
         "url": "https://ball8k.com/m/ch.php?stream=epl1","referer": "https://ball8k.com/"
 },
-  {
+ {
        "name":"True Premier Football HD 1",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
        "url": "http://160.119.77.117/iptv/bsb-epl1.stream/chunks.m3u8",
         "import": false
 },
-  {
+ {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
-	"url": "https://www.doofree88.com/live/premier-football-hd-1","referer": "https://www.doofree88.com/"
+	"url": "https://cdn1.cloud-streaming.live/live/tpf1/sport/tpf1-720/chunks.m3u8","referer": "https://bettopfivemovie.com/"
 },
-  {
+ {
        "name":"True Premier Football HD 1",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
 	 "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
          "referer": "https://dooball66.com/",  
         "playInNatPlayer": "true"
 },
-  {
+ {
        "name":"True Premier Football HD 2 ",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
 	"url": "https://ball8k.com/m_/channel.ball8k?stream=epl2","referer": "https://ball8k.com/" 
-	
 },
-  {
+ {
        "name":"True Premier Football HD 2 ",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
 	 "url": "https://www.doofree88.com/live/premier-football-hd-2","referer": "https://www.doofree88.com/"
@@ -66,137 +58,132 @@
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
 	"url": "https://www.doofree88.com/live/premier-football-hd-3","referer": "https://www.doofree88.com/"
 },
-  {	 
+ {	 
          "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
 	 "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd","referer": "https://ball8k.com/"
 },
-  {	 
+ {	 
          "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=thd1&cate=sport","referer": "https://ballnaka.tv/"
 },
-  {
+ {
        "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
 	 "url": "https://www.doofree88.com/live/sport-hd-1","referer": "https://www.doofree88.com/" 
-         
 },
-  {
+ {
        "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
 	"url": "https://www.we-play.tv/watching/tv/true-sports-hd","referer": "https://www.we-play.tv/"
-	
 },
-  {
+ {
        "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
 	 "url": "https://www.we-play.tv/watching/tv/true-sports-hd-2","referer": "https://www.we-play.tv/"
 },
-  {
+ {
        "name":"True Sport HD2",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
        "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd2","referer": "https://ball8k.com/"       
 },
-   {	 
+ {	 
          "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=thd2&cate=sport","referer": "https://ballnaka.tv/"
 },
-   {
+ {
        "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
 	"url": "https://www.doofree88.com/live/sport-hd-2","referer": "https://www.doofree88.com/"
-       
 },
-  {	 
+ {	 
          "name":"True Sport HD3",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=thd3&cate=sport","referer": "https://ballnaka.tv/"
 },
-  {	 
+ {	 
          "name":"True Sport HD3",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
 	 "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd3","referer": "https://ball8k.com/"
-	 
- },
-  {	 
+},
+ {	 
          "name":"True Sport HD3",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
 	 "url": "https://cdn1.cloud-streaming.live/live/truesporthd3/sport/truesporthd3/chunks.m3u8","referer": "https://bettopfivemovie.com/"
 },
-  {
+ {
        "name":"True Sport HD4",
        "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
        "url": "https://cdn1.cloud-streaming.live/live/truesporthd4/sport/truesporthd4/chunks.m3u8","referer": "https://bettopfivemovie.com/"
 },
-  {
+ {
        "name":"NBA TV",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
 	 "url": "https://player.we-play.tv/channel.php?name=nba&cate=sports","referer": "https://player.we-play.tv"
 },
-  {
+ {
         "name":"NBA TV ",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
         "url": "https://ball8k.com/m_/channel.ball8k?stream=truenba","referer": "https://ball8k.com/"
 },
-  {
+ {
        "name":"NBA TV",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=nba&cate=sport","referer": "https://player.ballnaka.tv"
 },
-  {
+ {
        "name":"TRUE TENNIS",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
 	 "url": "https://player.ballnaka.tv/?channel=tennis&cate=sport","referer": "https://player.ballnaka.tv"
 },
-  {
+ {
        "name":"TRUE TENNIS",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
        "url": "https://ball8k.com/m_/channel.ball8k?stream=truetennis","referer": "https://ball8k.com/"
-       
 },
-  {
+ {
        "name":"TRUE TENNIS",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
 	 "url": "https://player.we-play.tv/channel.php?name=tennis&cate=sports","referer": "https://player.we-play.tv"
 },
-  {
+ {
        "name":"GOLF CHANNEL",
        "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
        "url": "https://ball8k.com/m_/channel.ball8k?stream=golfchannel","referer": "https://ball8k.com"
 },
-  {
+ {
        "name":"GOLF CHANNEL",
         "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
 	 "url": "https://player.ballnaka.tv/?channel=golf&cate=sport","referer": "https://player.ballnaka.tv"
 },
-  {
+ {
        "name":"NFL NETWORK",
         "image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
 	 "url": "https://player.ballnaka.tv/?channel=nfl&cate=sport","referer": "https://player.ballnaka.tv"
 },
-  {
+ {
        "name":"Motor Vision",
         "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
 	 "url": "https://player.we-play.tv/channel.php?name=motor-vision&cate=sports","referer": "https://player.we-play.tv"
 },
-  {
+ {
        "name":"True Sport 2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true2.jpg",
 	"url": "https://player.we-play.tv/channel.php?name=tsp2&cate=sports","referer": "https://player.we-play.tv" 
 },
-  {
+ {
        "name":"True Sport 5",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true5.jpg",
        "url": "https://player.we-play.tv/channel.php?name=tsp5&cate=sports","referer": "https://player.we-play.tv"
 },
-  {
+ {
        "name":"True Sport 6",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true6.jpg",
 	 "url": "https://player.we-play.tv/channel.php?name=tsp6&cate=sports","referer": "https://player.we-play.tv"
 },
-  {
+ {
        "name":"True Sport 7",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true7.jpg",
 	 "url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports","referer": "https://player.we-play.tv"
@@ -210,14 +197,12 @@
           "name": "FOX Sports HD",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
           "url": "https://www.doofree88.com/live/fox-sports-1","referer": "https://www.doofree88.com/"
-	  
 },
 { 
           "name": "FOX Sports HD",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
           "url": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8",
 	  "import": false
-
 },
 { 
           "name": "FOX Sports 2",
@@ -239,9 +224,8 @@
           "name": "FOX Sports 2",
           "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
           "url": "https://player.we-play.tv/channel.php?name=fox2&cate=sports","referer": "https://player.we-play.tv"
-
 },
-  {
+ {
        "name":"FOX Sports 3",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",
         "url": "https://player.ballnaka.tv/?channel=fox3&cate=sport","referer": "https://player.ballnaka.tv"
