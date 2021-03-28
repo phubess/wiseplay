@@ -231,7 +231,8 @@
   { 
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "https://live.andaman888th.com/digital/pptv/playlist.m3u8","referer": "https://www.andaman888th.com/"
+    "url": "https://www.andaman888th.com/ดูบอลออนไลน์/pptvhd/","referer": "https://www.andaman888th.com/"
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
   { 
     "name":"PPTV HD",
@@ -249,7 +250,6 @@
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
     "url": "https://www.doofree88.com/live/pptv","referer": "https://www.doofree88.com/"
-    
 },
   { 
     "name":"PPTV HD",
