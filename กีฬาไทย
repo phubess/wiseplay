@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 22/3/2021",
+    "author": "update 28/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -67,8 +67,8 @@
   {
        "name":"True Premier Football HD 2 ",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	"url": "http://edge-n3.uplayhd.tv:8081/mSShLHL1F7lJL5pqEfxKBg/1615610684/live-o33-th/th-epl2_720/playlist.m3u8",
-	"import": false
+	"url": "https://ball8k.com/m_/channel.ball8k?stream=epl2","referer": "https://ball8k.com/" 
+	
 },
   {
        "name":"True Premier Football HD 2 ",
@@ -106,7 +106,12 @@
   {
        "name":"True Premier Football HD 5",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
-	 "url": "https://live.andaman888th.com/live/tpf5/sport/tpf5/chunks.m3u8", "referer": "https://andaman888th.com/"
+	 "url": "https://live.andaman888th.com/live/tpf5/sport/tpf5/chunks.m3u8", "referer": "https://andaman888th.com/
+},
+  {	 
+         "name":"True Sport HD",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
+	 "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd","referer": "https://ball8k.com/"
 },
   {	 
          "name":"True Sport HD",
@@ -129,7 +134,11 @@
        "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
 	 "url": "https://www.we-play.tv/watching/tv/true-sports-hd-2","referer": "https://www.we-play.tv/"
-       
+},
+  {
+       "name":"True Sport HD2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
+	 "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd2","referer": "https://ball8k.com/"       
 },
    {	 
          "name":"True Sport HD2",
@@ -148,9 +157,9 @@
 	 "url": "https://player.ballnaka.tv/?channel=thd3&cate=sport","referer": "https://ballnaka.tv/"
 },
   {	 
-         "name":"True Sport HD3 F",
+         "name":"True Sport HD3",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
-	 "url": "https://www.chomfootball.com/livechannel/hd-tsport3/3644","referer": "https://www.chomfootball.com/"
+	 "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd3","referer": "https://ball8k.com/"
 	 
  },
   {	 
@@ -178,6 +187,11 @@
   {
         "name":"NBA TV ",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
+        "url": "https://ball8k.com/m_/channel.ball8k?stream=truenba","referer": "https://ball8k.com/"
+},
+  {
+        "name":"NBA TV ",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/nbatv.jpg",
         "url": "https://www.doofree88.com/live/nba-tv","referer": "https://www.doofree88.com/"
 },
   {
@@ -199,13 +213,18 @@
   {
        "name":"TRUE TENNIS",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
-       "url": "http://thaicable.myftp.org:8000/live/infosat/2020/73.m3u8",
-       "import": false
+       "url": "https://ball8k.com/m_/channel.ball8k?stream=truetennis","referer": "https://ball8k.com/"
+       
 },
   {
        "name":"TRUE TENNIS",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-tennis.jpg",
 	 "url": "https://player.we-play.tv/channel.php?name=tennis&cate=sports","referer": "https://player.we-play.tv"
+},
+  {
+       "name":"GOLF CHANNEL",
+       "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
+       "url": "https://ball8k.com/m_/channel.ball8k?stream=golfchannel","referer": "https://ball8k.com"
 },
   {
        "name":"GOLF CHANNEL",
@@ -363,6 +382,11 @@
        "name": "Bein 2",
        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",           
        "url": "https://www.doonung1234.com/match/view/7641/bein2","referer" :"https://www.doonung1234.com/" 
+},
+ { 
+       "name": "Tsports",
+       "image": "https://ball8k.com/stream/img_ch/20210223015955_tsports.jpg",           
+       "url": "https://ball8k.com/m_/channel.ball8k?stream=tsports","referer" :"" 
 },
  {
       "name": "hisport",
