@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 29/3/2021",
+    "author": "update 30/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -99,12 +99,13 @@
  { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://www.doomovie-hd.com/?r=tv_view&id=3","referer": "www.doomovie-hd.com/"
+    "url": "https://mediasv.online/live/7hd/playlist.m3u8",
+     "import": false
 },
  { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "https://smart-tv.livedoomovie.com/02_7HD_720p/chunklist.m3u8",
+    "url": "https://mediasv.online/live/mcothd/playlist.m3u8",
     "import": false
 },
  { 
