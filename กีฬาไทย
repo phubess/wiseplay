@@ -50,23 +50,23 @@
 },
  {
        "name":"True Premier Football HD 2 ",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
-	 "url": "https://cdn1.cloud-streaming.live/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
+       "url": "https://cdn1.cloud-streaming.live/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://bettopfivemovie.com/"
 },
  {
        "name":"True Premier Football HD 3 ",
-        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
-	"url": "https://cdn1.cloud-streaming.live/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+       "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
+       "url": "https://cdn1.cloud-streaming.live/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://bettopfivemovie.com/"
 },
  {	 
-         "name":"True Sport HD",
+        "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
-	 "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd","referer": "https://ball8k.com/"
+	"url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd","referer": "https://ball8k.com/"
 },
  {	 
-         "name":"True Sport HD",
+        "name":"True Sport HD",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
-	 "url": "https://player.ballnaka.tv/?channel=thd1&cate=sport","referer": "https://ballnaka.tv/"
+	"url": "https://player.ballnaka.tv/?channel=thd1&cate=sport","referer": "https://ballnaka.tv/"
 },
  {
        "name":"True Sport HD",
@@ -81,7 +81,7 @@
  {
        "name":"True Sport HD2",
         "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
-	 "url": "https://www.we-play.tv/watching/tv/true-sports-hd-2","referer": "https://www.we-play.tv/"
+	"url": "https://www.we-play.tv/watching/tv/true-sports-hd-2","referer": "https://www.we-play.tv/"
 },
  {
        "name":"True Sport HD2",
