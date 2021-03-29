@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 31/3/2021",
+    "author": "update 30/3/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -288,7 +288,7 @@
   { 
     "name":"TNN16",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
-    "url": "https://cdn6.goprimetime.info//feed//chtnn//index.m3u8",
+    "url": "https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8",
     "import": false
 }, 
   { 
