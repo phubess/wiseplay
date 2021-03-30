@@ -1,12 +1,12 @@
 {  
     "name": "เวปดูหนัง",
-    "author": "update 13/2/2021",
+    "author": "update 30/3/2021",
     "image": "https://pgslotvip.game/wp-content/uploads/2020/09/tips065.jpg",       
     "stations": [ 
  { 
-   "name": "doball4you",  
-    "image": "https://doball4you.com/wp-content/themes/understrap/img/doball4you_logo.gif", 
-    "url": "https://doball4you.com/","embed": true 
+   "name": "KINGHD ",  
+    "image": "https://www.king-hd.com/img/logo/logo.jpg", 
+    "url": "https://www.king-hd.com/","embed": true 
  },
  {
     "name": "ballsodhd",  
