@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 13/3/2021",
+    "author": "update 1/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -27,12 +27,23 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
      "url": "http://160.119.77.117:80/iptv/sd-asianfood.stream/chunks.m3u8",
      "import": false
-
+},
+ {
+     "name": "TRUE INSIDE HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "https://mediasv.online/tvchannel_x2/trueinside/playlist.m3u8",
+     "import": false
 },
  {
      "name": "TRUE INSIDE",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
      "url": "http://160.119.77.116:8081/iptv/sd-inside.stream/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "GEM",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611707943462_movie_image.jpg",                                                                                                                                                                                          
+     "url": "https://mediasv.online/tvchannel_x2/gem/playlist.m3u8",
      "import": false
 },
  {
@@ -45,10 +56,15 @@
      "name": "Stringray iConcerts HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
      "url": "https://player.we-play.tv/channel.php?name=iconcerts&cate=entertainment","referer": "https://player.we-play.tv"
-
 },
  {
      "name": "TRUE MUSIC HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+     "url": "https://mediasv.online/tvchannel_x2/truemusic/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE MUSIC",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
      "url": "https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8",
      "import": false
@@ -59,7 +75,12 @@
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1578592825654_movie_image.png",              
      "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
      "import": false
-
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://mediasv.online/tvchannel_x2/blueant/playlist.m3u8",
+     "import": false
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
@@ -94,18 +115,22 @@
       "name": "True X-ZYTE",
       "image": "https://bit.ly/37a9p0o",              
        "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment","referer": "https://player.we-play.tv"
-
 },
   { 
       "name": "Waku Waku Japan",
       "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
+       "url": "https://mediasv.online/tvchannel_x1/wakuwakujapan/playlist.m3u8",
+       "import": false
+},
+ { 
+      "name": "Waku Waku Japan",
+      "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
        "url": "https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment","referer": "https://player.we-play.tv"
-
 },
 {
-    "name":"TLC HD b",
+    "name":"TLC HD",
     "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
-    "url": "http://www.boxmovie-th.com/boxmovies2/hd-tlc/playlist.m3u8",
+    "url": "https://mediasv.online/tvchannel_x1/hd-tlc/playlist.m3u8",
     "import": false
 },
 {
@@ -139,16 +164,6 @@
       "playInNatPlayer": "true"
 },
   {
-     "name": "Rama Channel",
-     "image": "http://cms.dmpcdn.com/livetv/2019/01/31/a5aeb78c-c4db-474f-a5af-345cb9e2f5b5.png",              
-     "url": "https://www.doofree88.com/live/rama-channel","referer": "https://www.doofree88.com/"
-},
-  {
-     "name": "SabaideeTV",
-     "image": "http://cms.dmpcdn.com/livetv/2019/01/19/efd05f53-ede6-4141-8ed9-275a4d8e33f4.png",              
-     "url": "https://www.doofree88.com/live/sabaideetv","referer": "https://www.doofree88.com/"
-},
-  {
      "name": "CABLE 37 HD",
      "image": "https://sv1.picz.in.th/images/2020/10/17/b7cOc9.png",              
      "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
@@ -164,7 +179,7 @@
      "name": "LAO STAR",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",              
      "url": "https://cdn6.goprimetime.info/feed/LC58/playlist.m3u8",
-     "import": false
+     "playInNatPlayer": "true"
 },
 ]
 }
