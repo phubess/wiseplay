@@ -158,7 +158,19 @@
  {
      "name": "True Film HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+     "url": "https://mediasv.online/tvchannel_x1/true-filmhd/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "True Film HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
      "url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "True Film HD 2",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
+     "url": "https://mediasv.online/tvchannel_x1/true-filmhd2/playlist.m3u8",
+     "import": false
 },
   {
      "name": "True Asian Series HD",
@@ -182,6 +194,12 @@
      "name": "KBS World HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
      "url": "https://player.we-play.tv/channel.php?name=kbs&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+     "name": "KBS World",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
+     "url": "https://mediasv.online/live/KBS_HD/playlist.m3u8",
+     "import": false
 },
   {
     "name": "Warner TV",
@@ -316,10 +334,22 @@
       "import": false
 },
   { 
+     "name": "True Film Asia HD",
+      "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
+      "url": "https://mediasv.online/tvchannel_x1/truefilmasia/playlist.m3u8",
+      "import": false
+},
+  { 
      "name": "True Film Asia b",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
       "url": "https://boxmovielive.com/live/filmasia33.m3u8",
       "import": false
+},
+  { 
+     "name": "TRUE MOVIE HITS HD",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8",
+     "import": false
 },
   { 
      "name": "TRUE MOVIE HITS b",
@@ -337,6 +367,12 @@
      "name": "CCM",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
      "url": "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8",
+     "import": false
+},
+  {
+     "name": "TVB",
+     "image": "http://cms.dmpcdn.com/livetv/2019/04/23/08f0470b-4f2f-4459-a6cc-0006e97887b7_original.png",              
+     "url": "https://mediasv.online/tvchannel_x1/tvb/playlist.m3u8",
      "import": false
 },
   {
