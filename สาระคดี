@@ -15,12 +15,6 @@
          "import": false
 }, 
   {         
-        "name":"NEW TV",
-        "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1609216991804_movie_image.jpg",
-         "url": "https://cdn6.goprimetime.info//feed//newtv//index.m3u8",  
-         "playInNatPlayer": "true"
-}, 
-  {         
         "name":"mysci b",
         "image": "https://bit.ly/2XMGyev",
          "url": "https://boxmovielive.com/live/mysci.m3u8",  
@@ -40,7 +34,7 @@
   { 
       "name": "Animal Planet b",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
-       "url": "https://boxmovielive.com/live/an.m3u8",
+       "url": "https://boxmovielive.com/live/ani1.m3u8",
        "import": false
 }, 
   { 
@@ -67,7 +61,7 @@
   { 
       "name": "Nat Geo Wild b",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
-       "url": "https://boxmovielive.com/live/natw.m3u8",
+       "url": "https://boxmovielive.com/live/natw1.m3u8",
        "import": false
 }, 
   { 
@@ -92,6 +86,12 @@
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
        "url": "https://mediasv.online/tvchannel_x1/hd-history/playlist.m3u8",
        "import": false
+ }, 
+  { 
+      "name": "History HD b",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
+       "url": "https://boxmovielive.com/live/11.m3u8",
+       "import": false
 }, 
   { 
       "name": "History HD",
@@ -108,7 +108,12 @@
     "name": "H2 ",
     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
     "url": "https://player.we-play.tv/channel.php?name=h2&cate=documentary","referer": "https://player.we-play.tv"
-     
+},
+  { 
+    "name": "H2 b",
+    "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
+    "url": "https://boxmovielive.com/live/h21.m3u8",
+     "import": false     
 },
   { 
     "name": "H2",
