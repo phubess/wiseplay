@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 1/4/2021",
+    "author": "update 2/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -27,18 +27,23 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
      "url": "https://mediasv.online/tvchannel_x2/trueinside/playlist.m3u8",
      "import": false
-
+},
+ {
+     "name": "FASHION TV",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png",              
+     "url": "https://mediasv.online/tvchannel_x2/fashiontv/playlist.m3u8",
+     "import": false
 
 },
  {
      "name": "GEM",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611707943462_movie_image.jpg",                                                                                                                                                                                          
+     "image": "https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_320.png",                                                                                                                                                                                          
      "url": "https://mediasv.online/tvchannel_x2/gem/playlist.m3u8",
      "import": false
 },
  {
      "name": "GEM",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1611707943462_movie_image.jpg",                                                                                                                                                                                          
+     "image": "https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_320.png",                                                                                                                                                                                          
      "url": "http://45.126.83.51/session/4b965e82-6e78-11eb-a799-ba99ac333be4/uq2663/h/h19/02.m3u8",
      "import": false
 },
@@ -95,15 +100,9 @@
      "userAgent": "exoplayer_video",
      "playInNatPlayer": "true" 
 },
- { 
-      "name": "True X-ZYTE",
-      "image": "https://bit.ly/37a9p0o",              
-       "url": "http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8",
-       "import": false
-},
   { 
       "name": "True X-ZYTE",
-      "image": "https://bit.ly/37a9p0o",              
+      "image": "https://bit.ly/3rGeqq2",              
        "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment","referer": "https://player.we-play.tv"
 },
   { 
