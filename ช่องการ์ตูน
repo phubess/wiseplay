@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 1/4/2021",
+      "author": "update 2/4/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -54,6 +54,12 @@
  { 
       "name": "Aniplus",
       "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
+      "url": "https://mediasv.online/tvchannel_x2/aniplus/playlist.m3u8",
+      "import": false
+},
+ { 
+      "name": "Aniplus",
+      "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
       "url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids","referer":"https://player.we-play.tv"
 },
  { 
@@ -75,7 +81,13 @@
  { 
       "name": "Disney Channel",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
-      "url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
+      "url": "https://mediasv.online/tvchannel_x1/disney-channel/playlist.m3u8",
+      "import": false
+},
+ { 
+      "name": "Disney Channel",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
+      "url": "https://mediasv.online/tvchannel_x1/hd-disneyxd/playlist.m3u8",
       "import": false
 },
  { 
