@@ -40,6 +40,12 @@
   { 
       "name": "Discovery Asia",
       "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
+       "url": "https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8",
+       "import": false
+}, 
+  { 
+      "name": "Discovery Asia",
+      "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
        "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary","referer": "https://player.we-play.tv"
 }, 
   { 
@@ -51,7 +57,8 @@
   { 
       "name": "National Geographic",
       "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
-       "url": "https://www.doofree88.com/live/national-geographic","referer": "https://www.doofree88.com/"
+       "url": "https://mediasv.online/tvchannel_x1/natgeo/playlist.m3u8",
+         "import": false
 }, 
   { 
       "name": "National Geographic",
@@ -127,6 +134,12 @@
        "url": "https://player.we-play.tv/channel.php?name=h2&cate=documentary","referer": "https://player.we-play.tv"
 },
   { 
+       "name": "4K LOVE NATURE",
+        "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1592281297136_movie_image.jpg",
+         "url": "https://mediasv.online/tvchannel_x2/lovenature4k/playlist.m3u8",
+         "import": false
+},
+  { 
        "name": "4K LOVE NATURE k",
         "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1592281297136_movie_image.jpg",
          "url": "http://45.91.134.168:8080/KTU-lovenature4K/SBvA6CGFTm/33",
@@ -137,6 +150,12 @@
        "name": "4K LOVE NATURE",
         "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1592281297136_movie_image.jpg",
          "url": "https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
+         "import": false
+},
+  { 
+       "name": "TRUE EXPLORE WILD",
+        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png",
+         "url": "https://mediasv.online/tvchannel_x1/truewild/playlist.m3u8",
          "import": false
 },
   { 
