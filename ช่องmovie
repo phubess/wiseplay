@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 1/4/2021",
+    "author": "update 2/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -252,7 +252,7 @@
   { 
      "name": " ASIA Series b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452973109_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/3bb1.m3u8",
+      "url": "https://boxmovielive.com/live/a.m3u8",
       "import": false
 },
   { 
@@ -424,12 +424,12 @@
  {
      "name": "Zeenung",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",              
-     "url": "http://61.19.242.134/feed/LC5/index.m3u8",
+     "url": "https://cdn6.goprimetime.info//feed//chzeenung//index.m3u8",
      "playInNatPlayer": "true"
 },
   { 
       "name": "Zeenung",
-      "image": "https://www.iptv4k.tv/images/tv/mUh7bNApHaKoEvmpvf0YUfqObUTjZZ9sd-zeenung.jpg",              
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",              
        "url": "https://player.we-play.tv/channel.php?name=zeenung&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
