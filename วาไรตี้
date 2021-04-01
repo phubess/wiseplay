@@ -23,22 +23,12 @@
      "import": false
 },
  {
-     "name": "Asian Food Network ",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
-     "url": "http://160.119.77.117:80/iptv/sd-asianfood.stream/chunks.m3u8",
-     "import": false
-},
- {
      "name": "TRUE INSIDE HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
      "url": "https://mediasv.online/tvchannel_x2/trueinside/playlist.m3u8",
      "import": false
-},
- {
-     "name": "TRUE INSIDE",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "http://160.119.77.116:8081/iptv/sd-inside.stream/chunks.m3u8",
-     "import": false
+
+
 },
  {
      "name": "GEM",
