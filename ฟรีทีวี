@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 30/3/2021",
+    "author": "update 2/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -147,8 +147,8 @@
   { 
     "name":"ThaiPBS HD ",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "https://www.ball24.tv/allchannel/?id=thaipbs","referer": "https://www.ball24.tv/"
-   
+    "url": "https://mediasv.online/live/thaipbs/playlist.m3u8",
+ิ    "import": false
 },
   { 
     "name":"ThaiPBS HD ",
@@ -165,6 +165,12 @@
     "name":"ThaiPBS",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
     "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
+    "import": false
+},
+  { 
+    "name":"Amarin HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
+    "url": "https://mediasv.online/live/amarintv/playlist.m3u8",
     "import": false
 },
   { 
@@ -189,9 +195,10 @@
     "import": false
 },
   { 
-    "name":"Amarin",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://www.doofree88.com/live/amarin-hd","referer": "https://www.doofree88.com/"
+    "name":"ONE HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+    "url": "https://mediasv.online/live/one/playlist.m3u8",
+    "import": false
 },
   { 
     "name":"ONE HD",
@@ -210,6 +217,12 @@
     "url": "https://cdn6.goprimetime.info/feed/chonehd/index.m3u8",
     "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
+ },
+  { 
+    "name":"ไทยรัฐTV 32HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+    "url": "https://mediasv.online/live/thairath/playlist.m3u8",
+    "import": false
  },
   { 
     "name":"ไทยรัฐTV 32HD",
@@ -239,6 +252,12 @@
     "url": "https://cdn6.goprimetime.info/feed/chthairath/index.m3u8",
     "userAgent": "exoplayer_video",
     "playInNatPlayer": "true"
+},
+  { 
+    "name":"PPTV HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+    "url": "https://mediasv.online/live/pptv/playlist.m3u8",
+    "import": false
 },
   { 
     "name":"PPTV HD",
@@ -330,6 +349,12 @@
  {
      "name": "Workpoint ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
+     "url": "https://mediasv.online/live/workpoint/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "Workpoint ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
      "url": "http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8",
      "import": false
 },
@@ -342,6 +367,12 @@
     "name":"MONO29 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
     "url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8", 
+    "import": false
+},
+  { 
+    "name":"MONO29 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+    "url": "https://mediasv.online/live/mono29/playlist.m3u8", 
     "import": false
 },
   { 
