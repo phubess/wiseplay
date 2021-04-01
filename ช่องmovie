@@ -84,7 +84,7 @@
    {
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com/live/foxmovie1.m3u8",
+     "url": "https://boxmovielive.com/live/foxmovie.m3u8",
      "import": false
 },
    {
@@ -102,7 +102,7 @@
    {
      "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com/live/foxac1.m3u8",
+     "url": "https://boxmovielive.com/live/foxac.m3u8",
       "import": false
  },
    {
@@ -286,7 +286,7 @@
   { 
      "name": " ASIA Series b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452973109_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/a.m3u8",
+      "url": "https://boxmovielive.com/live/3bb.m3u8",
       "import": false
 },
   { 
