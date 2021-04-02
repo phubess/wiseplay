@@ -184,7 +184,166 @@
       "image": "https://www.we-play.tv//uploads/posters/astro-supersport-4-poster1602800887.jpeg",
       "url": "http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8",
       "import": false       
-     
+},
+ {
+      "name": "ELEVEN SPORTS 1 HD",
+      "image": "https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png",
+      "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8",
+      "import": false      
+},
+ {
+      "name": "CANAL + SPORTS",
+      "image": "https://static.epg.best/pl/CanalPlusSport.pl.png",
+      "url": "http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8",
+      "import": false       
+},
+ {
+      "name": "NOVA SPORTS",
+      "image": "http://www.tv-vratsa.bg/user_pic/images/novasport.png",
+      "url": "https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8",
+      "import": false
+ },
+ {
+      "name": "EPT SPORTS 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png",
+      "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8",
+      "import": false      
+},
+ {
+      "name": "EPT SPORTS 2",
+      "image": "https://upload.wikimedia.org/wikipedia/el/a/a5/Ertsports2.png",
+      "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8",
+      "import": false       
+ },
+ {
+      "name": "TNT SPORTS 1",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",
+      "url": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8",
+      "import": false      
+ },
+ {
+      "name": "NOVA SPORTS 1 HD",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png",
+      "url": "http://185.132.177.110:8080/NOVASports1/video.m3u8",
+      "import": false      
+ },
+ {
+      "name": "NOVA SPORTS 2 HD",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png",
+      "url": "http://185.132.177.110:8080/NOVASports2/video.m3u8",
+      "import": false      
+ },
+ {
+      "name": "NOVA SPORTS 3 HD",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-3-376.png",
+      "url": "http://185.132.177.110:8080/NOVASports3/video.m3u8",
+      "import": false     
+ },
+ {
+      "name": "NOVA SPORTS 4 HD",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-4-377.png",
+      "url": "http://185.132.177.110:8080/NOVASports4/video.m3u8",
+      "import": false      
+ },
+ {
+      "name": "NOVA SPORTS 5 HD",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-5-378.png",
+      "url": "http://185.132.177.110:8080/NOVASports5/video.m3u8",
+      "import": false      
+ },
+ {
+      "name": "Cosmote Sport 1",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
+      "url": "http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8",
+      "import": false      
+},
+ {
+      "name": "Cosmote Sport 2",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-2-384.png",
+      "url": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
+      "import": false         
+ },
+ {
+      "name": "Cosmote Sport 3",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-3-385.png",
+      "url": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+      "import": false        
+ },
+ {
+      "name": "Cosmote Sport 4",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-4-386.png",
+      "url": "http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8",
+      "import": false   
+  },
+ {
+      "name": "Cosmote Sport 5",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-5-387.png",
+      "url": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
+      "import": false       
+  },
+ {
+      "name": "Cosmote Sport 6",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-6-388.png",
+      "url": "http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8",
+      "import": false       
+ },
+ {
+      "name": "Cosmote Sport 7",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-7-389.png",
+      "url": "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
+      "import": false        
+},
+ {
+      "name": "Cosmote Sport 8",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-8-390.png",
+      "url": "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
+      "import": false         
+},
+ {
+      "name": "Cosmote Sport 9",
+      "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-9-1590.png",
+      "url": "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
+      "import": false         
+ },
+ {
+      "name": "FOOTBALLUA 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU",
+      "url": "https://95-213-224-179.livesports24.online/uafootballua1.m3u8",
+      "import": false        
+ },
+ {
+      "name": "FOOTBALLUA 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU",
+      "url": "https://95-213-224-179.livesports24.online/fooootball2.m3u8",
+      "import": false      
+ },
+ {
+      "name": "FOOTBALLUA 3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU",
+      "url": "https://95-213-224-179.livesports24.online/football3ua.m3u8",
+      "import": false     
+ },
+ {
+      "name": "EUROSPORT 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",
+      "url": "http://hrv.00387.info/GER:EUROSPORTDE1HD/index.m3u8?token=test",
+      "import": false    
+ },
+ {
+      "name": "SKY SPORT BUNDESLIGA 2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sky_Sport_Bundesliga_Logo_2016.png",
+      "url": "http://bos.00387.info:8080/bl2/index.m3u8?token=test",
+      "import": false      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       
       
 },
