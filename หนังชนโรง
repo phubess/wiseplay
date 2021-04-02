@@ -1,9 +1,15 @@
 {
   "name": "phubess", 
-  "author": "update 30/3/64",
+  "author": "update 4/4/64",
   "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
   "stations": [
  {
+   "name": "Godzilla vs Kong",  
+   "image": "https://www.dailynews.co.th/admin/upload/20210325/news_ExFaZrJMYf162356_533.jpg",  
+   "url": "https://xxx.77player.xyz/hls/7b8008717491b6b924298043ea8c3998/7b8008717491b6b924298043ea8c3998.m3u8"
+    "import": false
+ },
+ {  
    "name": "วันเดอร์ วูแมน 1984",  
    "image": "https://nungdeemak.com/images/movie/mh72Rjd9UlQk0iJG0SaBZw2dlTiEMFT.jpg",  
    "url": "https://nungth.b-cdn.net/vod/1984mt.mp4"
