@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 4/4/2021",
+    "author": "update 5/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -465,6 +465,12 @@
       "name": "TVN",
       "image": "https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=tvn&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  { 
+      "name": "Star Chinese Movies ไทย",
+      "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
+       "url": "https://mediasv.online/tvchannel_x2/starchinesemovies/playlist.m3u8",
+       "import": false
 },
   { 
       "name": "Star Chinese Movies",
