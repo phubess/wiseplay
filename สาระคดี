@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 4/4/2021",
+    "author": "update 5/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -55,6 +55,12 @@
        "import": false
 }, 
   { 
+      "name": "National Geographic b",
+      "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
+       "url": "https://boxmovielive.com/live/nat2.m3u8",
+         "import": false
+}, 
+  { 
       "name": "National Geographic",
       "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
        "url": "https://mediasv.online/tvchannel_x1/natgeo/playlist.m3u8",
@@ -68,7 +74,7 @@
   { 
       "name": "Nat Geo Wild b",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
-       "url": "https://boxmovielive.com/live/natw1.m3u8",
+       "url": "https://boxmovielive.com/live/natg.m3u8",
        "import": false
 }, 
   { 
@@ -97,7 +103,7 @@
   { 
       "name": "History HD b",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
-       "url": "https://boxmovielive.com/live/11.m3u8",
+       "url": "https://boxmovielive.com/live/his00.m3u8",
        "import": false
 }, 
   { 
@@ -119,7 +125,7 @@
   { 
     "name": "H2 b",
     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
-    "url": "https://boxmovielive.com/live/h21.m3u8",
+    "url": "https://boxmovielive.com/live/h2.m3u8",
      "import": false     
 },
   { 
@@ -169,6 +175,12 @@
        "name": "BBC Earth",
         "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
          "url": "https://mediasv.online/tvchannel_x1/hd-bbcearth/playlist.m3u8",
+         "import": false
+},
+  { 
+       "name": "BBC Earth b",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+         "url": "https://boxmovielive.com/live/bbcearth.m3u8",
          "import": false
 },
    { 
