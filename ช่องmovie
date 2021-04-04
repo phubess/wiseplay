@@ -1,12 +1,12 @@
 {  
     "name": "phubess",
-    "author": "update 5/4/2021",
+    "author": "update 4/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
     "name": "HBO ไทย",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
-     "url": "https://boxmovielive.com/live/edge.m3u8",
+     "url": "https://boxmovielive.com/live/edge1.m3u8",
      "import": false
 },
   {     
