@@ -111,8 +111,8 @@
  { 
       "name": "ANIMAX",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1599121572832_movie_image.jpg",              
-      "url": "http://61.19.242.134/feed/LC38/index.m3u8",
-     "playInNatPlayer": "true" 
+      "url": "https://mediasv.online/live/animax/chunks.m3u8",
+      "import": false 
 },
  { 
       "name": "pet club tv",
