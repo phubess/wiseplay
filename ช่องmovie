@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 2/4/2021",
+    "author": "update 4/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -48,12 +48,6 @@
   {
      "name": "CINEMAX",
      "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
-     "url": "http://dootvthai-hd.com/cmd/hbo/maxhd/playlist.m3u8",
-     "import": false
-},
-  {
-     "name": "CINEMAX",
-     "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
      "url": "https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8",
      "import": false
 },
@@ -79,7 +73,12 @@
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment","referer": "https://player.we-play.tv"
-
+},
+   {
+     "name": "FOX MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "http://indyfox.dns.army:8081/iptv/hd-foxpremium.stream/chunks.m3u8",
+     "import": false
  },
    {
      "name": "FOX ACTION MOVIES b",
@@ -98,6 +97,12 @@
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=fox-action&cate=entertainment","referer": "https://player.we-play.tv"
 },
+   {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "http://indyfox.dns.army:8081/iptv/hd-foxaction.stream/chunks.m3u8",
+      "import": false
+},
   {
      "name": "FOX ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
@@ -108,6 +113,12 @@
      "name": "FOX ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=foxth&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+     "name": "FOX ไทย",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "http://indyfox.dns.army:8081/iptv/sd-fox.stream/chunks.m3u8", 
+     "import": false  
 },
   {
      "name": "Fox Family Movies b",
@@ -180,6 +191,12 @@
  {
      "name": "True Film HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+     "url": "http://indyfox.dns.army:8081/iptv/hd-tfilm.stream/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "True Film HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
      "url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
@@ -197,6 +214,12 @@
   {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
+     "url": "http://indyfox.dns.army:8081/iptv/hd-asian.stream/chunks.m3u8",
+     "import": false
+},
+  {
+     "name": "True Asian Series HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
      "url": "https://player.we-play.tv/channel.php?name=trueasianhd&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
@@ -205,6 +228,48 @@
      "url": "http://45.91.134.168:8080/Ktu-thaiflim2/orjmR318Gr/738",
      "userAgent": "ExoMedia4.3.0",
       "playInNatPlayer": "true"
+},
+  { 
+     "name": "True Film Asia HD",
+      "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
+      "url": "https://mediasv.online/tvchannel_x1/truefilmasia/playlist.m3u8",
+      "import": false
+},
+  { 
+     "name": "True Film Asia b",
+      "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
+      "url": "https://boxmovielive.com/live/filmasia33.m3u8",
+      "import": false
+},
+  { 
+     "name": "TRUE MOVIE HITS HD",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8",
+     "import": false
+},
+  { 
+     "name": "TRUE MOVIE HITS b",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://boxmovielive.com/live/his2.m3u8",
+     "import": false
+},
+  { 
+     "name": "TRUE Series",
+      "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
+      "url": "https://mediasv.online/tvchannel_x1/trueseries/playlist.m3u8",
+     "import": false
+},
+  { 
+     "name": "TRUE Series",
+      "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
+      "url": "http://indyfox.dns.army:8081/iptv/sd-series.stream/chunks.m3u8",
+     "import": false
+},
+  {
+     "name": "KBS World",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
+     "url": "http://indyfox.dns.army:8081/iptv/hd-kbsworld.stream/chunks.m3u8",
+     "import": false
 },
   {
      "name": "KBS World HD",
@@ -233,6 +298,12 @@
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://mediasv.online/live/warner/playlist.m3u8",
+     "import": false
+},
+  {
+    "name": "Warner TV",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
+     "url": "http://indyfox.dns.army:8081/iptv/hd-warnertv.stream/chunks.m3u8",
      "import": false
 },
   {
@@ -348,36 +419,6 @@
       "image": "https://liontv.online/assets/20210105132008498353327.jpg",              
       "url": "http://196.53.248.18:8081/live/invest03/chunks.m3u8",
       "import": false
-},
-  { 
-     "name": "True Film Asia HD",
-      "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://mediasv.online/tvchannel_x1/truefilmasia/playlist.m3u8",
-      "import": false
-},
-  { 
-     "name": "True Film Asia b",
-      "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com/live/filmasia33.m3u8",
-      "import": false
-},
-  { 
-     "name": "TRUE MOVIE HITS HD",
-      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8",
-     "import": false
-},
-  { 
-     "name": "TRUE MOVIE HITS b",
-      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/his2.m3u8",
-     "import": false
-},
-  { 
-     "name": "TRUE Series",
-      "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
-      "url": "https://mediasv.online/tvchannel_x1/trueseries/playlist.m3u8",
-     "import": false
 },
   {
      "name": "CCM",
