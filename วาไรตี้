@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 4/4/2021",
+    "author": "update 5/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -14,6 +14,12 @@
      "name": "เชียงราย แชลแนล",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg",              
      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+     "import": false
+},
+ {
+     "name": "Asian Food Network ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+     "url": "http://indyfox.dns.army:8081/iptv/sd-asianfood.stream/chunks.m3u8",
      "import": false
 },
  {
