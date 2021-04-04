@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 3/4/2021",
+      "author": "update 4/4/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -26,10 +26,22 @@
         "import": false
 },
  { 
+        "name":"Cartoon Network uk",
+        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+        "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683",
+         "playInNatPlayer": "true" 
+},
+ { 
         "name":"Nick Jr.",
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
         "url": "https://mediasv.online/tvchannel_x2/nickjr/playlist.m3u8",
         "import": false
+},
+ { 
+      "name": "Nickelodeon",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
+      "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754",
+      "playInNatPlayer": "true" 
 },
  { 
       "name": "Nickelodeon",
@@ -93,7 +105,7 @@
  { 
       "name": "DISNEY XD",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1616288133936_movie_image.jpg",              
-      "url": "http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512",
+      "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514",
       "playInNatPlayer": "true" 
 },
  { 
