@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 2/4/2021",
+      "author": "update 3/4/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -89,6 +89,18 @@
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
       "url": "https://mediasv.online/tvchannel_x1/hd-disneyxd/playlist.m3u8",
       "import": false
+},
+ { 
+      "name": "DISNEY XD",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1616288133936_movie_image.jpg",              
+      "url": "http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512",
+      "playInNatPlayer": "true" 
+},
+ { 
+      "name": "Disney Junior ",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614678087982_movie_image.jpg",              
+      "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513",
+      "playInNatPlayer": "true" 
 },
  { 
       "name": "M KIDZ",
