@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 5/4/2021",
+    "author": "update 4/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -358,18 +358,21 @@
      "name": "BOX FILM",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610581422208_movie_image.jpg",
       "url": "http://61.19.242.134/feed/LC52/index.m3u8",
+      "userAgent": "ProPlayer",
       "playInNatPlayer": "true"    
  },
   {      
      "name": "SUN TV",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610581571699_movie_image.jpg",
       "url": "http://61.19.242.134/feed/LC1/index.m3u8",
+      "userAgent": "ProPlayer",
       "playInNatPlayer": "true"     
 },
   {      
      "name": "SAMURAI",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610453274378_movie_image.jpg",
       "url": "http://61.19.242.134/feed/LC2/index.m3u8",
+      "userAgent": "ProPlayer",
       "playInNatPlayer": "true"   
 },
   {
