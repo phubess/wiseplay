@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 1/4/2021",
+    "author": "update 4/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -176,6 +176,12 @@
         "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
         "url": "https://dl.dropboxusercontent.com/s/o79pge27vtkfgw3/bbclifestyle.m3u8",
         "import": false
+},
+   {
+      "name": "CRIME+",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1604174980134_movie_image.jpg",
+      "url": "https://mediasv.online/live/ci/chunks.m3u8",
+      "import": false
 },
    {
       "name": "CRIME+",
