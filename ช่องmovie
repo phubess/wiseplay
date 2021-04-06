@@ -28,10 +28,17 @@
      "import": false
 },
   {
-     "name": "HBOSIGNATURE",
+     "name": "HBO HITS b",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
+     "url": "https://boxmovielive.com/live/hbohis.m3u8",
+     "import": false
+},
+  {
+     "name": "HBO SIGNATURE",
      "image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",              
      "url": "https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8",
      "import": false
+
 },
   {
      "name": "HBOFamily",
@@ -242,12 +249,6 @@
       "import": false
 },
   { 
-     "name": "True Film Asia b",
-      "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://boxmovielive.com/live/filmasia33.m3u8",
-      "import": false
-},
-  { 
      "name": "TRUE MOVIE HITS HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
       "url": "https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8",
@@ -257,12 +258,6 @@
      "name": "TRUE MOVIE HITS HD i",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
       "url": "https://bit.ly/2PtQ4ml",
-     "import": false
-},
-  { 
-     "name": "TRUE MOVIE HITS b",
-      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://boxmovielive.com/live/his2.m3u8",
      "import": false
 },
   { 
@@ -339,7 +334,7 @@
   { 
      "name": "i asia b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613484014732_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/iasia.m3u8",
+      "url": "https://boxmovielive.com/live/iasia1.m3u8",
       "import": false
 },
   { 
@@ -357,7 +352,7 @@
   { 
      "name": "SERiES+HD b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452783954_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/series1.m3u8",
+      "url": "https://boxmovielive.com/live/series11.m3u8",
       "import": false
 },
   { 
@@ -446,13 +441,6 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
      "url": "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8",
      "import": false
-},
-  {
-     "name": "CCM",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
-     "url": "http://45.91.134.168:8080/Ktu-ccm2/ylUTmuMvkF/737",
-     "userAgent": "ProPlayer",
-      "playInNatPlayer": "true"
 },
   {
      "name": "TVB",
