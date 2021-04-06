@@ -11,9 +11,9 @@
      "import": false
 },
  {
-     "name": "Asian Food Network HD",
+     "name": "Asian Food Network ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
-     "url": "https://bit.ly/3mnDQYh",
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-asianfood_480/chunks.m3u8",
      "import": false
 },
  {
@@ -100,9 +100,21 @@
      "url": "https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-rtlcbs_480/chunks.m3u8",
+     "import": false
+},
+ {
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
      "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-rtlcbsextreme_480/chunks.m3u8",
+     "import": false
 },
  {
      "name": "Channel V HD",
@@ -126,7 +138,7 @@
   { 
       "name": "True X-ZYTE i",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
-      "url": "https://bit.ly/3fMjLd4",
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-xzyte_480/chunks.m3u8",
       "import": false
 },
   { 
