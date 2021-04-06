@@ -88,6 +88,12 @@
      "import": false
  },
    {
+     "name": "FOX MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-foxpremium_480/chunks.m3u8",
+     "import": false
+ },
+   {
      "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "https://boxmovielive.com/live/foxac1.m3u8",
@@ -110,6 +116,12 @@
      "url": "http://indyfox.dns.army:8081/iptv/hd-foxaction.stream/chunks.m3u8",
       "import": false
 },
+   {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-foxaction_480/chunks.m3u8",
+      "import": false
+},
   {
      "name": "FOX ไทย",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
@@ -126,6 +138,12 @@
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
      "url": "http://indyfox.dns.army:8081/iptv/sd-fox.stream/chunks.m3u8", 
      "import": false  
+},
+  {
+     "name": "FOX ไทย",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-fox_720/chunks.m3u8", 
+     "import": false 
 },
   {
      "name": "Fox Family Movies b",
@@ -227,6 +245,12 @@
   {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-asian_720/chunks.m3u8",
+     "import": false
+},
+  {
+     "name": "True Asian Series HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
      "url": "http://indyfox.dns.army:8081/iptv/hd-asian.stream/chunks.m3u8",
      "import": false
 },
@@ -275,6 +299,12 @@
   {
      "name": "KBS World",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-kbsworld_720/chunks.m3u8",
+     "import": false
+},
+  {
+     "name": "KBS World",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
      "url": "http://indyfox.dns.army:8081/iptv/hd-kbsworld.stream/chunks.m3u8",
      "import": false
 },
@@ -310,6 +340,12 @@
   {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-warnertv_720/chunks.m3u8",
+     "import": false
+},
+  {
+    "name": "Warner TV",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "http://indyfox.dns.army:8081/iptv/hd-warnertv.stream/chunks.m3u8",
      "import": false
 },
@@ -323,6 +359,12 @@
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
      "url": "https://player.we-play.tv/channel.php?name=paramount&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+       "name":"Paramount Channel",
+       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-paramount_720/chunks.m3u8",
+        "import": false
 },
   {
        "name":"Paramount Channel",
