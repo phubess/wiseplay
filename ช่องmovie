@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 6/4/2021",
+    "author": "update 7/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -205,6 +205,12 @@
      "url": "https://mediasv.online/tvchannel_x1/true-filmhd2/playlist.m3u8",
      "import": false
 },
+ {
+     "name": "True Film HD 2 i",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
+     "url": "https://bit.ly/3rQjisx",
+     "import": false
+},
   {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
@@ -223,7 +229,7 @@
      "url": "https://player.we-play.tv/channel.php?name=trueasianhd&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
-     "name": "True Thai Film HD",
+     "name": "True Thai Film HD i",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
      "url": "https://bit.ly/3mmjZZu",
      "userAgent": "exoplayer_video",
@@ -245,6 +251,12 @@
      "name": "TRUE MOVIE HITS HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
       "url": "https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8",
+     "import": false
+},
+  { 
+     "name": "TRUE MOVIE HITS HD i",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://bit.ly/2PtQ4ml",
      "import": false
 },
   { 
@@ -422,6 +434,12 @@
       "image": "https://liontv.online/assets/20210105132008498353327.jpg",              
       "url": "http://196.53.248.18:8081/live/invest03/chunks.m3u8",
       "import": false
+},
+  {
+     "name": "CCM i",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
+     "url": "https://bit.ly/31Spxlb",
+     "import": false
 },
   {
      "name": "CCM",
