@@ -15,6 +15,12 @@
          "import": false
 }, 
   {         
+        "name":"OUTDOOR i",
+        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/f2c30832-7d77-4a24-88ad-1d30c593bda1.png",
+         "url": "https://bit.ly/3wqVizX",  
+         "import": false
+}, 
+  {         
         "name":"mysci b",
         "image": "https://bit.ly/2XMGyev",
          "url": "https://boxmovielive.com/live/mysci.m3u8",  
