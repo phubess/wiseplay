@@ -17,6 +17,12 @@
      "import": false
 },
  {
+     "name": "Asian Food Network HD",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+     "url": "https://bit.ly/3mnDQYh",
+     "import": false
+},
+ {
      "name": "Asian Food Network ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
      "url": "http://indyfox.dns.army:8081/iptv/sd-asianfood.stream/chunks.m3u8",
@@ -26,6 +32,12 @@
      "name": "Asian Food Network ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
      "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "LIFETIME",
+     "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
+     "url": "https://bit.ly/3cTPQO6",
      "import": false
 },
  {
