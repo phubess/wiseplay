@@ -1,16 +1,10 @@
 {  
     "name": "VARIETY", 
-    "author": "update 5/4/2021",
+    "author": "update 7/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
-    "name": "FOOD NETWORK HD k",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
-     "url": "http://45.91.134.168:8080/KTU-FoodChannelTH/piVAwzL5Tj/34",
-     "userAgent": "ExoMedia4.3.0",
-     "playInNatPlayer": "true" 
-},
- {
+    
      "name": "เชียงราย แชลแนล",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg",              
      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
@@ -115,7 +109,7 @@
      "name": "V Channel",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1606637020738_movie_image.png",              
      "url": "http://61.19.242.134/feed/LC14/index.m3u8",
-     "userAgent": "exoplayer_video",
+     "userAgent": "ProPlayer",
      "playInNatPlayer": "true" 
 },
   { 
@@ -125,9 +119,10 @@
        "import": false
 },
   { 
-      "name": "True X-ZYTE",
+      "name": "True X-ZYTE i",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
-       "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment","referer": "https://player.we-play.tv"
+      "url": "https://bit.ly/3fMjLd4",
+      "import": false
 },
   { 
       "name": "Waku Waku Japan",
@@ -192,6 +187,7 @@
      "name": "LAO STAR",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",              
      "url": "https://cdn6.goprimetime.info/feed/LC58/playlist.m3u8",
+     "userAgent": "ProPlayer",
      "playInNatPlayer": "true"
 },
 ]
