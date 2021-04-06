@@ -144,13 +144,7 @@
         "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1592281297136_movie_image.jpg",
          "url": "https://mediasv.online/tvchannel_x2/lovenature4k/playlist.m3u8",
          "import": false
-},
-  { 
-       "name": "4K LOVE NATURE k",
-        "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1592281297136_movie_image.jpg",
-         "url": "http://45.91.134.168:8080/KTU-lovenature4K/SBvA6CGFTm/33",
-         "userAgent": "ExoMedia4.3.0",
-        "playInNatPlayer": "true" 
+
 },
   { 
        "name": "4K LOVE NATURE",
@@ -168,7 +162,6 @@
        "name": "สำรวจโลก",
       "image": "https://bit.ly/33mwVq4",
       "url": "http://61.19.242.134/feed/LC8/index.m3u8",
-      "userAgent": "exoplayer_video",
       "playInNatPlayer": "true" 
 },
   { 
