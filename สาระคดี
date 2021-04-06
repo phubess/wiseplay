@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 5/4/2021",
+    "author": "update 6/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -182,6 +182,12 @@
         "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
          "url": "https://boxmovielive.com/live/bbcearth.m3u8",
          "import": false
+},
+   { 
+       "name": "BBC Lifestyle",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
+        "url": "https://bit.ly/3sS98sU",
+        "import": false
 },
    { 
        "name": "BBC Lifestyle",
