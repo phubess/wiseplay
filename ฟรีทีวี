@@ -12,6 +12,12 @@
 {
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-ch3_720/chunks.m3u8",
+    "import": false
+},
+{
+    "name":"3 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/chunklist.m3u8",
     "import": false
 },
@@ -36,6 +42,12 @@
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-ch5_720/chunks.m3u8",
+    "import": false
+},
+ { 
+    "name":"5 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-ch5_720/chunks.m3u8",
     "import": false
 },
  { 
@@ -82,6 +94,12 @@
  { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-ch7_480/chunks.m3u8",
+    "import": false 
+},
+ { 
+    "name":"7 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "http://live2.dootvde.com/live/50003_ch7.stream.smil/playist.m3u8",
     "import": false 
  },
@@ -118,6 +136,12 @@
  { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-mcot_720/chunks.m3u8",
+    "import": false
+},
+ { 
+    "name":"MCOT HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "https://mediasv.online/live/mcothd/playlist.m3u8",
     "import": false
 },
@@ -131,6 +155,12 @@
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
     "url": "https://player.we-play.tv/channel.php?name=mcothd&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+  { 
+    "name":"NBT HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-nbt_720/chunks.m3u8",
+    "import": false
 },
   { 
     "name":"NBT HD",
@@ -166,6 +196,12 @@
   { 
     "name":"ThaiPBS HD ",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-tpbs_720/chunks.m3u8",
+   "import": false
+},
+  { 
+    "name":"ThaiPBS HD ",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
     "url": "https://mediasv.online/live/thaipbs/playlist.m3u8",
    "import": false
 },
@@ -184,6 +220,12 @@
     "name":"Amarin HD 1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-amarin_1080/chunks.m3u8",
+    "import": false
+},
+  { 
+    "name":"Amarin HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-amarin_720/chunks.m3u8",
     "import": false
 },
   { 
@@ -222,6 +264,12 @@
   { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-gmmone_720/chunks.m3u8",
+    "import": false
+},
+  { 
+    "name":"ONE HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
     "url": "https://mediasv.online/live/one/playlist.m3u8",
     "import": false
 },
@@ -247,6 +295,12 @@
     "name":"ไทยรัฐTV 32HD 1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-thairath_1080/chunks.m3u8",
+    "import": false
+ },
+  { 
+    "name":"ไทยรัฐTV 32HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-thairath_720/chunks.m3u8",
     "import": false
  },
   { 
@@ -288,6 +342,12 @@
     "name":"PPTV HD 1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-pptv_1080/chunks.m3u8",
+    "import": false
+},
+  { 
+    "name":"PPTV HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-pptv_720/chunks.m3u8",
     "import": false
 },
   { 
@@ -353,6 +413,12 @@
   { 
     "name":"TNN16",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-tnn24_480/chunks.m3u8",
+    "import": false
+}, 
+  { 
+    "name":"TNN16",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
     "url": "https://cdn6.goprimetime.info//feed//chtnn//index.m3u8",
     "userAgent": "ProPlayer",
     "playInNatPlayer": "true"
@@ -361,6 +427,12 @@
      "name": "True4U HD",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-24u_720/chunks.m3u8",
+     "import": false
+},
+  {
+     "name": "True4U",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-24u_480/chunks.m3u8",
      "import": false
 },
   {
@@ -376,7 +448,7 @@
      "import": false
 },
   {
-     "name": "True4U HD",
+     "name": "True4U ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
      "url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
      "userAgent": "ProPlayer",
@@ -397,6 +469,12 @@
  {
      "name": "Workpoint ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-workpoint_480/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "Workpoint ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
      "url": "https://mediasv.online/live/workpoint/playlist.m3u8",
      "import": false
 },
@@ -412,9 +490,15 @@
     "url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv","referer": "https://player.we-play.tv"
 },
   { 
-    "name":"MONO29 HD",
+    "name":"MONO29 HD 1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
     "url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8", 
+    "import": false
+},
+  { 
+    "name":"MONO29 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-mono_480/chunks.m3u8", 
     "import": false
 },
   { 
@@ -438,6 +522,12 @@
   { 
     "name":"Nation",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-nation_480/chunks.m3u8",
+    "import": false
+},
+  { 
+    "name":"Nation",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
     "url": "https://mediasv.online/live/nation/playlist.m3u8",
     "import": false
 },
@@ -451,6 +541,12 @@
     "name":"CH8 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
     "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+    "import": false
+},
+  { 
+    "name":"CH8",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-ch8_480/chunks.m3u8",
     "import": false
 },
   { 
