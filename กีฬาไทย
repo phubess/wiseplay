@@ -23,6 +23,12 @@
  {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lbx-epl1_720/chunks.m3u8", 
+        "import": false
+},
+ {
+       "name":"True Premier Football HD 1",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://mediasv.online/live/trueepl1/playlist.m3u8", 
         "import": false
 },
