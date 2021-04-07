@@ -4,6 +4,12 @@
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
+       "name":"Cartoon Network ",
+        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-cartoonnetwork_720/chunks.m3u8",
+        "import": false
+},
+ { 
        "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "https://mediasv.online/tvchannel_x1/cartoonnetwork/playlist.m3u8",
@@ -41,6 +47,12 @@
         "name":"Nick Jr.",
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
         "url": "https://mediasv.online/tvchannel_x2/nickjr/playlist.m3u8",
+        "import": false
+},
+ { 
+        "name":"Nick Jr.",
+        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
+        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-nickjr_480/chunks.m3u8",
         "import": false
 },
  { 
