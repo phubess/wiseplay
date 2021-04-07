@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 7/4/2021",
+    "author": "update 8/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -90,7 +90,7 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-foxpremium_480/chunks.m3u8",
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-foxpremium_720/chunks.m3u8",
      "import": false
  },
    {
@@ -119,7 +119,7 @@
    {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-foxaction_480/chunks.m3u8",
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-foxaction_720/chunks.m3u8",
       "import": false
 },
   {
@@ -210,6 +210,12 @@
  {
      "name": "True Film HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-tfilm_1080/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "True Film HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
      "url": "https://mediasv.online/tvchannel_x1/true-filmhd/playlist.m3u8",
      "import": false
 },
@@ -231,9 +237,9 @@
      "import": false
 },
  {
-     "name": "True Film HD 2 i",
+     "name": "True Film HD 2 ",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
-     "url": "https://bit.ly/3rQjisx",
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-tfilm2_1080/chunks.m3u8",
      "import": false
 },
   {
@@ -260,11 +266,10 @@
      "url": "https://player.we-play.tv/channel.php?name=trueasianhd&cate=entertainment","referer": "https://player.we-play.tv"
 },
   {
-     "name": "True Thai Film HD i",
+     "name": "True Thai Film HD ",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
-     "url": "https://cdn-edge-sg2.idoohd.com/play/a21e02527170ab61f23f2b821c08fcff/cd78dcc8d7f7be10153004d3aafc8795/1617748478/playlist.m3u8",
-     "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-thaifilm_480/chunks.m3u8",
+     "import": false
 },
   { 
      "name": "True Film Asia HD",
@@ -279,15 +284,21 @@
      "import": false
 },
   { 
-     "name": "TRUE MOVIE HITS HD i",
+     "name": "TRUE MOVIE HITS HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://bit.ly/2PtQ4ml",
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-moviehits_720/chunks.m3u8",
      "import": false
 },
   { 
      "name": "TRUE Series",
       "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
       "url": "https://mediasv.online/tvchannel_x1/trueseries/playlist.m3u8",
+     "import": false
+},
+  { 
+     "name": "TRUE Series",
+      "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-series_480/chunks.m3u8",
      "import": false
 },
   { 
@@ -473,9 +484,9 @@
       "import": false
 },
   {
-     "name": "CCM i",
+     "name": "CCM ",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
-     "url": "https://bit.ly/31Spxlb",
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-celestial_480/chunks.m3u8",
      "import": false
 },
   {
