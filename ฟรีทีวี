@@ -1,12 +1,12 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 6/4/2021",
+    "author": "update 8/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
-    "name":"3 HD i",
+    "name":"3 HD 1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "https://bit.ly/3wyo8y2",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-ch3_1080/chunks.m3u8",
     "import": false
 },
 {
@@ -35,7 +35,7 @@
  { 
     "name":"5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://smart-tv.livedoomovie.com/02_5HD_720p/chunklist.m3u8",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-ch5_720/chunks.m3u8",
     "import": false
 },
  { 
@@ -64,7 +64,7 @@
  { 
     "name":"7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://smart-tv.livedoomovie.com/02_7HD_720p/chunklist.m3u8",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-ch7_720/chunks.m3u8",
     "import": false 
 },
  { 
@@ -104,15 +104,21 @@
      "import": false
 },
  { 
-    "name":"MCOT HD",
+    "name":"MCOT HD 1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "https://mediasv.online/live/mcothd/playlist.m3u8",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-mcot_1080/chunks.m3u8",
+    "import": false
+},
+ { 
+    "name":"MCOT HD 1080p",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
+    "url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8",
     "import": false
 },
  { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8",
+    "url": "https://mediasv.online/live/mcothd/playlist.m3u8",
     "import": false
 },
  { 
@@ -129,7 +135,7 @@
   { 
     "name":"NBT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "https://smart-tv.livedoomovie.com/02_NBTSD_480p/chunklist.m3u8",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-nbt_720/chunks.m3u8",
     "import": false
 },
   { 
@@ -146,16 +152,22 @@
     "import": false
 },
   { 
-    "name":"ThaiPBS HD ",
+    "name":"ThaiPBS HD 1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "https://mediasv.online/live/thaipbs/playlist.m3u8",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-tpbs_1080/chunks.m3u8",
    "import": false
+},
+  { 
+    "name":"ThaiPBS HD 1080p",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+    "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+    "import": false
 },
   { 
     "name":"ThaiPBS HD ",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
-    "import": false
+    "url": "https://mediasv.online/live/thaipbs/playlist.m3u8",
+   "import": false
 },
   { 
     "name":"ThaiPBS",
@@ -169,9 +181,9 @@
     "import": false
 },
   { 
-    "name":"Amarin HD i",
+    "name":"Amarin HD 1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://bit.ly/3rUrvvG",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-amarin_1080/chunks.m3u8",
     "import": false
 },
   { 
@@ -202,6 +214,12 @@
     "import": false
 },
   { 
+    "name":"ONE HD 1080p",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-gmmone_1080/chunks.m3u8",
+    "import": false
+},
+  { 
     "name":"ONE HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
     "url": "https://mediasv.online/live/one/playlist.m3u8",
@@ -226,9 +244,9 @@
     "playInNatPlayer": "true"
  },
   { 
-    "name":"ไทยรัฐTV 32HD i",
+    "name":"ไทยรัฐTV 32HD 1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "https://bit.ly/2RcVWkj",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-thairath_1080/chunks.m3u8",
     "import": false
  },
   { 
@@ -267,6 +285,12 @@
     "playInNatPlayer": "true"
 },
   { 
+    "name":"PPTV HD 1080p",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-pptv_1080/chunks.m3u8",
+    "import": false
+},
+  { 
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
     "url": "https://mediasv.online/live/pptv/playlist.m3u8",
@@ -299,6 +323,7 @@
     "name":"GMM25",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
     "url": "https://player.we-play.tv/channel.php?name=gmm25&cate=digitaltv","referer": "https://player.we-play.tv"
+
 },
   { 
     "name":"GMM25",
