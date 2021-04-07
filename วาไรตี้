@@ -177,6 +177,12 @@
        "url": "https://mediasv.online/tvchannel_x1/wakuwakujapan/playlist.m3u8",
        "import": false
 },
+  { 
+      "name": "Waku Waku Japan",
+      "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-wakuwaku_720/chunks.m3u8",
+       "import": false
+},
  { 
       "name": "Waku Waku Japan",
       "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
@@ -186,6 +192,12 @@
     "name":"TLC HD",
     "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
     "url": "https://mediasv.online/tvchannel_x1/hd-tlc/playlist.m3u8",
+    "import": false
+},
+{
+    "name":"TLC HD",
+    "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-tlc_720/chunks.m3u8",
     "import": false
 },
 {
