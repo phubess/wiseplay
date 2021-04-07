@@ -17,7 +17,7 @@
      "import": false
 },
  {
-     "name": "Food Network ",
+     "name": "Food Network HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-foodnetwork_720/chunks.m3u8",
      "import": false
@@ -160,15 +160,21 @@
      "playInNatPlayer": "true" 
 },
   { 
+      "name": "True X-ZYTE ",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-xzyte_720/chunks.m3u8",
+      "import": false
+},
+  { 
       "name": "True X-ZYTE",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
        "url": "http://indyfox.dns.army:8081/iptv/hd-xzyte.stream/chunks.m3u8",
        "import": false
 },
   { 
-      "name": "True X-ZYTE i",
+      "name": "True X-ZYTE ",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
-      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-xzyte_480/chunks.m3u8",
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-xzyte_720/chunks.m3u8",
       "import": false
 },
   { 
