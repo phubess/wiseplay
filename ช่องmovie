@@ -6,7 +6,7 @@
  { 
     "name": "HBO ไทย",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
-     "url": "https://boxmovielive.com/live/edge1.m3u8",
+     "url": "https://boxmovielive.com/live/hbo.m3u8",
      "import": false
 },
   {     
@@ -67,7 +67,7 @@
    {
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com/live/foxmovie.m3u8",
+     "url": "https://boxmovielive.com/live/foxmovie1.m3u8",
      "import": false
 },
    {
@@ -96,7 +96,7 @@
    {
      "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://boxmovielive.com/live/foxac1.m3u8",
+     "url": "https://boxmovielive.com/live/foxac.m3u8",
       "import": false
  },
    {
@@ -314,7 +314,7 @@
      "import": false
 },
   {
-     "name": "KBS World",
+     "name": "KBS World  HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-kbsworld_720/chunks.m3u8",
      "import": false
@@ -411,7 +411,7 @@
   { 
      "name": "SERiES+HD b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452783954_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/series11.m3u8",
+      "url": "https://boxmovielive.com/live/series111.m3u8",
       "import": false
 },
   { 
