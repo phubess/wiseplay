@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 7/4/2021",
+    "author": "update 8/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -8,6 +8,12 @@
      "name": "เชียงราย แชลแนล",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg",              
      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+      "import": false
+},
+ {
+     "name": "Food Network ",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-foodnetwork_720/chunks.m3u8",
      "import": false
 },
  {
@@ -31,7 +37,7 @@
  {
      "name": "LIFETIME",
      "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
-     "url": "https://bit.ly/3cTPQO6",
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-_720/chunks.m3u8",
      "import": false
 },
  {
@@ -44,6 +50,12 @@
      "name": "FASHION TV",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png",              
      "url": "https://mediasv.online/tvchannel_x2/fashiontv/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "FASHION TV",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-fashiontv_720/chunks.m3u8",
      "import": false
 },
  {
@@ -68,6 +80,12 @@
      "name": "Stringray iConcerts HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
      "url": "https://player.we-play.tv/channel.php?name=iconcerts&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "Stringray iConcerts HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-iconcerts_720/chunks.m3u8",
+     "import": false
 },
  {
      "name": "TRUE MUSIC HD",
