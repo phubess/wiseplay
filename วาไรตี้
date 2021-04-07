@@ -11,6 +11,12 @@
       "import": false
 },
  {
+     "name": "KMTV",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-kmtv_720/chunks.m3u8",
+     "import": false
+},
+ {
      "name": "Food Network ",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-foodnetwork_720/chunks.m3u8",
@@ -37,13 +43,19 @@
  {
      "name": "LIFETIME",
      "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-_720/chunks.m3u8",
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-lifetime_720/chunks.m3u8",
      "import": false
 },
  {
      "name": "TRUE INSIDE HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
      "url": "https://mediasv.online/tvchannel_x2/trueinside/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE INSIDE HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-inside_480/chunks.m3u8",
      "import": false
 },
  {
