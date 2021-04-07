@@ -154,6 +154,12 @@
   {
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-foxfamily_720/chunks.m3u8",
+     "import": false
+},
+  {
+     "name": "Fox Family Movies",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "https://mediasv.online/tvchannel_x1/fox-family/playlist.m3u8",
      "import": false
 },
@@ -268,7 +274,7 @@
   {
      "name": "True Thai Film HD ",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-thaifilm_480/chunks.m3u8",
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-thaifilm_720/chunks.m3u8",
      "import": false
 },
   { 
