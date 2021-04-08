@@ -244,10 +244,18 @@
       "userAgent": "ProPlayer",
       "playInNatPlayer": "true"
 },
+ {
+      "name": "CRIME+",
+      "image": "https://www.soda.com/wp-content/uploads/2017/03/Crime__Investigation_live_stream.jpg",
+      "url": "http://203.154.243.31:15001",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
    {
       "name": "pet club tv",
       "image": "https://i.vimeocdn.com/video/722791670_640.jpg",
       "url": "https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8",
+      "userAgent": "ProPlayer",
       "playInNatPlayer": "true"
 },
    {
