@@ -208,7 +208,13 @@
          "import": false
 },
   { 
-       "name": "BBC Earth b",
+       "name": "BBC Earth",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+         "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-bbcearth_720/chunks.m3u8",
+         "import": false
+},
+  { 
+       "name": "BBC Earth",
         "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
          "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-bbcearth_720/chunks.m3u8",
          "import": false
