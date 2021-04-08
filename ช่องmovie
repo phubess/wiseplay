@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 8/4/2021",
+    "author": "update 9/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -641,6 +641,20 @@
      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcZ9E0PlYJdGLQ7B5J0keDN7X0N07fRhZRg&usqp=CAU",              
      "url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
      "import": false
+},
+  {
+     "name": "IZaaHd",
+     "image": "https://bit.ly/31WXqBj",              
+     "url": "http://203.154.243.89:1202",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+ },
+  {
+     "name": "Movie3",
+     "image": "https://sv1.picz.in.th/images/2020/08/16/EPULVZ.jpg",              
+     "url": "http://203.154.243.89:1423",
+     "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
 ]
 }
