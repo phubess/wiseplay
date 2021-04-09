@@ -1,12 +1,18 @@
     {
     "name": "phubess",
-    "author": "update 8/4/2021",
+    "author": "update 9/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
      "name": "3bbsports 1",
       "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
+},
+ {
+       "name":"ID STATION",
+        "image": "https://cms.dmpcdn.com/livetv/2021/04/09/50df4b80-98f6-11eb-98ca-af66c9d06b69_320.jpg",
+        "url": "https://cdn-edge-sg2.idoohd.com/play/14aa63b69ddb8503409615b783aad96b/103136d23aed49b960a3ec733a39325e/1618013550/playlist.m3u8", 
+        "import": false
 },
  {
        "name":"ginx",
