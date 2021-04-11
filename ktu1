@@ -1,0 +1,28 @@
+{
+    "name": "ktu",
+    "author": "update 12/4/2021",
+    "image": "https://img.apksum.com/86/com.ktuiptv.tv/19.0/icon.png",
+    "stations": [
+{
+ "name": "83",
+ "image": "",
+ "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/83.m3u8",
+ "userAgent": "ProPlayer",
+  "playInNatPlayer": "true"
+},
+  {      
+     "name": "84",
+      "image": "",
+      "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/84.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"  
+},
+  {      
+     "name": "85",
+      "image": "",
+      "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/85.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"   
+ },
+]
+}
