@@ -41,6 +41,18 @@
  {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/uplay-epl1_720/chunks.m3u8", 
+        "import": false
+},
+ {
+       "name":"True Premier Football HD 1",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/uplay-epl1bkp_720/chunks.m3u8", 
+        "import": false
+},
+ {
+       "name":"True Premier Football HD 1",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "http://ip2121.com:8081/4kweb/true1/chunks.m3u8", 
         "import": false
 },
