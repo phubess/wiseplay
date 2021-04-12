@@ -12,6 +12,12 @@
   {     
      "name": "HBO",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-hbo_480/chunks.m3u8",
+     "import": false
+},
+  {     
+     "name": "HBO",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
      "url": "https://mediasv.online/tvchannel_x1/hd-hbo-thai/playlist.m3u8",
      "import": false
 },
@@ -28,6 +34,12 @@
      "import": false
 },
   {
+     "name": "HBO HITS",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-hbohits_480/chunks.m3u8",
+     "import": false
+},
+  {
      "name": "HBO HITS b",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
      "url": "https://boxmovielive.com/live/hbohis.m3u8",
@@ -38,12 +50,24 @@
      "image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",              
      "url": "https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8",
      "import": false
+},
+  {
+     "name": "HBO SIGNATURE",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-hbosignature_480/chunks.m3u8",
+     "import": false
 
 },
   {
      "name": "HBOFamily",
      "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
      "url": "https://mediasv.online/tvchannel_x1/hbo-family/playlist.m3u8",
+     "import": false
+},
+  {
+     "name": "HBOFamily",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-hbofamily_480/chunks.m3u8",
      "import": false
 },
   {
@@ -56,6 +80,12 @@
      "name": "CINEMAX",
      "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
      "url": "https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8",
+     "import": false
+},
+  {
+     "name": "CINEMAX",
+     "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-cinemax_480/chunks.m3u8",
      "import": false
 },
    {
@@ -476,7 +506,7 @@
         "import": false
 },
   {
-       "name":"Paramount Channel",
+       "name":"Paramount Channel k",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",
        "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/131.m3u8",
       "userAgent": "ProPlayer",
@@ -717,6 +747,18 @@
      "name": "MIX MAJOR",
      "image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",              
      "url": "https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8",
+     "import": false
+},
+  {
+     "name": "MIX MAJOR",
+     "image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-mixmajor_480/chunks.m3u8",
+     "import": false
+},
+  {
+     "name": "M CHANNEL",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/19/2171eaf4-036c-4958-ac0f-9d170d1faedf.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-mchannel_480/chunks.m3u8",
      "import": false
 },
   {
