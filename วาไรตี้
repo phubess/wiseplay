@@ -187,6 +187,12 @@
      "playInNatPlayer": "true" 
 },
   { 
+      "name": "True X-ZYTE 1080p",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-xzyte_1080/chunks.m3u8",
+      "import": false
+},
+  { 
       "name": "True X-ZYTE ",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-xzyte_720/chunks.m3u8",
