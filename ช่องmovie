@@ -61,6 +61,12 @@
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-foxpremium_720/chunks.m3u8",
+     "import": false
+},
+   {
+     "name": "FOX MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "https://mediasv.online/tvchannel_x1/hd-foxpremium/playlist.m3u8",
      "import": false
 },
@@ -97,6 +103,12 @@
      "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "https://boxmovielive.com/live/foxac.m3u8",
+      "import": false
+ },
+   {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-foxaction_720/chunks.m3u8",
       "import": false
  },
    {
@@ -185,7 +197,7 @@
   {
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-foxlife_720/chunks.m3u8",
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-foxlife_720/chunks.m3u8",
      "import": false
 },
   {
