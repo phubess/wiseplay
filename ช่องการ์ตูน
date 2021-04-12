@@ -4,6 +4,13 @@
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
+       "name":"kidz",
+        "image": "https://images.u-playtv.com/images/tv/channels_icons/uplay-kidz.png",
+        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/uplay-kidz_720/playlist.m3u8",
+        "import": false
+},
+ { 
+
        "name":"Cartoon Network ",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-cartoonnetwork_720/chunks.m3u8",
