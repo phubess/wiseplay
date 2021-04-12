@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 12/4/2021",
+    "author": "update 13/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -266,6 +266,12 @@
     "name":"SABAIDEETV",
     "image":"http://cms.dmpcdn.com/livetv/2019/01/19/efd05f53-ede6-4141-8ed9-275a4d8e33f4.png",
     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-sabaidee_480/chunks.m3u8",
+    "import": false
+},
+{
+    "name":"ซุปเปอร์บันเทิง",
+    "image":"http://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-sbt_480/chunks.m3u8",
     "import": false
 },
 {
