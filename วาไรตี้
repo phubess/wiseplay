@@ -245,6 +245,12 @@
     "import": false
 },
 {
+    "name":"SABAIDEETV",
+    "image":"http://cms.dmpcdn.com/livetv/2019/01/19/efd05f53-ede6-4141-8ed9-275a4d8e33f4.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-sabaidee_480/chunks.m3u8",
+    "import": false
+},
+{
     "name":"Comedy Central",
     "image":"https://static.uflixtv.com/images/tv/channels_icons/hd-comedycentral.png",
     "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/102.m3u8",
