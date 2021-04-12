@@ -546,6 +546,12 @@
  { 
        "name": "Tsports",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",           
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-tsports_480/chunks.m3u8",
+        "import": false
+},
+ { 
+       "name": "Tsports",
+       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",           
        "url": "https://ball8k.com/m_/channel.ball8k?stream=tsports","referer" :"https://ball8k.com/" 
 },
  {
