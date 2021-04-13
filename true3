@@ -10,6 +10,38 @@
      "embed": "true",
      "playInNatPlayer": "true",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+ {
+    "name": "Esports Thai Leagues TV",
+     "image": "https://cms.dmpcdn.com/livetv/2020/12/28/c8ce2320-48c2-11eb-9b6d-3fdf37c2e48e_320.jpg",              
+     "url": "https://tv.trueid.net/embed/ESPORTSTHAILEAGUESTV?autoplay=yes&nopageview=yes",
+     "embed": "true",
+     "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+ },
+ {
+    "name": "TRUE THAI FILM",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png&w=320&h=240",              
+     "url": "https://tv.trueid.net/embed/thai-film?autoplay=yes&nopageview=yes",
+     "embed": "true",
+     "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+ },
+ {
+    "name": "ทรู ปลูกปัญญา",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F1d7dc8be-49df-46c7-ac16-4847229c6ab9.png&w=320&h=240",              
+     "url": "https://tv.trueid.net/embed/trueplookpanya?autoplay=yes&nopageview=yes",
+     "embed": "true",
+     "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+ },
+ {
+    "name": "ไอดี สเตชั่น",
+     "image": "https://cms.dmpcdn.com/livetv/2021/04/09/50df4b80-98f6-11eb-98ca-af66c9d06b69_320.jpg",              
+     "url": "https://tv.trueid.net/embed/idstation?autoplay=yes&nopageview=yes",
+     "embed": "true",
+     "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
  },
 ]
 }    
