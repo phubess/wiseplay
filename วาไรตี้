@@ -131,11 +131,23 @@
      "import": false
 },
  {
+     "name": "TRUE MUSIC HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png", 
+     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/296.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"
+},
+ {
      "name": "TRUE MUSIC",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
      "url": "https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8",
      "import": false
-
+},
+ {
+     "name": "เรียลลิตี้ แชนแนล",
+     "image": "https://cms.dmpcdn.com/livetv/2020/04/21/b78d55f0-83af-11ea-9a0e-4bf114629baf_320.png",              
+     "url": "https://tv.trueid.net/embed/realitychannel-hd?autoplay=yes&nopageview=yes",
+     "playInNatPlayer": "true"
 },
  {
      "name": "FTV",
