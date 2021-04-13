@@ -19,6 +19,12 @@
  {
      "name": "Food Network HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-food_720/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "Food Network HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-foodnetwork_720/chunks.m3u8",
      "import": false
 },
@@ -159,6 +165,12 @@
      "name": "BLUEANT ENTERTAINMENT",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-rtlcbs_480/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://mediasv.online/tvchannel_x2/blueantex/playlist.m3u8",
      "import": false
 },
  {
