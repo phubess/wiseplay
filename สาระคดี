@@ -93,8 +93,14 @@
   { 
       "name": "National Geographic",
       "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
-       "url": "https://mediasv.online/tvchannel_x1/natgeo/playlist.m3u8",
-         "import": false
+      "url": "https://mediasv.online/tvchannel_x1/natgeo/playlist.m3u8",
+      "import": false
+}, 
+  { 
+      "name": "National Geographic",
+      "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
+      "url": "http://indyfox.dns.army:8081/iptv/hd-natgeo.stream/chunks.m3u8",
+      "import": false
 }, 
   { 
       "name": "National Geographic",
