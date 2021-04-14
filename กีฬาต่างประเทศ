@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 3/4/2021",
+    "author": "update 14/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -11,334 +11,506 @@
       "playInNatPlayer": "true"
 },     
 {
-      "name": "TENNIS PLUS",
+      "name": "",
       "image": "https://sv1.picz.in.th/images/2020/06/17/qeqCdP.png",
       "url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
       "import": false
 },     
 {
-      "name": "TENNIS CHANNEL",
+      "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKNeW80645b2R-sKWgOyTPQT4-mxLaDsVIngk7axfRj5lGNFhx&usqp=CAU",
       "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
       "import": false
 },
  {
-      "name": "freesport",
+      "name": "",
       "image": "https://bit.ly/3fA4USG",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8",
       "import": false 
 },
  {
-      "name": "SKYNET SPORT HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/d4be2497259f1ea564e9f2aacb9d2b76.png",
       "url": "http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8",
       "import": false 
 
 },
  {
-      "name": "SKYNET SPORT 1",
+      "name": "",
       "image": "http://i.picasion.com/resize90/4e1c1c910864de4878d5da0886220c8f.png",
       "url": "http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8",
       "import": false
 
 },
  {
-      "name": "SKYNET SPORT 2",
+      "name": "",
       "image": "http://i.picasion.com/resize90/de2c31cee89cbb2cdfd2d9abaa400099.png",
       "url": "http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8",
       "import": false
 
 },
  {
-      "name": "SKYNET SPORT 3",
+      "name": "",
       "image": "http://i.picasion.com/resize90/97706ec50c75273d98bdc4152dfcfdce.png",
       "url": "http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8",
       "import": false      
   
 },
  {
-      "name": "SKYNET SPORT 4",
+      "name": "",
       "image": "http://i.picasion.com/resize90/4d8f6b52756b7938ff3a329c8d44a87e.png",
       "url": "http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8",
       "import": false    
 
 },
  {
-      "name": "SKYNET SPORT 5",
+      "name": "",
       "image": "http://i.picasion.com/resize90/571043b10e50c770a2724f789affc812.png",
       "url": "http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8",
       "import": false      
 
 },
  {
-      "name": "SKYNET SPORT 6",
+      "name": "",
       "image": "http://i.picasion.com/resize90/148e66b2ddab82721b268a114cc9b33e.png",
       "url": "http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8",
       "import": false      
 },
  {
-      "name": "BT Sport 1 HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/0294751c625b24e4a18d904385460a6a.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8",
       "import": false      
  },
  {
-      "name": "BT Sport 2 HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/59d5089fbcd5b7ad7836174390ee4de4.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8",
       "import": false     
  },
  {
-      "name": "BT Sport 3 HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/fa8aa7779e255488341ba4a215671835.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport3/playlist.m3u8",
       "import": false    
  },
  {
-      "name": "BT Sport ESPN HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/0891a01a70eb2425af13ab37ddd6d72e.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsportespn/playlist.m3u8",
       "import": false     
  },
  {
-      "name": "SPORT TV 1 HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/4e9096118999c698da4270d8bb002bf8.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv1/playlist.m3u8",
       "import": false     
  },
  {
-      "name": "SPORT TV 2 HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/4ec2148eb1ae15b2a71cb5f9dab48c3f.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv2/playlist.m3u8",
       "import": false    
  },
  {
-      "name": "SPORT TV 3 HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/8063b8c98daab5a3b7f4689c6aea8738.png",
       "url": "https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/sporttv3/chunks.m3u8",
       "import": false     
  },
  {
-      "name": "SPORT TV 4 HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/83f163d6bc73ec01ab74ed0752670c28.png",
       "url": "https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/sporttv4/playlist.m3u8",
       "import": false     
 },
  {
-      "name": "SPORT TV 5 HD",
+      "name": "",
       "image": "http://i.picasion.com/resize90/4a2eb5889a886c804301953c72cc7a5a.png",
       "url": "https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
       "import": false
  },
  {
-      "name": "SKY SPORTS PREMIER",
+      "name": "",
       "image": "http://i.picasion.com/resize90/3a31ce45f8586970a5dd3138e73673e3.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportpremiere/playlist.m3u8",
       "import": false     
  },
  {
-      "name": "SKY SPORTS FOOTBALL",
+      "name": "",
       "image": "http://i.picasion.com/resize90/d3c9247705177ee296c50608603ac4b9.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportfootball/playlist.m3u8",
       "import": false     
  },
  {
-      "name": "SKY SPORTS MAIN EVENT",
+      "name": "",
       "image": "http://i.picasion.com/resize90/c43c3c0dab6cb93a0e24ead41d0358af.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmainevent/playlist.m3u8",
       "import": false     
  },
  {
-      "name": "FC BAYERN TV",
+      "name": "",
       "image": "http://i.picasion.com/resize90/1554e9cae5d222f2a67ef5af6b5056b5.png",
       "url": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/master.m3u8",
       "import": false     
  },
  {
-      "name": "MU TV",
+      "name": "",
       "image": "http://i.picasion.com/resize90/cee48fdff4fda0fae7048b547ddb9b5c.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/mutv/playlist.m3u8",
       "import": false    
  },
  {
-      "name": "LFC TV",
+      "name": "",
       "image": "http://i.picasion.com/resize90/79d099da7fa13b475bbfcb340b5d785f.png",
       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8",
       "import": false    
  },
  {
-      "name": "Astro SuperSport 1",
+      "name": "",
       "image": "https://www.we-play.tv//uploads/posters/astro-supersport-1-poster1602800808.jpeg",
       "url": "http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8",
       "import": false    
  },
  {
-      "name": "Astro SuperSport 2",
+      "name": "",
       "image": "https://www.we-play.tv//uploads/posters/astro-supersport-2-poster1602800836.jpeg",
       "url": "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8",
       "import": false    
 },
  {
-      "name": "Astro SuperSport 3",
+      "name": "",
       "image": "https://www.we-play.tv//uploads/posters/astro-supersport-3-poster1602800856.jpeg",
       "url": "http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8",
       "import": false        
  },
  {
-      "name": "Astro SuperSport 4",
+      "name": "",
       "image": "https://www.we-play.tv//uploads/posters/astro-supersport-4-poster1602800887.jpeg",
       "url": "http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8",
       "import": false       
 },
  {
-      "name": "ELEVEN SPORTS 1 HD",
+      "name": "",
       "image": "https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png",
       "url": "http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8",
       "import": false      
 },
  {
-      "name": "CANAL + SPORTS",
+      "name": "",
       "image": "https://static.epg.best/pl/CanalPlusSport.pl.png",
       "url": "http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8",
       "import": false       
 },
  {
-      "name": "NOVA SPORTS",
+      "name": "",
       "image": "http://www.tv-vratsa.bg/user_pic/images/novasport.png",
       "url": "https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8",
       "import": false
  },
  {
-      "name": "EPT SPORTS 1",
+      "name": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png",
       "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8",
       "import": false      
 },
  {
-      "name": "EPT SPORTS 2",
+      "name": "",
       "image": "https://upload.wikimedia.org/wikipedia/el/a/a5/Ertsports2.png",
       "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8",
       "import": false       
  },
  {
-      "name": "TNT SPORTS 1",
+      "name": "",
       "image": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",
       "url": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8",
       "import": false      
  },
  {
-      "name": "NOVA SPORTS 1 HD",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png",
       "url": "http://185.132.177.110:8080/NOVASports1/video.m3u8",
       "import": false      
  },
  {
-      "name": "NOVA SPORTS 2 HD",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png",
       "url": "http://185.132.177.110:8080/NOVASports2/video.m3u8",
       "import": false      
  },
  {
-      "name": "NOVA SPORTS 3 HD",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-3-376.png",
       "url": "http://185.132.177.110:8080/NOVASports3/video.m3u8",
       "import": false     
  },
  {
-      "name": "NOVA SPORTS 4 HD",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-4-377.png",
       "url": "http://185.132.177.110:8080/NOVASports4/video.m3u8",
       "import": false      
  },
  {
-      "name": "NOVA SPORTS 5 HD",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-nova-sports-5-378.png",
       "url": "http://185.132.177.110:8080/NOVASports5/video.m3u8",
       "import": false      
  },
  {
-      "name": "Cosmote Sport 1",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
       "url": "http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8",
       "import": false      
 },
  {
-      "name": "Cosmote Sport 2",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-2-384.png",
       "url": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
       "import": false         
  },
  {
-      "name": "Cosmote Sport 3",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-3-385.png",
       "url": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
       "import": false        
  },
  {
-      "name": "Cosmote Sport 4",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-4-386.png",
       "url": "http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8",
       "import": false   
   },
  {
-      "name": "Cosmote Sport 5",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-5-387.png",
       "url": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
       "import": false       
   },
  {
-      "name": "Cosmote Sport 6",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-6-388.png",
       "url": "http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8",
       "import": false       
  },
  {
-      "name": "Cosmote Sport 7",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-7-389.png",
       "url": "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
       "import": false        
 },
  {
-      "name": "Cosmote Sport 8",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-8-390.png",
       "url": "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
       "import": false         
 },
  {
-      "name": "Cosmote Sport 9",
+      "name": "",
       "image": "https://img.sport-tv-guide.live/images/tv-station-cosmote-sport-9-1590.png",
       "url": "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
       "import": false         
  },
  {
-      "name": "FOOTBALLUA 1",
+      "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU",
       "url": "https://95-213-224-179.livesports24.online/uafootballua1.m3u8",
       "import": false        
  },
  {
-      "name": "FOOTBALLUA 2",
+      "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU",
       "url": "https://95-213-224-179.livesports24.online/fooootball2.m3u8",
       "import": false      
  },
  {
-      "name": "FOOTBALLUA 3",
+      "name": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQQifDxCgaX0n3ng8gvvehQEcwsQQQdL2Cw&usqp=CAU",
       "url": "https://95-213-224-179.livesports24.online/football3ua.m3u8",
       "import": false     
  },
  {
-      "name": "EUROSPORT 1",
+      "name": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",
       "url": "http://hrv.00387.info/GER:EUROSPORTDE1HD/index.m3u8?token=test",
       "import": false    
  },
  {
-      "name": "SKY SPORT BUNDESLIGA 2",
+      "name": "",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sky_Sport_Bundesliga_Logo_2016.png",
       "url": "http://bos.00387.info:8080/bl2/index.m3u8?token=test",
       "import": false      
+},
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1059.png",
+      "url": "https://www.doofootball.com/live/streaming/diemasport1/606571","referer": "https://www.doofootball.com/"      
+ },
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",
+      "url": "https://www.doofootball.com/live/streaming/canal11pt/631248","referer": "https://www.doofootball.com/"           
+ },
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--494.png",
+      "url": "https://www.doofootball.com/live/streaming/viasatfotboll/631248","referer": "https://www.doofootball.com/"           
+ },
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--817.png",
+      "url": "https://www.doofootball.com/live/streaming/freesportuk/667050","referer": "https://www.doofootball.com/"           
+ },
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--884.png",
+      "url": "https://www.doofootball.com/live/streaming/telekomsport1ro/670120","referer": "https://www.doofootball.com/"           
+ },
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--285.png",
+      "url": "https://www.doofootball.com/live/streaming/ziggosportselect/666560","referer": "https://www.doofootball.com/"           
+  },
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1500.png",
+      "url": "https://www.doofootball.com/live/streaming/elevensports1pt/666561","referer": "https://www.doofootball.com/"          
+},
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--155.png",
+      "url": "https://www.doofootball.com/live/streaming/skysport1de/666561","referer": "https://www.doofootball.com/"            
+},
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--400.png",
+      "url": "https://www.doofootball.com/live/streaming/beinsport1fr/632589","referer": "https://www.doofootball.com/"            
+},
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--401.png",
+      "url": "https://www.doofootball.com/live/streaming/beinsport2fr/632589","referer": "https://www.doofootball.com/"      
+},
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--320.png",
+      "url": "https://www.doofootball.com/live/streaming/arenasport2serbia/669723","referer": "https://www.doofootball.com/"      
+},
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--321.png",
+      "url": "https://www.doofootball.com/live/streaming/arenasport3serbia/666586","referer": "https://www.doofootball.com/"
+},
+ {
+      "name": "",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--244.png",
+      "url": "https://www.doofootball.com/live/streaming/foxsport4nl/631248","referer": "https://www.doofootball.com/"      
+ },
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210219221546_cmorefootball.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=cmorefootball","referer": "https://ball8k.com/"     
+ },
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210223020356_tv3max.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=tv3max","referer": "https://ball8k.com/"     
+ },
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210223004013_supersport1al.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=supersport1al","referer": "https://ball8k.com/"     
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210223004022_supersport2al.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=supersport2al","referer": "https://ball8k.com/"      
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222225448_sportklub1slovenia.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=sportklub1slovenia","referer": "https://ball8k.com/"      
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222225500_sportklub2slovenia.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=sportklub2slovenia","referer": "https://ball8k.com/"        
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222225520_sportklub3slovenia.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=sportklub3slovenia","referer": "https://ball8k.com/"        
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222225529_sportklub4slovenia.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=sportklub4slovenia","referer": "https://ball8k.com/"        
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210218204427_beinsports1au.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=beinsports1au","referer": "https://ball8k.com/"        
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210218204514_beinsports2au.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=beinsports2au","referer": "https://ball8k.com/"        
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222230751_beinsportsarabia1hd.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=beinsportsarabia1hd","referer": "https://ball8k.com/"        
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222230759_beinsportsarabia2hd.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=beinsportsarabia2hd","referer": "https://ball8k.com/"        
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222230807_beinsportsarabia3hd.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=beinsportsarabia3hd","referer": "https://ball8k.com/"        
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222200404_foxsport1nl.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=foxsport1nl","referer": "https://ball8k.com/"  
+ },
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222210606_foxsport2nl.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=foxsport2nl","referer": "https://ball8k.com/"       
+ },
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222210614_foxsport3nl.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=foxsport3nl","referer": "https://ball8k.com/"       
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222210623_foxsport4nl.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=foxsport4nl","referer": "https://ball8k.com/"        
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222210632_foxsport5nl.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=foxsport5nl","referer": "https://ball8k.com/"      
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222210902_foxsports1usa.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=foxsports1usa","referer": "https://ball8k.com/"      
+ },
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222210911_foxsports2usa.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=foxsports2usa","referer": "https://ball8k.com/"     
+},
+ {
+      "name": "",
+      "image": "https://ball8k.com/stream/img_ch/20210222163617_gol.jpg",
+      "url": "https://ball8k.com/m_/channel.ball8k?stream=gol","referer": "https://ball8k.com/"      
+      
+      
       
       
       
