@@ -3,17 +3,11 @@
     "image": "https://mpics.mgronline.com/pics/Images/563000001930301.JPEG",       
     "stations": [ 
  { 
-    "name": "Songtopia Livehouse by AIS PLAY Present “The Signature Of Silly Fools",  
-   "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/ais-htWGF1-fKIlc.91255202.poster.SD.jpg", 
-   "url": "https://aisplay.ais.co.th/portal/get_item/5fd08e9c954f9da153a8df62/","playInNatPlayer": "true",
+    "name": "MR.TEAM RETURN",  
+   "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/ais-VKOCQ1-qn3gc.85324952.backdrop.SD.jpg", 
+   "url": "https://aisplay.ais.co.th/portal/serial/series/5b4aff5daae7310c5bd9bdf2","playInNatPlayer": "true",
    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 },
- {
-   "name": "Songtopia Livehouse by AIS PLAY Present “Fantastic 3”",  
-   "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/ais-ntePF1-jh6lc.90832802.poster.SD.jpg", 
-   "url": "https://aisplay.ais.co.th/portal/get_item/5fad02c3702bc94b1445965a/","playInNatPlayer": "true",
-   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
-  },
  { 
    "name": "SILLY FOOLS FATLIVE V3",
     "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1597569411888_movie_image.jpg",
@@ -33,15 +27,7 @@
     "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1608033229711_movie_image.jpg",
     "url": "https://cdn-ktu-moive-streaming.box.com/shared/static/yip6gi9rlqvh4obiu8t2ux8s9fsthl0t.mp4",
     "userAgent": "exoplayer_video",
-    "playInNatPlayer": "true"  
-  },
- { 
-   "name": "Songtopia Livehouse By AIS PLAY แว่นใหญ่ I'm Not Alone",
-    "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1603523332314_movie_image.jpg",
-    "url": "https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/Concert/Songtopia_Livehouse_By_AIS_PLAY/Songtopia.mp4/index.m3u8",
-    "userAgent": "exoplayer_video",
-    "playInNatPlayer": "true"  
-  },
+},
  { 
    "name": "SEK LOSO AISPLAY",
     "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1600565537500_movie_image.jpg",
