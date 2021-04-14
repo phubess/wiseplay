@@ -1,0 +1,86 @@
+{  
+    "name": "คอนเสิร์ต", 
+    "image": "https://mpics.mgronline.com/pics/Images/563000001930301.JPEG",       
+    "stations": [ 
+ { 
+    "name": "Songtopia Livehouse by AIS PLAY Present “The Signature Of Silly Fools",  
+   "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/ais-htWGF1-fKIlc.91255202.poster.SD.jpg", 
+   "url": "https://aisplay.ais.co.th/portal/get_item/5fd08e9c954f9da153a8df62/","playInNatPlayer": "true",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+ {
+   "name": "Songtopia Livehouse by AIS PLAY Present “Fantastic 3”",  
+   "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/ais-ntePF1-jh6lc.90832802.poster.SD.jpg", 
+   "url": "https://aisplay.ais.co.th/portal/get_item/5fad02c3702bc94b1445965a/","playInNatPlayer": "true",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+  },
+ { 
+   "name": "SILLY FOOLS FATLIVE V3",
+    "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1597569411888_movie_image.jpg",
+    "url": "https://cdn-ktu-moive-streaming.box.com/shared/static/589wyp19e7p4n49m63scjlfvuqs4n36e.mp4",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
+},
+ { 
+   "name": "Songtopia Livehouse Clash Back",
+    "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1608033316404_movie_image.jpg",
+    "url": "https://cdn-ktu-moive-streaming.box.com/shared/static/6iddlxsjovkpqpjmkju9zaofzk0j4mq1.mp4",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"  
+ },
+ { 
+   "name": "ซูซูรีเทิร์น- Vs. -ทอม ดันดี- ในรอบ 28 ปี @ ตะวันแดงร้อยเอ็ด",
+    "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1608033229711_movie_image.jpg",
+    "url": "https://cdn-ktu-moive-streaming.box.com/shared/static/yip6gi9rlqvh4obiu8t2ux8s9fsthl0t.mp4",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"  
+  },
+ { 
+   "name": "Songtopia Livehouse By AIS PLAY แว่นใหญ่ I'm Not Alone",
+    "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1603523332314_movie_image.jpg",
+    "url": "https://cache-movie.mrtmovie.com/hls/content/nas05/mvc/Concert/Songtopia_Livehouse_By_AIS_PLAY/Songtopia.mp4/index.m3u8",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"  
+  },
+ { 
+   "name": "SEK LOSO AISPLAY",
+    "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1600565537500_movie_image.jpg",
+    "url": "https://cdn-ktu-moive-streaming.box.com/shared/static/s0uzf72fkxqffdprkctxu0ipaoopx0py.mp4",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"  
+  },
+ { 
+   "name": "มาลีฮวนน่า-Farm Festival 2017",
+    "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1596067850259_movie_image.jpg",
+    "url": "https://cdn-ktu-moive-streaming.box.com/shared/static/vyj5zhrty9y37y3668rtdx9wk47f9f01.mkv",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"  
+  },
+ { 
+   "name": "คอนเสิร์ต Carabao คาราบาว กฐิน ปีที่ 14 วัดพุน้อย จ.ลพบุรี",
+    "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1596067475587_movie_image.jpg",
+    "url": "https://cdn-ktu-moive-streaming.box.com/shared/static/dqn0dp5rddoac4fwusw6tym7o4y1we8t.mkv",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"  
+               
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+},
+]
+}
+
+
+
