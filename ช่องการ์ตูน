@@ -113,8 +113,14 @@
 },
  { 
       "name": "Cartoon Club",
-      "image": "https://www.iptv4k.tv/images/tv/Q8ZREIg9pyXw2xZKTTg6tUHeO3lkWtSunnamed_(2).jpg",              
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",              
       "url": "https://player.we-play.tv/channel.php?name=cartoon-club&cate=kids","referer": "https://player.we-play.tv"
+},
+ { 
+      "name": "Cartoon Club",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png", 
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-cartoonclub_480/chunks.m3u8",
+      "import": false
 },
  { 
       "name": "True Spark Jump",
@@ -140,7 +146,13 @@
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",
       "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/180.m3u8",
       "userAgent": "ProPlayer",
-      "playInNatPlayer": "true"  
+      "playInNatPlayer": "true" 
+},
+ { 
+      "name": "TOONEE",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png",              
+      "url": "https://mediasv.online/tvchannel_x2/toonee/playlist.m3u8",
+      "import": false
 },
  { 
       "name": "Aniplus",
@@ -180,18 +192,6 @@
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
       "url": "https://mediasv.online/tvchannel_x1/hd-disneyxd/playlist.m3u8",
       "import": false
-},
- { 
-      "name": "DISNEY XD",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1616288133936_movie_image.jpg",              
-      "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514",
-      "playInNatPlayer": "true" 
-},
- { 
-      "name": "Disney Junior ",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1614678087982_movie_image.jpg",              
-      "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513",
-      "playInNatPlayer": "true" 
 },
  { 
       "name": "M KIDZ",
