@@ -307,6 +307,12 @@
     "import": false
 },
 {
+    "name":"EGG Network",
+    "image":"https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-eggnetwork_480/chunks.m3u8",
+    "import": false
+},
+{
     "name":"Comedy Central",
     "image":"https://static.uflixtv.com/images/tv/channels_icons/hd-comedycentral.png",
     "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/102.m3u8",
