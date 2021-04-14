@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 14/4/2021",
+    "author": "update 15/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -282,9 +282,9 @@
       "playInNatPlayer": "true"
 },
  {
-     "name": "WorldScience",
-     "image": "https://www.vancouverattractions.com/files/Image/science-world-logo.png", 
-     "url": "http://203.154.243.32:8088/live/wsci/index.m3u8",
+     "name": "World Animal",
+     "image": "https://images-na.ssl-images-amazon.com/images/I/816iZ-Y9ynL.jpg", 
+     "url": "http://203.154.243.89:1201",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
 },
