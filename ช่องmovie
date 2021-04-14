@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 13/4/2021",
+    "author": "update 14/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -54,7 +54,7 @@
   {
      "name": "HBO HITS b",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
-     "url": "https://boxmovielive.com/live/hbohis1.m3u8",
+     "url": "https://boxmovielive.com/live/hbohis11.m3u8",
      "import": false
 },
   {
@@ -556,7 +556,7 @@
   { 
      "name": "SERiES+HD b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452783954_movie_image.jpg",              
-      "url": "https://boxmovielive.com/live/series1.m3u8",
+      "url": "https://boxmovielive.com/live/series.m3u8",
       "import": false
 },
   { 
