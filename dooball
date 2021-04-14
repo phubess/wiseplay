@@ -1,0 +1,207 @@
+{
+"name": "zonedooball",
+"author": "DontKnow",
+"image": "https://i.pinimg.com/originals/44/45/4f/44454f54408f719aac56287292a14243.jpg",
+"groups": [
+
+{ 
+         "name": "กีฬา",
+          "image": "https://cdn.britannica.com/68/195168-050-BBAE019A/football.jpg",  
+          "stations": [ 
+
+{ 
+               "name": "True Premier Football HD 1",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",             
+               "url": "https://cdn1.ufalive.center/zonedooball/tpf1_480/chunks.m3u8","referer" :"https://www.zonedooball.com"
+}, 
+{ 
+              "name": "True Premier Football HD 2",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",              
+               "url": "https://cdn1.ufalive.center/zonedooball/tpf2/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+              "name": "True Premier Football HD 3",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",                
+               "url": "https://cdn1.ufalive.center/zonedooball/tpf3/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+              "name": "True Premier Football HD 4",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",               
+               "url": "https://cdn1.ufalive.center/zonedooball/tpf4/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+              "name": "True Premier Football HD 5",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",               
+               "url": "https://cdn1.ufalive.center/zonedooball/tpf5/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+                "name": "Bein 1",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",              
+               "url": "https://cdn1.ufalive.center/zonedooball/bein1/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+                "name": "Bein 2",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",           
+                "url": "https://cdn1.ufalive.center/zonedooball/bein2/chunks.m3u8","referer" :"https://www.zonedooball.com"
+}, 
+{ 
+                "name": "True Sport HD",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",              
+              "url": "https://cdn1.ufalive.center/zonedooball/thd1/playlist.m3u8","referer" :"https://www.zonedooball.com"
+}, 	           
+{ 
+               "name": "True Sport HD 2",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",              
+              "url": "https://cdn1.ufalive.center/zonedooball/thd2/playlist.m3u8","referer" :"https://www.zonedooball.com"
+}, 
+{ 
+              "name": "True Sport HD 3",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",            
+              "url": "https://cdn1.ufalive.center/zonedooball/thd3/playlist.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+             "name": "True Sport 2",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png",             
+              "url": "https://cdn1.ufalive.center/zonedooball/tsp2/chunks.m3u8","referer" :"https://www.zonedooball.com"
+}, 
+{ 
+             "name": "True Sport 5",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png",               
+              "url": "https://cdn1.ufalive.center/zonedooball/tsp5/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},     
+{ 
+              "name": "True Sport 6",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png",                 
+              "url": "https://cdn1.ufalive.center/zonedooball/tsp6/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+             "name": "True Sport 7",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",                  
+              "url": "https://cdn1.ufalive.center/zonedooball/tsp7/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+             "name": "FOX Sports HD",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",                  
+              "url": "https://cdn1.ufalive.center/zonedooball/foxsport1/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+             "name": "FOX Sports 2",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",                   
+              "url": "https://cdn1.ufalive.center/zonedooball/foxsport2/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+            "name": "FOX Sports 3",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",                   
+              "url": "https://cdn1.ufalive.center/zonedooball/foxsport3/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+             "name": "SPORT TV 1",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",                    
+              "url": "https://cdn1.ufalive.center/zonedooball/sporttv1/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+              "name": "SPORT TV 2",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/sporttv2/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+               "name": "SPORT TV 3",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg",                    
+              "url": "https://cdn1.ufalive.center/zonedooball/sporttv3/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+               "name": "SPORT TV 4",
+               "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg",                  
+              "url": "https://cdn1.ufalive.center/zonedooball/sporttv4/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+               "name": "Arena Sport 1",
+               "image": "https://i.imgur.com/xllDHdr.png",                   
+              "url": "https://cdn1.ufalive.center/zonedooball/arenasport1/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+              "name": "Arena Sport 2",
+               "image": "https://i.imgur.com/6yetAgw.png",                   
+              "url": "https://cdn1.ufalive.center/zonedooball/arenasport2/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+               "name": "Arena Sport 3",
+               "image": "https://i.imgur.com/Lqqjmkd.png",                    
+              "url": "https://cdn1.ufalive.center/zonedooball/arenasport3/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+              "name": "Arena Sport 4",
+               "image": "https://i.imgur.com/EvZQW6B.png",                   
+              "url": "https://cdn1.ufalive.center/zonedooball/arenasport4/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+               "name": "FOX Sports 1 Netherland",
+               "image": "https://i.imgur.com/fmont7P.png",                   
+              "url": "https://cdn1.ufalive.center/zonedooball/foxsports1nl/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+               "name": "FOX Sports 2 Netherland",
+               "image": "https://i.imgur.com/XKMTyta.png",                   
+              "url": "https://cdn1.ufalive.center/zonedooball/foxsports2nl/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+               "name": "FOX Sports 3 Netherland",
+               "image": "https://i.imgur.com/22yvlvN.png",                   
+              "url": "https://cdn1.ufalive.center/zonedooball/foxsports3nl/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+               "name": "FOX Sports 4 Netherland",
+               "image": "https://i.imgur.com/obJZskL.png",                    
+              "url": "https://cdn1.ufalive.center/zonedooball/foxsports4nl/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+                "name": "BT Sport 1 HD",
+               "image": "https://www.liveballsod.com/api/table/icon/BTSport1HD.png",                    
+              "url": "https://cdn1.ufalive.center/zonedooball/btsport1/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+                "name": "BT Sport 2 HD",
+               "image": "https://www.liveballsod.com/api/table/icon/BTSport2HD.png",                    
+              "url": "https://cdn1.ufalive.center/zonedooball/btsport2/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+                 "name": "BT Sport 3 HD",
+               "image": "https://www.liveballsod.com/api/table/icon/BTSport3HD.png",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/btsport3/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+                 "name": "BT Sport 4 HD",
+               "image": "https://www.liveballsod.com/api/table/icon/BTSport3HD.png",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/btsport4/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+                 "name": "BT Sport 4 HD",
+               "image": "https://www.liveballsod.com/api/table/icon/BTSport3HD.png",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/digisport1/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+              "name": "Digisport 1",
+	 "image": "https://i.imgur.com/mIr3Aho.png",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/digisport1/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+              "name": "Digisport 2",
+	 "image": "https://i.imgur.com/R0x86bJ.png",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/digisport2/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+              "name": "Digisport 3",
+	 "image": "https://i.imgur.com/hDEgxnL.png",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/digisport3/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+              "name": "Digisport 4",
+	 "image": "https://i.imgur.com/l0SHReb.png",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/digisport3/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+
+
+]
+}	
+]
+}
