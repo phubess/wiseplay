@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="group-title"="DigitalTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0003.png",3HD
-http://119.161.100.53:9999/ais_tvthai/link/59592e08bf6aee4e3ecce051&.m3u8|User-Agent=AISPlay/2.9.3.130&Referer=https://aisplay.ais.co.th/portal/live/
+http://119.161.100.53:9999/ais_tvthai/link/5ac33fbfbf6aee77ea95fce2&.m3u8|User-Agent=AISPlay/2.9.3.130&Referer=https://aisplay.ais.co.th/portal/live/
 
 #EXTINF:-1 tvg-id="group-title"="DigitalTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",5HD
 http://119.161.100.53:9999/ais_tvthai/link/5b335ab3d817de6d62889a6b&.m3u8|User-Agent=AISPlay/2.9.3.130&Referer=https://aisplay.ais.co.th/portal/live/
