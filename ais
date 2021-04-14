@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="MOVIE "tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",TVN 
+http://stream.iptv-thai.com/live.m3u8?sv=ais&channel=V1003&user=test@sat2u
+#EXTINF:-1 group-title="Sport" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_1.png",beIN SPORTS 1
+http://stream.iptv-thai.com/live.m3u8?sv=ais&channel=S0001&user=test@sat2u
