@@ -1,0 +1,18 @@
+{  
+    "name": "คอนเสิร์ต", 
+    "image": "https://mpics.mgronline.com/pics/Images/563000001930301.JPEG",       
+    "stations": [ 
+ { 
+    "name": "MR.TEAM RETURN",  
+   "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/ais-VKOCQ1-qn3gc.85324952.backdrop.SD.jpg", 
+   "url": "https://aisplay.ais.co.th/portal/serial/series/5b4aff5daae7310c5bd9bdf2","playInNatPlayer": "true",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+
+               
+    
+},
+]
+}
+
+
+
