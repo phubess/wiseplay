@@ -11,6 +11,13 @@
       "playInNatPlayer": "true"
 },     
 {
+      "name": "GFS Hi Fight ",
+      "image": "https://il.mahidol.ac.th/upload/img/2020-11-10-025443.jpg",
+      "url": "http://203.154.243.89:1422",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},     
+{
       "name": "",
       "image": "https://sv1.picz.in.th/images/2020/06/17/qeqCdP.png",
       "url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
