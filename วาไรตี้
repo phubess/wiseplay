@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 13/4/2021",
+    "author": "update 15/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -328,6 +328,13 @@
       "name": "Amazing Hi Show",
       "image": "http://www.chang55.com/movie/upload/movie_img/AMAZING-HI-SHOW-CH1_Thumb.png",
       "url": "http://203.154.243.89:1214/",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+ {
+      "name": "MUSIC FOR YOU",
+      "image": "https://il.mahidol.ac.th/upload/img/2020-11-10-025036.jpg",
+      "url": "http://203.154.243.89:1213",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
 },
