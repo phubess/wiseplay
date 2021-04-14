@@ -1,0 +1,1671 @@
+{ 
+   "name": "IPTV",
+   "author": "BESS",
+   "url": "??",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzR3YegnO0XAwE4NpseHHv_9B1QYoJGF0HUQ&usqp=CAU",
+   "groups": [   
+   {
+    "name": "Digital TV",
+    "image": "https://www.isranews.org/images/2018/isranews/04/25042018.jpg",
+    "stations": [ 
+{ 
+    "name":"3 HD",
+    "image": "https://teevee-hd.com/img/ch3-hd.png",
+    "url": "https://player.we-play.tv/channel.php?name=ch3hd&cate=digitaltv","referer": "https://player.we-play.tv"
+   
+   },
+   { 
+    "name":"3 HD",
+    "image": "https://teevee-hd.com/img/ch3-hd.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/ch3/digital/3hd/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   { 
+    "name":"5 HD",
+    "image": "https://teevee-hd.com/img/ch5.png",
+    "url": "https://player.we-play.tv/channel.php?name=ch5hd&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"5 HD",
+    "image": "https://teevee-hd.com/img/ch5.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/ch5/digital/5hd/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   { 
+    "name":"7 HD",
+    "image": "https://teevee-hd.com/img/ch7.png",
+    "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"7 HD",
+    "image": "https://teevee-hd.com/img/ch7.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/ch7/digital/7hd/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   { 
+    "name":"MCOT HD",
+    "image": "https://teevee-hd.com/img/mcot.png",
+    "url": "https://player.we-play.tv/channel.php?name=mcothd&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"MCOT HD",
+    "image": "https://teevee-hd.com/img/mcot.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/mcot/digital/mcot/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   { 
+    "name":"NBT HD",
+    "image": "https://teevee-hd.com/img/nbt.png",
+    "url": "https://doomovielive.b-cdn.net/sd-nbt_720/index.m3u8","referer": "https://doomovie.com/"
+},
+   { 
+    "name":"NBT HD",
+    "image": "https://teevee-hd.com/img/nbt.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/nbt/digital-sp/nbt/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   { 
+    "name":"ThaiPBS",
+    "image": "https://teevee-hd.com/img/thaipbs.png",
+    "url": "https://player.we-play.tv/channel.php?name=thaipbs&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"ThaiPBS",
+    "image": "https://teevee-hd.com/img/thaipbs.png",
+    "url": "https://doomovielive.b-cdn.net/hd-tpbs_720/index.m3u8","referer": "https://doomovie.com/"
+},
+   { 
+    "name":"Amarin",
+    "image": "https://teevee-hd.com/img/amarin.png",
+    "url": "https://player.we-play.tv/channel.php?name=amarintv&cate=digitaltv","referer": "https://player.we-play.tv" 
+},
+   { 
+    "name":"Amarin",
+    "image": "https://teevee-hd.com/img/amarin.png",
+    "url": "https://doomovielive.b-cdn.net/hd-amarin_720/index.m3u8","referer": "https://doomovie.com/"
+},
+   { 
+    "name":"ONE HD",
+    "image": "https://teevee-hd.com/img/onehd.png",
+    "url": "https://player.we-play.tv/channel.php?name=one31&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"ONE HD",
+    "image": "https://teevee-hd.com/img/onehd.png",
+    "url": "https://doomovielive.b-cdn.net/hd-gmmone_720/index.m3u8","referer": "https://doomovie.com/"
+},
+   { 
+    "name":"ไทยรัฐTV 32HD",
+    "image": "https://teevee-hd.com/img/thairath.png",
+    "url": "https://player.we-play.tv/channel.php?name=thairathtv&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"ไทยรัฐTV 32HD",
+    "image": "https://teevee-hd.com/img/thairath.png",
+    "url": "https://doomovielive.b-cdn.net/hd-thairath_720/index.m3u8","referer": "https://doomovie.com/"
+},
+   { 
+    "name":"PPTV HD",
+    "image": "https://teevee-hd.com/img/pptv.png",
+    "url": "https://player.we-play.tv/channel.php?name=pptv&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"PPTV HD",
+    "image": "https://teevee-hd.com/img/pptv.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/pptv/digital-sp/pptv/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   {
+     "name": "GMM25 HD",
+     "image": "https://teevee-hd.com/img/gmm.png",              
+     "url": "https://stream.ztvthai.online/dtv/dtv-gmm-playlist.m3u8",
+     "import": false
+},
+   { 
+    "name":"GMM25",
+    "image": "https://teevee-hd.com/img/gmm.png",
+    "url": "https://player.we-play.tv/channel.php?name=gmm25&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"GMM25",
+    "image": "https://teevee-hd.com/img/gmm.png",
+    "url": "https://doomovielive.b-cdn.net/sd-gmmchannel_480/index.m3u8","referer": "https://doomovie.com/"
+},
+   { 
+    "name":"TNN16",
+    "image": "https://bettopfivemovie.com/wp-content/uploads/2020/09/sd-tnn16.png",
+    "url": "https://www.warpfootball.games/live/?ch=tnn","referer": "https://www.warpfootball.games/"
+    
+},
+   { 
+    "name":"TNN16",
+    "image": "https://bettopfivemovie.com/wp-content/uploads/2020/09/sd-tnn16.png",
+    "url": "https://doomovielive.b-cdn.net/sd-tnn24_480/index.m3u8","referer": "https://doomovie.com/"
+},
+   { 
+    "name":"True4U",
+    "image": "https://teevee-hd.com/img/true4u.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/true4u/digital/true4u/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+    },
+   { 
+    "name":"True4U",
+    "image": "https://teevee-hd.com/img/true4u.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/true4u/digital/true4u/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   {
+     "name": "Workpoint HD",
+     "image": "https://teevee-hd.com/img/workpoint.png",              
+     "url": "https://stream.ztvthai.online/dtv/wpf-dtv-playlist.m3u8",
+     "import": false
+},
+   { 
+    "name":"Workpoint",
+    "image": "https://teevee-hd.com/img/workpoint.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/workpoint/digital-sp/workpoint/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   { 
+    "name":"Workpoint",
+    "image": "https://teevee-hd.com/img/workpoint.png",
+    "url": "https://player.we-play.tv/channel.php?name=workpoint&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"MONO29",
+    "image": "https://teevee-hd.com/img/mono29.png",
+    "url": "https://player.we-play.tv/channel.php?name=mono29&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"MONO29",
+    "image": "https://teevee-hd.com/img/mono29.png",
+    "url": "https://doomovielive.b-cdn.net/hd-mono_480/index.m3u8","referer": "https://doomovie.com/"
+},
+   { 
+    "name":"Nation",
+    "image": "https://teevee-hd.com/img/nation.png",
+    "url": "https://player.we-play.tv/channel.php?name=nationtv&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+   { 
+    "name":"Nation",
+    "image": "https://teevee-hd.com/img/nation.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/nation/digital/nation/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   {
+     "name": "CH8 HD",
+     "image": "https://teevee-hd.com/img/ch8.png",              
+     "url": "https://stream.ztvthai.online/dtv/dtv-ch8-playlist.m3u8",
+     "import": false
+},
+   { 
+    "name":"CH8",
+    "image": "https://teevee-hd.com/img/ch8.png",
+    "url": "https://cdn1.cloud-streaming.live/digital/ch8/digital/ch8/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+},
+   { 
+    "name":"CH8",
+    "image": "https://teevee-hd.com/img/ch8.png",
+    "url": "https://doomovielive.b-cdn.net/hd-ch8_480/index.m3u8","referer": "https://doomovie.com/"
+},
+   {
+     "name": "NEW18 HD",
+     "image": "http://www.keykingiptv.com/boxtv/movieposters/Movieqtamf_65.jpg",              
+     "url": "https://stream.ztvthai.online/dtv/dtv-new-playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "ALTV4",
+     "image": "https://sv1.picz.in.th/images/2020/10/09/OeiYQt.png",              
+     "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8",
+     "import": false
+},
+]
+  }, 
+{  
+    "name": "VARIETY", 
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlW5vvk4MMjr8hpIOllhc242l1CYLojE5whw&usqp=CAU",       
+    "stations": [ 
+ { 
+    "name": "LIFE TIME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
+     "url": "http://119.161.100.52/true2/link/NOed9VVgV2K&.m3u8",
+     "import": false
+},
+ {
+     "name": "FOOD NETWORK HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
+     "url": "http://119.161.100.52/true2/link/6MkNweRv75d&.m3u8",
+     "import": false
+},
+ {
+    "name": "Asian Food Channel ",
+     "image": "http://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",              
+     "url": "http://119.161.100.52/true2/link/pvyLJG9eWDM&.m3u8",
+     "import": false
+},
+ {
+     "name": "KMTV HD",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
+     "url": "http://119.161.100.52/true2/link/omneMllBYBj&.m3u8",
+     "import": false
+},
+ {
+     "name": "Stringray iConcerts HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
+     "url": "http://119.161.100.52/true2/link/18jwLrlEKdn&.m3u8",
+     "import": false
+},
+ {
+     "name": "True Plookpanya",
+     "image": "https://cms.dmpcdn.com/livetv/2017/10/18/c8a1dd82-9f74-4ce7-bb1c-1f5eebaf75ca.png",              
+     "url": "http://119.161.100.52/true2/link/9WmoQMj0NOp&.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE LITLE MONK",
+     "image": "http://cms.dmpcdn.com/livetv/2019/07/15/129bbe6c-c859-4d8f-b719-f6a6f87b7668_original.jpg",              
+     "url": "http://119.161.100.52/true2/link/9xQq7Yk7Jzr&.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE MUSIC HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+     "url": "http://119.161.100.52/true2/link/Mbx79DOD44J&.m3u8",
+     "import": false
+},
+ {
+     "name": "FASHION TV",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png",              
+     "url": "http://119.161.100.52/true2/link/DpZV0741AWz&.m3u8",
+     "import": false
+},
+ {
+     "name": "True Inside HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "http://119.161.100.52/true2/link/n3P0yMe27ZK&.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "http://119.161.100.52/true2/link/nbyAVeb1jpN&.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "http://119.161.100.52/true2/link/3AqanG58Er3&.m3u8",
+     "import": false
+},
+ {
+     "name": "เวรี่ ทีวี",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/8b311ba7-dccd-45cb-9b1f-dffca6ee98e2.png",              
+     "url": "http://119.161.100.52/true2/link/z285X2RBQW6&.m3u8",
+     "import": false
+},
+ {
+     "name": "ไทยไทย",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3c46870c-8069-494f-a3c4-4f878e7c348e.png",              
+     "url": "http://119.161.100.52/true2/link/Npvd4mjzQdy&.m3u8",
+     "import": false
+
+},
+   { 
+      "name": "True X-ZYTE",
+      "image": "https://www.iptv4k.tv/images/tv/6yUxSSruYwQZeV62cvAEUvP11HOFzrnimages.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment","referer": "https://player.we-play.tv"
+
+},
+   { 
+      "name": "Waku Waku Japan",
+      "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
+       "url": "https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment","referer": "https://player.we-play.tv"
+
+
+},
+  {
+      "name": "แสงจันทร์",  
+       "image": "https://sv1.picz.in.th/images/2020/10/07/OGZii0.png",  
+       "url": "https://www.fwiptv.cc/player_demo.php?channel=60254",
+       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+   {
+     "name": "CABLE 37 HD",
+     "image": "https://sv1.picz.in.th/images/2020/10/17/b7cOc9.png",              
+     "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "ลูกทุ่ง TVHD",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/Op2Qtt.jpg",              
+     "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+     "import": false
+    
+
+  
+},
+      {
+      "name": "Musics for You",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9ycrXsPYgQcQjX6LhP7oOn0xG7c0sA1dxFA&usqp=CAU",
+      "url": "http://203.154.243.32:8088/live/musicforyou/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+      {
+      "name": "Amazing Hi Show",
+      "image": "http://www.chang55.com/movie/upload/movie_img/AMAZING-HI-SHOW-CH1_Thumb.png",
+      "url": "http://203.154.243.32:8088/live/amazing/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+]
+  }, 
+{  
+    "name": "MOVIES", 
+    "image": "https://d8xxy3dl0iwm6.cloudfront.net/wp-content/uploads/2016/12/Open_true2.png",       
+    "stations": [ 
+ { 
+    "name": "HBO",
+     "image": "https://teevee-hd.com/img/hbohd.png",              
+     "url": "http://dootvthai-hd.com/cmd/hbo/hbohd/playlist.m3u8",
+     "import": false
+ },
+   {
+     "name": "HBO HITS",
+     "image": "https://teevee-hd.com/img/hbohits.png",              
+     "url": "http://dootvthai-hd.com/cmd/hbo/hitshd/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "HBOSIGNATURE",
+     "image": "https://teevee-hd.com/img/hbosig.png",              
+     "url": "http://dootvthai-hd.com/cmd/hbo/sighd/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "HBOFamily",
+     "image": "https://teevee-hd.com/img/hbofam.png",              
+     "url": "http://dootvthai-hd.com/cmd/hbo/famhd/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "RedbyHBO",
+     "image": "https://teevee-hd.com/img/red.png",              
+     "url": "http://dootvthai-hd.com/cmd/hbo/red/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "CINEMAX",
+     "image": "https://teevee-hd.com/img/cinemax.png",              
+     "url": "http://dootvthai-hd.com/cmd/hbo/maxhd/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "FOX MOVIES",
+     "image": "https://teevee-hd.com/img/foxp-thai.png",              
+     "url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment","referer": "https://player.we-play.tv"
+ },
+   {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://teevee-hd.com/img/foxactionmovie.png",              
+     "url": "https://player.we-play.tv/channel.php?name=fox-action&cate=entertainment","referer": "https://player.we-play.tv"
+     
+},
+   {
+     "name": "FOX ไทย",
+     "image": "https://teevee-hd.com/img/foxthai.png",              
+     "url": "https://player.we-play.tv/channel.php?name=foxth&cate=entertainment","referer": "https://player.we-play.tv"
+     
+},
+   {
+     "name": "FOX CRIME",
+     "image": "https://teevee-hd.com/img/foxcrime.png",              
+     "url": "https://player.we-play.tv/channel.php?name=fox-crime&cate=entertainment","referer": "https://player.we-play.tv"
+    
+},
+   {
+     "name": "Fox Family Movies",
+     "image": "https://teevee-hd.com/img/foxfamily.png",              
+     "url": "https://player.we-play.tv/channel.php?name=fox-fam&cate=entertainment","referer": "https://player.we-play.tv"
+     
+},
+   {
+     "name": "Fox Life",
+     "image": "https://teevee-hd.com/img/foxlife.png",              
+     "url": "https://player.we-play.tv/channel.php?name=fox-life&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   {
+     "name": "True Film HD",
+     "image": "https://teevee-hd.com/img/truefilmhd.png",              
+     "url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   {
+     "name": "True Film HD2",
+     "image": "https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",              
+     "url": "https://doomovielive.b-cdn.net/hd-tfilm2_720/index.m3u8","referer": "https://doomovie.com"
+},
+   {
+     "name": "True Asian Series HD",
+     "image": "https://teevee-hd.com/img/trueasian.png",              
+     "url": "https://player.we-play.tv/channel.php?name=trueasianhd&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   {
+     "name": "True Thai Film",
+     "image": "https://teevee-hd.com/img/truethaifilm.png",              
+     "url": "https://player.we-play.tv/channel.php?name=truethaifilm&cate=entertainment","referer": "https://player.we-play.tv"  
+},
+   {
+    "name": "Warner TV",
+     "image": "https://teevee-hd.com/img/warner.png",              
+     "url": "https://player.we-play.tv/channel.php?name=warner&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   {
+     "name": "Paramount Channel",
+     "image": "https://teevee-hd.com/img/paramount.png",              
+     "url": "https://player.we-play.tv/channel.php?name=paramount&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+    "name": "MOVIE 1",  
+    "image": "https://teevee-hd.com/img/Movie1.png",  
+    "url": "https://www.fwiptv.cc/player_demo.php?channel=60257",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+  {
+    "name": "MOVIE 2",  
+    "image": "https://teevee-hd.com/img/Movie2.png",  
+    "url": "https://player.we-play.tv/channel.php?name=hi-def1&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  {
+    "name": "MOVIE 3",  
+    "image": "https://teevee-hd.com/img/MovieHD3.png",  
+    "url": "http://203.154.243.31:8081/live/izaahd/index.m3u8",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
+},
+  {
+    "name": "MOVIE 4",  
+    "image": "https://teevee-hd.com/img/movie4.png",  
+    "url": "http://203.154.243.31:8081/live/h-channel/index.m3u8",
+    "userAgent": "exoplayer_video",
+    "playInNatPlayer": "true"
+},
+  {
+     "name": "MOVIE 5",  
+     "image": "https://teevee-hd.com/img/Movie5.png",  
+     "url": "https://www.fwiptv.cc/player_demo.php?channel=89782",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+             
+},
+  {
+      "name": "MOVIE 6",  
+      "image": "https://teevee-hd.com/img/Movie6.png",  
+      "url": "http://203.154.243.31:8081/live/series/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+   {
+     "name": "CTB",
+     "image": "https://www.doohdbox.com/assets/20170709090502720443899.jpg",              
+     "url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8",
+     "import": false
+},
+
+  { 
+     "name": "CCM",
+      "image": "https://www.iptv4k.tv/images/tv/gvtnIxtS3HDhft8vFTCq7akdWOU4zFwcelestial-classic-movies.jpg",              
+      "url": "https://player.we-play.tv/channel.php?name=ccm&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   { 
+      "name": "Hits",
+      "image": "https://www.iptv4k.tv/images/tv/IViPz40fTLALdEeNWNTnFyyzI2CTiwLhit.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=hits&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   { 
+      "name": "Hits Movies",
+      "image": "https://www.iptv4k.tv/images/tv/GC4qmOCKR9AWud81sKn2N4mN4UFA9bxhitsmovies.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=hitsmovies&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   { 
+      "name": "AXN HD",
+      "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
+       "url": "https://player.we-play.tv/channel.php?name=axn&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   { 
+      "name": "TVN",
+      "image": "https://www.iptv4k.tv/images/tv/qF7dwPPf1fPC5LqGBBJElIY0xknVWfgunnamed_(26).jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=tvn&cate=entertainment","referer": "https://player.we-play.tv"
+
+
+},
+  {
+     "name": "MONO PLUS",
+     "image": "https://sv1.picz.in.th/images/2020/09/21/OO25K1.png",              
+     "url": "https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8",
+     "import": false
+
+},
+   { 
+      "name": "Star Chinese Movies",
+      "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=scm&cate=entertainment","referer": "https://player.we-play.tv"
+},
+   { 
+      "name": "Zeenung",
+      "image": "https://www.iptv4k.tv/images/tv/mUh7bNApHaKoEvmpvf0YUfqObUTjZZ9sd-zeenung.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=zeenung&cate=entertainment","referer": "https://player.we-play.tv"
+
+},
+   {
+     "name": "MV ลาว",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/OpCwDn.png",              
+     "url": "https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8",
+     "import": false
+},
+   {
+     "name": "TVB ไทย",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/OpPQuI.jpg",              
+     "url": "https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "MIX MAJOR",
+     "image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",              
+     "url": "https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8",
+     "import": false
+},
+   {
+     "name": "CHANNEL8",
+     "image": "https://sv1.picz.in.th/images/2020/10/09/OeRVVb.png",              
+     "url": "https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
+     "import": false
+
+
+},
+	         
+]
+   }, 
+    { 
+    "name": "สาระคดี", 
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_te6XT3XxiOjQiWyh8_ZJ6j6aX3wAe6AXyg&usqp=CAU",       
+    "stations": [ 
+     {  
+        "name":"Discovery Channel",
+        "image": "https://www.iptv4k.tv/images/tv/PNu8TAYiUU9q0xS3eqiOxwFxVWtgBwDunnamed_(9).jpg",
+	 "url": "https://player.we-play.tv/channel.php?name=discovery&cate=documentary","referer": "https://player.we-play.tv"    
+  }, 
+    { 
+      "name": "Animal Planet",
+      "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
+       "url": "https://player.we-play.tv/channel.php?name=animalplanet&cate=documentary","referer": "https://player.we-play.tv"
+   }, 
+    { 
+      "name": "Discovery Asia",
+      "image": "https://www.iptv4k.tv/images/tv/74kSfgCkfezcoNLSRfXH3yWvK4h540a%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary","referer": "https://player.we-play.tv"
+   }, 
+    { 
+      "name": "National Geographic",
+      "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
+       "url": "https://player.we-play.tv/channel.php?name=natgeo&cate=documentary","referer": "https://player.we-play.tv"
+  }, 
+    { 
+      "name": "Nat Geo Wild",
+      "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
+       "url": "https://player.we-play.tv/channel.php?name=natwild&cate=documentary","referer": "https://player.we-play.tv"
+  }, 
+    { 
+      "name": "History HD",
+      "image": "https://www.iptv4k.tv/images/tv/aMSptXZDr1VTY1AuenYb8leieP6SIIxunnamed.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=history&cate=documentary","referer": "https://player.we-play.tv"
+  }, 
+    { 
+      "name": "H2",
+      "image": "https://www.iptv4k.tv/images/tv/iqtuRRJIjUHpFmQIMe82qJfvkgzPxffunnamed_(1).jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=h2&cate=documentary","referer": "https://player.we-play.tv"
+     }, 
+    { 
+      "name": "Outdoor Channel",
+      "image": "https://www.iptv4k.tv/images/tv/aSZu0tK0JMPTQEn5z3QMdbKEJKsuoh6201805091959181891278412.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=outdoor&cate=documentary","referer": "https://player.we-play.tv"
+ },
+    { 
+      "name": "Love Nature",
+      "image": "https://www.iptv4k.tv/images/tv/32D9btl5XnaiFPsLprTHZSQl3uFpYl6love-nature-4k.png",              
+       "url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary","referer": "https://player.we-play.tv"
+},
+    { 
+       "name": "BBC Earth",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Moview11yr_5yt.jpg",
+         "url": "https://doomovielive.b-cdn.net/sd-bbcearth_720/index.m3u8","referer": "https://doomovie.com/"
+},
+    { 
+       "name": "BBC Lifestyle",
+        "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
+         "url": "https://doomovielive.b-cdn.net/sd-bbclifestyle_720/index.m3u8","referer": "https://doomovie.com/"
+},
+   {
+     "name": "PSI",
+     "image": "https://sv1.picz.in.th/images/2020/09/26/OPn0AQ.jpg",              
+     "url": "http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8",
+     "import": false
+},
+  {
+      "name": "World Animal",
+      "image": "https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",
+      "url": "http://203.154.243.32:8088/live/wanimal/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+  {
+      "name": "WorldScience",
+      "image": "http://www.chang55.com/movie/upload/movie_img/WORLD-SCIENCE-CH1_Thumb_ef409b82f72270cfd1c025e8429adfae.png",
+      "url": "http://203.154.243.32:8088/live/wsci/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+   },
+]
+  },      
+   { 
+     "name": "การ์ตูน", 
+     "image": "https://www.pngkey.com/png/detail/877-8779194_cartoon-network-nickelodeon-disney-channel-logo-png-cartoon.png",       
+     "stations": [
+
+   {
+     "name":"Cartoonnetwork",
+     "image": "https://www.iptv4k.tv/images/tv/OBQHT2loyeokm8DinZilXAUXsQxdubDsd-cartoonnetwork.png",
+     "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids","referer": "https://player.we-play.tv"
+},
+    { 
+      "name": "Nickelodeon",
+      "image": "https://www.iptv4k.tv/images/tv/bIakPISDzEZRqZpcQvqlmH0JecB3062nickelodeon.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=nickelodeon&cate=kids","referer": "https://player.we-play.tv"
+},
+    { 
+      "name": "Disney XD",
+      "image": "https://www.iptv4k.tv/images/tv/Kc84yStam9gE74mFDZ44Wf3e51OTOwvhd-disneyxd.png",              
+       "url": "https://player.we-play.tv/channel.php?name=disneyxd&cate=kids","referer": "https://player.we-play.tv"
+},
+    { 
+      "name": "Cartoon Club",
+      "image": "https://www.iptv4k.tv/images/tv/Q8ZREIg9pyXw2xZKTTg6tUHeO3lkWtSunnamed_(2).jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=cartoon-club&cate=kids","referer": "https://player.we-play.tv"
+},
+    { 
+      "name": "True Spark Jump",
+      "image": "https://www.iptv4k.tv/images/tv/IXO0FaZtRoNGV3UtLvalVGkAG4whLGYsd-sparkjump.png",              
+       "url": "https://player.we-play.tv/channel.php?name=sparkjump&cate=kids","referer": "https://player.we-play.tv"
+},
+    { 
+      "name": "True Spark Play",
+      "image": "https://www.iptv4k.tv/images/tv/N43vn1jsGohTA2dOOqfHFSKcfNH46hlunnamed_(8).jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=truesparkplay&cate=kids","referer": "https://player.we-play.tv"
+},
+    { 
+      "name": "Aniplus",
+      "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids","referer": "https://player.we-play.tv"
+},
+    { 
+      "name": "BabyTV",
+      "image": "https://www.iptv4k.tv/images/tv/qYekIGTSMHV2vvjAMoYz3q2w94PvGSpunnamed.jpg",              
+       "url": "https://player.we-play.tv/channel.php?name=babytv&cate=kids","referer": "https://player.we-play.tv"
+},
+{ 
+
+     },
+]
+  },      
+    { 
+      "name": "SPORT", 
+      "image": "https://i.pinimg.com/originals/df/6b/02/df6b0274ef07c195f32a2a7a7e7556e6.png",       
+      "stations": [
+
+     {
+       "name":"ID STATION",
+        "image": "https://www.iptv4k.tv/images/tv/xc9jOpkyGo1zQT7uyQv20lCmLmTEJjnidstation.jpg",
+	 "url": "http://stream1.dootvgun.com:5555/live/stream/sports/16.m3u8", 
+         "import": false
+},
+{ 
+        "name":"True Premier Football HD 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+	 "url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd1/","referer": "https://www.andaman888th.com",
+	 
+         
+},
+     {
+       "name":"True Premier Football HD 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+	"url": "https://doomovielive.b-cdn.net/epl-x1_720/index.m3u8","referer": "https://doomovie.com/"  
+       
+},
+     {
+       "name":"True Premier Football HD 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+	 "url": "http://ip2121.com:8081/4kweb/true1/chunks.m3u8", 
+         "import": false
+},
+     {
+       "name":"True Premier Football HD 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd1.jpg",
+	 "url": "https://zanookhd.online/playerHD.php?stream=VmpGYVYySXhWWGROVldoVllUSjRWbFpyV25kVWJIQlhWVzVPYWsxWFVubFhhMlF3WVZaS1dXRkdiRlZoTW1oNldWY3hWMVpXV2xsaFJuQk9VakZGZDFkV1ZtdFdNV1JJVW10b2ExSlVSbkJaYTFaelRsWmFSVk51WkZaaGVrWkhWRlpTVjFWR1dsbFZiazVYWWxoU00xUldXbXRqYkd0NllVWndWMkV6UWpaWFYzUnFUVlphV0ZKdVNtcFNiRnBaVmpCb1ExWkdVbFphUms1WFlrVndNVll5ZUU5Vk1VcFpVV3BHVjFKWGFETlZiWE40WTJzeFZsWnNXbGRTV0VKU1ZsZDBWMVl3TlVkVmJHUldZVE5DY2xsc1ZuZFRWbXh5Vld0MFdsWnNXVEpWYlhCTFZsWmtTVkZyT1dGU1YxSlVWVEJhZG1Wc1pIUmtSbWhUVmxoQk1sWnFSbUZpTWs1MFZXdGthbEp0ZUZOWmJYTXhWREZhZEdOSE5XeGlSa3BaV1RCV1MyRXlTbFpPVld4aFZsZFNkbGxyV2xwbGJVWkpXa1p3YkdGNlZsUlhhMXByVXpGYVYxVnVSbE5pUlVwVFZtdFNRazVSUFQwPQ==",
+         
+},
+     {
+       "name":"True Premier Football HD 2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
+	 "url": "https://doomovielive.b-cdn.net/epl-x2_720/index.m3u8","referer": "https://doomovie.com/"  
+        
+},
+     {
+       "name":"True Premier Football HD 2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd2.jpg",
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd2/","referer": "https://www.andaman888th.com",
+	
+},
+     {
+       "name":"True Premier Football HD 3",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
+	"url": "https://doomovielive.b-cdn.net/epl-x3_720/index.m3u8","referer": "https://doomovie.com/"  
+        
+},
+     {
+       "name":"True Premier Football HD 3",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd3.jpg",
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd3/","referer": "https://www.andaman888th.com",
+	
+},
+     {
+       "name":"True Premier Football HD 4",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
+	"url": "https://doomovielive.b-cdn.net/epl-x4_720/index.m3u8","referer": "https://doomovie.com/"  
+        
+},
+     {
+       "name":"True Premier Football HD 4",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd4.jpg",
+	"url": "https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd4/","referer": "https://www.andaman888th.com",
+	
+},
+     {
+       "name":"True Premier Football HD 5",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
+	 "url": "https://doomovielive.b-cdn.net/epl-x5_720/index.m3u8","referer": "https://doomovie.com/"  
+        
+},
+     {
+       "name":"True Premier Football HD 5",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true-pl-hd5.jpg",
+	 "url": "http://stream1.dootvgun.com:5555/live/stream/sports/5.m3u8", 
+         "import": false
+},
+     {
+       "name":"True Sport HD",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
+	 "url": "http://stream1.dootvgun.com:5555/live/stream/sports/6.m3u8", 
+         "import": false
+},
+     {
+       "name":"True Sport HD",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd.jpg",
+	 "url": "https://doomovielive.b-cdn.net/hd-tsport1_720/index.m3u8","referer": "https://doomovie.com/" 
+         
+},
+     {
+       "name":"True Sport HD2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
+	 "url": "http://stream1.dootvgun.com:5555/live/stream/sports/7.m3u8", 
+         "import": false
+},
+     {
+       "name":"True Sport HD2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd2.jpg",
+	 "url": "https://doomovielive.b-cdn.net/hd-tsport2_720/index.m3u8","referer": "https://doomovie.com/" 
+ },
+     {
+       "name":"True Sport HD3",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
+	 "url": "http://stream1.dootvgun.com:5555/live/stream/sports/8.m3u8", 
+         "import": false        
+},
+     {
+       "name":"True Sport HD3",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/truehd3.jpg",
+	 "url": "https://doomovielive.b-cdn.net/hd-tsport3_720/index.m3u8","referer": "https://doomovie.com/" 
+},
+     {
+       "name":"NBA TV",
+        "image": "https://ballnaka.tv/images/tv/nbatv.webp",
+	 "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/nba","referer": "https://ballnaka.tv/" 
+},
+     {
+       "name":"TRUE TENNIS",
+        "image": "https://ballnaka.tv/images/tv/truetennis.webp",
+	 "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/tennis","referer": "https://ballnaka.tv/" 
+},
+     {
+       "name":"GOLF CHANNEL",
+        "image": "https://ballnaka.tv/images/tv/golfchannel.webp",
+	 "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/golf","referer": "https://ballnaka.tv/" 
+},
+     {
+       "name":"NFL",
+        "image": "http://cms.dmpcdn.com/livetv/2018/12/07/825d4f78-d958-4e43-a338-c767c9273f11.png",
+	 "url": "http://119.161.100.52/true2/link/2EyEV5BXAk2&.m3u8", 
+         "import": false  
+},
+     {
+       "name":"MOTOR VISION",
+        "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
+	 "url": "http://119.161.100.52/true2/link/KVEneWW4azj&.m3u8", 
+         "import": false 
+},
+     {
+       "name":"True Sport 2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true2.jpg",
+	 "url": "http://stream1.dootvgun.com:5555/live/stream/sports/9.m3u8", 
+         "import": false  
+},
+     {
+       "name":"True Sport 5",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true5.jpg",
+	 "url": "https://www.lineballsod.com/doball/live-ch63/","referer": "https://www.lineballsod.com/" 
+},
+     {
+       "name":"True Sport 6",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true6.jpg",
+	 "url": "https://www.lineballsod.com/doball/live-ch64/","referer": "https://www.lineballsod.com/" 
+
+
+
+},
+     {
+       "name":"True Sport 7",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/true7.jpg",
+	 "url": "http://stream1.dootvgun.com:5555/live/stream/sports/10.m3u8", 
+         "import": false 
+
+},
+{ 
+                "name": "FOX Sports HD",
+               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/foxhd.jpg",              
+               "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/fox1","referer" :"https://ballnaka.tv/"
+},
+{ 
+                "name": "FOX Sports 2",
+               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox2.jpg",              
+               "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/fox2","referer" :"https://ballnaka.tv/"
+},
+{ 
+                "name": "FOX Sports 3",
+               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/fox3.jpg",              
+               "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/fox3","referer" :"https://ballnaka.tv/"
+},
+{ 
+                "name": "Bein 1",
+               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
+               "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/bein1","referer" :"https://ballnaka.tv/"
+},
+{ 
+                "name": "Bein 1",
+               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein1.jpg",              
+               "url": "https://cdn1.ufalive.center/zonedooball/bein1/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{ 
+                "name": "Bein 2",
+               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",           
+                "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/bein2","referer" :"https://ballnaka.tv/" 
+},
+{ 
+                "name": "Bein 2",
+               "image": "https://i-movie2u.com/wp-content/uploads/2020/02/bein2.jpg",           
+                "url": "https://cdn1.ufalive.center/zonedooball/bein2/chunks.m3u8","referer" :"https://www.zonedooball.com" 
+},
+     {
+      "name": "hisport",
+      "image": "https://bit.ly/3eek6Co",
+      "url": "http://203.154.243.31:8081/live/hisport/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+      {
+      "name": "World Snooker",
+      "image": "https://wst.tv/wp-content/uploads/2015/06/WS-logo-1024x894.jpg",
+      "url": "http://203.154.243.31:8081/live/snooker/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+      {
+      "name": "TENNIS TV",
+      "image": "https://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",
+      "url": "http://203.154.243.31:8081/live/tennis/index.m3u8 ",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+      {
+      "name": "WTB Sports",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnSxr4TBoJmmQHqxyhn4eHhLviNTJvtbMq4Q&usqp=CAU",
+      "url": "http://203.154.243.32:8088/live/wtb/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+      {
+      "name": "One Golf",
+      "image": "https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png",
+      "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+       "import": false 
+     
+},
+      {
+      "name": "Top Fight",
+      "image": "data:image/jpeg;base64,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",
+      "url": "http://203.154.243.32:8088/live/topfight/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+      {
+      "name": "K-1 World GP HD",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShV4gfqdySQbXHvuILZwxb8YR4AHxfJfMVng&usqp=CAU",
+      "url": "http://203.154.243.32:8088/live/hfs/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+      {
+      "name": "Golf",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG53KkUOJDch-AgzJ1DANgsteURniydpaT8A&usqp=CAU",
+      "url": "http://203.154.243.32:8088/live/golf/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+         ]
+   }, 
+    { 
+    "name": "กีฬาต่างประเทศ", 
+    "image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",       
+    "stations": [ 
+
+          {
+             "name": "Sky Sports Premiere League",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Main Event",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Football",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-football.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Action",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-action.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Arena",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-arena.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Cricket",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-cricket.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports F1",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-f1.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-f1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Golf",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports Mix",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-mix.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports News",  
+             "image": "http://runnel.ir/ax/logo/sky-sports-news.jpg",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sport Bundesliga",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports 1 DE",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skysport1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Sky Sports 2 DE",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skysport2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "BT SPORTS 1",  
+             "image": "http://runnel.ir/ax/logo/BT_Sport_1_Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "BT SPORTS 2",  
+             "image": "http://runnel.ir/ax/logo/BT_Sport_2_Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "BT SPORTS 3",  
+             "image": "http://runnel.ir/ax/logo/BT_Sport_3_Small.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Eurosport 1",  
+             "image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+           },
+          {
+             "name": "Eurosport 2",  
+             "image": "http://runnel.ir/ax/logo/Eurosport-UK-2-Logo.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+        },
+          {
+             "name": "Supersport 1",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 2",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 3",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport3.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport3&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 4",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport4.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport4&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 5",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport5.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport5&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 6",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport6.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport6.png&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 7",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport7.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport7&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 8",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport8.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport8&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 9",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport9.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport9&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 10",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport10.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport10&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 11",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport11.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport11&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Supersport 12",  
+             "image": "https://overseer.blackboxsys.net/images/png/af-supersport12.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport12&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "TSN 1",  
+             "image": "https://overseer.blackboxsys.net/images/png/ca-tsn1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "TSN 2",  
+             "image": "https://overseer.blackboxsys.net/images/png/ca-tsn2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "TSN 3",  
+             "image": "https://overseer.blackboxsys.net/images/png/ca-tsn3.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "TSN 4",  
+             "image": "https://overseer.blackboxsys.net/images/png/ca-tsn4.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "TSN 5",  
+             "image": "https://overseer.blackboxsys.net/images/png/ca-tsn5.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn5&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "Sportsnet 1",  
+             "image": "https://overseer.blackboxsys.net/images/png/ca-sportsnet1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "bein 1 fr",  
+             "image": "https://overseer.blackboxsys.net/images/png/fr-bein1hd.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "bein 2 fr",  
+             "image": "https://overseer.blackboxsys.net/images/png/fr-bein2hd.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "bein 3 fr",  
+             "image": "https://overseer.blackboxsys.net/images/png/fr-bein3hd.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "beinsportmax 4",  
+             "image": "https://overseer.blackboxsys.net/images/png/fr-beinsportmax4.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax4&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "de-bblsport 1",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-bblsport1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "de-bblsport 2",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-bblsport2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-bblsport2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "skysport austria",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-skysportaustria.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysportaustria&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "sportdigital",  
+             "image": "https://overseer.blackboxsys.net/images/png/de-sportdigital.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-sportdigital&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "mysports 1",  
+             "image": "https://overseer.blackboxsys.net/images/png/ch-mysports1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "mysports 2",  
+             "image": "https://overseer.blackboxsys.net/images/png/ch-mysports2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=ch-mysports2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "bein us",  
+             "image": "https://overseer.blackboxsys.net/images/png/us-bein.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=us-bein&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "ESPN 1",  
+             "image": "https://overseer.blackboxsys.net/images/png/us-espn1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=us-espn1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "ESPN 2",  
+             "image": "https://overseer.blackboxsys.net/images/png/us-espn2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=us-espn2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "btsport extra 1",  
+             "image": "https://overseer.blackboxsys.net/images/png/uk-btsportextra1.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra1&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "btsport extra 2",  
+             "image": "https://overseer.blackboxsys.net/images/png/uk-btsportextra2.png",  
+	     "url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra2&api_key=hmcb4rf66f",
+             "referer": "https://dooball66.com/",
+	     "playInNatPlayer": "true"
+},
+          {
+             "name": "MU TV",  
+             "image": "https://i-movie2u.com/wp-content/uploads/2020/02/mutv.jpg",  
+	     "url": "https://doomovielive.b-cdn.net/uk-mutv_480/index.m3u8","referer":"https://doomovie.com",
+             "import": false
+},
+             {"name":"Fox Sports 1 Netherlands",
+               	"image": "https://i.imgur.com/fmont7P.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch276/","referer":"https://www.fifa5t.com"
+},
+
+		{"name":"Fox Sports 2 Netherlands",
+               	"image": "https://i.imgur.com/XKMTyta.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch359/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Fox Sports 3 Netherlands",
+               	"image": "https://i.imgur.com/22yvlvN.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch384/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Fox Sports 4 Netherlands",
+               	"image": "https://i.imgur.com/obJZskL.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch360/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Digi Sport 1 Romania",
+               	"image": "https://i.imgur.com/mIr3Aho.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch280/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Digi Sport 2 Romania",
+               	"image": "https://i.imgur.com/R0x86bJ.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch355/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Digi Sport 3 Romania",
+               	"image": "https://i.imgur.com/hDEgxnL.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch361/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Digi Sport 4 Romania",
+               	"image": "https://i.imgur.com/l0SHReb.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch362/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Gol",
+               	"image": "https://i.imgur.com/nq31cOq.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch283/","referer":"https://www.fifa5t.com"
+ },
+
+		{"name":"Arena Sport 1 Serbia",
+               	"image": "https://i.imgur.com/xllDHdr.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch287/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Arena Sport 2 Serbia",
+               	"image": "https://i.imgur.com/6yetAgw.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch288/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Arena Sport 3 Serbia",
+               	"image": "https://i.imgur.com/Lqqjmkd.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch289/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Arena Sport 4 Serbia",
+               	"image": "https://i.imgur.com/EvZQW6B.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch365/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"sportdigital",
+               	"image": "https://i.imgur.com/GANQHi5.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch292/","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Canal 9 Denmark",
+               	"image": "https://www.ball24.tv/wp-content/themes/ball24/logo/canal9denmark.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch297","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"C More Fotboll",
+               	"image": "https://i.imgur.com/t3ufM2f.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch340","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"C More Live",
+               	"image": "https://www.ball24.tv/wp-content/themes/ball24/logo/cmorelivehd.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch342","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Sportklub 1 Slovenia",
+               	"image": "https://i.imgur.com/SKsjmTQ.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch345","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Sportklub 2 Slovenia",
+               	"image": "https://i.imgur.com/PapDlsc.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch346","referer":"https://www.fifa5t.com" 
+},
+
+		{"name":"Sportklub 4 Slovenia",
+               	"image": "https://i.imgur.com/RAcX7FL.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch347","referer":"https://www.fifa5t.com" 
+},
+
+              {"name":"TV3 Max",
+               	"image": "https://www.ball24.tv/wp-content/themes/ball24/logo/tv3max.png",
+                   	"url": "https://www.fifa5t.com/doballlive/ch349","referer":"https://www.fifa5t.com"
+},
+{               
+              "name": "Digisport 1",
+	      "image": "https://i.imgur.com/mIr3Aho.png",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/digisport1/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+{               
+              "name": "Digisport 2",
+	      "image": "https://i.imgur.com/R0x86bJ.png",                     
+              "url": "https://cdn1.ufalive.center/zonedooball/digisport2/chunks.m3u8","referer" :"https://www.zonedooball.com"
+},
+     {
+       "name":"Skynet Sports hd",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skynethd.jpg",
+	 "url": "https://ip2121.com/web/skynethd/chunks.m3u8", 
+         "import": false 
+},
+     {
+       "name":"Skynet Sports 1",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skynet1.jpg",
+	 "url": "https://ip2121.com/web/skynet1/chunks.m3u8", 
+         "import": false 
+},
+     {
+       "name":"Skynet Sports 2",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skynet2.jpg",
+	 "url": "https://ip2121.com/web/skynet2/chunks.m3u8", 
+         "import": false 
+},
+     {
+       "name":"Skynet Sports 3",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skynet3.jpg",
+	 "url": "https://ip2121.com/web/skynet3/chunks.m3u8", 
+         "import": false 
+},
+     {
+       "name":"Skynet Sports 4",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skynet4.jpg",
+	 "url": "https://ip2121.com/web/skynet4/chunks.m3u8", 
+         "import": false 
+},
+     {
+       "name":"Skynet Sports 5",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skynet5.jpg",
+	 "url": "https://ip2121.com/web/skynet5/chunks.m3u8", 
+         "import": false 
+},
+     {
+       "name":"Skynet Sports 6",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/skynet6.jpg",
+	 "url": "https://ip2121.com/web/skynet6/chunks.m3u8", 
+         "import": false 
+},
+     {
+       "name":"MUTV",
+        "image": "https://i-movie2u.com/wp-content/uploads/2020/02/mutv.jpg",
+	 "url": "https://www.lineballsod.com/doball/live-ch26a/","referer": "https://www.lineballsod.com/" 
+        },
+         ]
+   }, 
+    { 
+    "name": "ภาพยนต์", 
+    "image": "https://www.kindpng.com/picc/m/114-1146405_png-image-peoplepng-com-movie-time-logo-png.png",       
+    "stations": [ 
+
+  {
+     "name": "เร็ว... แรงทะลุนรก 1",  
+     "image": "http://www.chang55.com/movie/upload/movie_img/thumb_177397_baecf3932b729a16a1f5742579162869.jpeg",  
+     "url": "http://guru.smoothboxtv.com/newmovie2/14HlTLjA3xKYoaWmPyqM0_oCG4tVL4NWy.mp4",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
+},
+ {
+   "name": "เร็ว... แรงทะลุนรก 2",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_177392_5732ca4ad2ec06d6811cd27b743223e7.jpeg",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/13yP7KUVIjsVNVCJACQPLu271-O7kgtHa.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "เร็ว... แรงทะลุนรก 3",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_177393_af446a49d3d2d3cd6f9bf1a87bb31e6f.jpeg",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/14IS5i4_HSxngJZFDolQKfJpPuqnlYqKC.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "เร็ว... แรงทะลุนรก 4",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_177395_ce8cb8af1985e4e377a1130844c81244.png",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/140LAQZHGidqsLkAn_8hT63UpthKnpjPx.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "เร็ว..แรงทะลุนรก 5",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_177396_b5a037f40e0094771016934143232cf9.jpeg",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/14D7mgjo-FhqSuqJ7IHnO4Y7zgbzPbgwH.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "เร็ว..แรงทะลุนรก 6",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_177394_dfcd4ad0cf76cb9f245399fc075ec93f.jpeg",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/14-Wc3r67uDafPhxTcQl1q3d1_P_Ji9yq.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "เร็ว..แรงทะลุนรก 7",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_177398_3ce427acb43aa757ca82a35e581a0a2f.jpeg",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/14-tAiKxw-ZPvXW4BJlAF-HsuAaHljUqS.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "เร็ว..แรงทะลุนรก 8",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_177399_6fd2191e0b5edd7225dffda14d76e4e3.png",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/14MiQNEbxQmqgIq1N8eHzCuNwvFcT4SQw.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "เร็ว...แรงทะลุนรก ฮ็อบส์ & ชอว์",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_152789_d4047bda6093bd6b28587352b21f8db7.jpeg",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/1lge4X7A9eaf7tzhBzDLPoRytbvf2PWTn.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "Transformers 1",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_123180_2463645e710d0f485f29affc0317832c.jpeg",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/1QYVoKCP5xtBUoKuQ-CPm6uX3wDQBcgre.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "Transformers 2",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_123293_f66fc204524e278055058c8f41664f81.jpeg",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/1ZIjJlxXHKcRSFhtpX4hrH8ill8sfcOpe.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "Transformers 3",  
+   "image": "http://www.chang55.com/movie/upload/movie_img/thumb_123292_437f0f06bcce9e4155e3c19e294d2384.jpeg",  
+   "url": "http://guru.smoothboxtv.com/newmovie2/1g-iIxzLgOUsFhHsryNVCAaoxQa9WQKpg.mp4",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"	    
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+ {
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+
+
+
+
+          
+   },
+     ]
+     }
+    ]
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
