@@ -281,13 +281,6 @@
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
 },
- {
-     "name": "World Animal",
-     "image": "https://images-na.ssl-images-amazon.com/images/I/816iZ-Y9ynL.jpg", 
-     "url": "http://203.154.243.89:1201",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
-},
    {
       "name": "pet club tv",
       "image": "https://i.vimeocdn.com/video/722791670_640.jpg",
