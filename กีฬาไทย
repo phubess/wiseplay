@@ -76,11 +76,6 @@
  {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-	"url": "https://cdn1.cloud-streaming.live/live/tpf1/sport/tpf1-720/chunks.m3u8","referer": "https://bettopfivemovie.com/"
-},
- {
-       "name":"True Premier Football HD 1",
-        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
 	 "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
          "referer": "https://dooball66.com/",  
         "playInNatPlayer": "true"
@@ -101,11 +96,7 @@
        "name":"True Premier Football HD 2 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
 	"url": "https://ball8k.com/m_/channel.ball8k?stream=epl2","referer": "https://ball8k.com/" 
-},
- {
-       "name":"True Premier Football HD 2 ",
-       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
-       "url": "https://cdn1.cloud-streaming.live/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+
 },
  {
        "name":"True Premier Football HD 3 1080p",
@@ -118,11 +109,7 @@
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
        "url": "https://mediasv.online/live/trueepl3/playlist.m3u8",
        "import": false
-},
- {
-       "name":"True Premier Football HD 3 ",
-       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
-       "url": "https://cdn1.cloud-streaming.live/live/tpf3/sport/tpf3/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+
 },
  {	 
         "name":"True Sports HD 1080p",
@@ -151,11 +138,7 @@
         "name":"True Sports HD",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
 	"url": "https://player.ballnaka.tv/?channel=thd1&cate=sport","referer": "https://ballnaka.tv/"
-},
- {
-       "name":"True Sports HD",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
-	 "url": "https://cdn1.cloud-streaming.live/live/truesporthd1/sport/truesporthd1/chunks.m3u8","referer": "https://bettopfivemovie.com/" 
+
 },
  {
        "name":"True Sports HD",
@@ -194,11 +177,7 @@
          "name":"True Sports HD2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
 	 "url": "https://player.ballnaka.tv/?channel=thd2&cate=sport","referer": "https://ballnaka.tv/"
-},
- {
-       "name":"True Sports HD2",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "https://cdn1.cloud-streaming.live/live/truesporthd2/sport/truesporthd2/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+
 },
  {	 
          "name":"True Sports HD3 1080p",
@@ -228,11 +207,7 @@
          "name":"True Sports HD3",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
 	 "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd3","referer": "https://ball8k.com/"
-},
- {	 
-         "name":"True Sports HD3",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
-	 "url": "https://cdn1.cloud-streaming.live/live/truesporthd3/sport/truesporthd3/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+
 },
  {
        "name":"True Sports HD4 1080p",
@@ -245,11 +220,7 @@
        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
        "url": "https://mediasv.online/live/truesporthd4/playlist.m3u8",
        "import": false
-},
- {
-       "name":"True Sports HD4",
-       "image": "http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
-       "url": "https://cdn1.cloud-streaming.live/live/truesporthd4/sport/truesporthd4/chunks.m3u8","referer": "https://bettopfivemovie.com/"
+
 },
  {
        "name":"NBA TV",
@@ -594,12 +565,6 @@
        "name": "Bein 1",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",              
        "url": "https://player.we-play.tv/channel.php?name=bein1&cate=sports","referer": "https://player.we-play.tv"
-
-},
- { 
-       "name": "Bein 1",
-       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",              
-       "url": "https://cdn1.ufalive.center/zonedooball/bein1/chunks.m3u8","referer" :"https://www.zonedooball.com/"
 },
   { 
        "name": "Bein 2",
@@ -622,11 +587,6 @@
        "name": "Bein 2",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",           
        "url": "https://player.we-play.tv/channel.php?name=bein2&cate=sports","referer": "https://player.we-play.tv"
-},
- { 
-       "name": "Bein 2",
-       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",           
-       "url": "https://cdn1.cloud-streaming.live/live/beinsport2/sport/bein2/chunks.m3u8","referer" :"https://bettopfivemovie.com/"
 },
  { 
        "name": "Tsports",
