@@ -1,73 +1,61 @@
 {
   "name": "phubess", 
-  "author": "update 3/4/64",
+  "author": "update 15/4/64",
   "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
   "stations": [
  {
    "name": "Godzilla vs Kong",  
    "image": "https://www.dailynews.co.th/admin/upload/20210325/news_ExFaZrJMYf162356_533.jpg",  
    "url": "https://xxx.77player.xyz/hls/7b8008717491b6b924298043ea8c3998/7b8008717491b6b924298043ea8c3998.m3u8",
-    "import": false
- },
- {  
+   "import": false
+},
+{  
    "name": "วันเดอร์ วูแมน 1984",  
-   "image": "https://nungdeemak.com/images/movie/mh72Rjd9UlQk0iJG0SaBZw2dlTiEMFT.jpg",  
-   "url": "https://nungth.b-cdn.net/vod/1984mt.mp4"
-  },
- {
-   "name": "สัญญาณสงัด",  
-   "image": "https://thmoviehdd.com/wp-content/uploads/2020/12/36.png",  
-   "url": "https://nungth.b-cdn.net/vod/tmshik.mp4"
- },
- {
-   "name": "นาทีระทึก วันสิ้นโลก",  
-   "image": "https://thmoviehdd.com/wp-content/uploads/2020/11/Greenland-400x571.jpg",  
-   "url": "https://nungth.b-cdn.net/vod/gennd.mp4"
+   "image": "https://movie2du.com/wp-content/uploads/2020/12/e0b8a7e0b8b1e0b899e0b980e0b894e0b8ade0b8a3e0b98c-e0b8a7e0b8b9e0b981e0b8a1e0b899-1984.jpg",  
+   "url": "https://server0.steamplayer.xyz/hls/Ect5bB2DIQ/file_,720,.mp4.urlset/master.m3u8",
+   "import": false
 },
-{
-   "name": "Rogue",  
-   "image": "https://freemovie2020.com/images/movie/61jGwtibL5if52Fmrkn9EuJF6Zdm7Jyaa.jpg",  
-   "url": "https://freemovie2020.com/Rogue-2020","referer": "https://freemovie2020.com/"
+{  
+   "name": "มอนสเตอร์ ฮันเตอร์",  
+   "image": "https://movie2du.com/wp-content/uploads/2020/09/monster-hunter.jpg",  
+   "url": "https://server0.steamplayer.xyz/hls/hIAXksDSBe/file_,1080,.mp4.urlset/master.m3u8",
+   "import": false   
 },
-{
-   "name": "มหาวิบัติเอเลี่ยนถล่มโลก ภาค 2",  
-   "image": "https://freemovie2020.com/images/movie/NjXgrb25pibLbZ062zBLZ0UrQUtKqaK.jpg",  
-   "url": "https://bit.ly/382lOUy","referer": "https://freemovie2020.com/"  
+{  
+   "name": "อ้าย..คนหล่อลวง",  
+   "image": "https://movie2du.com/wp-content/uploads/2020/12/e0b8ade0b989e0b8b2e0b8a2-e0b884e0b899e0b8abe0b8a5e0b988e0b8ade0b8a5e0b8a7e0b887.jpg",  
+   "url": "https://server0.steamplayer.xyz/hls/lctj0Tqzm1/file_,1080,.mp4.urlset/master.m3u8",
+   "import": false   
 },
-{
-   "name": "พี่น้องสังเวียนเถื่อน",  
-   "image": "https://freemovie2020.com/images/movie/UYwvU3mQ1tDmurUrEMwSYg3D2EzAueI.jpg",  
-   "url": "https://bit.ly/3m7Fmw0","referer": "https://freemovie2020.com/"   
+{  
+   "name": "โคตรผีดุแดนสงคราม",  
+   "image": "https://movie2du.com/wp-content/uploads/2021/03/e0b982e0b884e0b895e0b8a3e0b89ce0b8b5e0b894e0b8b8e0b981e0b894e0b899e0b8aae0b887e0b884e0b8a3e0b8b2e0b8a1.jpg",  
+   "url": "https://server0.steamplayer.xyz/hls/ScF5RNkywD/file_,1080,.mp4.urlset/master.m3u8",
+   "import": false   
 },
- {
-   "name": "ราชาแห่งเกาะสแตเทน",  
-   "image": "https://freemovie2020.com/images/movie/D9HqnPA5PuV0HZAlyV2hqfazIxJr2mn.jpg",  
-   "url": "https://bit.ly/3nqSTA0","referer": "https://freemovie2020.com/"    
-},
- {
-   "name": "กลับมาเยี่ยมผี",  
-   "image": "https://freemovie2020.com/images/movie/CoqR0MEYqm6aZkWXkkV7lSonnsATRzVaa.jpg",  
-   "url": "https://bit.ly/3qUDQks","referer": "https://freemovie2020.com/" 
-},
- {
-   "name": "มิวแทนท์รุ่นใหม่",  
-   "image": "https://freemovie2020.com/images/movie/hUD00T1eH0ejH2G2Yar3iyaq3RsraAh.jpg",  
-   "url": "https://bit.ly/3oQlSOk","referer": "https://freemovie2020.com/"    
- },
- {
-   "name": "คอสโมบอล เกมผ่าจักรวาล",  
-   "image": "https://freemovie2020.com/images/movie/gWa2wd7MErjatkPBmQeupx2Cepurumw.jpg",  
-   "url": "https://bit.ly/3mgm081","referer": "https://freemovie2020.com/"   
- },
- {
-   "name": "ผ่ายุทธภูมิล้อมตาย",  
-   "image": "https://freemovie2020.com/images/movie/SyKLhq37ZdbToKhqAh3BMx56AmKXYGdaa.jpg",  
-   "url": "https://bit.ly/3oNYLDL","referer": "https://freemovie2020.com/"   
- },
- {
-   "name": "คนเป็นฝ่านรกซอมบี้",  
-   "image": "https://freemovie2020.com/images/movie/ei0ZFadzYJ4nocYDURdCdwNplvyX1UAaa.jpg",  
-   "url": "https://bit.ly/3aaeSYw","referer": "https://freemovie2020.com/"  
+{  
+   "name": "เทเน็ท",  
+   "image": "https://movie2du.com/wp-content/uploads/2020/08/tenet-1.jpg",  
+   "url": "https://server0.steamplayer.xyz/hls/vlSPpXoAxL/file_,1080,.mp4.urlset/master.m3u8",
+   "import": false   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
  
    
  },
