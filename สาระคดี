@@ -192,7 +192,11 @@
         "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1592281297136_movie_image.jpg",
          "url": "https://mediasv.online/tvchannel_x2/lovenature4k/playlist.m3u8",
          "import": false
-
+},
+  { 
+       "name": "4K LOVE NATURE",
+       "image": "https://niklive.com/kid/movie-tuiptv-moi/backend/web/upload/movie/1592281297136_movie_image.jpg",
+       "url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary","referer": "https://player.we-play.tv"
 },
   { 
        "name": "4K LOVE NATURE",
