@@ -61,48 +61,12 @@
                  "url": "https://bit.ly/39SQkTz",
                  "import": false
       },
- 
-      {
-		"name": "ภาพยนต์",
-                 "image": "https://www.kindpng.com/picc/m/114-1146405_png-image-peoplepng-com-movie-time-logo-png.png",
-                 "url": "https://bit.ly/36YW8ZQ",
-                 "import": false
-    
-      },
- 
-      {
-		"name": "หนังการ์ตูน",
-                 "image": "https://bit.ly/37zNXCt",
-                 "url": "https://bit.ly/36VHuT1",
-                 "import": false
-      },
- 
       {
 		"name": "เวปดูหนัง",
                  "image": "https://pgslotvip.game/wp-content/uploads/2020/09/tips065.jpg",
                  "url": "https://bit.ly/2X4H8E2",
                  "import": false
-      },
- 
-      {
-		"name": "หนังค่ายMARVE&DC",
-                 "image": "https://i.ytimg.com/vi/wbNdhDT8-e0/maxresdefault.jpg",
-                 "url": "https://bit.ly/37Nyzm4",
-                 "import": false
-     },
- 
-      {
-		"name": "คอนเสิร์ต",
-                 "image": "https://bit.ly/33U5XX7",
-                 "url": "https://bit.ly/3lUeXBP",
-                 "import": false
-     },
- 
-      {
-		"name": "หนังจีน",
-                 "image": "https://image.dek-d.com/26/2600661/112662442",
-                 "url": "https://bit.ly/2IsN2Ls",
-                 "import": false
+   
 	},
        ]
 	}
