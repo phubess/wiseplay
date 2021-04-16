@@ -75,10 +75,9 @@
 },
  {
        "name":"True Premier Football HD 1",
-        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-	 "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
-         "referer": "https://dooball66.com/",  
-        "playInNatPlayer": "true"
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/dooball66-epl1_720/playlist.m3u8",
+       "import": false
 },
  {
        "name":"True Premier Football HD 2 1080p",
