@@ -27,6 +27,12 @@
         "import": false
 },
  {
+       "name":"True Premier Football HD 1 1080p",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/epl-1_1080/playlist.m3u8", 
+        "import": false
+},
+ {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lbx-epl1_720/chunks.m3u8", 
@@ -86,6 +92,12 @@
 	"import": false
 },
  {
+       "name":"True Premier Football HD 2 1080p",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
+	"url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/epl-2_1080/playlist.m3u8",
+	"import": false
+},
+ {
        "name":"True Premier Football HD 2 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
 	"url": "https://mediasv.online/live/trueepl2/playlist.m3u8",
@@ -104,11 +116,40 @@
        "import": false
 },
  {
+       "name":"True Premier Football HD 3 1080p",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/epl-3_1080/playlist.m3u8",
+       "import": false
+},
+ {
        "name":"True Premier Football HD 3 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
        "url": "https://mediasv.online/live/trueepl3/playlist.m3u8",
        "import": false
-
+},
+ {
+       "name":"True Premier Football HD 4 1080p",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/epl-x4_1080/playlist.m3u8",
+       "import": false
+},
+ {
+       "name":"True Premier Football HD 4 1080p",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/epl-4_1080/playlist.m3u8",
+       "import": false
+},
+ {
+       "name":"True Premier Football HD 5 1080p",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/epl-x5_1080/playlist.m3u8",
+       "import": false
+},
+ {
+       "name":"True Premier Football HD 5 1080p",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/epl-5_1080/playlist.m3u8",
+       "import": false
 },
  {	 
         "name":"True Sports HD 1080p",
