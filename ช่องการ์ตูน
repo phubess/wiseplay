@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 12/4/2021",
+      "author": "update 16/4/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -174,6 +174,12 @@
       "name": "BabyTV ",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
       "url": "https://mediasv.online/tvchannel_x2/hd-babytv/playlist.m3u8",
+      "import": false
+},
+ { 
+      "name": "Disney Channel",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-disneyxd_1080/chunks.m3u8",
       "import": false
 },
  { 
