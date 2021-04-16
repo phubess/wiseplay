@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 15/4/2021",
+    "author": "update 16/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -53,6 +53,12 @@
       "name": "Animal Planet ",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-animalplanet_720/chunks.m3u8",
+       "import": false
+}, 
+  { 
+      "name": "Animal Planet ",
+      "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-animalplanet_480/chunks.m3u8",
        "import": false
 }, 
   { 
