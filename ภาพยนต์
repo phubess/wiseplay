@@ -1,0 +1,75 @@
+{
+  "name": "phubess", 
+  "author": "update 15/4/64",
+  "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+  "stations": [
+ {
+   "name": "Godzilla vs Kong",  
+   "image": "https://www.dailynews.co.th/admin/upload/20210325/news_ExFaZrJMYf162356_533.jpg",  
+   "url": "https://xxx.77player.xyz/hls/7b8008717491b6b924298043ea8c3998/7b8008717491b6b924298043ea8c3998.m3u8",
+   "import": false
+},
+{  
+   "name": "แบทแมน ปะทะ ซูเปอร์แมน",  
+   "image": "https://www.jintjint.com/wp-content/uploads/2020/05/358873fad4914931314b94f2036b503a_XL.jpg",  
+   "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas03/mvc/m/inter/Batman-v-superman-dawn-of-justice/Batman-v-superman-dawn-of-justice_T.mp4/index.m3u8",
+   "import": false
+},
+{  
+   "name": "แบทแมน-1",  
+   "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1572004466638_movie_image.jpg",  
+   "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas03/mvc/m/inter/Batman-Begins/Batman-Begins_T.mp4/index.m3u8",
+   "import": false
+},
+{  
+   "name": "แบทแมน-2",  
+   "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1572004603284_movie_image.jpg",  
+   "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas03/mvc/m/inter/Batman/The-Dark-Knight_T.mp4/index.m3u8",
+   "import": false   
+},
+{  
+   "name": "แบทแมน-3",  
+   "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1612368900953_movie_image.jpg",  
+   "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas03/mvc/m/inter/Batman/The-Dark-Knight-Rises_T.mp4/index.m3u8",
+   "import": false  
+},
+{  
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "import": false   
+},
+{  
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "import": false   
+},
+{  
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "import": false   
+},
+{  
+   "name": "",  
+   "image": "",  
+   "url": "",
+   "import": false   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+   
+ },
+]
+}
