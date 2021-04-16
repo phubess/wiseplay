@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 15/4/2021",
+    "author": "update 16/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -559,6 +559,11 @@
       "url": "https://boxmovielive.com/live/3bb.m3u8",
       "import": false
 },
+  { 
+     "name": " ASIA Series ",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452973109_movie_image.jpg",              
+      "url": "https://cdnlivetv.lion-cdnstreaming.com/tvlion/3bbasian/playlist.m3u8","referer": "https://www.liontv.online/"
+ },
   { 
      "name": "SERiES+HD b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610452783954_movie_image.jpg",              
