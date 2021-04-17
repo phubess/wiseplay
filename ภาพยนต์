@@ -13,10 +13,11 @@
    "image": "https://www.myplayhd.com/post-img/13042021185212-New%20Gods.jpg",  
    "url": "https://server4.mawintv2.com/hls/XVU7Wyv/file_,1080,720,360,.mp4.urlset/master.m3u8",
    "import": false 
-},
+}
 ]
 },
-  { 
+{
+   
    "name": "ซิทคอม",
    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbm9ZRMI01fP0JKKFSPRAziRLdGYR8basOyQ&usqp=CAU", 
    "stations": [ 
