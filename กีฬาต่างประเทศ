@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 14/4/2021",
+    "author": "update 17/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -11,11 +11,10 @@
       "playInNatPlayer": "true"
 },     
 {
-      "name": "GFS Hi Fight ",
-      "image": "https://il.mahidol.ac.th/upload/img/2020-11-10-025443.jpg",
-      "url": "http://203.154.243.89:1422",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
+      "name": "EUROSPORT",
+      "image": "https://api.blackboxsys.net/images/png/th-eurosport.png?v=6.1",
+      "url": "https://dbsport-n1.worldwidetv.club:449/wwtv-live-o33-th/liveorigin/th-eurosport_720/playlist.m3u8",
+      "import": false
 },     
 {
       "name": "",
