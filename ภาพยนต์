@@ -1,7 +1,6 @@
 {
-  "name": "phubess", 
-  "author": "update 16/4/64",
-  "image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+  "name": "ภาพยนต์", 
+  "image": "https://www.kindpng.com/picc/m/114-1146405_png-image-peoplepng-com-movie-time-logo-png.png",  
   "stations": [
  {
    "name": "Godzilla vs Kong",  
@@ -13,9 +12,23 @@
    "name": " นาจา เกิดอีกครั้งก็ยังเทพ",  
    "image": "https://www.myplayhd.com/post-img/13042021185212-New%20Gods.jpg",  
    "url": "https://server4.mawintv2.com/hls/XVU7Wyv/file_,1080,720,360,.mp4.urlset/master.m3u8",
-   "import": false   
-
-   
+   "import": false 
+},
+]
+},
+  { 
+   "name": "ซิทคอม",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbm9ZRMI01fP0JKKFSPRAziRLdGYR8basOyQ&usqp=CAU", 
+   "stations": [ 
+{ 
+   "name": "เป็นต่อ ep.1",
+   "image": "https://bit.ly/3ssHWQa",              
+   "url": "https://www.we-play.tv/watching/series/pentor-2004/season2021/ep1","referer": "https://player.we-play.tv"
+},
+{
+   "name": "เป็นต่อ ep.2",
+   "image": "https://bit.ly/3ssHWQa",              
+   "url": "https://www.we-play.tv/watching/series/pentor-2004/season2021/ep2","referer": "https://player.we-play.tv
    
    
    
