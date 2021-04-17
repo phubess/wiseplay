@@ -1,6 +1,6 @@
 {  
     "name": "เวปดูหนัง",
-    "author": "update 16/4/2021",
+    "author": "update 17/4/2021",
     "image": "https://pgslotvip.game/wp-content/uploads/2020/09/tips065.jpg",       
     "stations": [ 
  { 
@@ -8,6 +8,11 @@
     "name": "movie2du",  
     "image": "https://movie2du.com/wp-content/uploads/2020/08/MOVIE2DU-LOGO-1.png", 
     "url": "https://movie2du.com/","embed": true 
+  },
+ {   
+   "name": "we-play",  
+    "image": "https://www.we-play.tv/images/logo.png", 
+    "url": "https://www.we-play.tv/","embed": true 
  },
  {   
    "name": "doomoviehdfree",  
