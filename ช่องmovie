@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 16/4/2021",
+    "author": "update 17/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -266,8 +266,8 @@
       "playInNatPlayer": "true"
 },
   {
-     "name": "FX",
-     "image": "https://www.tvchinese.net/uploads/tv/fxhd.jpg",              
+     "name": "universal",
+     "image": "https://cdn.britannica.com/77/103077-050-3B757C75/logo-Universal-Studios.jpg",              
      "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8", 
       "import": false
 },
