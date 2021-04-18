@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 15/4/2021",
+    "author": "update 18/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -10,7 +10,7 @@
 },
  {
        "name":"ID STATION",
-        "image": "https://cms.dmpcdn.com/livetv/2021/04/09/50df4b80-98f6-11eb-98ca-af66c9d06b69_320.jpg",
+        "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
         "url": "https://cdn-edge-sg2.idoohd.com/play/14aa63b69ddb8503409615b783aad96b/3e7e5349c2281a9d95f71a5baddb2cd0/1618525031/playlist.m3u8", 
         "import": false
 },
