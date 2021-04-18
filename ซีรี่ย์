@@ -1,0 +1,95 @@
+{ 
+   "name": "ซีรี่ย์&ซิทคอม",
+   "author": "update 18/4/2021",
+   "url": "??",
+   "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
+   "groups": [   
+{
+   "name": "เป็นต่อ 2021", 
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",       
+    "stations": [ 
+{ 
+  
+    "name":"EP.1",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server5.mawintv2.com/hls/ma5TReH/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false 
+}, 
+{      
+    "name":"EP.2",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server5.mawintv2.com/hls/7JqndXd/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false 
+}, 
+{      
+    "name":"EP.3",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server5.mawintv2.com/hls/T8DRD8G/file_,720,.mp4.urlset/master.m3u8",
+    "import": false     
+}, 
+{      
+    "name":"EP.4",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server4.mawintv2.com/hls/XtA4dW6/file_,720,.mp4.urlset/master.m3u8",
+    "import": false     
+}, 
+{      
+    "name":"EP.5",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server4.mawintv2.com/hls/Tqg19k1/file_,720,.mp4.urlset/master.m3u8",
+    "import": false     
+}, 
+{      
+    "name":"EP.6",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server5.mawintv2.com/hls/EdcKAxa/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+}, 
+{      
+    "name":"EP.7",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server4.mawintv2.com/hls/W2UK6Zl/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+}, 
+{      
+    "name":"EP.8",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server5.mawintv2.com/hls/vxaFdt7/file_,720,.mp4.urlset/master.m3u8",
+    "import": false    
+}, 
+{      
+    "name":"EP.9",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server4.mawintv2.com/hls/mXzJldm/file_,720,.mp4.urlset/master.m3u8",
+    "import": false     
+}, 
+{      
+    "name":"EP.10",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server5.mawintv2.com/hls/t5mBcpw/file_,720,.mp4.urlset/master.m3u8",
+    "import": false     
+}, 
+{      
+    "name":"EP.11",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server4.mawintv2.com/hls/6MHZ8Qf/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+}, 
+{      
+    "name":"EP.12",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server4.mawintv2.com/hls/35oudoB/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+}, 
+{      
+    "name":"EP.13",
+    "image": "https://www.myplayhd.com/post-img/20012021235318-afe2b5725ef7dd7fe727750dba66a1e8.jpg",
+    "url": "https://server5.mawintv2.com/hls/R48imAN/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+
+]
+}
+]
+}
+ 
