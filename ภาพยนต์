@@ -29,12 +29,12 @@
 { 
     "name":"เป็นต่อ ep.1",
     "image": "https://bit.ly/3ssHWQa",
-    "url": "https://www.we-play.tv/watching/series/pentor-2004/season2021/ep1","referer": "https://player.we-play.tv"     
+    "url": "","referer": "https://player.we-play.tv"     
 }, 
 {  
     "name":"เป็นต่อ ep.2",
     "image": "https://bit.ly/3ssHWQa",
-    "url": "https://www.we-play.tv/watching/series/pentor-2004/season2021/ep2","referer": "https://player.we-play.tv"  
+    "url": "","referer": "https://player.we-play.tv"  
 },
 
 ]
