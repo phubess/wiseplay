@@ -63,8 +63,6 @@
     "image": "https://www.myplayhd.com/post-img/25032021072622-5659711ff33d5e7c4e327c72e97b024e.jpg",       
     "stations": [ 
 { 
-  
-  
     "name":"EP.1",
     "image": "https://www.myplayhd.com/post-img/25032021072622-5659711ff33d5e7c4e327c72e97b024e.jpg",
     "url": "https://server5.mawintv2.com/hls/XJ4DAKY/file_,1080,720,360,.mp4.urlset/master.m3u8",
@@ -346,7 +344,7 @@
 {      
     "name":"EP.5",
     "image": "https://www.myplayhd.com/post-img/20012021235712-78ebc2aca08bbf3379d4aefc68435d5b.jpg",
-    "url": ""https://server5.mawintv2.com/hls/27ZrKpi/file_,720,.mp4.urlset/master.m3u8,
+    "url": "https://server5.mawintv2.com/hls/27ZrKpi/file_,720,.mp4.urlset/master.m3u8",
     "import": false    
 }, 
 {      
@@ -401,4 +399,7 @@
     "name":"EP.14",
     "image": "https://www.myplayhd.com/post-img/20012021235712-78ebc2aca08bbf3379d4aefc68435d5b.jpg",
     "url": "https://server5.mawintv2.com/hls/ipbn4TI/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false   
+    "import": false 
+},
+]
+}
