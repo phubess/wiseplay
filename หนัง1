@@ -1,6 +1,6 @@
  { 
    "name": "video",
-   "author": "update 18/4/2021",
+   "author": "update 19/4/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
@@ -367,8 +367,82 @@
     "image": "https://www.myplayhd.com/post-img/22022021005655-33.jpg",
     "url": "https://server4.mawintv2.com/hls/9A8hSCu/file_,1080,720,360,.mp4.urlset/master.m3u8",
     "import": false 
- 
- 
+},
+{    
+    "name":"ยุทธการวินาศกรรมข้ามแผ่นดิน",
+    "image": "https://www.myplayhd.com/post-img/22022021005423-29.jpg",
+    "url": "https://server5.mawintv2.com/hls/JTVawiT/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false 
+},
+{    
+    "name":"7 คืนหาดสวรรค์ 6 วันอันตราย",
+    "image": "https://www.myplayhd.com/post-img/22022021005231-26.jpg",
+    "url": "https://server5.mawintv2.com/hls/sSyEe4O/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false 
+},
+{    
+    "name":"ผ่าขุมทรัพย์ ทะเลโหด",
+    "image": "https://www.myplayhd.com/post-img/22022021005005-22.jpg",
+    "url": "https://server4.mawintv2.com/hls/EVP7y53/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"นักฆ่ากระสุนโลกันต์",
+    "image": "https://www.myplayhd.com/post-img/22022021004847-21.jpg",
+    "url": "https://server5.mawintv2.com/hls/UIHHQhk/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"คนชนนรก",
+    "image": "https://www.myplayhd.com/post-img/22022021004342-13.jpg",
+    "url": "https://server4.mawintv2.com/hls/vPtiUMn/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false     
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false     
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 },
 ]
 }
