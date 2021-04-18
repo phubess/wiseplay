@@ -48,9 +48,15 @@
     "import": false
 },
 {
-    "name": "ภาพยนต์&ซีรี่ย์",
+    "name": "ภาพยนต์",
     "image": "https://bit.ly/3mV00l7",
-    "url": "https://bit.ly/3xdsdbF",
+    "url": "https://bit.ly/3ecgMbh",
+    "import": false
+},
+{
+    "name": "ซีรี่ย์",
+    "image": "https://hotseries.club/wp-content/uploads/2019/07/56.Logohotseries.club_.png",
+    "url": "https://bit.ly/3akertD",
     "import": false
 },
 {
