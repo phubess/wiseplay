@@ -43,7 +43,7 @@
 },
 {
     "name": "กีฬาต่างประเทศ",
-    "image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
+    "image": "https://asv-wesseling.com/wp-content/uploads/2020/07/Sports-Events.jpg",
     "url": "https://bit.ly/3n0bXF9",
     "import": false
 },
@@ -51,6 +51,12 @@
     "name": "ภาพยนต์",
     "image": "https://bit.ly/3mV00l7",
     "url": "https://bit.ly/3aj2K6L",
+    "import": false
+},
+{
+    "name": "หนังการ์ตูน",
+    "image": "https://bit.ly/3su7Mn9",
+    "url": "https://bit.ly/3amoI8L",
     "import": false
 },
 {
