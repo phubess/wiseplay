@@ -1,6 +1,6 @@
  { 
    "name": "video",
-   "author": "update 19/4/2021",
+   "author": "update 20/4/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
@@ -399,10 +399,190 @@
     "import": false     
 },
 {    
+    "name":"คู่ใหญ่ฟัดเต็มสปีด",
+    "image": "https://www.myplayhd.com/post-img/22022021004116-9.jpg",
+    "url": "https://server4.mawintv2.com/hls/WPuD0KP/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ทะลุโลกหลุดจักรวาล",
+    "image": "https://www.myplayhd.com/post-img/22022021003900-6.jpg",
+    "url": "https://server4.mawintv2.com/hls/DBx3poS/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"เบลด พันธุ์ฆ่าอมตะ",
+    "image": "https://www.myplayhd.com/post-img/22022021003814-5.jpg",
+    "url": "https://server5.mawintv2.com/hls/wf5DV5J/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ส.ว.า.ท. หน่วยจู่โจมระห่ำโลก",
+    "image": "https://www.myplayhd.com/post-img/21022021092645-S.W.A.T.%20FIREFIGHT%20(2011)%202.jpg",
+    "url": "https://server5.mawintv2.com/hls/SpW2YlG/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"อีหนูดุทะลุโลก",
+    "image": "https://bit.ly/3sCcgIw",
+    "url": "https://server5.mawintv2.com/hls/p9Z5SrL/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"เกมสังหารมหากาฬ",
+    "image": "https://www.myplayhd.com/post-img/20022021104741-ASSASSINATION%20GAMES%20(2011)%204.jpg",
+    "url": "https://server4.mawintv2.com/hls/0FfV95I/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"แหกด่านข้าศึกนรกประจัญบาน",
+    "image": "https://www.myplayhd.com/post-img/20022021100130-AGE%20OF%20HEROES%20(2011)%202.jpg",
+    "url": "https://server4.mawintv2.com/hls/h3QlucX/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ระห่ำเกินตาย",
+    "image": "https://www.myplayhd.com/post-img/20022021094120-Colombiana%20(2011)%204.jpg",
+    "url": "https://server5.mawintv2.com/hls/gEuRC3H/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"กัปตันอเมริกา",
+    "image": "https://www.myplayhd.com/post-img/20022021043020-Captain%20America%202.jpg",
+    "url": "https://server4.mawintv2.com/hls/aD4A6hT/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"นักบุญปีศาจ",
+    "image": "https://www.myplayhd.com/post-img/19022021033411-Priest%20%204.jpg",
+    "url": "https://server5.mawintv2.com/hls/m38QdNd/file_,1080,720,360,.mp4.urlset/master.m3u",
+    "import": false     
+},
+{    
+    "name":"ปล้นเที่ยวบินเย้ยระฟ้า",
+    "image": "https://www.myplayhd.com/post-img/19022021021155-assaut%20(2010)%202.jpg",
+    "url": "https://server4.mawintv2.com/hls/uLDXD4A/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"คู่กล้าฝ่าวิกฤตสะท้านโลก",
+    "image": "https://www.myplayhd.com/post-img/19022021015737-Fair%20Game%20(2010)%202.jpg",
+    "url": "https://server4.mawintv2.com/hls/tMhUiAb/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ฝังแค้นแรงระห่ำนรก",
+    "image": "https://www.myplayhd.com/post-img/19022021015528-Faster%20(2010)%202.jpg",
+    "url": "https://server5.mawintv2.com/hls/jgK2eoM/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"หน่วยพิฆาตเดนตาย",
+    "image": "https://www.myplayhd.com/post-img/19022021014836-The%20A-Team%20(2010)%202.jpg",
+    "url": "https://server4.mawintv2.com/hls/7T2NTf4/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"รหัสกระสุนเจาะกะโหลก",
+    "image": "https://www.myplayhd.com/post-img/19022021014746-13%20Thirteen%20(2010)%202.jpg",
+    "url": "https://server5.mawintv2.com/hls/c9WuCBt/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"คู่อึดไม่มีเอาท์",
+    "image": "https://www.myplayhd.com/post-img/19022021014857-Cop%20Out%20(2010)%202.jpg",
+    "url": "https://server5.mawintv2.com/hls/RuTrIXd/file_,720,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ฮีโร่หน้าบากมหากาฬ",
+    "image": "https://www.myplayhd.com/post-img/19022021014242-Jonah%20Hex%20(2010)%202.jpg",
+    "url": "https://server4.mawintv2.com/hls/monAZiy/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"คนทมิฬกำปั้นทุบนรก 3",
+    "image": "https://www.myplayhd.com/post-img/19022021013912-Undisputed%203.jpg",
+    "url": "https://server4.mawintv2.com/hls/GebrFYm/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"มหากาฬพรีเดเตอร์",
+    "image": "https://bit.ly/3n47LoH",
+    "url": "https://server4.mawintv2.com/hls/8Qor1qB/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"โคตรคนพยัคฆ์ร้ายกับหวานใจมหาประ",
+    "image": "https://www.myplayhd.com/post-img/19022021011807-Knight%20and%20Day%20Story%20(2010)%202.jpeg",
+    "url": "https://server4.mawintv2.com/hls/545e08V/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"สวย กล้า ท้าอันตราย",
+    "image": "https://www.myplayhd.com/post-img/19022021011520-Miss%20Bala%20(2019)%202.jpeg",
+    "url": "https://server5.mawintv2.com/hls/rdY81ku/file_,720,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"เรโปเม็น หน่วยนรก ล่าผ่าแหลก",
+    "image": "https://www.myplayhd.com/post-img/19022021010737-Repo%20Men%20(2010)%202.jpg",
+    "url": "https://server5.mawintv2.com/hls/tcXPOhi/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"โคตรทีม อ.ต.ร. แพ้ไม่เป็น",
+    "image": "https://www.myplayhd.com/post-img/18022021085144-The%20Losers%20(2010)%202.jpg",
+    "url": "https://server4.mawintv2.com/hls/eDrjmnO/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"คนอึดต้องกลับมาอึด",
+    "image": "https://www.myplayhd.com/post-img/18022021083312-RED%20(2010)%202.jpeg",
+    "url": "https://server4.mawintv2.com/hls/lbaVZyC/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ดิ เอ็กซ์เพ็นเดเบิลส์",
+    "image": "https://www.myplayhd.com/post-img/18022021073733-The%20Expendables%202.jpeg",
+    "url": "https://server4.mawintv2.com/hls/kSzK30X/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ด่วนวินาศ หยุดไม่อยู่",
+    "image": "https://www.myplayhd.com/post-img/18022021073505-Unstoppable%20(2010)%202.jpg",
+    "url": "https://server4.mawintv2.com/hls/cSxuDLz/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false                                              
+},
+{    
+    "name":"เรซิเดนต์อีวิล 4",
+    "image": "https://www.myplayhd.com/post-img/18022021073301-Resident%20Evil%204.jpg",
+    "url": "https://server5.mawintv2.com/hls/DGlPhTi/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false   
+},
+{    
+    "name":"สวยสังหาร",
+    "image": "https://www.myplayhd.com/post-img/18022021071201-Salt%20(2010)%202.jpg",
+    "url": "https://server4.mawintv2.com/hls/ErBWr47/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ปรินส์ออฟเปอร์เซีย",
+    "image": "https://www.myplayhd.com/post-img/18022021070840-Prince%20of%20Persia%202.jpg",
+    "url": "https://server5.mawintv2.com/hls/xXcqbEn/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"จิตพิฆาตโลก",
+    "image": "https://www.myplayhd.com/post-img/18022021065521-Inception%20(2010)%202.jpeg",
+    "url": "https://server4.mawintv2.com/hls/t6qbXQ7/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
     "name":"",
     "image": "",
     "url": "",
-    "import": false     
+    "import": false
 },
 {    
     "name":"",
@@ -420,20 +600,37 @@
     "name":"",
     "image": "",
     "url": "",
-    "import": false     
+    "import": false    
 },
 {    
     "name":"",
     "image": "",
     "url": "",
-    "import": false     
-    
-    
-    
-    
-    
-    
-    
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
     
     
     
