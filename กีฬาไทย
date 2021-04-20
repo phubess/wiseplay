@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 19/4/2021",
+    "author": "update 20/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -31,6 +31,13 @@
        "name":"True Premier Football HD 1 ",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/195.m3u8",
+        "userAgent": "ProPlayer",
+        "playInNatPlayer": "true" 
+},
+ {
+       "name":"True Premier Football HD 1 ",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "http://203.159.94.81:8080/epl/vEVscQ8Zmx/1",
         "userAgent": "ProPlayer",
         "playInNatPlayer": "true" 
 },
@@ -132,16 +139,11 @@
        "import": false
 },
  {	 
-        "name":"True Sports HD 1080p",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-tsport1_1080/chunks.m3u8",
-	"import": false
-},
- {	 
         "name":"True Sports HD",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-tsporthd1_720/chunks.m3u8",
-	"import": false
+	"url": "http://203.159.94.81:8080/truesporthd3/OKfQtgq8Uc/26",
+	"userAgent": "ProPlayer",
+        "playInNatPlayer": "true" 
 },
  {	 
         "name":"True Sports HD",
@@ -197,20 +199,13 @@
          "name":"True Sports HD2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
 	 "url": "https://player.ballnaka.tv/?channel=thd2&cate=sport","referer": "https://ballnaka.tv/"
-
-},
- {	 
-         "name":"True Sports HD3 1080p",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
-	 "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-tsport3_720/chunks.m3u8",
-	 "import": false
 },
  {	 
          "name":"True Sports HD3",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
-	 "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-tsporthd3_720/chunks.m3u8",
-	 "import": false
-
+	"url": "http://203.159.94.81:8080/truesporthd3/OKfQtgq8Uc/26",
+	"userAgent": "ProPlayer",
+        "playInNatPlayer": "true" 
 },
  {	 
          "name":"True Sports HD3",
