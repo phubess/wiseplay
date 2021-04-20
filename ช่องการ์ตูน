@@ -1,17 +1,10 @@
 { 
       "name": "phubess", 
-      "author": "update 16/4/2021",
+      "author": "update 20/4/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
-       "name":"kidz",
-        "image": "https://images.u-playtv.com/images/tv/channels_icons/uplay-kidz.png",
-        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/uplay-kidz_720/playlist.m3u8",
-        "import": false
-},
- { 
-
-       "name":"Cartoon Network ",
+        "name":"Cartoon Network ",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-cartoonnetwork_720/chunks.m3u8",
         "import": false
@@ -28,18 +21,6 @@
        "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/172.m3u8",
        "userAgent": "ProPlayer",
        "playInNatPlayer": "true"  
-},
- { 
-        "name":"Cartoon Network ",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-cartoonnetwork_720/chunks.m3u8",
-        "import": false
-},
- { 
-        "name":"Cartoon Network ",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-cartoonnetwork_480/playlist.m3u8",
-        "import": false
 },
  { 
        "name":"Cartoon Network",
@@ -60,7 +41,7 @@
  { 
         "name":"Cartoon Network b",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://boxmovielive.com/live/cn111.m3u8",
+        "url": "https://boxmovielive.com/live/cn.m3u8",
         "import": false
 
 },
@@ -175,6 +156,13 @@
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
       "url": "https://mediasv.online/tvchannel_x2/hd-babytv/playlist.m3u8",
       "import": false
+},
+ { 
+      "name": "BabyTV",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png", 
+      "url": "http://203.159.94.81:8080/BaByTv/ReFpHv1NUd/15",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"
 },
  { 
       "name": "Disney Channel",
