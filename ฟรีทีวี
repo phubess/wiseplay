@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 19/4/2021",
+    "author": "update 20/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -9,6 +9,13 @@
     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/84.m3u8",
     "userAgent": "ProPlayer",
     "playInNatPlayer": "true" 
+},
+{
+    "name":"",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
+    "url": "http://203.159.94.81:8080/3hd/00nW1WISQg/34",
+    "userAgent": "ProPlayer",
+    "playInNatPlayer": "true"
 },
 {
     "name":"",
@@ -264,16 +271,11 @@
     "import": false
 },
   { 
-    "name":"1080p",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-gmmone_1080/chunks.m3u8",
-    "import": false
-},
-  { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-gmmone_720/chunks.m3u8",
-    "import": false
+    "url": "http://203.159.94.81:8080/one/DMsvruKYIm/38",
+    "userAgent": "ProPlayer",
+    "playInNatPlayer": "true"
 },
   { 
     "name":"",
@@ -300,16 +302,11 @@
     "playInNatPlayer": "true"
  },
   { 
-    "name":"1080p",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-thairath_1080/chunks.m3u8",
-    "import": false
- },
-  { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-thairath_720/chunks.m3u8",
-    "import": false
+    "url": "http://203.159.94.81:8080/thairath/vhZ3jlrSa5/40",
+    "userAgent": "ProPlayer",
+    "playInNatPlayer": "true"
  },
   { 
     "name":"",
