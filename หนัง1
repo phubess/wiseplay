@@ -1,6 +1,6 @@
  { 
    "name": "video",
-   "author": "update 20/4/2021",
+   "author": "update 21/4/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
@@ -579,16 +579,130 @@
     "import": false    
 },
 {    
-    "name":"",
-    "image": "",
-    "url": "",
+    "name":"Mission Impossible 4",
+    "image": "https://www.myplayhd.com/post-img/18022021065346-Mission%20Impossible%200.jpg",
+    "url": "https://server7.mawintv2.com/hls/L2PsLjO/file_,1080,720,360,.mp4.urlset/master.m3u8",
     "import": false
 },
 {    
+    "name":"คู่ระห่ำ ฝรั่งแสบ",
+    "image": "https://www.myplayhd.com/post-img/18022021062917-From%20Paris%20with%20Love%202.jpg",
+    "url": "https://server7.mawintv2.com/hls/ylH97A5/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"22 นัด ยมบาลล้างยมบาล",
+    "image": "https://www.myplayhd.com/post-img/18022021062408-22%20Bullets.png",
+    "url": "https://server7.mawintv2.com/hls/AoyiyjA/file_,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ขังฮีโร่ โค่นอำนาจ",
+    "image": "https://www.myplayhd.com/post-img/18022021031840-Law%20Abiding%20Citizen%20(2009)%204.jpg",
+    "url": "https://server4.mawintv2.com/hls/QTEUbe2/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"จีไอโจ สงครามพิฆาตคอบร้าทมิฬ",
+    "image": "https://www.myplayhd.com/post-img/18022021030048-The%20Rise%20of%20Cobra%20(2009)%204.jpg",
+    "url": "https://server4.mawintv2.com/hls/02YUL6V/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"พลิกตำนานสงครามมรณะ",
+    "image": "https://www.myplayhd.com/post-img/18022021013919-36.jpg",
+    "url": "https://server7.mawintv2.com/hls/3F1RvOi/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"กับดักพยัคฆ์เหนือเมฆ",
+    "image": "https://www.myplayhd.com/post-img/18022021013748-34.jpg",
+    "url": "https://server4.mawintv2.com/hls/KdNiCBA/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"โคตรเคี่ยมบึงนรก",
+    "image": "https://www.myplayhd.com/post-img/18022021013704-33.jpg",
+    "url": "https://server4.mawintv2.com/hls/34wqFHp/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ฉกขุมทรัพย์มหาภัยขุมทอง",
+    "image": "https://www.myplayhd.com/post-img/18022021013453-30.jpg",
+    "url": "https://server7.mawintv2.com/hls/Wuzz2WQ/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"U-571 ดิ่งเด็ดขั้วมหาอำนาจ",
+    "image": "https://www.myplayhd.com/post-img/18022021012931-21.jpg",
+    "url": "https://server7.mawintv2.com/hls/LjwL6Hi/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"สตาร์ วอร์ส เอพพิโซด 1",
+    "image": "https://www.myplayhd.com/post-img/18022021012738-19.jpg",
+    "url": "https://server7.mawintv2.com/hls/c7q7eAs/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"เดอะ มัมมี่ คืนชีพคำสาปนรกล้างโลก ภาค 1",
+    "image": "https://www.myplayhd.com/post-img/18022021012211-10.jpg",
+    "url": "https://server7.mawintv2.com/hls/7o9XrIU/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"พยัคฆ์ร้ายดับแผนครองโลก (ภาค 19)",
+    "image": "https://www.myplayhd.com/post-img/18022021011909-5.jpg",
+    "url": "https://server7.mawintv2.com/hls/PEz0Ngl/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"วันดับซาตานอวสานโลก",
+    "image": "https://www.myplayhd.com/post-img/18022021011819-4.jpg",
+    "url": "https://server4.mawintv2.com/hls/2Nsz3y7/file_,720,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ฝูงมฤตยูใต้มหาสมุทร",
+    "image": "https://www.myplayhd.com/post-img/18022021011637-1.jpg",
+    "url": "https://server4.mawintv2.com/hls/BTFP6zE/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"The Matrix เพาะพันธุ์มนุษย์เหนือโลก",
+    "image": "https://www.myplayhd.com/post-img/18022021011558-0.jpg",
+    "url": "https://server7.mawintv2.com/hls/BJiBDWJ/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ถล่มยุทธการโคลอมเบีย",
+    "image": "https://www.myplayhd.com/post-img/17022021060823-Behind%20Enemy%20Lines%20Colombia%202.jpg",
+    "url": "https://server7.mawintv2.com/hls/Gyr9r3q/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ล่าทะลุเหนือขีดนรก 2",
+    "image": "https://www.myplayhd.com/post-img/17022021043003-The%20Marine%202%20(2009)%204.jpg",
+    "url": "https://server4.mawintv2.com/hls/zEodp3g/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "import": false                                   
+},
+{    
     "name":"",
     "image": "",
     "url": "",
     "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false   
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false   
 },
 {    
     "name":"",
@@ -601,42 +715,6 @@
     "image": "",
     "url": "",
     "import": false    
-},
-{    
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{    
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{    
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{    
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{    
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-    
-    
-    
-    
-    
-    
     
     
     
