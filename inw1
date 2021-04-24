@@ -6,9 +6,8 @@
 {
        "name":"Cartoon Network k",
        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-       "url": "https://www.inwiptv.com/player_live.php?channel=417",
-       "userAgent": "ProPlayer",
-       "playInNatPlayer": "true"  
+       "url": "https://www.inwiptv.com/player_live.php?channel=417","referer":"https://www.inwiptv.com/"
+       
  },
 ]
 }
