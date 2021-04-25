@@ -15,12 +15,6 @@
         "import": false
 },
  {
-       "name":"ginx",
-        "image": "https://wacth.officebk.co/uploads/tv_image/ginx.png",
-        "url": "https://mediasv.online/live/ginx/chunks.m3u8", 
-        "import": false
-},
- {
        "name":"True Premier Football HD 1 ",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/197.m3u8",
@@ -44,7 +38,7 @@
  {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "https://mediasv.online/live/trueepl1/playlist.m3u8", 
+        "url": "https://tumlive109.dvrdns.org:30443/tumlive/ball1/playlist.m3u8", 
         "import": false
 
 },
@@ -68,7 +62,7 @@
  {
        "name":"True Premier Football HD 1",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-       "url": "https://mediasv.online/live7f/truepl1Fallback/playlist.m3u8",
+       "url": "https://tumlive109.dvrdns.org:30443/tumlive/TFBHD1/playlist.m3u8",
         "import": false
 
 
@@ -76,7 +70,7 @@
  {
        "name":"True Premier Football HD 2 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
-	"url": "https://mediasv.online/live/trueepl2/playlist.m3u8",
+	"url": "https://tumlive109.dvrdns.org:30443/tumlive/TFBHD2/playlist.m3u8",
 	"import": false
 },
  {
@@ -87,7 +81,7 @@
  {
        "name":"True Premier Football HD 3 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
-       "url": "https://mediasv.online/live/trueepl3/playlist.m3u8",
+       "url": "https://tumlive109.dvrdns.org:30443/tumlive/TFBHD3/playlist.m3u8",
        "import": false
 
 },
@@ -101,7 +95,7 @@
  {	 
         "name":"True Sports HD",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "https://mediasv.online/live/truesporthd/playlist.m3u8",
+	"url": "https://tumlive109.dvrdns.org:30443/tumlive/TruesportHD1/playlist.m3u8",
 	"import": false
 },
  {	 
@@ -125,7 +119,7 @@
  {
        "name":"True Sports HD2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "https://mediasv.online/live/truesporthd2/playlist.m3u8",
+	"url": "https://tumlive109.dvrdns.org:30443/tumlive/TruesportHD2/playlist.m3u8",
 	"import": false
 },
  {
@@ -153,7 +147,7 @@
  {	 
          "name":"True Sports HD3",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
-	 "url": "https://mediasv.online/live/truesporthd3/playlist.m3u8",
+	 "url": "https://tumlive109.dvrdns.org:30443/tumlive/TruesportHD3/playlist.m3u8",
 	 "import": false
 },
  {	 
@@ -165,28 +159,6 @@
          "name":"True Sports HD3",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
 	 "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd3","referer": "https://ball8k.com/"
-
-
-},
- {
-       "name":"True Sports HD4",
-       "image": "http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
-       "url": "https://mediasv.online/live/truesporthd4/playlist.m3u8",
-       "import": false
-
-
-},
- {
-       "name":"NBA TV",
-        "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",
-	"url": "https://mediasv.online/live/truenba/playlist.m3u8",
-	"import": false 
-},
- {
-       "name":"NBA TV",
-        "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",
-	"url": "https://mediasv.online/tvchannel_x1/hd-nba/playlist.m3u8",
-	"import": false 
 },
  {
        "name":"NBA TV",
@@ -202,19 +174,6 @@
        "name":"NBA TV",
         "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",
 	 "url": "https://player.ballnaka.tv/?channel=nba&cate=sport","referer": "https://player.ballnaka.tv"
-
-},
- {
-       "name":"TRUE TENNIS",
-        "image": "http://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
-	"url": "https://mediasv.online/live/truetennis/playlist.m3u8",
-	"import": false  
-},
- {
-       "name":"TRUE TENNIS",
-        "image": "http://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
-	"url": "https://mediasv.online/tvchannel_x1/hd-tennis/playlist.m3u8",
-	"import": false 
 },
  {
        "name":"TRUE TENNIS",
@@ -234,110 +193,52 @@
  {
        "name":"GOLF CHANNEL",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
-       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-golf_720/chunks.m3u8",
-       "import": false 
-
-},
- {
-       "name":"GOLF CHANNEL",
-       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
-       "url": "https://mediasv.online/live/golfchannel/playlist.m3u8",
-       "import": false  
-},
- {
-       "name":"GOLF CHANNEL",
-       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
-       "url": "https://mediasv.online/tvchannel_x1/hd-golf/playlist.m3u8",
-       "import": false 
-},
- {
-       "name":"GOLF CHANNEL",
-       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
        "url": "https://ball8k.com/m_/channel.ball8k?stream=golfchannel","referer": "https://ball8k.com"
 },
  {
        "name":"GOLF CHANNEL",
         "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
 	 "url": "https://player.ballnaka.tv/?channel=golf&cate=sport","referer": "https://player.ballnaka.tv"
-
-},
- {
-       "name":"NFL NETWORK",
-        "image": "http://cms.dmpcdn.com/livetv/2018/12/07/825d4f78-d958-4e43-a338-c767c9273f11.png",
-	"url": "https://mediasv.online/live/nflnetwork/playlist.m3u8",
-	"import": false  
 },
  {
        "name":"NFL NETWORK",
         "image": "http://cms.dmpcdn.com/livetv/2018/12/07/825d4f78-d958-4e43-a338-c767c9273f11.png",
 	 "url": "https://player.ballnaka.tv/?channel=nfl&cate=sport","referer": "https://player.ballnaka.tv"
-
-},
- {
-       "name":"Motor Vision",
-        "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
-	"url": "https://mediasv.online/tvchannel_x2/motorvision/playlist.m3u8",
-	"import": false   
 },
  {
        "name":"Motor Vision",
         "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
 	 "url": "https://player.we-play.tv/channel.php?name=motor-vision&cate=sports","referer": "https://player.we-play.tv"
 
-},
- {
-       "name":"True Sport 2",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png",
-	"url": "https://mediasv.online/tvchannel_x1/truesport2/playlist.m3u8",
-	"import": false  
+
 },
  {
        "name":"True Sport 2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png",
 	"url": "https://player.we-play.tv/channel.php?name=tsp2&cate=sports","referer": "https://player.we-play.tv"
 
-},
- {
-       "name":"True Sport 5",
-       "image": "http://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png",
-       "url": "https://mediasv.online/tvchannel_x1/truesport5/playlist.m3u8",
-       "import": false  
+
 },
  {
        "name":"True Sport 5",
        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png",
        "url": "https://player.we-play.tv/channel.php?name=tsp5&cate=sports","referer": "https://player.we-play.tv"
   
-},
- {
-       "name":"True Sport 6",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_original.png",
-	"url": "https://mediasv.online/tvchannel_x1/truesport6/playlist.m3u8",
-	"import": false   
+
 },
  {
        "name":"True Sport 6",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_original.png",
 	 "url": "https://player.we-play.tv/channel.php?name=tsp6&cate=sports","referer": "https://player.we-play.tv"
 
-},
- {
-       "name":"True Sport 7",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_original.png",
-	"url": "https://mediasv.online/tvchannel_x1/truesport7/playlist.m3u8",
-	"import": false  
+ 
 },
  {
        "name":"True Sport 7",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_original.png",
 	 "url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports","referer": "https://player.we-play.tv"
 
-},
-{ 
-          "name": "FOX Sports HD",
-          "image": "http://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png",              
-          "url": "https://mediasv.online/live/foxsport1/playlist.m3u8",
-	  "import": false
+
 },
 { 
           "name": "FOX Sports HD",
@@ -350,12 +251,7 @@
           "url": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8",
 	  "import": false
 
-},
-{ 
-          "name": "FOX Sports 2",
-          "image": "http://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",              
-          "url": "https://mediasv.online/live/foxsport2/playlist.m3u8",
-	  "import": false
+
 },
 { 
           "name": "FOX Sports 2",
@@ -373,12 +269,7 @@
           "image": "http://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",              
           "url": "https://player.we-play.tv/channel.php?name=fox2&cate=sports","referer": "https://player.we-play.tv"
 
-},
- { 
-       "name": "FOX Sports 3 HD",
-       "image": "http://cms.dmpcdn.com/livetv/2019/01/24/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png",              
-       "url": "https://mediasv.online/live/foxsport3/playlist.m3u8",
-       "import": false
+
 
 },
  {
@@ -396,18 +287,7 @@
        "image": "http://cms.dmpcdn.com/livetv/2019/01/24/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png",              
        "url": "https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8",
        "import": false
-},
- { 
-       "name": "Bein 1",
-       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",              
-       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-bein1_720/chunks.m3u8",
-       "import": false
-},
- { 
-       "name": "Bein 1",
-       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",              
-       "url": "https://mediasv.online/live/bein1/playlist.m3u8",
-       "import": false
+
 },
  { 
        "name": "Bein 1",
@@ -423,13 +303,6 @@
        "name": "Bein 1",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",              
        "url": "https://player.we-play.tv/channel.php?name=bein1&cate=sports","referer": "https://player.we-play.tv"
-
-},
-  { 
-       "name": "Bein 2",
-       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",              
-       "url": "https://mediasv.online/live/bein2/playlist.m3u8",
-        "import": false
 },
   { 
        "name": "Bein 2",
