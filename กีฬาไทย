@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 24/4/2021",
+    "author": "update 25/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -11,8 +11,30 @@
  {
        "name":"ID STATION",
         "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
-        "url": "https://cdn-edge-sg2.idoohd.com/play/14aa63b69ddb8503409615b783aad96b/34b953ddfc6dd70ad7dd73b711a44c34/1619236220/playlist.m3u8", 
+        "url": "https://cdn-edge-sg2.idoohd.com/play/14aa63b69ddb8503409615b783aad96b/0d57b39e3f5a05dfe3d274d13ee42ea1/1619388283/playlist.m3u8", 
         "import": false
+},
+ {
+       "name":"True Premier Football HD 1",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://cdn-edge-sg2.idoohd.com/play/1bdd92997e0f271462f8217283965bdc/7d45d9a3d7c8bc7589778c7d00a0eca3/1619388359/playlist.m3u8", 
+        "import": false
+
+},
+ {
+       "name":"True Premier Football HD 1",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f","referer": "https://dooball66.com/"
+},
+ {
+       "name":"True Premier Football HD 1",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://soccertv4k.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=2162537","referer": "https://soccertv4k.com/"
+},
+ {
+       "name":"True Premier Football HD 1",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://warpdooball.com/live-football/?id=2162537","referer": "https://warpdooball.com/"
 },
  {
        "name":"True Premier Football HD 1 ",
@@ -45,7 +67,7 @@
  {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "http://ip2121.com:8081/4kweb/true1/chunks.m3u8", 
+        "url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8", 
         "import": false
 },
  {
