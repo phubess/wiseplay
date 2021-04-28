@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 25/4/2021",
+    "author": "update 28/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -14,37 +14,6 @@
      "image": "https://www.inwiptv.com/postor/20200512165346fwsov.jpg",              
      "url": "https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8",
      "import": false
-},
-  {   
-    "name": "LIVESKY 1",
-     "image": "https://i.imgur.com/qDcOkZR.png",              
-     "url": "https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd1.stream/playlist.m3u8",
-     "import": false
-},
-  {   
-    "name": "LIVESKY 2",
-     "image": "https://i.imgur.com/jL3vhXm.png",              
-     "url": "https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd2.stream/playlist.m3u8",
-     "import": false     
-},
-  {   
-    "name": "LIVESKY 3",
-     "image": "https://i.imgur.com/ezjnOT1.png",              
-     "url": "https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd3.stream/playlist.m3u8",
-     "import": false     
-},
-  {   
-    "name": "LIVESKY 4",
-     "image": "https://i.imgur.com/0DB0pQG.png",              
-     "url": "https://tumlive109.dvrdns.org:30443/tumlive/ipmskyworldhd4.stream/playlist.m3u8",
-     "import": false     
-},
-  {   
-    "name": "Series+HD",
-     "image": "https://i.imgur.com/MIKKM2Y.png",              
-     "url": "https://tumlive109.dvrdns.org:30443/tumlive/ipmaser.stream/playlist.m3u8",
-     "import": false   
-     
 },
   {   
     "name": "HBO ไทย",
@@ -126,32 +95,12 @@
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment","referer": "https://player.we-play.tv"
-
- 
- },
-   {
-     "name": "FOX ACTION MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8",
-      "import": false
- },
+},
    {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=fox-action&cate=entertainment","referer": "https://player.we-play.tv"
-},
-   {
-     "name": "FOX ACTION MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "http://indyfox.dns.army:8081/iptv/hd-foxaction.stream/chunks.m3u8",
-      "import": false
-
-},
-  {
-     "name": "FOX ไทย",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     "url": "https://mediasv.online/tvchannel_x1/foxthai/playlist.m3u8", 
-     "import": false  
+     
 },
   {
      "name": "FOX ไทย",
@@ -321,13 +270,13 @@
   { 
      "name": "True Film Asia HD",
       "image": "https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",              
-      "url": "https://mediasv.online/tvchannel_x1/truefilmasia/playlist.m3u8",
+      "url": "https://bit.ly/3nrEqVm",
       "import": false
 },
   { 
      "name": "TRUE MOVIE HITS HD",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
-      "url": "https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8",
+      "url": "",
      "import": false
 
 },
