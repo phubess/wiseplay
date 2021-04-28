@@ -9,19 +9,6 @@
       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
  {
-       "name":"ID STATION",
-        "image": "http://cms.dmpcdn.com/livetv/2019/12/24/f082efa0-2630-11ea-96b9-fb57831f8879_original.png",
-        "url": "https://cdn-edge-sg2.idoohd.com/play/14aa63b69ddb8503409615b783aad96b/0d57b39e3f5a05dfe3d274d13ee42ea1/1619388283/playlist.m3u8", 
-        "import": false
-},
- {
-       "name":"True Premier Football HD 1",
-        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "https://cdn-edge-sg2.idoohd.com/play/1bdd92997e0f271462f8217283965bdc/7d45d9a3d7c8bc7589778c7d00a0eca3/1619388359/playlist.m3u8", 
-        "import": false
-
-},
- {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f","referer": "https://dooball66.com/"
@@ -56,12 +43,7 @@
         "url": "http://203.159.94.81:8080/epl/vEVscQ8Zmx/1",
         "userAgent": "ProPlayer",
         "playInNatPlayer": "true" 
-},
- {
-       "name":"True Premier Football HD 1",
-        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "https://tumlive109.dvrdns.org:30443/tumlive/ball1/playlist.m3u8", 
-        "import": false
+
 
 },
  {
@@ -80,31 +62,13 @@
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://ball8k.com/m/ch.php?stream=epl1","referer": "https://ball8k.com/"
-},
- {
-       "name":"True Premier Football HD 1",
-       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-       "url": "https://tumlive109.dvrdns.org:30443/tumlive/TFBHD1/playlist.m3u8",
-        "import": false
 
-
-},
- {
-       "name":"True Premier Football HD 2 ",
-       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
-	"url": "https://tumlive109.dvrdns.org:30443/tumlive/TFBHD2/playlist.m3u8",
-	"import": false
 },
  {
        "name":"True Premier Football HD 2 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
 	"url": "https://ball8k.com/m_/channel.ball8k?stream=epl2","referer": "https://ball8k.com/" 
-},
- {
-       "name":"True Premier Football HD 3 ",
-       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
-       "url": "https://tumlive109.dvrdns.org:30443/tumlive/TFBHD3/playlist.m3u8",
-       "import": false
+
 
 },
  {	 
@@ -113,12 +77,7 @@
 	"url": "http://203.159.94.81:8080/truesporthd3/OKfQtgq8Uc/25",
 	"userAgent": "ProPlayer",
         "playInNatPlayer": "true" 
-},
- {	 
-        "name":"True Sports HD",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "https://tumlive109.dvrdns.org:30443/tumlive/TruesportHD1/playlist.m3u8",
-	"import": false
+
 },
  {	 
         "name":"True Sports HD",
@@ -135,14 +94,6 @@
        "name":"True Sports HD",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
 	"url": "https://www.we-play.tv/watching/tv/true-sports-hd","referer": "https://www.we-play.tv/"
-
-
-},
- {
-       "name":"True Sports HD2",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "https://tumlive109.dvrdns.org:30443/tumlive/TruesportHD2/playlist.m3u8",
-	"import": false
 },
  {
        "name":"True Sports HD2",
@@ -165,12 +116,7 @@
 	"url": "http://203.159.94.81:8080/truesporthd3/OKfQtgq8Uc/26",
 	"userAgent": "ProPlayer",
         "playInNatPlayer": "true" 
-},
- {	 
-         "name":"True Sports HD3",
-        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
-	 "url": "https://tumlive109.dvrdns.org:30443/tumlive/TruesportHD3/playlist.m3u8",
-	 "import": false
+
 },
  {	 
          "name":"True Sports HD3",
