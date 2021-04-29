@@ -11,6 +11,12 @@
  {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://sorsportstv.shortcm.li/T-EPL1/sor@zola.m3u8", 
+        "import": false
+},
+ {
+       "name":"True Premier Football HD 1",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f","referer": "https://dooball66.com/"
 },
  {
