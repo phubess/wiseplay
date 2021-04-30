@@ -4,136 +4,164 @@
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
-    "name": "FWMOV",
-     "image": "https://www.inwiptv.com/postor/20200512164154fwmov.jpg",              
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
      "url": "https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8",
      "import": false
 },
   {   
-    "name": "FWSOV",
-     "image": "https://www.inwiptv.com/postor/20200512165346fwsov.jpg",              
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
      "url": "https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8",
      "import": false
 },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/576.m3u8",
         "import": false
 },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/577.m3u8",
         "import": false        
+   
 },
   {
-        "name": "TV CABLE ",  
-        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "",
-        "import": false        
-},
-  {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/627.m3u8",
         "import": false        
 },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/545.m3u8",
         "import": false        
 },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/623.m3u8",
         "import": false        
  },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/543.m3u8",
         "import": false       
  },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/624.m3u8",
         "import": false       
   },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/626.m3u8",
         "import": false      
   },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/631.m3u8",
         "import": false      
 },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/635.m3u8",
         "import": false      
 },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://119.161.100.50:9999/live/test123/test123/636.m3u8",
         "import": false      
 },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8",
         "import": false
 },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8",
         "import": false
 },
   {
-        "name": "TV CABLE ",  
+        "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8",
         "import": false
 },
   { 
-     "name": "TV CABLE ",
+     "name": "CABLE ",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
       "url": "http://196.53.248.18:8081/live/invest02/chunks.m3u8",
       "import": false
 },
   { 
-     "name": "TV CABLE",
+     "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
       "url": "http://196.53.248.18:8081/live/banner002/chunks.m3u8",
       "import": false
 },
   { 
-     "name": "TV CABLE",
+     "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
       "url": "http://196.53.248.18:8081/live/banner0003/chunks.m3u8",
       "import": false  
  },
   { 
-     "name": "TV CABLE",
+     "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
       "url": "http://196.53.248.18:8081/live/action001/chunks.m3u8",
       "import": false
 },
   { 
-     "name": "TV CABLE",
+     "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
       "url": "http://196.53.248.18:8081/live/invest03/chunks.m3u8",
       "import": false
+},
+  {
+     "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8", 
+      "import": false
+},
+  {      
+     "name": "CABLE",
+      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
+      "url": "http://61.19.242.134/feed/LC52/index.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"    
+ },
+  {      
+     "name": "CABLE",
+      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
+      "url": "http://61.19.242.134/feed/LC1/index.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"     
+},
+  {      
+     "name": "CABLE",
+      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
+      "url": "http://61.19.242.134/feed/LC2/index.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"   
+},
+  {     
+     "name": "HBO",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "http://119.161.100.50:9999/live/test123/test123/518.m3u8",
+     "import": false
 },
   {     
      "name": "HBO",
@@ -145,13 +173,19 @@
   {     
      "name": "HBO",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "http://119.161.100.50:9999/live/test123/test123/641.m3u8",
+     "import": false
+},
+  {     
+     "name": "HBO",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
      "url": "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8",
      "import": false
 },
   {
      "name": "HBO HITS",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
-     "url": "",
+     "url": "http://119.161.100.50:9999/live/test123/test123/514.m3u8",
      "import": false
 
 },
@@ -164,16 +198,21 @@
   {
      "name": "HBO SIGNATURE",
      "image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",              
-     "url": "https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8",
+     "url": "http://119.161.100.50:9999/live/test123/test123/513.m3u8",
      "import": false
 
 },
   {
      "name": "HBOFamily",
      "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
-     "url": "https://mediasv.online/tvchannel_x1/hbo-family/playlist.m3u8",
+     "url": "http://119.161.100.50:9999/live/test123/test123/515.m3u8",
      "import": false
-
+},
+  {
+     "name": "RedbyHBO",
+     "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
+     "url": "http://119.161.100.50:9999/live/test123/test123/516.m3u8",
+     "import": false
 },
   {
      "name": "RedbyHBO",
@@ -184,21 +223,29 @@
   {
      "name": "CINEMAX",
      "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
-     "url": "https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8",
+     "url": "http://119.161.100.50:9999/live/test123/test123/517.m3u8",
      "import": false
+},
+  {
+     "name": "CINEMAX",
+     "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
+     "url": "http://191.96.36.150:80/cinemax/U4Jucs5sFH/86",
+     "userAgent": "ProPlayer",
+     "playInNatPlayer": "true" 
 
 },
    {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://mediasv.online/tvchannel_x1/hd-foxpremium/playlist.m3u8",
+     "url": "http://119.161.100.50:9999/live/test123/test123/343.m3u8",
      "import": false
 },
    {
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://boxmovielive.com/live/foxmovie1.m3u8",
-     "import": false
+     "url": "http://191.96.36.150:80/foxmoviesTH/paW4rse5vK/23",
+     "userAgent": "ProPlayer",
+     "playInNatPlayer": "true" 
 },
    {
      "name": "FOX MOVIES",
@@ -215,7 +262,12 @@
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=fox-action&cate=entertainment","referer": "https://player.we-play.tv"
-     
+},
+   {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "http://119.161.100.50:9999/live/test123/test123/519.m3u8",
+      "import": false
 },
   {
      "name": "FOX ไทย",
@@ -229,24 +281,17 @@
       "import": false
 },
   {
-     "name": "FOX ไทย k",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/126.m3u8",
-     "userAgent": "ProPlayer",
-     "playInNatPlayer": "true" 
+     "name": "Fox Family ",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
+     "url": "http://119.161.100.50:9999/live/test123/test123/341.m3u8",
+     "import": false
 },
   {
      "name": "Fox Family ",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "https://boxmovielive.com/live/fam1.m3u8",
      "import": false
-},
-  {
-     "name": "Fox Family  k",
-     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",
-     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/125.m3u8",
-     "userAgent": "ProPlayer",
-     "playInNatPlayer": "true"
+
 },
   {
      "name": "Fox Family Movies",
@@ -277,38 +322,11 @@
      "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/foxlife/chunklist.m3u8",
      "import": false
 },
-  {
-     "name": "Fox Life k",
-     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",    
-     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/127.m3u8",
-      "userAgent": "ProPlayer",
-      "playInNatPlayer": "true"
-},
-  {
-     "name": "universal",
-     "image": "https://cdn.britannica.com/77/103077-050-3B757C75/logo-Universal-Studios.jpg",              
-     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8", 
-      "import": false
-},
  {
      "name": "HITS",
      "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
      "url": "https://player.we-play.tv/channel.php?name=hits&cate=entertainment","referer": "https://player.we-play.tv" 
-},
- {
-     "name": "HITS k",
-     "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
-     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/139.m3u8",
-     "userAgent": "ProPlayer",
-     "playInNatPlayer": "true"
 
-},
- {
-     "name": "HITS MOVIES k",
-     "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2tnmvwofitgks8kow4.png", 
-      "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/133.m3u8",
-      "userAgent": "ProPlayer",
-      "playInNatPlayer": "true"
 },
  {
      "name": "HITS MOVIES",
@@ -320,13 +338,6 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
      "url": "https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment","referer": "https://player.we-play.tv"
 },
- {
-     "name": "True Film HD k",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png", 
-     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/142.m3u8",
-     "userAgent": "ProPlayer",
-     "playInNatPlayer": "true"
-},
   {
      "name": "True Asian Series HD",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
@@ -337,20 +348,19 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
      "url": "http://119.161.100.50:9999/live/test123/test123/607.m3u8",
      "import": false
-},
-  {
-     "name": "True Thai Film HD k",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
-     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/141.m3u8",
-     "userAgent": "ProPlayer",
-     "playInNatPlayer": "true"  
+
 },
   { 
      "name": "TRUE Series",
       "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
       "url": "http://119.161.100.50:9999/live/test123/test123/220.m3u8",
      "import": false
-
+},
+  {
+     "name": "KBS World HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
+     "url": "http://119.161.100.50:9999/live/test123/test123/224.m3u8",
+     "import": false
 },
   {
      "name": "KBS World HD",
@@ -376,60 +386,17 @@
      "url": "http://119.161.100.50:9999/live/test123/test123/309.m3u8",
      "import": false
 
-},
-  {
-    "name": "Warner TV k",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png", 
-    "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/130.m3u8",
-    "userAgent": "ProPlayer",
-    "playInNatPlayer": "true"
+
 },
   {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
      "url": "https://player.we-play.tv/channel.php?name=paramount&cate=entertainment","referer": "https://player.we-play.tv"
-
-},
-  {
-       "name":"Paramount Channel k",
-       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",
-       "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/131.m3u8",
-      "userAgent": "ProPlayer",
-      "playInNatPlayer": "true"  
-
-},
-  {      
-     "name": "BOX FILM",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610581422208_movie_image.jpg",
-      "url": "http://61.19.242.134/feed/LC52/index.m3u8",
-      "userAgent": "ProPlayer",
-      "playInNatPlayer": "true"    
- },
-  {      
-     "name": "SUN TV",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610581571699_movie_image.jpg",
-      "url": "http://61.19.242.134/feed/LC1/index.m3u8",
-      "userAgent": "ProPlayer",
-      "playInNatPlayer": "true"     
-},
-  {      
-     "name": "SAMURAI",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610453274378_movie_image.jpg",
-      "url": "http://61.19.242.134/feed/LC2/index.m3u8",
-      "userAgent": "ProPlayer",
-      "playInNatPlayer": "true"   
-},
-  {
-     "name": "CCM k",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",  
-     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/148.m3u8",
-      "userAgent": "ProPlayer",
-      "playInNatPlayer": "true"  
 },
   {
      "name": "CCM",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
-     "url": "",
+     "url": "http://119.161.100.50:9999/live/test123/test123/526.m3u8",
      "import": false
 },
   {
@@ -455,7 +422,7 @@
   { 
       "name": "AXN HD",
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
-       "url": "",
+       "url": "http://119.161.100.50:9999/live/test123/test123/257.m3u8",
        "import": false
 },
   { 
@@ -507,6 +474,12 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",              
      "url": "https://cdn6.goprimetime.info//feed//chzeenung//index.m3u8",
      "playInNatPlayer": "true"
+},
+ {
+     "name": "Zeenung",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",              
+     "url": "http://119.161.100.50:9999/live/test123/test123/520.m3u8",
+     "import": false
 },
   { 
       "name": "Zeenung",
