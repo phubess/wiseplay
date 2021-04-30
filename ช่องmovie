@@ -100,36 +100,6 @@
         "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8",
         "import": false
 },
-  { 
-     "name": "CABLE ",
-      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-      "url": "http://196.53.248.18:8081/live/invest02/chunks.m3u8",
-      "import": false
-},
-  { 
-     "name": "CABLE",
-      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-      "url": "http://196.53.248.18:8081/live/banner002/chunks.m3u8",
-      "import": false
-},
-  { 
-     "name": "CABLE",
-      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-      "url": "http://196.53.248.18:8081/live/banner0003/chunks.m3u8",
-      "import": false  
- },
-  { 
-     "name": "CABLE",
-      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-      "url": "http://196.53.248.18:8081/live/action001/chunks.m3u8",
-      "import": false
-},
-  { 
-     "name": "CABLE",
-      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-      "url": "http://196.53.248.18:8081/live/invest03/chunks.m3u8",
-      "import": false
-},
   {
      "name": "CABLE",
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
@@ -140,21 +110,21 @@
      "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
       "url": "http://61.19.242.134/feed/LC52/index.m3u8",
-      "userAgent": "ProPlayer",
+      "userAgent": ""ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"",
       "playInNatPlayer": "true"    
  },
   {      
      "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
       "url": "http://61.19.242.134/feed/LC1/index.m3u8",
-      "userAgent": "ProPlayer",
+      "userAgent": ""ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"",
       "playInNatPlayer": "true"     
 },
   {      
      "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
       "url": "http://61.19.242.134/feed/LC2/index.m3u8",
-      "userAgent": "ProPlayer",
+      "userAgent": ""ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"",
       "playInNatPlayer": "true"   
 },
   {     
@@ -192,7 +162,7 @@
   {
      "name": "HBO HITS b",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
-     "url": "https://boxmovielive.com/live/hbohis11.m3u8",
+     "url": "https://boxmovielive.com/live/hbohis.m3u8",
      "import": false
 },
   {
