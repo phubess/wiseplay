@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 25/4/2021",
+    "author": "update 30/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -12,6 +12,18 @@
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://sorsportstv.shortcm.li/T-EPL1/sor@zola.m3u8", 
+        "import": false
+},
+ {
+       "name":"True Premier Football HD 1 ",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "http://119.161.100.50:9999/live/test123/test123/1.m3u8",
+        "import": false
+},
+ {
+       "name":"True Premier Football HD 1 ",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "http://119.161.100.50:9999/live/test123/test123/504.m3u8",
         "import": false
 },
  {
@@ -30,26 +42,11 @@
         "url": "https://warpdooball.com/live-football/?id=2162537","referer": "https://warpdooball.com/"
 },
  {
-       "name":"True Premier Football HD 1 ",
+       "name":"True Premier Football HD 1 b",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/197.m3u8",
+        "url": "http://191.96.36.150:80/EPL1HD/WwrQejmvnT/81",
         "userAgent": "ProPlayer",
         "playInNatPlayer": "true" 
-},
- {
-       "name":"True Premier Football HD 1 ",
-        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/195.m3u8",
-        "userAgent": "ProPlayer",
-        "playInNatPlayer": "true" 
-},
- {
-       "name":"True Premier Football HD 1 ",
-        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "http://203.159.94.81:8080/epl/vEVscQ8Zmx/1",
-        "userAgent": "ProPlayer",
-        "playInNatPlayer": "true" 
-
 
 },
  {
@@ -68,19 +65,35 @@
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://ball8k.com/m/ch.php?stream=epl1","referer": "https://ball8k.com/"
-
 },
  {
        "name":"True Premier Football HD 2 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
-	"url": "https://ball8k.com/m_/channel.ball8k?stream=epl2","referer": "https://ball8k.com/" 
-
-
+	"url": "https://ball8k.com/m_/channel.ball8k?stream=epl2",
+	
+},
+ {
+       "name":"True Premier Football HD 2 ",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
+	"url": "http://119.161.100.50:9999/live/test123/test123/2.m3u8",
+       "import": false
+},
+ {
+       "name":"True Premier Football HD 2 ",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
+	"url": "http://119.161.100.50:9999/live/test123/test123/461.m3u8",
+       "import": false
+},
+ {
+       "name":"True Premier Football HD 3 ",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
+	"url": "http://119.161.100.50:9999/live/test123/test123/3.m3u8",
+       "import": false
 },
  {	 
         "name":"True Sports HD",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "http://203.159.94.81:8080/truesporthd3/OKfQtgq8Uc/25",
+	"url": "http://191.96.36.150:80/truesporthd1/YEbLxj3knB/57",
 	"userAgent": "ProPlayer",
         "playInNatPlayer": "true" 
 
@@ -108,6 +121,13 @@
 },
  {
        "name":"True Sports HD2",
+        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
+	"url": "http://191.96.36.150:80/truesporthd2/uEuppg7QSm/58",
+	"userAgent": "ProPlayer",
+        "playInNatPlayer": "true" 
+},
+ {
+       "name":"True Sports HD2",
        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
        "url": "https://ball8k.com/m_/channel.ball8k?stream=truesporthd2","referer": "https://ball8k.com/"       
 },
@@ -119,7 +139,7 @@
  {	 
          "name":"True Sports HD3",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
-	"url": "http://203.159.94.81:8080/truesporthd3/OKfQtgq8Uc/26",
+	"url": "http://191.96.36.150:80/truesporthd3/k4KXS5jHms/59",
 	"userAgent": "ProPlayer",
         "playInNatPlayer": "true" 
 
@@ -138,6 +158,12 @@
        "name":"NBA TV",
         "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",
 	 "url": "https://player.we-play.tv/channel.php?name=nba&cate=sports","referer": "https://player.we-play.tv"
+},
+ {
+       "name":"NBA TV",
+        "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",
+	 "url": "http://119.161.100.50:9999/live/test123/test123/208.m3u8",
+	 "import": false
 },
  {
         "name":"NBA TV ",
@@ -163,6 +189,12 @@
        "name":"TRUE TENNIS",
         "image": "http://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
 	 "url": "https://player.we-play.tv/channel.php?name=tennis&cate=sports","referer": "https://player.we-play.tv"
+},
+ {
+       "name":"GOLF CHANNEL",
+       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
+       "url": "http://119.161.100.50:9999/live/test123/test123/310.m3u8",
+        "import": false
 },
  {
        "name":"GOLF CHANNEL",
