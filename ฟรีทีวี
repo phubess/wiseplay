@@ -1,28 +1,15 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 20/4/2021",
+    "author": "update 30/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
-    "name":"1080p",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/84.m3u8",
-    "userAgent": "ProPlayer",
-    "playInNatPlayer": "true" 
-},
-{
+    
+
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "http://203.159.94.81:8080/3hd/00nW1WISQg/34",
-    "userAgent": "ProPlayer",
-    "playInNatPlayer": "true"
-},
-{
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/83.m3u8",
-    "userAgent": "ProPlayer",
-    "playInNatPlayer": "true"
+    "url": "http://119.161.100.50:9999/live/test123/test123/290.m3u8",
+    "import": false
 },
 {
     "name":"",
@@ -35,12 +22,7 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8",
     "import": false
-},
-{
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "https://mediasv.online/live/3hd/playlist.m3u8",
-    "import": false
+
 },
 {
     "name":"1080p",
@@ -55,13 +37,7 @@
  { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-ch5_720/chunks.m3u8",
-    "import": false
-},
- { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-ch5_720/chunks.m3u8",
+    "url": "http://119.161.100.50:9999/live/test123/test123/170.m3u8",
     "import": false
 },
  { 
@@ -75,12 +51,7 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "http://110.170.117.27:1935/apptv5hd1live/vdo/chunklist_w1011995023.m3u8",
     "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "https://mediasv.online/live/5hd/playlist.m3u8",
-    "import": false
+
 },
  { 
     "name":"",
@@ -90,19 +61,7 @@
  { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist_Fuso_Uhd.m3u8",
-    "import": false 
-},
- { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-ch7_720/chunks.m3u8",
-    "import": false 
-},
- { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/7hd_480p/chunks.m3u8",
+    "url": "http://119.161.100.50:9999/live/test123/test123/293.m3u8",
     "import": false 
 },
  { 
@@ -110,12 +69,7 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist.m3u8",
     "import": false 
-},
- { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-ch7_480/chunks.m3u8",
-    "import": false 
+
 },
  { 
     "name":"",
@@ -134,18 +88,8 @@
     "name":"1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv","referer": "https://player.we-play.tv"
-},
- { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "https://mediasv.online/live/7hd/playlist.m3u8",
-     "import": false
-},
- { 
-    "name":"1080p",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-mcot_1080/chunks.m3u8",
-    "import": false
+
+
 },
  { 
     "name":"1080p",
@@ -156,14 +100,9 @@
  { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-mcot_720/chunks.m3u8",
+    "url": "http://119.161.100.50:9999/live/test123/test123/214.m3u8",
     "import": false
-},
- { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "https://mediasv.online/live/mcothd/playlist.m3u8",
-    "import": false
+
 },
  { 
     "name":"",
@@ -179,14 +118,9 @@
   { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-nbt_720/chunks.m3u8",
+    "url": "http://119.161.100.50:9999/live/test123/test123/207.m3u8",
     "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-nbt_720/chunks.m3u8",
-    "import": false
+
 },
   { 
     "name":"",
@@ -200,12 +134,7 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
     "url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
     "import": false
-},
-  { 
-    "name":"1080p",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-tpbs_1080/chunks.m3u8",
-   "import": false
+
 },
   { 
     "name":"1080p",
@@ -216,14 +145,9 @@
   { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-tpbs_720/chunks.m3u8",
-   "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "https://mediasv.online/live/thaipbs/playlist.m3u8",
-   "import": false
+    "url": "http://119.161.100.50:9999/live/test123/test123/185.m3u8",
+    "import": false
+
 },
   { 
     "name":"",
@@ -237,21 +161,9 @@
     "import": false
 },
   { 
-    "name":"1080p",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-amarin_1080/chunks.m3u8",
-    "import": false
-},
-  { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-amarin_720/chunks.m3u8",
-    "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "https://mediasv.online/live/amarintv/playlist.m3u8",
+    "url": "http://119.161.100.50:9999/live/test123/test123/295.m3u8",
     "import": false
 },
   { 
@@ -280,7 +192,7 @@
   { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "https://mediasv.online/live/one/playlist.m3u8",
+    "url": "http://119.161.100.50:9999/live/test123/test123/204.m3u8",
     "import": false
 },
   { 
@@ -311,8 +223,8 @@
   { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "https://mediasv.online/live/thairath/playlist.m3u8",
-    "import": false
+    "url": "http://119.161.100.50:9999/live/test123/test123/191.m3u8",
+    "import": false 
  },
   { 
     "name":"",
@@ -344,21 +256,9 @@
     "playInNatPlayer": "true"
 },
   { 
-    "name":"1080p",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-pptv_1080/chunks.m3u8",
-    "import": false
-},
-  { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-pptv_720/chunks.m3u8",
-    "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "https://mediasv.online/live/pptv/playlist.m3u8",
+    "url": "http://119.161.100.50:9999/live/test123/test123/202.m3u8",
     "import": false
 },
   { 
@@ -383,18 +283,7 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
     "url": "http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8",
     "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
-    "url": "https://mediasv.online/tvchannel_x3/gmm25_720p/playlist.m3u8",
-    "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-gmmchannel_480/chunks.m3u8",
-    "import": false
+
 },
   { 
     "name":"",
@@ -405,7 +294,7 @@
   { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
-    "url": "https://mediasv.online/live/gmm25/playlist.m3u8",
+    "url": "https://bit.ly/3350BHu",
     "import": false
 },
   { 
@@ -414,12 +303,7 @@
     "url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
     "userAgent": "ProPlayer",
     "playInNatPlayer": "true"
-}, 
-  { 
-    "name":"720p ",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-tnn24_720/chunks.m3u8",
-    "import": false
+
 }, 
   { 
     "name":"",
@@ -428,9 +312,9 @@
     "import": false
 }, 
   { 
-    "name":"720p",
+    "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-tnn24_720/chunks.m3u8",
+    "url": "http://119.161.100.50:9999/live/test123/test123/187.m3u8",
     "import": false
 }, 
   { 
@@ -439,24 +323,7 @@
     "url": "https://cdn6.goprimetime.info//feed//chtnn//index.m3u8",
     "userAgent": "ProPlayer",
     "playInNatPlayer": "true"
-},
-  {
-     "name": "720p",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-24u_720/chunks.m3u8",
-     "import": false
-},
-  {
-     "name": "",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-24u_480/chunks.m3u8",
-     "import": false
-},
-  {
-     "name": "",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
-     "url": "https://mediasv.online/live/true4u/playlist.m3u8",
-     "import": false
+
 },
   {
      "name": "",
@@ -480,13 +347,7 @@
  {
      "name": "",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-workpoint_480/chunks.m3u8",
-     "import": false
-},
- {
-     "name": "",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
-     "url": "https://mediasv.online/live/workpoint/playlist.m3u8",
+     "url": "http://119.161.100.50:9999/live/test123/test123/167.m3u8",
      "import": false
 },
  {
@@ -505,18 +366,7 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
     "url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8", 
     "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-mono_480/chunks.m3u8", 
-    "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
-    "url": "https://mediasv.online/live/mono29/playlist.m3u8", 
-    "import": false
+
 },
   { 
     "name":"",
@@ -531,58 +381,18 @@
      "playInNatPlayer": "true"
 },
   { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
-    "url": "https://mediasv.online/tvchannel_x3/nation_720p/playlist.m3u8",
-    "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-nation_480/chunks.m3u8",
-    "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
-    "url": "https://mediasv.online/live/nation/playlist.m3u8",
-    "import": false
-},
-  { 
     "name":"1080p",
     "image": "https://sv1.picz.in.th/images/2021/02/14/oR2v30.md.png",
     "url": "https://live.topnews.co.th/hls/topnews.m3u8",
     "import": false
-},
-  { 
-    "name":"1080p",
-    "image": "https://sv1.picz.in.th/images/2021/02/14/oR2v30.md.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-topnews_1080/chunks.m3u8",
-    "import": false
+
 },
   { 
     "name":"720p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
     "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
     "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-ch8_480/chunks.m3u8",
-    "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
-    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-ch8_720/chunks.m3u8",
-    "import": false
-},
-  { 
-    "name":"",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
-    "url": "https://mediasv.online/live/ch8/playlist.m3u8",
-    "import": false
+
 },
   { 
     "name":"",
@@ -595,18 +405,7 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0010.png",              
      "url": "https://mediasv.online/live/new18/playlist.m3u8",
      "import": false
-},
-  {
-     "name": "",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0010.png",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-new_480/chunks.m3u8",
-     "import": false
-},
-  {
-     "name": "",
-     "image": "https://images.u-playtv.com/images/tv/channels_icons/sd-voice.png",              
-     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-voice_480/chunks.m3u8",
-     "import": false
+
 },
   {
      "name": "1080p",
