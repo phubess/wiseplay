@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 30/4/2021",
+    "author": "update 29/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -176,7 +176,7 @@
        "name": "สำรวจโลก",
       "image": "https://bit.ly/33mwVq4",
       "url": "http://61.19.242.134/feed/LC8/index.m3u8",
-      "userAgent": "ProPlayer",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"  
 },
    { 
@@ -197,7 +197,7 @@
       "name": "CRIME+",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1604174980134_movie_image.jpg",
       "url": "http://61.19.242.134/feed/LC43/index.m3u8",
-      "userAgent": "ProPlayer",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
 },
  {
@@ -211,7 +211,7 @@
       "name": "pet club tv",
       "image": "https://i.vimeocdn.com/video/722791670_640.jpg",
       "url": "https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8",
-      "userAgent": "ProPlayer",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
 },
    {
@@ -230,7 +230,7 @@
       "name": "เจริญนคร",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610295027959_movie_image.jpg",              
        "url": "http://61.19.242.134/feed/LC32/index.m3u8",
-       "userAgent": "ProPlayer",
+       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
        "playInNatPlayer": "true"
 }, 
   { 
