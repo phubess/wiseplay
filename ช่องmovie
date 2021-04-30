@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 29/4/2021",
+    "author": "update 30/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -110,22 +110,22 @@
      "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
       "url": "http://61.19.242.134/feed/LC52/index.m3u8",
-      "userAgent": ""ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-     
+      "userAgent": "ExoMedia 4.3.0 ",
+     "playInNatPlayer": "true" 
  },
   {      
      "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
       "url": "http://61.19.242.134/feed/LC1/index.m3u8",
-      "userAgent": ""ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-      
+      "userAgent": "ExoMedia 4.3.0 ",
+      "playInNatPlayer": "true" 
 },
   {      
      "name": "CABLE",
       "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",
       "url": "http://61.19.242.134/feed/LC2/index.m3u8",
-      "userAgent": ""ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-      
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true" 
 },
   {     
      "name": "HBO",
