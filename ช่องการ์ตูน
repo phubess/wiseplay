@@ -32,14 +32,7 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
         "url": "http://119.161.100.50:9999/live/test123/test123/632.m3u8",
         "import": false         
-        
-},
- {       
-       "name":"Cartoon ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
-        "url": "http://119.161.100.50:9999/live/test123/test123/221.m3u8",
-        "import": false  
-},
+ },
  {       
        "name":"Cartoon ",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
@@ -79,7 +72,7 @@
  { 
         "name":"Cartoon Network b",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://boxmovielive.com/live/cn.m3u8",
+        "url": "https://boxmovielive.com/live/cn1.m3u8",
         "import": false
 
 },
@@ -91,7 +84,7 @@
 
 },
  { 
-      "name": "Nickelodeon k",
+      "name": "Nickelodeon ",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",
        "url": "http://119.161.100.50:9999/live/test123/test123/606.m3u8",
       "import": false
