@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 30/4/2021",
+    "author": "update 29/4/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -9,6 +9,12 @@
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "http://119.161.100.50:9999/live/test123/test123/290.m3u8",
+    "import": false
+},
+{
+    "name":"",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
+    "url": "https://boxmovie-th.com/app-api-android/true/CH3-HD/playlist.m3u8",
     "import": false
 },
 {
@@ -37,6 +43,12 @@
  { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
+    "url": "https://boxmovie-th.com/app-api-android/true/CH5-HD/playlist.m3u8",
+    "import": false
+},
+ { 
+    "name":"",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "http://119.161.100.50:9999/live/test123/test123/170.m3u8",
     "import": false
 },
@@ -57,6 +69,12 @@
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
     "url": "https://player.we-play.tv/channel.php?name=ch5hd&cate=digitaltv","referer": "https://player.we-play.tv"
+},
+ { 
+    "name":"",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+    "url": "https://boxmovie-th.com/app-api-android/true/CH7-HD/playlist.m3u8",
+    "import": false 
 },
  { 
     "name":"",
@@ -88,7 +106,12 @@
     "name":"1080p",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
     "url": "https://player.we-play.tv/channel.php?name=ch7hd&cate=digitaltv","referer": "https://player.we-play.tv"
-
+},
+ { 
+    "name":"1080p",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
+    "url": "https://boxmovie-th.com/app-api-android/true/9MCOT-HD/playlist.m3u8",
+    "import": false
 
 },
  { 
@@ -163,6 +186,12 @@
   { 
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
+    "url": "https://boxmovie-th.com/app-api-android/true/Amarintv-HD/playlist.m3u8",
+    "import": false
+},
+  { 
+    "name":"",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
     "url": "http://119.161.100.50:9999/live/test123/test123/295.m3u8",
     "import": false
 },
@@ -180,6 +209,12 @@
     "name":"",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
     "url": "http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8",
+    "import": false
+},
+  { 
+    "name":"",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+    "url": "https://boxmovie-th.com/app-api-android/true/ONE-HD/playlist.m3u8",
     "import": false
 },
   { 
@@ -212,6 +247,12 @@
     "url": "https://cdn6.goprimetime.info/feed/chonehd/index.m3u8",
     "userAgent": "ProPlayer",
     "playInNatPlayer": "true"
+ },
+  { 
+    "name":"",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+    "url": "https://boxmovie-th.com/app-api-android/true/Thairathtv-HD/playlist.m3u8",
+    "import": false 
  },
   { 
     "name":"",
@@ -254,6 +295,12 @@
     "url": "https://cdn6.goprimetime.info/feed/chthairath/index.m3u8",
     "userAgent": "ProPlayer",
     "playInNatPlayer": "true"
+},
+  { 
+    "name":"",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+    "url": "https://boxmovie-th.com/app-api-android/true/PPTV-HD/playlist.m3u8",
+    "import": false
 },
   { 
     "name":"",
@@ -303,7 +350,12 @@
     "url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
     "userAgent": "ProPlayer",
     "playInNatPlayer": "true"
-
+}, 
+  { 
+    "name":"",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+    "url": "https://boxmovie-th.com/app-api-android/true/TNN-16/playlist.m3u8",
+    "import": false
 }, 
   { 
     "name":"",
@@ -323,7 +375,12 @@
     "url": "https://cdn6.goprimetime.info//feed//chtnn//index.m3u8",
     "userAgent": "ProPlayer",
     "playInNatPlayer": "true"
-
+},
+  {
+     "name": "",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",              
+     "url": "https://boxmovie-th.com/app-api-android/true/True4u/playlist.m3u8",
+     "import": false
 },
   {
      "name": "",
