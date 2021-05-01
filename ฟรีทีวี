@@ -288,7 +288,12 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
     "url": "http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8",
     "import": false
-
+},
+  { 
+    "name":"GMM25",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8",
+    "import": false
 },
   { 
     "name":"GMM25",
