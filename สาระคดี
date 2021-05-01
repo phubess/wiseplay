@@ -38,7 +38,7 @@
       "name": "Animal Planet b",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
        "url": "http://191.96.36.150:80/animal1/cZv3wLADzc/71",
-       "userAgent": "ProPlayer",
+       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true" 
 }, 
   { 
@@ -56,7 +56,7 @@
       "name": "Discovery Asia b",
       "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
        "url": "http://191.96.36.150:80/disasia1/kTt9rQXJAu/67",
-       "userAgent": "ProPlayer",
+       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true" 
 }, 
   { 
@@ -69,7 +69,7 @@
       "name": "National Geographic b",
       "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
        "url": "http://191.96.36.150:80/natgeo/7vmmUMW7Qa/82",
-       "userAgent": "ProPlayer",
+       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true" 
 }, 
   { 
@@ -87,7 +87,7 @@
       "name": "Nat Geo Wild b",
       "image": "https://www.iptv4k.tv/images/tv/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",              
       "url": "http://191.96.36.150:80/natgeowild1/xkjhwkMJ9L/66",
-      "userAgent": "ProPlayer",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true" 
 }, 
   { 
@@ -105,7 +105,7 @@
       "name": "History HD b",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/17/f6168174-fabb-410c-a589-e5c30ff485f3.png",              
        "url": "http://191.96.36.150:80/history1/xtan6dqLeQ/69",
-       "userAgent": "ProPlayer",
+       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"  
 }, 
   { 
@@ -117,7 +117,7 @@
     "name": "H2 b",
     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
     "url": "http://191.96.36.150:80/h21/5PUyTkxZg7/70",
-    "userAgent": "ProPlayer",
+    "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
     "playInNatPlayer": "true"  
  },
   { 
@@ -190,7 +190,7 @@
        "name": "BBC EARTH b",
         "image": "http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
         "url": "http://191.96.36.150:80/bbcearth/TBJSZSjjZR/64",
-        "userAgent": "ProPlayer",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
        "playInNatPlayer": "true"
 },
    { 
@@ -218,7 +218,7 @@
       "name": "pet club tv",
       "image": "https://i.vimeocdn.com/video/722791670_640.jpg",
       "url": "https://cdn6.goprimetime.info/feed/LC18/playlist.m3u8",
-      "userAgent": "exoplayer_video",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
 },
    {
@@ -237,7 +237,7 @@
       "name": "เจริญนคร",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1610295027959_movie_image.jpg",              
        "url": "http://61.19.242.134/feed/LC32/index.m3u8",
-       "userAgent": "exoplayer_video",
+       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
        "playInNatPlayer": "true"
 }, 
   { 
