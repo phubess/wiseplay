@@ -76,6 +76,12 @@
  {	 
         "name":"True Sports HD",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
+	"url": "http://119.161.100.50:9999/live/test123/test123/182.m3u8",
+	"import": false
+},
+ {	 
+        "name":"True Sports HD",
+        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
 	"url": "http://191.96.36.150:80/truesporthd1/YEbLxj3knB/57",
 	"userAgent": "ProPlayer",
         "playInNatPlayer": "true" 
@@ -100,6 +106,12 @@
  {
        "name":"True Sports HD2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
+	"url": "http://119.161.100.50:9999/live/test123/test123/181.m3u8",
+	"import": false
+},
+ {
+       "name":"True Sports HD2",
+        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
 	"url": "https://www.we-play.tv/watching/tv/true-sports-hd-2","referer": "https://www.we-play.tv/"
 },
  {
@@ -118,6 +130,12 @@
          "name":"True Sports HD2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
 	 "url": "https://player.ballnaka.tv/?channel=thd2&cate=sport","referer": "https://ballnaka.tv/"
+},
+ {	 
+         "name":"True Sports HD3",
+        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
+	"url": "http://119.161.100.50:9999/live/test123/test123/180.m3u8",
+	"import": false
 },
  {	 
          "name":"True Sports HD3",
@@ -157,6 +175,12 @@
        "name":"NBA TV",
         "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",
 	 "url": "https://player.ballnaka.tv/?channel=nba&cate=sport","referer": "https://player.ballnaka.tv"
+},
+ {
+       "name":"TRUE TENNIS",
+       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
+       "url": "http://119.161.100.50:9999/live/test123/test123/179.m3u8",
+       "import": false
 },
  {
        "name":"TRUE TENNIS",
