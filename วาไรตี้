@@ -20,7 +20,7 @@
      "name": "Food Network HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
      "url": "http://191.96.36.150:80/foodchannel/j8MByYL8eD/72",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 }, 
   { 
@@ -32,7 +32,7 @@
      "name": "Asian Food Network ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
      "url": "http://191.96.36.150:80/afn00/RnYYeykCXe/74",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
  {
@@ -118,7 +118,7 @@
      "name": "BLUEANT EXTREME",
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
      "url": "http://191.96.36.150:80/blueant/Hdmnfn8HEx/104",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
  {
@@ -138,7 +138,7 @@
      "name": "V Channel",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1606637020738_movie_image.png",              
      "url": "http://61.19.242.134/feed/LC14/index.m3u8",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
  },
   { 
@@ -214,7 +214,7 @@
      "name": "LAO STAR",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",              
      "url": "https://cdn6.goprimetime.info/feed/LC58/playlist.m3u8",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
 ]
