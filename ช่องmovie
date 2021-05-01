@@ -384,6 +384,12 @@
   { 
      "name": "TRUE MOVIE HITS",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://cdn-edge-sg2.idoohd.com/play/7fc75617eca936c7d037aa5d5075eb32/be3379b6e647dd14461d222d46e93be1/1619889598/playlist.m3u8",
+     "import": false
+},
+  { 
+     "name": "TRUE MOVIE HITS",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
       "url": "http://119.161.100.50:9999/live/test123/test123/220.m3u8",
      "import": false
 },
