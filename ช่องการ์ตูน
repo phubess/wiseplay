@@ -78,8 +78,9 @@
  { 
         "name":"Cartoon Network b",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "https://boxmovielive.com/live/cn1.m3u8",
-        "import": false
+        "url": "http://191.96.36.150:80/cnth/RV69Wt8Swz/113",
+        "userAgent": "ProPlayer",
+        "playInNatPlayer": "true"
 
 },
  { 
@@ -87,7 +88,25 @@
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
         "url": "http://119.161.100.50:9999/live/test123/test123/245.m3u8",
         "import": false
-
+},
+ { 
+        "name":"Nick Jr.b",
+        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
+        "url": "http://191.96.36.150:80/nickjrth/KC7kDw9Spe/111",
+        "userAgent": "ProPlayer",
+        "playInNatPlayer": "true"
+},
+ { 
+      "name": "BabyTV",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
+      "url": "https://player.we-play.tv/channel.php?name=babytv&cate=kids","referer":"https://player.we-play.tv"
+},
+ { 
+      "name": "BabyTV b",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
+      "url": "http://191.96.36.150:80/babyth/c7x7awja8S/112",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"
 },
  { 
       "name": "Nickelodeon ",
@@ -140,11 +159,6 @@
       "name": "Aniplus",
       "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
       "url": "https://player.ballnaka.tv/?channel=aniplus&cate=kids","referer":"https://player.ballnaka.tv/"
-},
- { 
-      "name": "BabyTV",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
-      "url": "https://player.we-play.tv/channel.php?name=babytv&cate=kids","referer":"https://player.we-play.tv"
 
 
 },
@@ -158,6 +172,13 @@
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
       "url": "http://119.161.100.50:9999/live/test123/test123/242.m3u8", 
       "import": false 
+},
+ { 
+      "name": "Disney b",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
+      "url": "http://191.96.36.150:80/disneychannel/disney/114", 
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"
 },
  { 
       "name": "M KIDZ",
