@@ -250,10 +250,11 @@
      "import": false
 },
   {
-     "name": "Fox Family ",
+     "name": "Fox Family b",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "https://boxmovielive.com/live/fam1.m3u8",
-     "import": false
+     "url": "http://191.96.36.150:80/foxfamilyth/sUgZzjUgKv/119",
+     "userAgent": "ProPlayer",
+     "playInNatPlayer": "true" 
 
 },
   {
