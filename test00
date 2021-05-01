@@ -1,0 +1,23 @@
+{  
+    "name": "phubess",
+    "author": "update 1/5/2021",
+    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
+    "stations": [ 
+{ 
+        
+     "name": "HBO",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "http://191.96.36.150:80/hbo/G5kF4tBb3g/26",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+ 
+ },
+]
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
