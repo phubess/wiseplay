@@ -35,7 +35,7 @@
        "import": false
 }, 
   { 
-      "name": "Animal Planet",
+      "name": "Animal Planet b",
       "image": "https://www.iptv4k.tv/images/tv/Eob8knM2ihYpK5bURJfagPgOuseU8gaanimal.png",              
        "url": "http://191.96.36.150:80/animal1/cZv3wLADzc/71",
        "userAgent": "ProPlayer",
@@ -53,7 +53,7 @@
        "import": false
 }, 
   { 
-      "name": "Discovery Asia",
+      "name": "Discovery Asia b",
       "image": "https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",              
        "url": "http://191.96.36.150:80/disasia1/kTt9rQXJAu/67",
        "userAgent": "ProPlayer",
@@ -66,7 +66,7 @@
       
 }, 
   { 
-      "name": "National Geographic",
+      "name": "National Geographic b",
       "image": "https://www.iptv4k.tv/images/tv/X6cS4tqlS0JSLsvzQBd2QExtGzR2T98unnamed.png",              
        "url": "http://191.96.36.150:80/natgeo/7vmmUMW7Qa/82",
        "userAgent": "ProPlayer",
@@ -187,8 +187,8 @@
       "playInNatPlayer": "true"  
 },
    { 
-       "name": "BBC EARTH",
-        "image": "https://keykingiptv.com/boxtv/movieposters/Movieq6tth_yffguj.jpg",
+       "name": "BBC EARTH b",
+        "image": "http://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",
         "url": "http://191.96.36.150:80/bbcearth/TBJSZSjjZR/64",
         "userAgent": "ProPlayer",
        "playInNatPlayer": "true"
