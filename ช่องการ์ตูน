@@ -79,7 +79,7 @@
         "name":"Cartoon Network b",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "http://191.96.36.150:80/cnth/RV69Wt8Swz/113",
-        "userAgent": "ProPlayer",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true"
 
 },
@@ -93,7 +93,7 @@
         "name":"Nick Jr.b",
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
         "url": "http://191.96.36.150:80/nickjrth/KC7kDw9Spe/111",
-        "userAgent": "ProPlayer",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true"
 },
  { 
@@ -105,7 +105,7 @@
       "name": "BabyTV b",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
       "url": "http://191.96.36.150:80/babyth/c7x7awja8S/112",
-      "userAgent": "ProPlayer",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
 },
  { 
@@ -177,7 +177,7 @@
       "name": "Disney b",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
       "url": "http://191.96.36.150:80/disneychannel/disney/114", 
-      "userAgent": "ProPlayer",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
 },
  { 
