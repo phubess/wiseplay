@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 29/4/2021",
+    "author": "update 1/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -460,7 +460,7 @@
   {
      "name": "",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0010.png",              
-     "url": "https://mediasv.online/live/new18/playlist.m3u8",
+     "url": "https://boxmovie-th.com/app-api-android/true/NEW-TV/playlist.m3u8",
      "import": false
 
 },
@@ -487,7 +487,12 @@
      "image": "https://sv1.picz.in.th/images/2020/09/20/OErLT1.png",              
      "url": "http://live.parliament.go.th/livestream/encoder3/playlist.m3u8",
      "import": false
-
+},
+  {
+     "name": "บุรีรมย์ tv",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1613382885490_movie_image.jpg",              
+     "url": "https://live.thaitvstream.com/play/studio/index.m3u8",
+     "import": false
 },
 ]
 }
