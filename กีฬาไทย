@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 29/4/2021",
+    "author": "update 1/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -166,6 +166,13 @@
  {
        "name":"TRUE TENNIS",
        "image": "http://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
+       "url": "http://191.96.36.150:80/tennistrue/gKYkLUF8AZ/93",
+       "userAgent": "ProPlayer",
+       "playInNatPlayer": "true"  
+},
+ {
+       "name":"TRUE TENNIS",
+       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
        "url": "https://ball8k.com/m_/channel.ball8k?stream=truetennis","referer": "https://ball8k.com/"
 },
  {
@@ -178,6 +185,13 @@
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
        "url": "http://119.161.100.50:9999/live/test123/test123/310.m3u8",
         "import": false
+},
+ {
+       "name":"GOLF CHANNEL b",
+       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
+       "url": "http://191.96.36.150:80/golfch/sTNFXuzyyt/91",
+       "userAgent": "ProPlayer",
+       "playInNatPlayer": "true" 
 },
  {
        "name":"GOLF CHANNEL",
@@ -302,13 +316,6 @@
        "name": "Bein 2",
        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",           
        "url": "https://player.we-play.tv/channel.php?name=bein2&cate=sports","referer": "https://player.we-play.tv"
-},
- { 
-       "name": "Tsports",
-       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",           
-       "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8",
-        "import": false
-
 },
  { 
        "name": "Tsports",
