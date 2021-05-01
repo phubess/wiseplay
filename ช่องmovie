@@ -116,7 +116,7 @@
      "name": "HBO",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
      "url": "http://191.96.36.150:80/hbo/G5kF4tBb3g/26",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
   {     
@@ -179,7 +179,7 @@
      "name": "CINEMAX",
      "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
      "url": "http://191.96.36.150:80/cinemax/U4Jucs5sFH/86",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 
 },
@@ -193,7 +193,7 @@
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "http://191.96.36.150:80/foxmoviesTH/paW4rse5vK/23",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
    {
@@ -211,14 +211,14 @@
      "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "http://191.96.36.150:80/foxacTH/s65DYdR3rZ/24",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
   {
      "name": "FOX ACTION MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "http://191.96.36.150:80/foxactionen/mEuUBJZase/108",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
   {
@@ -253,7 +253,7 @@
      "name": "Fox Family b",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "http://191.96.36.150:80/foxfamilyth/sUgZzjUgKv/119",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 
 },
@@ -295,14 +295,14 @@
      "name": "TVN b",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",              
      "url": "http://191.96.36.150:80/tvnhd/r9B3Bpzj86/97",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
  {
      "name": "HITS b",
      "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
      "url": "http://191.96.36.150:80/hits/e5brcvFGKg/106",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
  {
@@ -314,7 +314,7 @@
      "name": "HITS MOVIES b",
      "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2tnmvwofitgks8kow4.png",              
      "url": "http://191.96.36.150:80/hismovie/uJ8XvYkUv4/107",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
  {
@@ -326,7 +326,7 @@
      "name": "True Film HD 2 b",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
      "url": "http://191.96.36.150:80/filmhd2/d5F7tCKBTZ/102",
-      "userAgent": "ProPlayer",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
  {
@@ -345,7 +345,7 @@
      "name": "True Asian Series HD b",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
      "url": "http://191.96.36.150:80/trueasiaseries/XsPL7psbLC/96",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
  {
@@ -358,7 +358,7 @@
      "name": "True Thai Film HD b",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
      "url": "http://191.96.36.150:80/thaifilm/3ZMtErVMK4/99",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
   { 
@@ -418,7 +418,7 @@
      "name": "Paramount Channel b",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
      "url": "http://191.96.36.150:80/paramount/BKJN3mPWU4/109",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
  {
@@ -431,7 +431,7 @@
      "name": "CCM b",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
      "url": "http://191.96.36.150:80/ccm/tmFcX8fsY4/103",
-     "userAgent": "ProPlayer",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
  {
@@ -463,7 +463,7 @@
       "name": "AXN HD b",
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
       "url": "http://191.96.36.150:80/axn/73daA4t9bm/110",
-      "userAgent": "ProPlayer",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
 },
  { 
