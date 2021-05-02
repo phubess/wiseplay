@@ -40,8 +40,7 @@
  {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "http://ip2121.com:8081/web1/truepremier1/playlist.m3u8", 
-        "import": false
+        "url": "https://ball8k.com/m_/channel.ball8k?stream=epl1","referer": "https://ball8k.com/" 
 },
  {
        "name":"True Premier Football HD 1",
