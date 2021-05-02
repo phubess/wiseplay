@@ -13,7 +13,12 @@
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "http://191.96.36.150:80/EPL1s/ZHvJCBwajE/123",
         "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        "playInNatPlayer": "true" 
+        "playInNatPlayer": "true"
+},
+ {
+       "name":"True Premier Football HD 1",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/chunks.m3u8","referer": "https://www.chomfootball.com/" 
 },
  {
        "name":"True Premier Football HD 1",
@@ -41,6 +46,7 @@
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8", 
         "import": false
+
 },
  {
        "name":"True Premier Football HD 1",
