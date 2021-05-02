@@ -27,6 +27,11 @@
         "url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-1","referer": "https://player.we-play.tv"
 },
  {
+       "name":"True Premier Football HD 1 ",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://www.doofootball.com/live/streaming/epl1backup/552903","referer": "https://www.doofootball.com/"
+},
+ {
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f","referer": "https://dooball66.com/"
