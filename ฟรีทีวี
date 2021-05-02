@@ -4,14 +4,6 @@
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
-    
-
-    "name":"3 HD",
-    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/290.m3u8",
-    "import": false
-},
-{
     "name":"3 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0003.png",
     "url": "https://boxmovie-th.com/app-api-android/true/CH3-HD/playlist.m3u8",
