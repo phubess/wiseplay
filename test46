@@ -8,7 +8,15 @@
                "image": "http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",
                "url": "https://fo1iptv.com/tv-player/true-film-hd.html","referer": "https://fo1iptv.com/"
                "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+               
+ },
+ {
+      "name": "True Premier Football HD 1",
+      "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+      "url": "https://fo1iptv.com/tv-player/true-premuim-1-vkd80p04jvr0.html","referer": "https://fo1iptv.com/"
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
        
  },
+ 
 ]
 }
