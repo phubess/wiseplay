@@ -11,6 +11,12 @@
       "import": false
 },
  {
+    "name": "แสงจันทร์",
+     "image": "https://www.inwiptv.com/postor/20210504230700%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.jpg",              
+     "url": "https://freelive.inwstream.com:1936/freelive-edge/sangjun.stream/playlist.m3u8",
+      "import": false
+},
+ {
      "name": "Food Network HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
      "url": "http://119.161.100.50:9999/live/test123/test123/565.m3u8",
