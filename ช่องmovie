@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 5/5/2021",
+    "author": "update 6/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -36,8 +36,9 @@
   {
         "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "https://boxmovielive.com/live/3bb.m3u8",
-        "import": false
+        "url": "http://191.96.36.150:80/3bb/PSLDWu7RpX/25",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        "playInNatPlayer": "true"
 },
   {
         "name": "CABLE ",  
@@ -89,8 +90,8 @@
   {
      "name": "HBO HITS",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
-     "url": "http://119.161.100.50:9999/live/test123/test123/514.m3u8",
-     "import": false
+     "url": "https://fo1iptv.com/tv-player/hbo-hits.html","referer": "https://fo1iptv.com/"  
+    
 },
   {
      "name": "HBO HITS",
@@ -100,7 +101,7 @@
   {
      "name": "HBO HITS b",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
-     "url": "https://boxmovielive.com/live/1hbohis.m3u8",
+     "url": "https://boxmovielive.com/live/hbohits.m3u8",
      "import": false
 },
   {
