@@ -4,48 +4,7 @@
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
-      "name":"Cartoon ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
-        "url": "http://119.161.100.50:9999/live/test123/test123/622.m3u8",
-        "import": false 
- },
- {       
-       "name":"Cartoon ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
-        "url": "http://119.161.100.50:9999/live/test123/test123/621.m3u8",
-        "import": false 
- },
- {       
-       "name":"Cartoon ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
-        "url": "http://119.161.100.50:9999/live/test123/test123/629.m3u8",
-        "import": false 
- },
- {       
-       "name":"Cartoon ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
-        "url": "http://119.161.100.50:9999/live/test123/test123/625.m3u8",
-        "import": false       
-},
- {       
-       "name":"Cartoon ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
-        "url": "http://119.161.100.50:9999/live/test123/test123/630.m3u8",
-        "import": false        
- },
- {       
-       "name":"Cartoon ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
-        "url": "http://119.161.100.50:9999/live/test123/test123/632.m3u8",
-        "import": false         
- },
- {       
-       "name":"Cartoon ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx2sNPAc4PmVWLyueeysFY9Gn_gqhj-E4lg&usqp=CAU",
-        "url": "http://119.161.100.50:9999/live/test123/test123/632.m3u8",
-        "import": false  
-               
-        
+      
  },
  {       
        "name":"Cartoon ",
@@ -56,8 +15,9 @@
  {       
        "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "http://119.161.100.50:9999/live/test123/test123/251.m3u8",
-        "import": false
+        "url": "http://191.96.36.150:80/cnth/RV69Wt8Swz/113",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        "playInNatPlayer": "true"
 },
  { 
        "name":"Cartoon Network",
@@ -74,20 +34,7 @@
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8",
         "import": false
-},
- { 
-        "name":"Cartoon Network b",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "http://191.96.36.150:80/cnth/RV69Wt8Swz/113",
-        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        "playInNatPlayer": "true"
 
-},
- { 
-        "name":"Nick Jr.",
-        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
-        "url": "http://119.161.100.50:9999/live/test123/test123/245.m3u8",
-        "import": false
 },
  { 
         "name":"Nick Jr.b",
@@ -107,48 +54,19 @@
       "url": "http://191.96.36.150:80/babyth/c7x7awja8S/112",
       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
-},
- { 
-      "name": "Nickelodeon ",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",
-       "url": "http://119.161.100.50:9999/live/test123/test123/606.m3u8",
-      "import": false
-},
- { 
-      "name": "Nickelodeon",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
-      "url": "https://player.we-play.tv/channel.php?name=nickelodeon&cate=kids","referer":"https://player.we-play.tv"
-},
- { 
-      "name": "Nickelodeon",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickolodeon.png",              
-      "url": "https://player.ballnaka.tv/?channel=nickelodeon&cate=kids","referer":"https://player.ballnaka.tv/"
-},
- { 
-      "name": "Cartoon Club",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",              
-      "url": "https://player.we-play.tv/channel.php?name=cartoon-club&cate=kids","referer": "https://player.we-play.tv"
 
 },
  { 
-      "name": "True Spark Jump ",
-      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png", 
-      "url": "http://119.161.100.50:9999/live/test123/test123/186.m3u8",
-      "import": false
-
-},
- { 
-      "name": "True Spark play",
-      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",
-      "url": "http://119.161.100.50:9999/live/test123/test123/221.m3u8",
+      "name": "BOOMERANG",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_1.png", 
+      "url": "https://freelive.inwstream.com:1936/freelive-edge/boomerang/chunks.m3u8",
       "import": false
 },
  { 
       "name": "TOONEE",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png",              
-      "url": "http://119.161.100.50:9999/live/test123/test123/612.m3u8",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png", 
+      "url": "https://freelive.inwstream.com:1936/freelive-edge/toonee/chunks.m3u8",
       "import": false
-
 },
  { 
       "name": "Aniplus",
@@ -159,8 +77,6 @@
       "name": "Aniplus",
       "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
       "url": "https://player.ballnaka.tv/?channel=aniplus&cate=kids","referer":"https://player.ballnaka.tv/"
-
-
 },
  { 
       "name": "Disney Jr",
@@ -170,8 +86,8 @@
  { 
       "name": "Disney",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
-      "url": "http://119.161.100.50:9999/live/test123/test123/242.m3u8", 
-      "import": false 
+      "url": "https://fo1iptv.com/tv-player/disney-channel.html","referer":"https://fo1iptv.com/" 
+   
 },
  { 
       "name": "Disney b",
