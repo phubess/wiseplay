@@ -357,7 +357,12 @@
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
-  { 
+ { 
+     "name": "TRUE FILM ASIA ",
+      "image": "https://wacth.officebk.co/uploads/tv_image/true-film-asia.png",              
+      "url": "https://fo1iptv.com/tv-player/true-film-asia.html","referer": "https://fo1iptv.com/"
+},
+ { 
      "name": "TRUE MOVIE HITS ",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
       "url": "https://www.we-play.tv/watching/tv/true-movie-hits","referer": "https://player.we-play.tv"
