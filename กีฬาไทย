@@ -254,13 +254,6 @@
 	 "url": "https://player.ballnaka.tv/?channel=nfl&cate=sport","referer": "https://player.ballnaka.tv"
 },
  {
-       "name":"Motor Vision",
-        "image": "http://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
-	 "url": "https://player.we-play.tv/channel.php?name=motor-vision&cate=sports","referer": "https://player.we-play.tv"
-
-
-},
- {
        "name":"True Sport 2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png",
 	"url": "https://player.we-play.tv/channel.php?name=tsp2&cate=sports","referer": "https://player.we-play.tv"
@@ -285,8 +278,16 @@
        "name":"True Sport 7",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_original.png",
 	 "url": "https://player.we-play.tv/channel.php?name=tsp7&cate=sports","referer": "https://player.we-play.tv"
-
-
+},
+{ 
+          "name": "FOX Sports HD",
+          "image": "http://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png",              
+          "url": "https://live.andaman888th.com/live/foxsports1/sport/foxsports1/chunks.m3u8","referer": "https://www.andaman888th.com/"
+},
+{ 
+          "name": "FOX Sports HD",
+          "image": "http://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png",              
+          "url": "https://fo1iptv.com/tv-player/fox-sport-1hd.html","referer": "https://fo1iptv.com/"
 },
 { 
           "name": "FOX Sports HD",
@@ -298,8 +299,16 @@
           "image": "http://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png",              
           "url": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8",
 	  "import": false
-
-
+},
+{ 
+          "name": "FOX Sports 2",
+          "image": "http://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",              
+          "url": "https://fo1iptv.com/tv-player/fox-sport-2-xuytz9lzstk9.html","referer": "https://fo1iptv.com/"
+},
+{ 
+          "name": "FOX Sports 2",
+          "image": "http://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",              
+          "url": "https://live.andaman888th.com/live/foxsports2/sport/foxsports2/chunks.m3u8","referer": "https://www.andaman888th.com/"
 },
 { 
           "name": "FOX Sports 2",
@@ -317,8 +326,16 @@
           "image": "http://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",              
           "url": "https://player.we-play.tv/channel.php?name=fox2&cate=sports","referer": "https://player.we-play.tv"
 
-
-
+},
+ {
+       "name":"FOX Sports 3",
+       "image": "http://cms.dmpcdn.com/livetv/2019/01/24/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png",
+        "url": "https://fo1iptv.com/tv-player/fox-sport-3-74017pxbo9zf.html","referer": "https://fo1iptv.com/"
+},
+ {
+       "name":"FOX Sports 3",
+       "image": "http://cms.dmpcdn.com/livetv/2019/01/24/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.png",
+        "url": "https://live.andaman888th.com/live/foxsports3/sport/foxsports3/chunks.m3u8","referer": "https://www.andaman888th.com/"
 },
  {
        "name":"FOX Sports 3",
