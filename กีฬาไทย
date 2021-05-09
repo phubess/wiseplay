@@ -68,7 +68,11 @@
        "name":"True Premier Football HD 3 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
 	"url": "https://fo1iptv.com/tv-player/true-premuim-3.html","referer": "https://fo1iptv.com/"  
-
+},
+ {	 
+        "name":"True Sports HD",
+        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
+	"url": "https://fo1iptv.com/tv-player/true-sport-1hd.html","referer": "https://fo1iptv.com/"
 },
  {	 
         "name":"True Sports HD",
@@ -103,6 +107,11 @@
  {
        "name":"True Sports HD2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
+	"url": "https://fo1iptv.com/tv-player/true-sport-2hd.html","referer": "https://fo1iptv.com/" 
+},
+ {
+       "name":"True Sports HD2",
+        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
 	"url": "https://live.andaman888th.com/live/truesporthd2/sport/truesporthd2/chunks.m3u8","referer": "https://www.andaman888th.com/" 
 	
 },
@@ -127,6 +136,11 @@
          "name":"True Sports HD2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
 	 "url": "https://player.ballnaka.tv/?channel=thd2&cate=sport","referer": "https://ballnaka.tv/"
+},
+ {	 
+         "name":"True Sports HD3",
+        "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
+	"url": "https://fo1iptv.com/tv-player/true-sport-3hd.html","referer": "https://fo1iptv.com/" 
 },
  {	 
          "name":"True Sports HD3",
