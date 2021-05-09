@@ -1,16 +1,14 @@
 { 
       "name": "phubess", 
-      "author": "update 1/5/2021",
+      "author": "update 9/5/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
       
- },
- {       
-       "name":"Cartoon ",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyFxYoL4qPVByrHrlBDAqceCA108-aZ6Www&usqp=CAU",
-        "url": "https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8",
-        "import": false 
+      "name":"Cartoon ",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyFxYoL4qPVByrHrlBDAqceCA108-aZ6Www&usqp=CAU",
+       "url": "https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8",
+       "import": false 
  },
  {       
        "name":"Cartoon Network",
