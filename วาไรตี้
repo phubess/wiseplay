@@ -17,10 +17,14 @@
       "import": false
 },
  {
-     "name": "Food Network HD",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
-     "url": "http://119.161.100.50:9999/live/test123/test123/565.m3u8",
-     "import": false
+     "name": "LIFETIME",
+     "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
+     "url": "https://www.we-play.tv/watching/tv/lifetime","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "LIFETIME",
+     "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
+     "url": "https://fo1iptv.com/tv-player/lifetime.html","referer": "https://fo1iptv.com/"  
 },
  {
      "name": "Food Network HD",
@@ -33,6 +37,11 @@
       "name": "Asian Food Network",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
        "url": "https://player.we-play.tv/channel.php?name=afn&cate=documentary","referer": "https://player.we-play.tv"
+}, 
+  { 
+      "name": "Asian Food Network",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+       "url": "https://fo1iptv.com/tv-player/asian-food-channel.html","referer": "https://fo1iptv.com/"
 },
  {
      "name": "Asian Food Network ",
@@ -61,14 +70,14 @@
  {
      "name": "True X-Zyte",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
-     "url": "http://119.161.100.50:9999/live/test123/test123/218.m3u8",
+     "url": "http://tv1.chang55.com:7799/live/C15x1/playlist.m3u8",
      "import": false
 },
  {
      "name": "True X-Zyte",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
-     "url": "http://119.161.100.50:9999/live/test123/test123/597.m3u8",
-     "import": false
+     "url": "https://fo1iptv.com/tv-player/x-zyte.html","referer": "https://fo1iptv.com/"
+     
 },
  {
      "name": "TRUE MUSIC",
@@ -102,7 +111,11 @@
      "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
      "import": false
 
-
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://fo1iptv.com/tv-player/blue-ant-entertainment.html","referer": "https://fo1iptv.com/"
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
@@ -121,37 +134,17 @@
      "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
-     "name": "BLUEANT EXTREME",
-     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
-     "url": "http://191.96.36.150:80/blueant/Hdmnfn8HEx/104",
-     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-     "playInNatPlayer": "true"
-},
- {
-     "name": "ซุปเปอร์บันเทิง",
-     "image": "http://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",              
-     "url": "http://119.161.100.50:9999/live/test123/test123/546.m3u8",
-     "import": false
-
-},
- {
      "name": "Channel V HD",
      "image": "https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg",              
      "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8",
      "import": false
-},
- {
-     "name": "V Channel",
-     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1606637020738_movie_image.png",              
-     "url": "http://61.19.242.134/feed/LC14/index.m3u8",
-     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-     "playInNatPlayer": "true" 
+ 
  },
   { 
       "name": "Waku Waku Japan",
       "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
-       "url": "https://mediasv.online/tvchannel_x1/wakuwakujapan/playlist.m3u8",
-       "import": false
+       "url": "https://fo1iptv.com/tv-player/wakuwaku-japan.html","referer": "https://fo1iptv.com/"
+    
 
 },
  { 
@@ -162,9 +155,8 @@
 {
     "name":"TLC HD",
     "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
-    "url": "http://119.161.100.50:9999/live/test123/test123/232.m3u8",
-    "import": false
-
+    "url": "https://fo1iptv.com/tv-player/tlc-hd.html","referer": "https://fo1iptv.com/"
+ 
 },
 {
     "name":"TLC HD",
@@ -215,13 +207,8 @@
      "image": "https://sv1.picz.in.th/images/2020/10/06/Op2Qtt.jpg",              
      "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
      "import": false
-},
-  {
-     "name": "LAO STAR",
-     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",              
-     "url": "https://cdn6.goprimetime.info/feed/LC58/playlist.m3u8",
-     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-     "playInNatPlayer": "true"
+
+    
 },
 ]
 }
