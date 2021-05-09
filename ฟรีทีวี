@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 1/5/2021",
+    "author": "update 9/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -71,8 +71,8 @@
  { 
     "name":"CH7 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/293.m3u8",
-    "import": false 
+    "url": "https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
 },
  { 
     "name":"CH7 HD",
@@ -109,9 +109,8 @@
  { 
     "name":"MCOT HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/214.m3u8",
-    "import": false
-
+    "url": "http://61.19.242.134/feed/chmcothd/playlist.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
 },
  { 
     "name":"MCOT HD",
@@ -127,15 +126,25 @@
   { 
     "name":"NBT 2 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/207.m3u8",
-    "import": false
+    "url": "https://cdn6.goprimetime.info//feed//chnbt/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
 },
   { 
     "name":"NBT 2 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
     "url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
     "import": false
-
+},
+  { 
+    "name":"NBT 2 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/nbt/chunks.m3u8",
+    "import": false
+},
+  { 
+    "name":"NBT 2 HD",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+    "url": "https://www.we-play.tv/watching/tv/11-nbt","referer": "https://player.we-play.tv"
 },
   { 
     "name":"TPBS",
@@ -146,9 +155,8 @@
   { 
     "name":"TPBS",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/185.m3u8",
-    "import": false
-
+    "url": "https://fo1iptv.com/tv-player/tpbs-hd.html","referer": "https://fo1iptv.com/"
+    
 },
   { 
     "name":"TPBS",
@@ -170,7 +178,7 @@
   { 
     "name":"AmarinTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/295.m3u8",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8",
     "import": false
 },
   { 
@@ -198,7 +206,7 @@
   { 
     "name":"ONE 31 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/204.m3u8",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8",
     "import": false
 },
   { 
@@ -221,7 +229,7 @@
   { 
     "name":"Thairath TV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/191.m3u8",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8",
     "import": false 
  },
   { 
@@ -255,7 +263,7 @@
   { 
     "name":"PPTV HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/202.m3u8",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8",
     "import": false
 },
   { 
@@ -291,14 +299,24 @@
     "name":"GMM25",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
     "url": "https://player.we-play.tv/channel.php?name=gmm25&cate=digitaltv","referer": "https://player.we-play.tv"
-
+},
+  { 
+    "name":"GMM25",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8",
+    "import": false
 },
   { 
     "name":"GMM25",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
     "url": "http://live2.dootvde.com/live/50018_gmm.stream.smil/chunklist_w765690591_b4692000_slThai.m3u8",
     "import": false
-
+},
+  { 
+    "name":"GMM25",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+    "url": "https://cdn6.goprimetime.info//feed//chgmm//index.m3u8",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
 }, 
   { 
     "name":"TNN24",
@@ -315,7 +333,7 @@
   { 
     "name":"TNN24",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/187.m3u8",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8",
     "import": false
 
 },
@@ -346,7 +364,7 @@
  {
      "name": "Workpoint TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",              
-     "url": "http://119.161.100.50:9999/live/test123/test123/167.m3u8",
+     "url": "https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8",
      "import": false
 },
  {
@@ -365,7 +383,17 @@
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
     "url": "https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8", 
     "import": false
-
+},
+  { 
+    "name":"MONO",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/mono29/chunks.m3u8", 
+    "import": false 
+},
+  { 
+    "name":"MONO",
+    "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+    "url": "https://fo1iptv.com/tv-player/mono-29.html","referer": "https://fo1iptv.com/"   
 },
   { 
     "name":"MONO",
@@ -411,6 +439,12 @@
      "import": false
 },
   {
+     "name": "MRTV 4",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/4f31e906-6569-4cf0-a447-7f6438fda36b.png",              
+     "url": "https://boxmovie-th.com/app-api-android/true/Mrtv4/playlist.m3u8",
+     "import": false
+},
+  {
      "name": "News 1",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",              
      "url": "http://news1.live14.com/stream/news1_hi.m3u8",
@@ -420,6 +454,12 @@
      "name": "ฟ้าวันใหม่",
      "image": "https://sv1.picz.in.th/images/2020/09/20/OEvbwf.png",              
      "url": "https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/playlist.m3u8",
+     "import": false
+},
+  {
+     "name": "Police TV",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0047.png",              
+     "url": "https://cdn-th-vip.login.in.th/policetv/policetv/chunklist_w2029003040.m3u8",
      "import": false
 },
   {
