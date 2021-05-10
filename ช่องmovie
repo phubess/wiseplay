@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 10/5/2021",
+    "author": "update 11/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -24,30 +24,26 @@
   {
         "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://191.96.36.150:80/sky377/XdsHLEbtZs/160",
-        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        "playInNatPlayer": "true"
+        "url": "https://boxmovielive.com/live/sky3.m3u8",
+        "import": false
 },
   {
         "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://191.96.36.150:80/sky477/wLA5fTVHKk/161",
-        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        "playInNatPlayer": "true"
+        "url": "https://boxmovielive.com/live/sky41.m3u8",
+        "import": false
 },
   {
         "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://191.96.36.150:80/3bb/PSLDWu7RpX/25",
-        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        "playInNatPlayer": "true"
+        "url": "https://boxmovielive.com/live/series.m3u8",
+         "import": false
 },
   {
         "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "http://191.96.36.150:80/series201/6k9EEkqskV/159",
-        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        "playInNatPlayer": "true"
+        "url": "https://boxmovielive.com/live/3bb.m3u8",
+        "import": false
 },
   {
         "name": "CABLE ",  
@@ -188,7 +184,7 @@
  {
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "http://191.96.36.150:80/foxmoviesTH/paW4rse5vK/23",
+     "url": "https://dogtoop.com:8443/foxmoviesTH/paW4rse5vK/23",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
@@ -240,7 +236,7 @@
  {
      "name": "Fox Family b",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "http://191.96.36.150:80/foxfamilyth/sUgZzjUgKv/119",
+     "url": "https://dogtoop.com:8443/foxfamilyth/sUgZzjUgKv/119",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
@@ -300,7 +296,7 @@
  {
      "name": "HITS MOVIES b",
      "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2tnmvwofitgks8kow4.png",              
-     "url": "http://191.96.36.150:80/hismovie/uJ8XvYkUv4/107",
+     "url": "https://dogtoop.com:8443/hismovie/uJ8XvYkUv4/107",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
@@ -317,7 +313,7 @@
  {
      "name": "True Film HD b",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
-     "url": "http://191.96.36.150:80/filmhd/cadgGq6BYq/100",
+     "url": "https://dogtoop.com:8443/filmhd/cadgGq6BYq/100",
      "userAgent": "ProPlayer",
      "playInNatPlayer": "true"
 },
@@ -329,7 +325,7 @@
  {
      "name": "True Film HD 2 b",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
-     "url": "http://191.96.36.150:80/filmhd2/d5F7tCKBTZ/102",
+     "url": "https://dogtoop.com:8443/filmhd2/d5F7tCKBTZ/102",
       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
@@ -353,7 +349,7 @@
  {
      "name": "True Thai Film HD b",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
-     "url": "http://191.96.36.150:80/thaifilm/3ZMtErVMK4/99",
+     "url": "https://dogtoop.com:8443/thaifilm/3ZMtErVMK4/99",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
@@ -408,7 +404,7 @@
  {
      "name": "CCM b",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
-     "url": "http://191.96.36.150:80/ccm/tmFcX8fsY4/103",
+     "url": "https://dogtoop.com:8443/ccm/tmFcX8fsY4/103",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
