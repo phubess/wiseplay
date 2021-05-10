@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 10/5/2021",
+    "author": "update 11/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -103,7 +103,13 @@
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1578592825654_movie_image.png",              
      "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
      "import": false
-
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT b",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://dogtoop.com:8443/blueant/Hdmnfn8HEx/104",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
