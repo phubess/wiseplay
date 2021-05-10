@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 1/5/2021",
+    "author": "update 10/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -29,7 +29,7 @@
  {
      "name": "Food Network HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
-     "url": "http://191.96.36.150:80/foodchannel/j8MByYL8eD/72",
+     "url": "https://dogtoop.com:8443/foodnf/uQ2aa3ATGU/166",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 }, 
@@ -46,7 +46,7 @@
  {
      "name": "Asian Food Network ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
-     "url": "http://191.96.36.150:80/afn00/RnYYeykCXe/74",
+     "url": "http://191.96.36.57:80/afn00/RnYYeykCXe/7",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
@@ -96,14 +96,7 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
      "url": "https://boxmovie-th.com/app-api-android/true/True-Inside-HD/playlist.m3u8",
      "import": false 
-},
- {
-     "name": "เรียลลิตี้ แชนแนล",
-     "image": "https://cms.dmpcdn.com/livetv/2020/04/21/b78d55f0-83af-11ea-9a0e-4bf114629baf_320.png",              
-     "url": "https://tv.trueid.net/embed/realitychannel-hd?autoplay=yes&nopageview=yes",
-     "embed": "true",
-     "playInNatPlayer": "true",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+
 },
  {
      "name": "FTV",
@@ -144,7 +137,13 @@
       "name": "Waku Waku Japan",
       "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
        "url": "https://fo1iptv.com/tv-player/wakuwaku-japan.html","referer": "https://fo1iptv.com/"
-    
+},
+ { 
+      "name": "Waku Waku b",
+      "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
+       "url": "https://dogtoop.com:8443/waku/RUhc9rnDea/80",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true" 
 
 },
  { 
@@ -156,7 +155,13 @@
     "name":"TLC HD",
     "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
     "url": "https://fo1iptv.com/tv-player/tlc-hd.html","referer": "https://fo1iptv.com/"
- 
+},
+{
+    "name":"TLC HD b",
+    "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+    "url": "http://191.96.36.57:80/tlcsss/d75ZBbsX2F/16",
+    "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
 },
 {
     "name":"TLC HD",
