@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 9/5/2021",
+    "author": "update 10/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -11,7 +11,14 @@
  {
        "name":"True Premier Football HD 1 b",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "http://191.96.36.150:80/EPL1s/ZHvJCBwajE/123",
+        "url": "https://dogtoop.com:8443/EPL1s/ZHvJCBwajE/123",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        "playInNatPlayer": "true"
+},
+ {
+       "name":"True Premier Football HD 1 b",
+        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
+        "url": "https://dogtoop.com:8443/epl1000/xDCaXGu6cp/162",
         "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true"
 },
