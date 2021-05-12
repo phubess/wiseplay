@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 10/5/2021",
+    "author": "update 12/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -23,8 +23,9 @@
  {         
         "name":"mysci b",
         "image": "https://bit.ly/2XMGyev",
-         "url": "https://boxmovielive.com/live/mysci0.m3u8",  
-         "import": false
+        "url": "https://dogtoop.com:8443/mysci/FbBgUghdW7/155",  
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        "playInNatPlayer": "true"  
 }, 
  { 
       "name": "Animal Planet",
@@ -80,13 +81,21 @@
   { 
       "name": "Nat Geo Wild b",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0140.png",              
-      "url": "https://boxmovielive.com/live/natw.m3u8",
-      "import": false
+      "url": "https://dogtoop.com:8443/natgeowild1/xkjhwkMJ9L/66",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true" 
 }, 
   { 
       "name": "Nat Geo Wild",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0140.png",              
        "url": "https://player.we-play.tv/channel.php?name=natwild&cate=documentary","referer": "https://player.we-play.tv"
+}, 
+  { 
+      "name": "new explorer b",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1620671817759_movie_image.jpg",              
+      "url": "https://dogtoop.com:8443/truelife/HxxtEY4fMq/177",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
 }, 
   { 
       "name": "History HD",
@@ -156,15 +165,29 @@
 },
   { 
        "name": "TRUE EXPLORE SCI",
+       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
+        "url": "https://dogtoop.com:8443/truesci/tBbB6H7LkQ/174",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+       "playInNatPlayer": "true" 
+},
+  { 
+       "name": "TRUE EXPLORE SCI",
         "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
          "url": "https://fo1iptv.com/tv-player/true-explore-sci.html","referer": "https://fo1iptv.com/"
 },
   { 
        "name": "TRUE EXPLORE LIFE",
-        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
-         "url": "https://fo1iptv.com/tv-player/true-life.html","referer": "https://fo1iptv.com/"
+       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
+       "url": "https://fo1iptv.com/tv-player/true-life.html","referer": "https://fo1iptv.com/"
 },
-  { 
+ { 
+      "name": "สำรวจโลก b",
+      "image": "https://bit.ly/33mwVq4",
+      "url": "https://dogtoop.com:8443/sumlokluk/R2qMTNwGmk/175",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ { 
        "name": "สำรวจโลก",
       "image": "https://bit.ly/33mwVq4",
       "url": "http://61.19.242.134/feed/LC8/index.m3u8",
