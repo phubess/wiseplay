@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 11/5/2021",
+    "author": "update 12/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -11,7 +11,7 @@
  {
        "name":"True Premier Football HD 1 b",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "https://dogtoop.com:8443/EPL1s/ZHvJCBwajE/123",
+        "url": "https://dogtoop.com:8443/EPL1HD/vwaSTWpDwm/251",
         "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true"
 },
@@ -64,7 +64,13 @@
        "name":"True Premier Football HD 1",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://ball8k.com/m_/channel.ball8k?stream=epl1","referer": "https://ball8k.com/" 
-
+},
+ {
+       "name":"True Premier Football HD 2 ",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
+	"url": "https://dogtoop.com:8443/epl2010/SwHv7VuUxk/156",
+	"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        "playInNatPlayer": "true"
 },
  {
        "name":"True Premier Football HD 2 ",
@@ -95,7 +101,7 @@
  {	 
         "name":"True Sports HD",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "http://191.96.36.150:80/truesporthd1/YEbLxj3knB/57",
+	"url": "https://dogtoop.com:8443/truesporthd1/YEbLxj3knB/57",
 	"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true" 
 
@@ -135,7 +141,7 @@
  {
        "name":"True Sports HD2",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",
-	"url": "http://191.96.36.150:80/truesporthd2/uEuppg7QSm/58",
+	"url": "https://dogtoop.com:8443/truesporthd2/uEuppg7QSm/58",
 	"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true" 
 },
@@ -163,7 +169,7 @@
  {	 
          "name":"True Sports HD3",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
-	"url": "http://191.96.36.150:80/truesporthd3/k4KXS5jHms/59",
+	"url": "https://dogtoop.com:8443/truesporthd3/k4KXS5jHms/59",
 	"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true" 
 
@@ -187,6 +193,13 @@
          "name":"True Sports HD4",
         "image": "http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",
 	 "url": "https://live.andaman888th.com/live/truesporthd4/sport/truesporthd4/chunks.m3u8","referer": "https://www.andaman888th.com/"
+},
+ {
+       "name":"NBA TV b",
+        "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",
+       "url": "https://dogtoop.com:8443/nba/qVmzchre8x/250",
+	"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+       "playInNatPlayer": "true"  
 },
  {
        "name":"NBA TV",
@@ -223,7 +236,7 @@
  {
        "name":"TRUE TENNIS",
        "image": "http://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",
-       "url": "http://191.96.36.150:80/tennistrue/gKYkLUF8AZ/93",
+       "url": "https://dogtoop.com:8443/tennistrue/gKYkLUF8AZ/93",
        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
        "playInNatPlayer": "true"  
 },
@@ -246,7 +259,7 @@
  {
        "name":"GOLF CHANNEL b",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
-       "url": "http://191.96.36.150:80/golfch/sTNFXuzyyt/91",
+       "url": "https://dogtoop.com:8443/golfch/sTNFXuzyyt/91",
        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
        "playInNatPlayer": "true" 
 },
