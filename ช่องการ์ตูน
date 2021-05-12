@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 10/5/2021",
+      "author": "update 12/5/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -32,7 +32,13 @@
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8",
         "import": false
-
+},
+ { 
+        "name":"nickelodeon b",
+        "image": "http://cms.dmpcdn.com/livetv/2017/10/18/ebeb940b-3754-464a-9bc6-7bc549a08bee.png",
+        "url": "https://dogtoop.com:8443/nick/tRFK9PUDQs/181",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        "playInNatPlayer": "true"
 },
  { 
         "name":"Nick Jr.b",
