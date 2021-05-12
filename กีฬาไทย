@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 12/5/2021",
+    "author": "update 13/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -16,16 +16,14 @@
         "playInNatPlayer": "true"
 },
  {
-       "name":"True Premier Football HD 1 b",
-        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "https://dogtoop.com:8443/epl1000/xDCaXGu6cp/162",
-        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-        "playInNatPlayer": "true"
+      "name": "",
+      "image": "https://www.obsmoscou.net/wp-content/uploads/2018/01/live-stream.png",
+      "url": "https://soccertv4k.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=2164172","referer": "https://soccertv4k.com/"
 },
  {
-      "name": "True Premier Football HD 1 ",
-      "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-      "url": "https://live11.inwstream.com/transcoder_F1/btsport1_fwiptv.stream/playlist.m3u8","referer": "https://inwiptv.com/"
+      "name": "",
+      "image": "https://www.obsmoscou.net/wp-content/uploads/2018/01/live-stream.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=15946#playerembed","referer": "https://www.ufa1919.com/"
 },
  {
       "name": "True Premier Football HD 1 t",
