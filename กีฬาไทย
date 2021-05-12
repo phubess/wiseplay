@@ -26,6 +26,17 @@
       "url": "https://www.warpfootball.games/live/?ch=btsport3&id=22905","referer": "https://www.warpfootball.games/"
 },
  {
+      "name": "",
+      "image": "https://www.obsmoscou.net/wp-content/uploads/2018/01/live-stream.png",
+      "url": "https://vvipscore.com/live.php?sch=2164219","referer": "https://vvipscore.com/"
+},
+ {
+      "name": "",
+      "image": "https://www.obsmoscou.net/wp-content/uploads/2018/01/live-stream.png",
+      "url": "https://live3.streaming88.com:7443/live/channel19/playlist.m3u8",
+      "import": false
+},
+ {
       "name": "True Premier Football HD 1 t",
       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
       "url": "https://fo1iptv.com/tv-player/true-premuim-1-vkd80p04jvr0.html","referer": "https://fo1iptv.com/"
