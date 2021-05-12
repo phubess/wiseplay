@@ -48,6 +48,13 @@
         "playInNatPlayer": "true"
 },
  { 
+        "name":"Disney junior b",
+        "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a2e3445b-a3e7-4656-8e98-668467caa9b6.png",
+        "url": "https://dogtoop.com:8443/disneyju/JjuQnce33K/180",
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        "playInNatPlayer": "true"
+},
+ { 
       "name": "BabyTV",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png",              
       "url": "https://player.we-play.tv/channel.php?name=babytv&cate=kids","referer":"https://player.we-play.tv"
