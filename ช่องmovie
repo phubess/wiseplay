@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 12/5/2021",
+    "author": "update 14/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -272,11 +272,6 @@
      "import": false
 },
  {
-     "name": "HITS",
-     "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
-     "url": "https://player.we-play.tv/channel.php?name=hits&cate=entertainment","referer": "https://player.we-play.tv" 
-},
- {
      "name": "TVN ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",              
      "url": "https://www.we-play.tv/watching/tv/tvn","referer": "https://player.we-play.tv" 
@@ -284,7 +279,12 @@
  {
      "name": "TVN ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",              
-     "url": "https://fo1iptv.com/tv-player/tvn-hd.html","referer": "https://fo1iptv.com/"      
+     "url": "https://fo1iptv.com/tv-player/tvn-hd.html","referer": "https://fo1iptv.com/"  
+},
+ {
+     "name": "HITS",
+     "image": "https://www.hitstv.com/img/hits-movies-logo.png",              
+     "url": "https://player.we-play.tv/channel.php?name=hits&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
      "name": "HITS ",
@@ -373,6 +373,13 @@
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
       "url": "https://www.we-play.tv/watching/tv/true-movie-hits","referer": "https://player.we-play.tv"
 },
+ { 
+     "name": "TRUE MOVIE HITS b",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://dogtoop.com:8443/truemoviehis/YjNvwyQPTm/689",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
   { 
      "name": "GEM",
       "image": "http://cms.dmpcdn.com/livetv/2019/01/24/ad22f352-d7dc-4f05-88e2-9ad89b42b314.png",              
@@ -381,7 +388,8 @@
   {
      "name": "KBS World HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
-     "url": "https://player.we-play.tv/channel.php?name=kbs&cate=entertainment","referer": "https://player.we-play.tv"
+     "url": "https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8",
+       "import": false
 },
   {
     "name": "Warner TV",
@@ -483,7 +491,8 @@
   { 
       "name": "Zeenung",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",              
-       "url": "https://player.we-play.tv/channel.php?name=zeenung&cate=entertainment","referer": "https://player.we-play.tv"
+       "url": "https://cdn6.goprimetime.info//feed//chzeenung//index.m3u8",
+       "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
 },
   {
      "name": "MV ลาว",
