@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 17/4/2021",
+    "author": "update 13/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -11,28 +11,31 @@
       "playInNatPlayer": "true"
 },     
 {
-      "name": "EUROSPORT",
-      "image": "https://api.blackboxsys.net/images/png/th-eurosport.png?v=6.1",
-      "url": "https://dbsport-n1.worldwidetv.club:449/wwtv-live-o33-th/liveorigin/th-eurosport_720/playlist.m3u8",
+      "name": "WTB WORLD",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1620545102547_movie_image.jpg",
+      "url": "http://203.154.243.32:8088/live/wtb/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},     
+{
+      "name": "K-1",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1618581679951_movie_image.png",
+      "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8",
       "import": false
 },     
 {
-      "name": "",
-      "image": "https://sv1.picz.in.th/images/2020/06/17/qeqCdP.png",
-      "url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
-      "import": false
-},     
-{
-      "name": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKNeW80645b2R-sKWgOyTPQT4-mxLaDsVIngk7axfRj5lGNFhx&usqp=CAU",
-      "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
-      "import": false
+      "name": "HFS",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594234434739_movie_image.jpg",
+      "url": "http://203.154.243.32:8088/live/hfs/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
  {
-      "name": "",
-      "image": "https://bit.ly/3fA4USG",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8",
-      "import": false 
+      "name": "Astro SuperSports 1",
+      "image": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png",
+      "url": "http://203.154.243.89:1204",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
 },
  {
       "name": "",
