@@ -1,6 +1,6 @@
 {
     "name": "DIGITAL TV",
-    "author": "update 9/5/2021",
+    "author": "update 14/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
  {
@@ -41,7 +41,7 @@
  { 
     "name":"CH5 HD",
     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
-    "url": "http://119.161.100.50:9999/live/test123/test123/170.m3u8",
+    "url": "https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8",
     "import": false
 },
  { 
