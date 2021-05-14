@@ -9,47 +9,18 @@
       "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
 },
  {
+       "name":"ถิ่นใต้",
+        "image": "https://www.inwiptv.com/postor/20200208001241%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+        "url": "https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8", 
+        "import": false
+},
+ {
        "name":"True Premier Football HD 1 b",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
         "url": "https://dogtoop.com:8443/EPL1HD/vwaSTWpDwm/251",
         "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true"
-},
- {
-      "name": "อาแจ็กซ์ VS วีวีวี เฟนโล่",
-      "image": "https://up.gool.in.th/202105/53IWdkNusWc.png",
-      "url": "https://www.warpfootball.games/live/?id=23119","referer": "https://www.warpfootball.games/"
-},
- {
-      "name": "พีเอสวี VS ซโวลล์",
-      "image": "https://up.gool.in.th/202105/53IWdirVTVo.png",
-      "url": "https://www.warpfootball.games/live/?id=23117","referer": "https://www.warpfootball.games/"
-},
- {
-      "name": "พีเอสวี VS ซโวลล์",
-      "image": "https://up.gool.in.th/202105/53IWdirVTVo.png",
-      "url": "https://www.warpfootball.games/live/?ch=viasatfotboll&id=23117","referer": "https://www.warpfootball.games/"
-},
- {
-      "name": "โฮลสไตน์ คีล VS เรเกนสบวร์ก",
-      "image": "https://up.gool.in.th/202105/53IW2M3BDUU.jpg",
-      "url": "https://www.warpfootball.games/live/?id=23198","referer": "https://www.warpfootball.games/"
-},
- {
-      "name": "",
-      "image": "https://www.obsmoscou.net/wp-content/uploads/2018/01/live-stream.png",
-      "url": "https://www.warpfootball.games/live/?ch=viasatfotboll&id=23117","referer": "https://www.warpfootball.games/"
-},
- {
-      "name": "",
-      "image": "https://www.obsmoscou.net/wp-content/uploads/2018/01/live-stream.png",
-      "url": "https://vvipscore.com/live.php?sch=2164219","referer": "https://vvipscore.com/"
-},
- {
-      "name": "",
-      "image": "https://www.obsmoscou.net/wp-content/uploads/2018/01/live-stream.png",
-      "url": "https://live3.streaming88.com:7443/live/channel19/playlist.m3u8",
-      "import": false
+
 },
  {
       "name": "True Premier Football HD 1 t",
