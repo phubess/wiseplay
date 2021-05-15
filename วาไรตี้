@@ -32,6 +32,12 @@
      "url": "https://dogtoop.com:8443/foodnf/uQ2aa3ATGU/166",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
+},
+ {
+     "name": "Food Network HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
+     "url": "https://bit.ly/3htiYi0",
+     "import": false
 }, 
   { 
       "name": "Asian Food Network",
@@ -96,7 +102,11 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
      "url": "https://boxmovie-th.com/app-api-android/true/True-Inside-HD/playlist.m3u8",
      "import": false 
-
+},
+ {
+     "name": "TRUE Inside",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "http://tvapp.skybox.digital/work4/live_content.php?mid=61","referer": "http://tvapp.skybox.digital/"
 },
  {
      "name": "FTV",
