@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 14/5/2021",
+    "author": "update 16/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -61,11 +61,6 @@
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
      "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8",
      "import": false
-},
- {
-     "name": "Asian Food Network ",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
-     "url": "http://119.161.100.50:8081/live/asianfood/chunks.m3u8","referer": "http://tvapp.skybox.digital/"
 },
  {
      "name": "GEM",
