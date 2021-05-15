@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 12/5/2021",
+    "author": "update 15/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -138,6 +138,12 @@
       "name": "H2",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
        "url": "https://player.we-play.tv/channel.php?name=h2&cate=documentary","referer": "https://player.we-play.tv"
+},
+  { 
+       "name": "4K LOVE NATURE",
+       "image": "http://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",
+       "url": "http://139.99.91.167:8080/live/test1233/112211/18.m3u8",
+       "import": false
 },
   { 
        "name": "4K LOVE NATURE",
