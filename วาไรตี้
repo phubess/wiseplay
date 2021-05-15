@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 15/5/2021",
+    "author": "update 14/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -63,6 +63,11 @@
      "import": false
 },
  {
+     "name": "Asian Food Network ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+     "url": "http://119.161.100.50:8081/live/asianfood/chunks.m3u8","referer": "http://tvapp.skybox.digital/"
+},
+ {
      "name": "GEM",
      "image": "https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_320.png",                                                                                                                                                                                          
      "url": "http://45.126.83.51/session/4b965e82-6e78-11eb-a799-ba99ac333be4/uq2663/h/h19/02.m3u8",
@@ -102,11 +107,7 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
      "url": "https://boxmovie-th.com/app-api-android/true/True-Inside-HD/playlist.m3u8",
      "import": false 
-},
- {
-     "name": "TRUE Inside",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
-     "url": "http://tvapp.skybox.digital/work4/live_content.php?mid=61","referer": "http://tvapp.skybox.digital/"
+
 },
  {
      "name": "FTV",
