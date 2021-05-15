@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 12/5/2021",
+      "author": "update 15/5/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -9,6 +9,36 @@
        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyFxYoL4qPVByrHrlBDAqceCA108-aZ6Www&usqp=CAU",
        "url": "https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8",
        "import": false 
+ },
+ {       
+      "name":"Cartoon ",
+       "image": "https://storage.googleapis.com/fastwork-asset/subcategory_images/cartoon-drawing/cartoonDesign-web.png",
+       "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/622.m3u8",
+       "import": false 
+ },
+ {       
+      "name":"Cartoon ",
+       "image": "https://storage.googleapis.com/fastwork-asset/subcategory_images/cartoon-drawing/cartoonDesign-web.png",
+       "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/625.m3u8",
+       "import": false 
+ },
+ {       
+      "name":"Cartoon ",
+       "image": "https://storage.googleapis.com/fastwork-asset/subcategory_images/cartoon-drawing/cartoonDesign-web.png",
+       "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/630.m3u8",
+       "import": false 
+ },
+ {       
+      "name":"Cartoon ",
+       "image": "https://storage.googleapis.com/fastwork-asset/subcategory_images/cartoon-drawing/cartoonDesign-web.png",
+       "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/632.m3u8",
+       "import": false       
+ },
+ {      
+       "name":"Cartoon Network",
+        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+        "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/251.m3u8",
+        "import": false 
  },
  {       
        "name":"Cartoon Network",
@@ -39,6 +69,18 @@
         "url": "https://dogtoop.com:8443/nick/tRFK9PUDQs/181",
         "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true"
+},
+ { 
+        "name":"nickelodeon b",
+        "image": "http://cms.dmpcdn.com/livetv/2017/10/18/ebeb940b-3754-464a-9bc6-7bc549a08bee.png",
+        "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/606.m3u8",
+        "import": false
+},
+ { 
+        "name":"Nick Jr.",
+        "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
+        "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/245.m3u8",
+        "import": false
 },
  { 
         "name":"Nick Jr.b",
