@@ -1,9 +1,33 @@
 {  
     "name": "phubess",
-    "author": "update 14/5/2021",
+    "author": "update 15/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/627.m3u8",
+     "import": false
+},
+  {
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/628.m3u8",
+     "import": false
+},
+  {
+     "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/623.m3u8",
+     "import": false
+},
+  {
+     "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "",
+     "import": false
+},
+  {
     "name": "CABLE",
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
      "url": "https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8",
@@ -14,6 +38,54 @@
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
      "url": "https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8",
      "import": false
+},
+  {   
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/626.m3u8",
+     "import": false
+},
+  {   
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/624.m3u8",
+     "import": false     
+},
+  {   
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/641.m3u8",
+     "import": false     
+},
+  {   
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/631.m3u8",
+     "import": false     
+},
+  {   
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/635.m3u8",
+     "import": false       
+},
+  {   
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/636.m3u8",
+     "import": false       
+},
+  {   
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/606.m3u8",
+     "import": false       
+},
+  {   
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "",
+     "import": false       
 },
   {
         "name": "CABLE ",  
@@ -356,6 +428,12 @@
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
+ {
+     "name": "True Thai Film HD ",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
+     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/607.m3u8",
+     "import": false
+},
  { 
      "name": "TRUE FILM ASIA b",
       "image": "https://wacth.officebk.co/uploads/tv_image/true-film-asia.png",              
@@ -390,6 +468,13 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
      "url": "https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8",
        "import": false
+},
+  {
+     "name": "KBS World HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
+     "url": "http://tvapp.skybox.digital/work4/live_content.php?mid=45",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
 },
   {
     "name": "Warner TV",
@@ -469,6 +554,12 @@
       "name": "AXN HD",
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
        "url": "https://player.we-play.tv/channel.php?name=axn&cate=entertainment","referer": "https://player.we-play.tv"
+},
+  { 
+      "name": "Star Chinese Movies",
+      "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
+      "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/557.m3u8",
+      "import": false
 },
   { 
       "name": "Star Chinese Movies",
