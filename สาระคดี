@@ -171,23 +171,41 @@
 },
   { 
        "name": "TRUE EXPLORE WILD",
-        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png",
-         "url": "https://boxmovie-th.com/app-api-android/true/TRUE-EXPLORE-WILD/playlist.m3u8",
-         "import": false
+       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png",
+       "url": "https://boxmovie-th.com/app-api-android/true/TRUE-EXPLORE-WILD/playlist.m3u8",
+       "import": false
 },
   { 
        "name": "TRUE EXPLORE SCI",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
-        "url": "https://dogtoop.com:8443/truesci/tBbB6H7LkQ/174",
-        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+       "url": "https://dogtoop.com:8443/truesci/tBbB6H7LkQ/174",
+       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
        "playInNatPlayer": "true" 
 },
-  { 
+ { 
        "name": "TRUE EXPLORE SCI",
-        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
-         "url": "https://fo1iptv.com/tv-player/true-explore-sci.html","referer": "https://fo1iptv.com/"
+       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
+       "url": "http://119.161.100.50:11000/live/test1233/112211/271.m3u8",
+       "import": false
 },
-  { 
+ { 
+       "name": "TRUE EXPLORE SCI",
+       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
+       "url": "http://119.161.100.50:11000/live/test1233/112211/240.m3u8",
+       "import": false  
+},
+ { 
+       "name": "TRUE EXPLORE SCI",
+       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
+       "url": "https://fo1iptv.com/tv-player/true-explore-sci.html","referer": "https://fo1iptv.com/"
+},
+ { 
+       "name": "TRUE EXPLORE LIFE",
+       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
+       "url": "http://119.161.100.50:11000/live/test1233/112211/241.m3u8",
+       "import": false
+},
+ { 
        "name": "TRUE EXPLORE LIFE",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
        "url": "https://fo1iptv.com/tv-player/true-life.html","referer": "https://fo1iptv.com/"
