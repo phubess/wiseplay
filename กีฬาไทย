@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 16/5/2021",
+    "author": "update 17/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -30,7 +30,7 @@
  {
        "name":"True Premier Football HD 1 c",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "http://139.99.91.167:8080/live/test1234/test1234/173.ts", 
+        "url": "http://139.99.91.167:8080/live/test1234/test1234/173.m3u8", 
         "import": false
 },
  {
@@ -259,7 +259,7 @@
        "name":"GOLF CHANNEL",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
        "url": "https://fo1iptv.com/tv-player/golf-channel-hd.html","referer": "https://fo1iptv.com/"
-,
+},
  {
        "name":"GOLF CHANNEL",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
