@@ -259,6 +259,12 @@
   {
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "http://119.161.100.50:11000/live/test1233/112211/343.m3u8",
+     "import": false
+},
+  {
+     "name": "FOX MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "http://ip2121.com:8081/live2/foxprem/chunks.m3u8",
      "import": false
 },
@@ -314,6 +320,12 @@
      "url": "https://dogtoop.com:8443/foxfamilyth/sUgZzjUgKv/119",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
+},
+ {
+     "name": "Fox Family Movies",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
+     "url": "http://119.161.100.50:11000/live/test1233/112211/341.m3u8",
+     "import": false
 },
  {
      "name": "Fox Family Movies",
@@ -470,11 +482,10 @@
        "import": false
 },
   {
-     "name": "KBS World HD",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
-     "url": "http://tvapp.skybox.digital/work4/live_content.php?mid=45",
-     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-     "playInNatPlayer": "true"
+    "name": "Warner TV",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
+     "url": "http://119.161.100.50:11000/live/test1233/112211/309.m3u8",
+     "import": false
 },
   {
     "name": "Warner TV",
@@ -555,13 +566,19 @@
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
        "url": "https://player.we-play.tv/channel.php?name=axn&cate=entertainment","referer": "https://player.we-play.tv"
 },
-  { 
+ { 
+      "name": "AXN HD",
+      "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
+       "url": "http://119.161.100.50:11000/live/test1233/112211/257.m3u8",
+       "import": false
+},
+ { 
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
       "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/557.m3u8",
       "import": false
 },
-  { 
+ { 
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
        "url": "https://player.we-play.tv/channel.php?name=scm&cate=entertainment","referer": "https://player.we-play.tv"
