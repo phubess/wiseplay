@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 15/5/2021",
+    "author": "update 16/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -24,7 +24,7 @@
   {
      "name": "CABLE",
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-     "url": "",
+     "url": "http://119.161.100.50:11000/live/test1233/112211/633.m3u8",
      "import": false
 },
   {
