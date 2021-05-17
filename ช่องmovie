@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 16/5/2021",
+    "author": "update 17/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -337,7 +337,13 @@
      "image": "https://img-cdn.we-play.tv/posters/-poster1602704510.jpeg",              
      "url": "http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8",
      "import": false
-
+},
+  {
+     "name": "Fox Life",
+     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
+     "url": "https://dogtoop.com:8443/foxlife/kFnL7WuQc2/182",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true" 
 },
   {
      "name": "Fox Life",
@@ -475,13 +481,27 @@
       "image": "http://cms.dmpcdn.com/livetv/2019/01/24/ad22f352-d7dc-4f05-88e2-9ad89b42b314.png",              
       "url": "https://fo1iptv.com/tv-player/gem-tv.html","referer": "https://fo1iptv.com/"
 },
-  {
+ { 
+     "name": "GEM b",
+      "image": "http://cms.dmpcdn.com/livetv/2019/01/24/ad22f352-d7dc-4f05-88e2-9ad89b42b314.png",              
+      "url": "https://dogtoop.com:8443/gem/DKW2guCrmU/1017",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ { 
+     "name": "THE MOVIES b",
+      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/162106095883_movie_image.jpg",              
+      "url": "https://dogtoop.com:8443/movie1/DZ8eMtM69g/1030",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ {
      "name": "KBS World HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
      "url": "https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8",
        "import": false
 },
-  {
+ {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "http://119.161.100.50:11000/live/test1233/112211/309.m3u8",
