@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 12/5/2021",
+    "author": "update 19/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -11,25 +11,179 @@
       "playInNatPlayer": "true"
 },     
 {
-      "name": "WTB WORLD",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1620545102547_movie_image.jpg",
-      "url": "http://203.154.243.31:8088/live/wtb/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/astro_supersport1.jpg",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/1.m3u8",
+      "import": false
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/astro_supersport2.jpg",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/2.m3u8",
+      "import": false      
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/astro_supersport3.jpg",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/3.m3u8",
+      "import": false      
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/astro_supersport4.jpg",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/4.m3u8",
+      "import": false     
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/astro_arena_my.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/5.m3u8",
+      "import": false     
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/golf_channel_us.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/15.m3u8",
+      "import": false           
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/sony-ten1.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/35.m3u8",
+      "import": false           
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/sony-ten2.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/34.m3u8",
+      "import": false           
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/sony-ten3.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/33.m3u8",
+      "import": false 
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/f93e6e1c-1fef-4e05-823b-912dea6a88a6.jpg",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/12.m3u8",
+      "import": false      
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/a391c1cc-465b-4c91-bb2e-5488104ef5c8.jpg",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/13.m3u8",
+      "import": false       
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.jpg",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/14.m3u8",
+      "import": false       
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/wwe.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/16.m3u8",
+      "import": false       
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/be_in_mena_sports_my.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/21.m3u8",
+      "import": false       
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/bein-sports-max-malaysia-and-singapore-qa-my-sg.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/22.m3u8",
+      "import": false      
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/be_in_sports_1_th.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/27.m3u8",
+      "import": false  
+},     
+{
+      "name": "",
+      "image": "https://my-iptv.org/cover/channels/be_in_sports_2.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/90.m3u8",
+      "import": false   
+},     
+{
+      "name": "",
+      "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/rugbypass-tv.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/36.m3u8",
+      "import": false      
+},     
+{
+      "name": "",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/95.m3u8",
+      "import": false      
+},     
+{
+      "name": "",
+      "image": "https://bit.ly/3bygpr0",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/96.m3u8",
+      "import": false      
+},     
+{
+      "name": "",
+      "image": "http://imrmoni.xtgem.com/tv/starsportshd1.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/97.m3u8",
+      "import": false      
+},     
+{
+      "name": "",
+      "image": "http://imrmoni.xtgem.com/tv/starsportshd2.png",
+      "url": "http://139.99.91.167:8080/live/test1233/112211/98.m3u8",
+      "import": false       
+},     
+{
+      "name": "",
+      "image": "https://www.pic2free.com/uploads/20210307/edde16fbfca2ee3fdfe318927fdfc3915a218080.png",
+      "url": "https://95-213-224-176.livesports24.online/rusetantaeurasia.m3u8",   
+      "import": false 
+},     
+{
+      "name": "",
+      "image": "https://www.pic2free.com/uploads/20210307/edde16fbfca2ee3fdfe318927fdfc3915a218080.png",
+      "url": "https://95-213-224-176.livesports24.online/rusetantaeurasia.m3u8",   
+      "import": false       
+},     
+{
+      "name": "",
+      "image": "http://runnel.ir/ax/logo/Setanta-Sports-2.png",
+      "url": "https://77-247-178-24.livesports24.online/setantaplusru.m3u8",   
+      "import": false       
+},     
+{
+      "name": "",
+      "image": "http://www.canlisportv.com/media/images/tvlogo/3305a1b2-dce9-498d-8f7c-0e7e986a82d0_futbol1-ukrayna-tv.png",
+      "url": "https://95-213-224-182.livesports24.online/uafootballua1.m3u8",   
+      "import": false        
+},     
+{
+      "name": "",
+      "image": "http://www.canlisportv.com/media/images/tvlogo/846165ff-b186-40c6-b455-620adf0f60da_matchigratv.png",
+      "url": "https://95-213-172-212.livesports24.online/migra.m3u8",   
+      "import": false        
+},     
+{
+      "name": "",
+      "image": "http://www.canlisportv.com/media/images/tvlogo/ee420b16-d46e-4f37-a31b-03f018484b77_MatchStrana.png",
+      "url": "https://46-166-139-70.livesports24.online/mnashsport.m3u8",   
+      "import": false        
+    
 },     
 {
       "name": "K-1",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1618581679951_movie_image.png",
       "url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8",
       "import": false
-},     
-{
-      "name": "HFS",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1594234434739_movie_image.jpg",
-      "url": "http://203.154.243.31:8088/live/hfs/index.m3u8",
-      "userAgent": "exoplayer_video",
-      "playInNatPlayer": "true"
-
 },
  {
       "name": "",
@@ -81,93 +235,24 @@
 },
  {
       "name": "",
-      "image": "http://i.picasion.com/resize90/0294751c625b24e4a18d904385460a6a.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8",
+      "image": "https://i.ibb.co/MChDHZP/SPORTSTVlogobyvovanloc.png",
+      "url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
       "import": false      
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/59d5089fbcd5b7ad7836174390ee4de4.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8",
-      "import": false     
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/fa8aa7779e255488341ba4a215671835.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport3/playlist.m3u8",
-      "import": false    
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/0891a01a70eb2425af13ab37ddd6d72e.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsportespn/playlist.m3u8",
-      "import": false     
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/4e9096118999c698da4270d8bb002bf8.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv1/playlist.m3u8",
-      "import": false     
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/4ec2148eb1ae15b2a71cb5f9dab48c3f.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv2/playlist.m3u8",
-      "import": false    
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/8063b8c98daab5a3b7f4689c6aea8738.png",
-      "url": "https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/sporttv3/chunks.m3u8",
-      "import": false     
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/83f163d6bc73ec01ab74ed0752670c28.png",
-      "url": "https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/sporttv4/playlist.m3u8",
-      "import": false     
+ 
 },
  {
       "name": "",
       "image": "http://i.picasion.com/resize90/4a2eb5889a886c804301953c72cc7a5a.png",
       "url": "https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
       "import": false
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/3a31ce45f8586970a5dd3138e73673e3.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportpremiere/playlist.m3u8",
-      "import": false     
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/d3c9247705177ee296c50608603ac4b9.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportfootball/playlist.m3u8",
-      "import": false     
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/c43c3c0dab6cb93a0e24ead41d0358af.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmainevent/playlist.m3u8",
-      "import": false     
+ 
  },
  {
       "name": "",
       "image": "http://i.picasion.com/resize90/1554e9cae5d222f2a67ef5af6b5056b5.png",
       "url": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/master.m3u8",
       "import": false     
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/cee48fdff4fda0fae7048b547ddb9b5c.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/mutv/playlist.m3u8",
-      "import": false    
- },
- {
-      "name": "",
-      "image": "http://i.picasion.com/resize90/79d099da7fa13b475bbfcb340b5d785f.png",
-      "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8",
-      "import": false    
+  
  },
  {
       "name": "",
