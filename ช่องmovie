@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 17/5/2021",
+    "author": "update 18/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -155,18 +155,24 @@
         "url": "http://61.19.242.134/feed/LC53/index.m3u8",
         "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
 },
-  {
+ {
      "name": "CABLE",
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
      "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8", 
       "import": false
 },
-  {     
+ {     
+     "name": "HBO",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
+     "url": "http://139.99.91.167:8080/live/test1233/112211/72.m3u8",
+     "import": false
+},
+ {     
      "name": "HBO",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
      "url": "https://fo1iptv.com/tv-player/hbo-asia.html","referer": "https://fo1iptv.com/"
 },
-  {     
+ {     
      "name": "HBO",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
      "url": "https://dogtoop.com:8443/hbo/G5kF4tBb3g/26",
@@ -188,7 +194,12 @@
      "name": "HBO HITS",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
      "url": "https://fo1iptv.com/tv-player/hbo-hits.html","referer": "https://fo1iptv.com/"  
-    
+},
+  {
+     "name": "HBO HITS",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
+     "url": "http://139.99.91.167:8080/live/test1233/112211/73.m3u8",
+     "import": false
 },
   {
      "name": "HBO HITS",
@@ -208,31 +219,55 @@
      "url": "https://www.we-play.tv/watching/tv/hbo-signature","referer": "https://www.we-play.tv/"
 },
   {
+     "name": "HBO SIGNATURE",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",              
+     "url": "http://139.99.91.167:8080/live/test1233/112211/71.m3u8",
+     "import": false
+},
+ {
+     "name": "HBOFamily",
+     "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
+     "url": "http://139.99.91.167:8080/live/test1233/112211/74.m3u8",
+     "import": false
+},
+ {
      "name": "HBOFamily",
      "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
      "url": "https://www.we-play.tv/watching/tv/hbo-family","referer": "https://www.we-play.tv/"
 },
-  {
+ {
      "name": "HBOFamily b",
      "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
      "url": "https://dogtoop.com:8443/hbofam/kALAUxwJjZ/146",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
-  {
+ {
+     "name": "RedbyHBO",
+     "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
+     "url": "http://139.99.91.167:8080/live/test1233/112211/75.m3u8",
+     "import": false
+},
+ {
      "name": "RedbyHBO",
      "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
      "url": "https://www.we-play.tv/watching/tv/red-by-hbo","referer": "https://www.we-play.tv/"
      
 },
-  {
+ {
      "name": "RedbyHBO",
      "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
      "url": "https://dogtoop.com:8443/redhbo/dFqPqfqKE3/148",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
-  {
+ {
+     "name": "CINEMAX",
+     "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
+     "url": "http://139.99.91.167:8080/live/test1233/112211/76.m3u8",
+     "import": false
+},
+ {
      "name": "CINEMAX",
      "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
      "url": "https://www.we-play.tv/watching/tv/cinemax","referer": "https://www.we-play.tv/"
@@ -332,13 +367,19 @@
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "https://player.we-play.tv/channel.php?name=fox-fam&cate=entertainment","referer": "https://player.we-play.tv"
 },
-  {
+ {
+     "name": "FOXCRIME",
+     "image": "https://img-cdn.we-play.tv/posters/-poster1602704510.jpeg",              
+     "url": "http://139.99.91.167:8080/live/test1233/112211/48.m3u8",
+     "import": false
+},
+ {
      "name": "FOXCRIME",
      "image": "https://img-cdn.we-play.tv/posters/-poster1602704510.jpeg",              
      "url": "http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8",
      "import": false
 },
-  {
+ {
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
      "url": "https://dogtoop.com:8443/foxlife/kFnL7WuQc2/182",
@@ -370,6 +411,12 @@
      "name": "TVN ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",              
      "url": "https://fo1iptv.com/tv-player/tvn-hd.html","referer": "https://fo1iptv.com/"  
+},
+ {
+     "name": "TVN ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",              
+     "url": "http://139.99.91.167:8080/live/test1233/112211/31.m3u8",
+     "import": false
 },
  {
      "name": "HITS",
