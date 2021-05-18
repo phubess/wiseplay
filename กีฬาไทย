@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 17/5/2021",
+    "author": "update 19/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -80,12 +80,24 @@
  {
        "name":"True Premier Football HD 2 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
+       "url": "http://139.99.91.167:8080/live/test1233/112211/172.m3u8",
+       "import": false
+},
+ {
+       "name":"True Premier Football HD 2 ",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
 	"url": "https://doofootball.livestream-cdn.com/iptv/epl-2.stream/playlist.m3u8","referer": "https://www.chomfootball.com/" 
 },
  {
        "name":"True Premier Football HD 2 ",
        "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
-	"url": "https://live.andaman888th.com/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://www.andaman888th.com/"        
+	"url": "https://live.andaman888th.com/live/tpf2/sport/tpf2/chunks.m3u8","referer": "https://www.andaman888th.com/"  
+},
+ {
+       "name":"True Premier Football HD 3 ",
+       "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
+       "url": "http://139.99.91.167:8080/live/test1233/112211/171.m3u8",
+       "import": false
 },
  {
        "name":"True Premier Football HD 3 ",
