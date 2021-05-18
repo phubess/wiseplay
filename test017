@@ -1,0 +1,118 @@
+{"name":"sportstv","author":"STC",
+"image":"https://www.wheresthematch.com/images/sports/football.gif",
+"url": "https://yamcode.com/raw/qS09fbVgDZ",
+"stations":
+[
+
+{"image":"https://ball365.co/wp-content/themes/ball365/image/icon_ch/ziggosportvoetbal.png",
+"url":"https://live.vvipscore.co/vvipscore/skysportmainevent/chunks.m3u8",
+"referer":"https://live.vvipscore.co/"},
+
+{"image":"https://ball365.co/wp-content/themes/ball365/image/icon_ch/ziggosportvoetbal.png",
+"url":"https://live.vvipscore.co/vvipscore/bein1/chunks.m3u8",
+"referer":"https://live.vvipscore.co/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/0a6f57ab-6008-43fc-a7bf-70422fc7ed54_sporttv1por.png",
+"url":"https://live.vvipscore.co/vvipscore/sporttv1/chunks.m3u8",
+"referer": "https://live.vvipscore.co/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/81539d97-0c64-4961-bcdb-a388bfe506c5_digisport1-tv.jpg",
+"url":"https://live.vvipscore.co/vvipscore/digisport1/chunks.m3u8",
+"referer": "https://live.vvipscore.co/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/40e01035-c1d1-4502-a7c4-70e45b84c131_sports-tv.jpg",
+"url":"https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+"referer": "http://www.canlisportv.com/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/9896b161-efa1-4078-9db2-b7a72d2a7ea7_futbol-1-tv.jpg",
+"url":"https://95-213-224-188.livesports24.online/ntvmatchfoot1.m3u8",
+"referer": "https://www.netpopflix.com/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/d57faad2-cbf6-4c39-b705-1391ede750f3_futbol-2-tv.jpg",
+"url":"https://185-82-203-145.livesports24.online/mfootball2rus.m3u8",
+"referer": "https://www.netpopflix.com/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/6208017a-3c02-4fda-ba1e-d2aa3dd2c04f_futbol-3-tv.jpg",
+"url":"https://185-198-56-58.livesports24.online/rumatchf3.m3u8",
+"referer": "https://www.netpopflix.com/"},
+
+{"image":"http://runnel.ir/ax/logo/Dubai-Sports-1-Small.png",
+"url":"http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://runnel.ir/ax/logo/Dubai-Sports-2-Small.png",
+"url":"http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://runnel.ir/ax/logo/Dubai-Sports-3-Small.png",
+"url":"http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8",
+"referer":"https://www.netpopflix.com/"},
+
+{"image":"http://runnel.ir/ax/logo/adsports-1.png",
+"url":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://runnel.ir/ax/logo/adsports-2.png",
+"url":"https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://runnel.ir/ax/logo/adsports-3.png",
+"url":"https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
+"referer": "https://www.netpopflix.com/"},
+
+{"image":"https://www.pic2free.com/uploads/20210307/edde16fbfca2ee3fdfe318927fdfc3915a218080.png",
+"url":"https://95-213-224-176.livesports24.online/rusetantaeurasia.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://runnel.ir/ax/logo/Setanta-Sports-2.png",
+"url":"https://77-247-178-24.livesports24.online/setantaplusru.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/3305a1b2-dce9-498d-8f7c-0e7e986a82d0_futbol1-ukrayna-tv.png",
+"url":"https://95-213-224-182.livesports24.online/uafootballua1.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/021a25af-a8fb-40ea-b971-75f1968f3d48_futbol2-ukrayna-tv.jpg",
+"url":"https://95-213-224-169.livesports24.online/fooootball2.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/846165ff-b186-40c6-b455-620adf0f60da_matchigratv.png",
+"url":"https://95-213-172-212.livesports24.online/migra.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/ee420b16-d46e-4f37-a31b-03f018484b77_MatchStrana.png",
+"url":"https://46-166-139-70.livesports24.online/mnashsport.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/0aa96c60-7c7c-48b4-989f-d7d376a62838_matcharenatv.png",
+"url":"https://77-247-178-24.livesports24.online/rumatcharena.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/06e58011-7bc4-49d7-94d3-cad18e9ecc0a_match-premier-tv.jpg",
+"url":"https://46-21-250-207.livesports24.online/mpremierrus.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/73eef3fc-f750-4f7c-b936-c766e6c7a2ed_match-tv.jpg",
+"url":"https://95-213-224-181.livesports24.online/ooomatch.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/64e69435-e510-4a29-a299-a1f4d019ee3b_eurosport-tv.jpg",
+"url":"https://185-106-121-101.livesports24.online/eurosport1ru.m3u8",
+"referer": "http://runnel.ir/"},
+
+{"image":"http://www.canlisportv.com/media/images/tvlogo/9674ee00-34cf-461a-b49c-2abebf0af5b7_eurosport-2-tv.png",
+"url":"https://95-213-224-173.livesports24.online/ruseurosport2.m3u8",
+"referer": "http://runnel.ir/"},
+
+
+
+
+
+
+]
+}
+ 
+ 
+ 
+ 
+ 
