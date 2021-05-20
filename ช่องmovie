@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 18/5/2021",
+    "author": "update 20/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -8,6 +8,11 @@
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
      "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/627.m3u8",
      "import": false
+},
+  {
+    "name": "CABLE",
+     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
+     "url": "http://150.95.25.221:8000/i%2DAsia%20HD?u=covid19:p=951159753",
 },
   {
     "name": "CABLE",
