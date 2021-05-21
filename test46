@@ -1,22 +1,72 @@
 { 
-      "name": "phubess", 
-      "author": "update 5/5/2021",
-      "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
+      "name": "trueid tv", 
+      "author": "update 21/5/2021",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpkf-w8qHnQintdAtD_JqHMSMFxBmJndevAg&usqp=CAU",       
       "stations": [
 {
-               "name": "FILMHD",
-               "image": "http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",
-               "url": "https://fo1iptv.com/tv-player/true-film-hd.html","referer": "https://fo1iptv.com/"
-               "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-               
- },
- {
-      "name": "True Premier Football HD 1",
-      "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-      "url": "https://fo1iptv.com/tv-player/true-premuim-1-vkd80p04jvr0.html","referer": "https://fo1iptv.com/"
-      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-       
- },
+      "name": "Esports Thai Leagues TV",
+      "image": "https://cms.dmpcdn.com/livetv/2020/12/28/c8ce2320-48c2-11eb-9b6d-3fdf37c2e48e_320.jpg",
+      "url": "https://tv.trueid.net/embed/ESPORTSTHAILEAGUESTV?autoplay=yes&nopageview=yes",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "desktop": "true"
+},
+{
+      "name": "ไอดี สเตชั่น",
+      "image": "https://cms.dmpcdn.com/livetv/2021/04/26/02bb7540-a67b-11eb-82d0-f787c3df094f_320.jpg",
+      "url": "https://tv.trueid.net/embed/idstation?autoplay=yes&nopageview=yes",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "desktop": "true"
+},
+{
+     "name": "Zing",
+     "image": "https://cms.dmpcdn.com/livetv/2021/01/06/68be8520-500f-11eb-8d28-4b8e3f30b51b_320.png",
+     "url": "https://tv.trueid.net/embed/zing?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"  
+},
+{
+     "name": "PUBG Thailand Open 2021",
+     "image": "https://cms.dmpcdn.com/livetv/2021/05/12/171560e0-b2d4-11eb-bdb4-5dd69eff079b_320.jpg",
+     "url": "https://tv.trueid.net/embed/PUBGThailandOpen2021?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"     
+},
+{
+     "name": "T-Sports",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",
+     "url": "https://aisplay.ais.co.th/portal/live?vid=5f9e9488b5d11069fedce784",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"    
+},
+{
+     "name": "KBS World HD",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png&w=320&h=240",
+     "url": "https://tv.trueid.net/embed/kbs-world-hd?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"     
+},
+{
+     "name": "TRUE MUSIC HD",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Fbff4c21a-7714-4f37-8c90-7f46c8337192.png&w=320&h=240",
+     "url": "https://tv.trueid.net/embed/true-music-channel-hd?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"     
+},
+{
+     "name": "TRUE X-ZYTE HD",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F05979f77-0c03-4f14-8d5a-bfc0c6675626.png&w=320&h=240",
+     "url": "https://tv.trueid.net/embed/true-x-zyte-hd?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"       
+     
+     
+     
+     
+     
+     
+     
+     
+},
  
 ]
 }
