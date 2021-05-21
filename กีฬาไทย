@@ -1,6 +1,6 @@
     {
     "name": "phubess",
-    "author": "update 19/5/2021",
+    "author": "update 21/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
@@ -30,8 +30,11 @@
  {
        "name":"True Premier Football HD 1 c",
         "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",
-        "url": "http://139.99.91.167:8080/live/test1233/112211/173.m3u8", 
-        "import": false
+        "url": "TEP 1
+
+http://116.204.181.238:9981/stream/service/b13dd38d5d77b851432acb908a760c74?ticket=45C03DCC288D0DAF9EAF996A249D315CDA6E2B0B", 
+        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+        "playInNatPlayer": "true"
 },
  {
       "name": "True Premier Football HD 1 t",
