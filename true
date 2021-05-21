@@ -11,9 +11,9 @@
       "desktop": "true"
 },
 {
-      "name": "ไอดี สเตชั่น",
-      "image": "https://cms.dmpcdn.com/livetv/2021/04/26/02bb7540-a67b-11eb-82d0-f787c3df094f_320.jpg",
-      "url": "https://tv.trueid.net/embed/idstation?autoplay=yes&nopageview=yes",
+      "name": "",
+      "image": "",
+      "url": "",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
       "desktop": "true"
 },
@@ -32,16 +32,16 @@
      "desktop": "true"     
 },
 {
-     "name": "T-Sports",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0352.png",
-     "url": "https://aisplay.ais.co.th/portal/live?vid=5f9e9488b5d11069fedce784",
+     "name": "เรียลลิตี้ แชนแนล เอชดี",
+     "image": "https://cms.dmpcdn.com/livetv/2020/04/21/b78d55f0-83af-11ea-9a0e-4bf114629baf_320.png",
+     "url": "https://tv.trueid.net/embed/realitychannel-hd?autoplay=yes&nopageview=yes",
      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
      "desktop": "true"    
 },
 {
-     "name": "KBS World HD",
-     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png&w=320&h=240",
-     "url": "https://tv.trueid.net/embed/kbs-world-hd?autoplay=yes&nopageview=yes",
+     "name": "True Inside HD",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F17357408-dc10-45f1-bff5-c9ab4807a2c0.png&w=320&h=240",
+     "url": "https://tv.trueid.net/embed/true-inside-hd?autoplay=yes&nopageview=yes",
      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
      "desktop": "true"     
 },
@@ -53,17 +53,53 @@
      "desktop": "true"     
 },
 {
-     "name": "TRUE X-ZYTE HD",
-     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F05979f77-0c03-4f14-8d5a-bfc0c6675626.png&w=320&h=240",
-     "url": "https://tv.trueid.net/embed/true-x-zyte-hd?autoplay=yes&nopageview=yes",
+     "name": "TRUE EXPLORE WILD",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
+     "url": "https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes",
      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
      "desktop": "true"       
-     
-     
-     
-     
-     
-     
+},
+{
+     "name": "RAMA CHANNEL",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F31%2Fa5aeb78c-c4db-474f-a5af-345cb9e2f5b5.png&w=320&h=240",
+     "url": "https://tv.trueid.net/embed/rama-channel?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"     
+},
+{
+     "name": "ซุปเปอร์ บันเทิง",
+     "image": "https://cms.dmpcdn.com/livetv/2020/06/23/99bc7f60-b550-11ea-8fac-236a281cd6c5_320.png",
+     "url": "https://tv.trueid.net/embed/super-entertain?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"      
+},
+{
+     "name": "3 HD",
+     "image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
+     "url": "https://tv.trueid.net/embed/ch3-hd?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"      
+},
+{
+     "name": "ทรูโฟร์ยู",
+     "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",
+     "url": "https://tv.trueid.net/embed/true4u?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"      
+},
+{
+     "name": "พีพีทีวี HD",
+     "image": "https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",
+     "url": "https://tv.trueid.net/embed/pptv-hd?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"     
+},
+{
+     "name": "ทีเอ็นเอ็น 16",
+     "image": "https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_320.png",
+     "url": "https://tv.trueid.net/embed/tnn16?autoplay=yes&nopageview=yes",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"      
      
      
 },
