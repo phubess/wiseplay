@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 16/5/2021",
+    "author": "update 22/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -83,7 +83,11 @@
      "name": "True X-Zyte",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
      "url": "https://fo1iptv.com/tv-player/x-zyte.html","referer": "https://fo1iptv.com/"
-     
+},
+ {
+     "name": "TRUE MUSIC",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+     "url": "https://wacth.tv/tv-player/true-music.html","referer": "https://wacth.tv/"     
 },
  {
      "name": "TRUE MUSIC",
