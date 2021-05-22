@@ -32,12 +32,7 @@
      "url": "https://dogtoop.com:8443/foodnf/uQ2aa3ATGU/166",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
-},
- {
-     "name": "Food Network HD",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
-     "url": "https://bit.ly/3htiYi0",
-     "import": false
+
 }, 
   { 
       "name": "Asian Food Network",
