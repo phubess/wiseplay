@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 20/5/2021",
+    "author": "update 22/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -389,12 +389,7 @@
      "name": "Fox Family Movies",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
      "url": "https://player.we-play.tv/channel.php?name=fox-fam&cate=entertainment","referer": "https://player.we-play.tv"
-},
- {
-     "name": "FOXCRIME",
-     "image": "https://img-cdn.we-play.tv/posters/-poster1602704510.jpeg",              
-     "url": "http://139.99.91.167:8080/live/test1233/112211/48.m3u8",
-     "import": false
+
 },
  {
      "name": "FOXCRIME",
@@ -434,12 +429,6 @@
      "name": "TVN ",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",              
      "url": "https://fo1iptv.com/tv-player/tvn-hd.html","referer": "https://fo1iptv.com/"  
-},
- {
-     "name": "TVN ",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",              
-     "url": "http://139.99.91.167:8080/live/test1233/112211/31.m3u8",
-     "import": false
 },
  {
      "name": "HITS",
@@ -546,7 +535,12 @@
       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
 },
-  { 
+ { 
+     "name": "TRUE SERIES",
+      "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
+      "url": "https://wacth.tv/tv-player/true-series.html","referer": "https://wacth.tv/"
+},
+ { 
      "name": "GEM",
       "image": "http://cms.dmpcdn.com/livetv/2019/01/24/ad22f352-d7dc-4f05-88e2-9ad89b42b314.png",              
       "url": "https://fo1iptv.com/tv-player/gem-tv.html","referer": "https://fo1iptv.com/"
