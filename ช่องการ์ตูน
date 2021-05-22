@@ -1,6 +1,6 @@
 { 
       "name": "phubess", 
-      "author": "update 15/5/2021",
+      "author": "update 22/5/2021",
       "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
       "stations": [
 {
@@ -9,43 +9,19 @@
        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyFxYoL4qPVByrHrlBDAqceCA108-aZ6Www&usqp=CAU",
        "url": "https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8",
        "import": false 
- },
- {       
-      "name":"Cartoon ",
-       "image": "https://storage.googleapis.com/fastwork-asset/subcategory_images/cartoon-drawing/cartoonDesign-web.png",
-       "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/622.m3u8",
-       "import": false 
- },
- {       
-      "name":"Cartoon ",
-       "image": "https://storage.googleapis.com/fastwork-asset/subcategory_images/cartoon-drawing/cartoonDesign-web.png",
-       "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/625.m3u8",
-       "import": false 
- },
- {       
-      "name":"Cartoon ",
-       "image": "https://storage.googleapis.com/fastwork-asset/subcategory_images/cartoon-drawing/cartoonDesign-web.png",
-       "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/630.m3u8",
-       "import": false 
- },
- {       
-      "name":"Cartoon ",
-       "image": "https://storage.googleapis.com/fastwork-asset/subcategory_images/cartoon-drawing/cartoonDesign-web.png",
-       "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/632.m3u8",
-       "import": false       
- },
- {      
-       "name":"Cartoon Network",
-        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
-        "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/251.m3u8",
-        "import": false 
- },
+},
  {       
        "name":"Cartoon Network",
         "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
         "url": "https://dogtoop.com:8443/cnth/RV69Wt8Swz/113",
         "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true"
+},
+ { 
+        "name":"Cartoon Network",
+        "image": "https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",
+        "url": "http://119.161.100.50:8089/cartoonnetwork/index.m3u8",
+        "import": false
 },
  { 
        "name":"Cartoon Network",
@@ -71,15 +47,15 @@
         "playInNatPlayer": "true"
 },
  { 
-        "name":"nickelodeon b",
+        "name":"nickelodeon ",
         "image": "http://cms.dmpcdn.com/livetv/2017/10/18/ebeb940b-3754-464a-9bc6-7bc549a08bee.png",
-        "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/606.m3u8",
+        "url": "http://119.161.100.50:8089/NICKELODEON/index.m3u8",
         "import": false
 },
  { 
         "name":"Nick Jr.",
         "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",
-        "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/245.m3u8",
+        "url": "http://119.161.100.50:8089/NICKJR/index.m3u8",
         "import": false
 },
  { 
@@ -111,9 +87,21 @@
  { 
       "name": "True Spark Play",
       "image": "http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",              
+      "url": "http://119.161.100.50:8089/SPK-PLAY/index.m3u8",
+      "import": false
+},
+ { 
+      "name": "True Spark Play",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",              
       "url": "https://dogtoop.com:8443/trueplay/ejnsfrwWrz/116",
       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
+},
+ { 
+      "name": "True Spark Jump",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png",              
+      "url": "http://119.161.100.50:8089/SPK-JUMP/index.m3u8",
+      "import": false
 },
  { 
       "name": "True Spark Jump",
@@ -132,6 +120,12 @@
       "name": "TOONEE",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0176.png", 
       "url": "https://freelive.inwstream.com:1936/freelive-edge/toonee/chunks.m3u8",
+      "import": false
+},
+ { 
+      "name": "Aniplus",
+      "image": "https://www.iptv4k.tv/images/tv/lWse3k1egXshV5aPLbzhrfXzft4C29Nhd-aniplus.jpg",              
+      "url": "http://119.161.100.50:8089/aniplus/index.m3u8",
       "import": false
 },
  { 
@@ -160,7 +154,12 @@
       "name": "Disney",
       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
       "url": "https://fo1iptv.com/tv-player/disney-channel.html","referer":"https://fo1iptv.com/" 
-   
+},
+ { 
+      "name": "Disney",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/36065d65-1bef-431e-b697-3f2bc574c779.png",              
+      "url": "http://119.161.100.50:8089/disney/index.m3u8",
+      "import": false 
 },
  { 
       "name": "Disney b",
