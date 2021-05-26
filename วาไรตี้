@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 22/5/2021",
+    "author": "update 25/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -131,6 +131,13 @@
      "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
      "url": "http://45.126.83.51/dr9445/h/h16/01.m3u8",
      "import": false
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://dogtoop.com:8443/live/blueant1/5hZ3U9p2Kj/2268",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
 },
  {
      "name": "BLUEANT EXTREME",
