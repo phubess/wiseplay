@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 16/5/2021",
+    "author": "update 29/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -21,15 +21,9 @@
           "import": false
 }, 
  {         
-        "name":"View World",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQugNiOHBqI2CkCNaMqYdkc3OZyTkk0P_cA&usqp=CAU",
-         "url": "http://119.161.100.50:11000/live/test1233/112211/634.m3u8",
-         "import": false
-}, 
- {         
         "name":"mysci b",
         "image": "https://bit.ly/2XMGyev",
-        "url": "https://dogtoop.com:8443/mysci/FbBgUghdW7/155",  
+        "url": "https://dogtoop.com:8443/live/mysci/eB2tQUSMXc/2270.ts",  
         "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
         "playInNatPlayer": "true"  
 }, 
@@ -69,7 +63,14 @@
   { 
       "name": "National Geographic b",
       "image": "http://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png",              
-       "url": "https://dogtoop.com:8443/natgeowild/yfPcAxTYzM/30",
+       "url": "https://dogtoop.com:8443/natgeo/7vmmUMW7Qa/82",
+       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true" 
+}, 
+  { 
+      "name": "National Geographic b",
+      "image": "http://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png",              
+       "url": "https://dogtoop.com:8443/live/natgeowild/yfPcAxTYzM/30.ts",
        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true" 
 }, 
@@ -87,7 +88,7 @@
   { 
       "name": "Nat Geo Wild b",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0140.png",              
-      "url": "https://dogtoop.com:8443/natgeowild1/xkjhwkMJ9L/66",
+      "url": "https://dogtoop.com:8443/live/natgeowild1/xkjhwkMJ9L/66.ts",
       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true" 
 }, 
@@ -124,7 +125,7 @@
   { 
     "name": "H2 b",
     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",              
-    "url": "https://dogtoop.com:8443/h21/5PUyTkxZg7/70",
+    "url": "https://dogtoop.com:8443/live/h21/5PUyTkxZg7/70.ts",
     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
     "playInNatPlayer": "true"  
  
@@ -170,13 +171,13 @@
          "import": false
 },
   { 
-       "name": "TRUE EXPLORE WILD",
+       "name": "TRUE EXPLORE WILD b",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png",
        "url": "https://boxmovie-th.com/app-api-android/true/TRUE-EXPLORE-WILD/playlist.m3u8",
        "import": false
 },
   { 
-       "name": "TRUE EXPLORE SCI",
+       "name": "TRUE EXPLORE SCI b",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
        "url": "https://dogtoop.com:8443/truesci/tBbB6H7LkQ/174",
        "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
@@ -185,25 +186,14 @@
  { 
        "name": "TRUE EXPLORE SCI",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
-       "url": "http://119.161.100.50:11000/live/test1233/112211/271.m3u8",
-       "import": false
-},
- { 
-       "name": "TRUE EXPLORE SCI",
-       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
-       "url": "http://119.161.100.50:11000/live/test1233/112211/240.m3u8",
-       "import": false  
-},
- { 
-       "name": "TRUE EXPLORE SCI",
-       "image": "http://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png",
        "url": "https://fo1iptv.com/tv-player/true-explore-sci.html","referer": "https://fo1iptv.com/"
 },
  { 
-       "name": "TRUE EXPLORE LIFE",
+       "name": "TRUE EXPLORE LIFE b",
        "image": "http://cms.dmpcdn.com/livetv/2018/12/17/9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png",
-       "url": "http://119.161.100.50:11000/live/test1233/112211/241.m3u8",
-       "import": false
+       "url": "https://dogtoop.com:8443/truelife/HxxtEY4fMq/177",
+       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+       "playInNatPlayer": "true"
 },
  { 
        "name": "TRUE EXPLORE LIFE",
