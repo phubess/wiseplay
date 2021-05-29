@@ -1,12 +1,14 @@
     {
     "name": "phubess",
-    "author": "update 25/5/2021",
+    "author": "update 29/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
-     "name": "3bbsports 1",
-      "image": "https://www.we-play.tv//uploads/posters/3bb-sports-1-poster1607114531.jpeg",
-      "url": "https://www.we-play.tv/watching/tv/3bb-sports-1","referer": "https://player.we-play.tv"
+     "name": "Esports Thai Leagues TV",
+      "image": "https://cms.dmpcdn.com/livetv/2020/12/28/c8ce2320-48c2-11eb-9b6d-3fdf37c2e48e_320.jpg",
+      "url": "https://tv.trueid.net/embed/ESPORTSTHAILEAGUESTV?autoplay=yes&nopageview=yes",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "desktop": "true"
 },
  {
        "name":"ถิ่นใต้",
