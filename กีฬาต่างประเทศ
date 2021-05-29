@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 19/5/2021",
+    "author": "update 29/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -11,136 +11,90 @@
       "playInNatPlayer": "true"
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/astro_supersport1.jpg",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/1.m3u8",
-      "import": false
+      "name": "skysport 1",
+      "image": "https://api.blackboxsys.net/images/png/de-skysport1.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17883#playerembed","referer": "https://www.ufa1919.com/"    
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/astro_supersport2.jpg",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/2.m3u8",
-      "import": false      
+      "name": "skysport austria",
+      "image": "https://api.blackboxsys.net/images/png/de-skysportaustria.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17883#playerembed","referer": "https://www.ufa1919.com/"        
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/astro_supersport3.jpg",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/3.m3u8",
-      "import": false      
+      "name": "btsport 1",
+      "image": "https://api.blackboxsys.net/images/png/uk-btsport1hd.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17883#playerembed","referer": "https://www.ufa1919.com/"    
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/astro_supersport4.jpg",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/4.m3u8",
-      "import": false     
+      "name": "btsport 2",
+      "image": "https://api.blackboxsys.net/images/png/uk-btsport2hd.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17791#playerembed","referer": "https://www.ufa1919.com/"    
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/astro_arena_my.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/5.m3u8",
-      "import": false     
+      "name": "btsport 3",
+      "image": "https://api.blackboxsys.net/images/png/uk-btsport3hd.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17794#playerembed","referer": "https://www.ufa1919.com/"    
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/golf_channel_us.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/15.m3u8",
-      "import": false           
+      "name": "sportsnet world",
+      "image": "https://api.blackboxsys.net/images/png/ca-sportsnetworld.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17791#playerembed","referer": "https://www.ufa1919.com/"    
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/sony-ten1.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/35.m3u8",
-      "import": false           
+      "name": "skysports mainevent",
+      "image": "https://api.blackboxsys.net/images/png/uk-skysports-mainevent.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17796#playerembed","referer": "https://www.ufa1919.com/"   
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/sony-ten2.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/34.m3u8",
-      "import": false           
+      "name": "skysports football",
+      "image": "https://api.blackboxsys.net/images/png/uk-skysports-football.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17904#playerembed","referer": "https://www.ufa1919.com/"       
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/sony-ten3.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/33.m3u8",
-      "import": false 
+      "name": "bein 8",
+      "image": "https://api.blackboxsys.net/images/png/hd-bein8.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17883#playerembed","referer": "https://www.ufa1919.com/"      
+      
+      
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/f93e6e1c-1fef-4e05-823b-912dea6a88a6.jpg",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/12.m3u8",
-      "import": false      
+      "name": "fr-bein 1",
+      "image": "https://api.blackboxsys.net/images/png/fr-bein1hd.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17796#playerembed","referer": "https://www.ufa1919.com/"       
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/a391c1cc-465b-4c91-bb2e-5488104ef5c8.jpg",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/13.m3u8",
-      "import": false       
+      "name": "bein 10",
+      "image": "https://api.blackboxsys.net/images/png/hd-bein10.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17796#playerembed","referer": "https://www.ufa1919.com/"       
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/3936b9b7-d924-4a6f-a0fc-b4385d7fb180.jpg",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/14.m3u8",
-      "import": false       
+      "name": "bein 11",
+      "image": "https://api.blackboxsys.net/images/png/hd-bein11.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17796#playerembed","referer": "https://www.ufa1919.com/"       
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/wwe.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/16.m3u8",
-      "import": false       
+      "name": "freesports",
+      "image": "https://api.blackboxsys.net/images/png/uk-freesports.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17905#playerembed","referer": "https://www.ufa1919.com/"       
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/be_in_mena_sports_my.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/21.m3u8",
-      "import": false       
+      "name": "astro 1",
+      "image": "https://mobetz.com/api/table/icon/ch087.png",
+      "url": "https://mobetz.com/doball/ch087/","referer": "https://mobetz.com/"       
+      
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/bein-sports-max-malaysia-and-singapore-qa-my-sg.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/22.m3u8",
-      "import": false      
+      "name": "astro 2",
+      "image": "https://api.blackboxsys.net/images/png/my-asp2hd.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17796#playerembed","referer": "https://www.ufa1919.com/" 
 },     
 {
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/be_in_sports_1_th.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/27.m3u8",
-      "import": false  
-},     
-{
-      "name": "",
-      "image": "https://my-iptv.org/cover/channels/be_in_sports_2.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/90.m3u8",
-      "import": false   
-},     
-{
-      "name": "",
-      "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/rugbypass-tv.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/36.m3u8",
-      "import": false      
-},     
-{
-      "name": "",
-      "image": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/95.m3u8",
-      "import": false      
-},     
-{
-      "name": "",
-      "image": "https://bit.ly/3bygpr0",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/96.m3u8",
-      "import": false      
-},     
-{
-      "name": "",
-      "image": "http://imrmoni.xtgem.com/tv/starsportshd1.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/97.m3u8",
-      "import": false      
-},     
-{
-      "name": "",
-      "image": "http://imrmoni.xtgem.com/tv/starsportshd2.png",
-      "url": "http://139.99.91.167:8080/live/test1233/112211/98.m3u8",
-      "import": false       
+      "name": "astro 3",
+      "image": "https://api.blackboxsys.net/images/png/my-asp3hd.png",
+      "url": "https://www.ufa1919.com/liveplayer/?match_id=17793#playerembed","referer": "https://www.ufa1919.com/" 
+
+
+
 },     
 {
       "name": "",
