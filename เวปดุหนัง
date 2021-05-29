@@ -1,13 +1,13 @@
 {  
     "name": "เวปดูหนัง",
-    "author": "update 17/4/2021",
+    "author": "update 29/5/2021",
     "image": "https://pgslotvip.game/wp-content/uploads/2020/09/tips065.jpg",       
     "stations": [ 
  { 
    
-    "name": "movie2du",  
-    "image": "https://movie2du.com/wp-content/uploads/2020/08/MOVIE2DU-LOGO-1.png", 
-    "url": "https://movie2du.com/","embed": true 
+    "name": "kkkmovies",  
+    "image": "https://kkkmovies.com/wp-content/uploads/2021/03/kkkmovies-logo-news.png", 
+    "url": "https://kkkmovies.com/","embed": true 
   },
  {   
    "name": "we-play",  
@@ -15,129 +15,64 @@
     "url": "https://www.we-play.tv/","embed": true 
  },
  {   
-   "name": "doomoviehdfree",  
-    "image": "https://www.doomoviehdfree.com/wp-content/uploads/2020/09/logo-doomoviehdfree.png", 
-    "url": "https://www.doomoviehdfree.com/","embed": true 
+   "name": "moviekub",  
+    "image": "https://moviekub.com/images/logo/xowyBuLhw49XdtwszGNVF6JspP0Sdblmoviekub=logo.png", 
+    "url": "https://moviekub.com/","embed": true 
  },
  {   
-   "name": "KINGHD ",  
-    "image": "https://www.king-hd.com/img/logo/logo.jpg", 
-    "url": "https://www.king-hd.com/","embed": true 
+   "name": "fw2uhd",  
+    "image": "https://www.fw2uhd.com/wp-content/themes/movie/images/logo.png", 
+    "url": "https://www.fw2uhd.com/","embed": true 
  },
  {
-    "name": "ballsodhd",  
-    "image": "https://ballsodhd.com/wp-content/uploads/2019/12/121382.jpg", 
-    "url": "https://ballsodhd.com/","embed": true 
+    "name": "imovieth",  
+    "image": "https://imovieth.com/images/logo/tbdtRyOJL8g1iiUsEQbYA74rWizoxRClogo-2.png", 
+    "url": "https://imovieth.com/","embed": true 
  },
  {
-    "name": "2499hdonline",  
-    "image": "https://2499hdonline.com/wp-content/uploads/2020/10/2499-logo2.jpg?v=1.0", 
-    "url": "https://2499hdonline.com/","embed": true 
+    "name": "169hd",  
+    "image": "https://www.169hd.net/images/logo/1MBaml6LgvR3MkC4DxZqJbuRNO9rhXIHD169.png", 
+    "url": "https://www.169hd.net/","embed": true 
  },
  {
-    "name": "movie2ok",  
-    "image": "https://movie2ok.com/wp-content/uploads/2020/09/logo-3.png", 
-    "url": "https://movie2ok.com/","embed": true
+    "name": "369movies",  
+    "image": "https://369movies.com/wp-content/uploads/2021/05/369-movies2.png", 
+    "url": "https://369movies.com/","embed": true
  },
  {
-    "name": "doomv",  
-    "image": "https://doomv.com/images/logo/bBpuXHJkD8Og5HNriIza7Q0iw7BAQbddoomv.jpg", 
-    "url": "https://doomv.com/","embed": true
- },
- {
-    "name": "nangdd",  
-    "image": "https://nangdd.com/images/logo/iub5f9NeasuqsSrbxul4X7LDSzIORocNANGDD-LOGO.png", 
-    "url": "https://nangdd.com/","embed": true
- },
- {
-    "name": "mawintv",  
-    "image": "https://www.mawintv.com/logo-img/TV-copy.jpg", 
-    "url": "https://www.mawintv.com/","embed": true
- },
- {
-    "name": "youflix4k",  
-    "image": "https://youflix4k.com/uploads/png/3ed883eaeaa01628bf232f39939a80d0.png", 
-    "url": "https://youflix4k.com/","embed": true
- },
- {
-    "name": "see2movie",  
-    "image": "https://see2movie.com/wp-content/uploads/2020/12/see2movielogo.png", 
-    "url": "https://see2movie.com/","embed": true 
- },
- {
-    "name": "movieclubhd",  
-    "image": "https://www.movieclubhd.tv/themes/images/logo.png", 
-    "url": "https://www.movieclubhd.tv/th/","embed": true  
- },
- {
-    "name": "i-live.tv",  
-    "image": "https://i-live.tv/wp-content/uploads/2020/12/i-live.png", 
-    "url": "https://bit.ly/38QxyKq","embed": true    
-  },
- {
-    "name": "movie11",  
-    "image": "https://movie11.com/wp-content/themes/numberone/MOVIE11RE.png", 
-    "url": "https://movie11.com/","embed": true 
-  },
- {
-    "name": "moviemaster",  
-    "image": "https://moviemaster-th.com/wp-content/uploads/2020/05/Logo.png", 
-    "url": "https://moviemaster-th.com/","embed": true 
-  },
- {
-    "name": "doo-free.ws",  
-    "image": "https://doo-free.ws/images/logo/MqBElwCDTmlEhG7KjvoOH06c1znffRY126757187_1612788325588986_6436282003660876572_n.png", 
-    "url": "https://doo-free.ws/","embed": true 
-  },
- {
-    "name": "moviehd8888",  
-    "image": "https://moviehd8888.com/wp-content/uploads/2020/05/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.jpg", 
-    "url": "https://moviehd8888.com/","embed": true 
- },
- {
-    "name": "i-movie2u",  
-    "image": "https://i-movie2u.com/wp-content/uploads/2019/12/imv2u-logo.png", 
-    "url": "https://i-movie2u.com/category/%e0%b9%81%e0%b8%ad%e0%b8%84%e0%b8%8a%e0%b8%b1%e0%b9%88%e0%b8%99-action/","embed": true   
-  },
- {
-    "name": "baanball",  
-    "image": "https://ดูบอลสด.baanball.com/images/logo/WOpjn9yHrZoI6DI83d81fYFS9l99TPMsafe_image.png", 
-    "url": "https://xn--l3car8bzaq6f.baanball.com/","embed": true   
+    "name": "bkkmovie",  
+    "image": "https://bkkmovie.com/wp-content/uploads/2020/10/bkkmovie-logo.png", 
+    "url": "https://bkkmovie.com/","embed": true
 },
  {
-    "name": "doofree365",  
-    "image": "https://backend.doofree365.com/public/setting/1610452849_c6ea3c131c0fb41e4517.png", 
-    "url": "https://doofree365.com/","embed": true  
+    "name": "moviesmaster",  
+    "image": "https://m8t3h4f3.rocketcdn.me/wp-content/uploads/2020/12/Logo-Mastermovie_x50.png", 
+    "url": "https://moviesmaster.co/","embed": true
 },
  {
-    "name": "dooball66",  
-    "image": "https://dooball66.com/wp-content/uploads/2020/07/cropped-logo.png", 
-    "url": "https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/","embed": true 
+    "name": "doomovie-24hr",  
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2021/03/i-watchhd-logo.png", 
+    "url": "https://doomovie-24hr.com/","embed": true
 },
  {
-    "name": "ballnaka",  
-    "image": "https://ballnaka.tv/images/logo.png", 
-    "url": "https://ballnaka.tv/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C","embed": true
+    "name": "8k-movie",  
+    "image": "https://8k-movie.com/wp-content/uploads/2019/09/8k-movie.png", 
+    "url": "https://8k-movie.com/","embed": true
 },
  {
-    "name": "ball8k",  
-    "image": "https://ball8k.com/m/assets/img/ball8k_logo.png", 
-    "url": "https://ball8k.com/m/index.php","embed": true  
- },
+    "name": "doonee",  
+    "image": "https://www.doonee.com/images/icons/doonee-brand.png", 
+    "url": "https://www.doonee.com/","embed": true
+},
  {
-    "name": "ballsodhd",  
-    "image": "https://ballsodhd.com/wp-content/uploads/2019/12/121382.jpg", 
-    "url": "https://ballsodhd.com/","embed": true 
- },
+    "name": "line tv",  
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf8Ry2JjMQnl47xeMvV7daX8UpLsAowHXlw&usqp=CAU", 
+    "url": "https://tv.line.me/","embed": true
+},
  {
-    "name": "bettopfivemovie",  
-    "image": "https://bettopfivemovie.com/wp-content/uploads/2020/04/Logo-bettopfivemovie-new2.png", 
-    "url": "https://bettopfivemovie.com/","embed": true 
- },
- {
-    "name": "doofree88",  
-    "image": "https://www.doofree88.com/images/logo.png", 
-    "url": "https://www.doofree88.com/","embed": true 
+    "name": "true id",  
+    "image": "https://bit.ly/3fNnlSw", 
+    "url": "https://tv.trueid.net/","embed": true
 },
 ]
 }
