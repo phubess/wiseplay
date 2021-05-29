@@ -6,26 +6,9 @@
  { 
     "name": "CABLE",
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-     "url": "http://119.161.100.50:8089/LIVE-SKY-1/index.m3u8",
-     "import": false
-},
- {
-    "name": "CABLE",
-     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-     "url": "http://119.161.100.50:8089/LIVE-SKY-2/index.m3u8",
-     "import": false
-},
- {
-     "name": "CABLE",
-     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-     "url": "http://119.161.100.50:8089/LIVE-SKY-3/index.m3u8",
-     "import": false
-},
- {
-     "name": "CABLE",
-     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-     "url": "http://119.161.100.50:8089/LIVE-SKY-4/index.m3u8",
-     "import": false
+     "url": "http://tvapp.skybox.digital/work4/live_content.php?mid=236",
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+     "desktop": "true"
 },
  {
     "name": "CABLE",
@@ -177,12 +160,6 @@
  {     
      "name": "HBO",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
-     "url": "http://119.161.100.50:8089/hbohd/index.m3u8",
-     "import": false
-},
- {     
-     "name": "HBO",
-     "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
      "url": "https://dogtoop.com:8443/hbo/G5kF4tBb3g/26",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
@@ -206,12 +183,6 @@
  {
      "name": "HBO HITS",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
-     "url": "http://119.161.100.50:8089/hboh/index.m3u8",
-     "import": false
-},
- {
-     "name": "HBO HITS",
-     "image": "https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg",              
      "url": "https://www.we-play.tv/watching/tv/hbo-hits","referer": "https://www.we-play.tv/"
 },
  {
@@ -225,18 +196,7 @@
      "name": "HBO SIGNATURE",
      "image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",              
      "url": "https://www.we-play.tv/watching/tv/hbo-signature","referer": "https://www.we-play.tv/"
-},
-  {
-     "name": "HBO SIGNATURE",
-     "image": "https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg",              
-     "url": "http://119.161.100.50:8089/hbos/index.m3u8",
-     "import": false
-},
- {
-     "name": "HBOFamily",
-     "image": "https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg",              
-     "url": "http://119.161.100.50:8089/hbof/index.m3u8",
-     "import": false
+
 },
  {
      "name": "HBOFamily",
@@ -255,12 +215,7 @@
      "name": "RedbyHBO",
      "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
      "url": "https://www.we-play.tv/watching/tv/red-by-hbo","referer": "https://www.we-play.tv/"
-},
- {
-     "name": "RedbyHBO",
-     "image": "https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg",              
-     "url": "http://119.161.100.50:8089/redbyhbo/index.m3u8",
-     "import": false
+
 },
  {
      "name": "RedbyHBO",
@@ -287,23 +242,11 @@
      "playInNatPlayer": "true" 
 },
  {
-     "name": "CINEMAX",
-     "image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg",              
-     "url": "http://119.161.100.50:8089/cinemax/index.m3u8",
-     "import": false
-},
- {
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "https://dogtoop.com:8443/foxmoviesTH/paW4rse5vK/23",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
-},
-  {
-     "name": "FOX MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "http://119.161.100.50:8089/foxmovie/index.m3u8",
-     "import": false
 },
   {
      "name": "FOX MOVIES",
@@ -339,12 +282,7 @@
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
      "url": "https://fo1iptv.com/tv-player/fox-action-movies.html","referer": "https://fo1iptv.com/"
-},
- {
-     "name": "FOX ACTION MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "http://119.161.100.50:8089/foxaction/index.m3u8",
-     "import": false
+
 },
  {
      "name": "FOX ไทย",
@@ -352,12 +290,7 @@
      "url": "https://dogtoop.com:8443/foxthai/H6QtbPMa6B/179",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
-},
- {
-     "name": "FOX ไทย",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
-     "url": "http://119.161.100.50:8089/foxthai/index.m3u8",
-     "import": false
+
 },
  {
      "name": "FOX ไทย",
@@ -375,12 +308,7 @@
      "url": "https://dogtoop.com:8443/foxfamilyth/sUgZzjUgKv/119",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
-},
- {
-     "name": "Fox Family Movies",
-     "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxfamily.png",              
-     "url": "http://119.161.100.50:8089/foxfam/index.m3u8",
-     "import": false
+
 },
  {
      "name": "Fox Family Movies",
@@ -486,7 +414,7 @@
  {
      "name": "True Asian Series HD b",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
-     "url": "https://dogtoop.com:8443/trueasiaseries/XsPL7psbLC/96",
+     "url": "https://dogtoop.com:8443/live/skysportcricket/yZtwgvkZkk/132.ts",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
@@ -552,7 +480,7 @@
  { 
      "name": "THE MOVIES b",
       "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/162106095883_movie_image.jpg",              
-      "url": "https://dogtoop.com:8443/movie1/DZ8eMtM69g/1030",
+      "url": "https://dogtoop.com:8443/live/movie1/DZ8eMtM69g/1030.ts",
       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
 },
@@ -606,15 +534,9 @@
  {
      "name": "CCM b",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
-     "url": "https://dogtoop.com:8443/ccm/tmFcX8fsY4/103",
+     "url": "https://dogtoop.com:8443/live/foxfamilyth/sUgZzjUgKv/119.ts",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
-},
- {
-     "name": "CCM",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
-     "url": "http://119.161.100.50:8089/CCM/index.m3u8",
-     "import": false
 },
  {
      "name": "CCM",
