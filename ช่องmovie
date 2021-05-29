@@ -1,16 +1,10 @@
 {  
     "name": "phubess",
-    "author": "update 29/5/2021",
+    "author": "update 30/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
-    "name": "CABLE",
-     "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-     "url": "http://tvapp.skybox.digital/work4/live_content.php?mid=236",
-     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-     "desktop": "true"
-},
- {
+    
     "name": "CABLE",
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
      "url": "http://150.95.25.221:8000/i%2DAsia%20HD?u=covid19:p=951159753",
