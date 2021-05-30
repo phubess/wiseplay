@@ -1,9 +1,19 @@
     {
     "name": "phubess",
-    "author": "update 29/5/2021",
+    "author": "update 31/5/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
-  {   
+  {  
+    "name":"Golf Channel Thailand HD2",
+    "image": "https://cms.dmpcdn.com/livetv/2021/04/09/eb739450-9917-11eb-8b27-db7c51a78b67_320.png",  
+    "url": "https://www.we-play.tv/watching/tv/golf-channel-thailand-hd2","referer": "https://www.we-play.tv/"
+},
+ {  
+   "name": "ไอดี สเตชั่น",
+   "image": "https://cms.dmpcdn.com/livetv/2021/04/26/02bb7540-a67b-11eb-82d0-f787c3df094f_320.jpg",
+   "url": "https://www.we-play.tv/watching/tv/id-station","referer": "https://www.we-play.tv/"   
+},
+ {   
      "name": "Esports Thai Leagues TV",
       "image": "https://cms.dmpcdn.com/livetv/2020/12/28/c8ce2320-48c2-11eb-9b6d-3fdf37c2e48e_320.jpg",
       "url": "https://tv.trueid.net/embed/ESPORTSTHAILEAGUESTV?autoplay=yes&nopageview=yes",
