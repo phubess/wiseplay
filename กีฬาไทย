@@ -8,10 +8,24 @@
     "image": "https://cms.dmpcdn.com/livetv/2021/04/09/eb739450-9917-11eb-8b27-db7c51a78b67_320.png",  
     "url": "https://www.we-play.tv/watching/tv/golf-channel-thailand-hd2","referer": "https://www.we-play.tv/"
 },
+ {
+    "name":"Golf Channel Thailand HD2 b",
+    "image": "https://cms.dmpcdn.com/livetv/2021/04/09/eb739450-9917-11eb-8b27-db7c51a78b67_320.png",
+    "url": "https://dogtoop.com:8443/GOLFHD2/HQCBTztfdb/778",
+    "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+    "playInNatPlayer": "true"
+},
  {  
    "name": "ไอดี สเตชั่น",
    "image": "https://cms.dmpcdn.com/livetv/2021/04/26/02bb7540-a67b-11eb-82d0-f787c3df094f_320.jpg",
    "url": "https://www.we-play.tv/watching/tv/id-station","referer": "https://www.we-play.tv/"   
+},
+ {
+    "name":"3BB SPORT b",
+    "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1622048281551_movie_image.png",
+    "url": "https://dogtoop.com:8443/3bbsport/swjL5Wb8yd/163",
+    "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+    "playInNatPlayer": "true"
 },
  {   
      "name": "Esports Thai Leagues TV",
