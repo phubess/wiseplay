@@ -1,11 +1,11 @@
 { 
    "name": "การ์ตูน",
-   "author": "update 30/5/2021",
+   "author": "update 1/5/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
 {
-    "name": "",
+    "name": "ภากย์ไทย",
     "image": "https://api.soimilk.com/genThumb.php?file=sites/default/files/cartoon_90s.jpg&maxw=550&maxh=550",
     "stations": [ 
 { 
