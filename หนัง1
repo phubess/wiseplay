@@ -1,6 +1,6 @@
  { 
    "name": "video",
-   "author": "update 21/4/2021",
+   "author": "update 30/5/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
@@ -9,94 +9,197 @@
     "image": "https://movie2freemax.com/wp-content/uploads/2020/12/RED-365.png",
     "stations": [ 
 { 
-    "name":"Godzilla vs Kong",
-    "image": "https://www.dailynews.co.th/admin/upload/20210325/news_ExFaZrJMYf162356_533.jpg",
-    "url": "https://xxx.77player.xyz/hls/7b8008717491b6b924298043ea8c3998/7b8008717491b6b924298043ea8c3998.m3u8",
+    "name":"Fast & Furious 9 (2021) เร็ว…แรงทะลุนรก 9",
+    "image": "https://m8t3h4f3.rocketcdn.me/wp-content/uploads/2021/05/1606738108-fast-amp-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/f9_2021_720.mp4/playlist.m3u8",
     "import": false 
 },
 { 
-    "name":"ซอ บก มนุษย์อมตะ",
-    "image": "https://www.myplayhd.com/post-img/17042021191219-%E0%B8%8B%E0%B8%AD%20%E0%B8%9A%E0%B8%81.jpg",
-    "url": "https://server4.mawintv2.com/hls/eyVJEyj/file_,360,.mp4.urlset/master.m3u8",
+    "name":"บาจโจ้ เทพบุตรเปียทอง",
+    "image": "https://m8t3h4f3.rocketcdn.me/wp-content/uploads/2021/05/baggio-the-divine-ponytail-2021-poster--300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/bgo_2021_720.mp4/playlist.m3u8",
     "import": false 
 },
 { 
-    "name":"คนธรรมดานรกเรียกพี่",
-    "image": "https://bit.ly/32sER88",
-    "url": "https://server4.mawintv2.com/hls/aVpMzXc/file_,360,.mp4.urlset/master.m3u8",
-    "import": false
+    "name":"คนคลั่งแค้น ปล้นผ่านรก",
+    "image": "https://m8t3h4f3.rocketcdn.me/wp-content/uploads/2021/05/opoyi_wE4XfVE-K.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/wom_2021_720.mp4/playlist.m3u8",
+    "import": false 
 },
 { 
-    "name":"คนระห่ำ พันธุ์ระอุ",
-    "image": "https://www.myplayhd.com/post-img/13042021131146-The%20Marksman.jpg",
-    "url": "https://server5.mawintv2.com/hls/lMuUnWW/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false  
+    "name":"โกสต์แล็บ..ฉีกกฎทดลองผี",
+    "image": "https://m8t3h4f3.rocketcdn.me/wp-content/uploads/2021/05/MV5BNjk5ZmE3MTAtZGVjMi00YzlkLTg3MTMtNjE3ZjhkZTRiMTg2XkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_QL75_UY562_CR40380562_-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/gl_2021_720.mp4/playlist.m3u8",
+    "import": false     
 },
-{    
-    "name":"พจมาน สว่างคาตา (หอแต๋วแตก)",
-    "image": "https://bit.ly/3x3yxSS",
-    "url": "https://server5.mawintv2.com/hls/IlLxril/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false 
-}, 
-{  
-    "name":"มนต์รักดอกผักบุ้ง เลิกคุยทั้งอำเภอ",
-    "image": "https://bit.ly/3ds9xwL",
-    "url": "https://server5.mawintv2.com/hls/bTesoZC/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false 
+{ 
+    "name":"เฟรนส์ เดอะรียูเนี่ยน",
+    "image": "https://m8t3h4f3.rocketcdn.me/wp-content/uploads/2021/05/Friends-The-Reunion-Poster-Key-Art-450x667-1-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/frun_2021_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"ใครสั่งเก็บตาย",
+    "image": "https://m8t3h4f3.rocketcdn.me/wp-content/uploads/2021/05/eopasihdfjuoiae-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/thwmd_2021_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"แผนปล้นซอมบี้เดือด",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/kztlf79KylNpQNmZRzyagz9tLno-e1621582333249.jpg",
+    "url": "https://vod-th6.streammaster.co/vod/aotd_2021_720_01.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"Long Weekend (2021)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/long_weekend_poster.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/lwn_2021_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":" ไดนาสตีวอริเออร์ สามก๊ก 2021",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/d1147f0b-991a-4a45-aa5d-67923fb1c967-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/dntwra_2021_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"ส่องปมมรณะ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/lvW8mlzpjbpkrnOg-300x450.jpg",
+    "url": "https://vod-th6.streammaster.co/vod/twiw_2021_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"ออกซิเจน",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/Oxygen_Vertical_Main_sRGB_EN_US-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/oxg_2021_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"สืบลึกปลดปมฆาตกรรม",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/p_800x1200_AMC_LittleThingsThe_03182021-768x1152.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/tlt_2021_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"ยอดมนุษย์สุดโต่ง",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/Super-Me-2021-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%95%E0%B9%88%E0%B8%87-300x450.png",
+    "url": "https://vod-th8.streammaster.co/vod/spm_2021_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"Voyagers ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/VOYAGERS-768x1152.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/vg_2021_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"ทอมแคลนซี่ วิชเอ้าท์รีเมอร์",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/Sin-Remordimientos-de-Tom-Clancy-scaled-1-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/tr_3004_720.mp4/playlist.m3u8",
+    "import": false    
+},
+{ 
+    "name":"แว่วเสียงวิญญาณหลอน",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/AAAABe7kGvCIhkbVaFshulFikUI5KvQ5L7fNLqa5NyUmyXJLeBXdlWBZ5ZqGXfZ5oUUvuQ4GmnYZ24JZWd_0Z8c-X6sVhD5WR1J5oY718rEsmvYPehXcSFZhE2lpxrWErw-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/ts_3004_720.mp4/playlist.m3u8",
+    "import": false     
 },
 { 
     "name":"มอร์ทัล คอมแบท",
-    "image": "https://www.myplayhd.com/post-img/13042021031507-Mortal%20Kombat.jpg",
-    "url": "https://server5.mawintv2.com/hls/1odSknR/file_,720,.mp4.urlset/master.m3u8",
-    "import": false    
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/Mortal-Kombat-2021-1-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mk_2404_720.mp4/playlist.m3u8",
+    "import": false     
 },
 { 
-    "name":"จิตปฏิวัติโลก",
-    "image": "https://bit.ly/3ajtzaR",
-    "url": "https://server5.mawintv2.com/hls/9E2XnJ9/file_,720,.mp4.urlset/master.m3u8",
-    "import": false    
+    "name":"คนอัจฉริยะ ฝ่าสมรภูมิรบ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/the-courier-e1618814769625.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/tc_2604_720.mp4/playlist.m3u8",
+    "import": false     
 },
 { 
-    "name":"นักรบมฤตยูดำ",
-    "image": "https://bit.ly/3spIXIR",
-    "url": "https://server4.mawintv2.com/hls/tqPfowy/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
+    "name":"พจมาน สว่างคาตา",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/n4-e1618717972109-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/pt_1804_720.mp4/playlist.m3u8",
+    "import": false     
 },
 { 
-    "name":"บอสมหากาฬ ฝ่าด่านนรก",
-    "image": "https://www.myplayhd.com/post-img/10032021183224-%E0%B8%9A%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC.jpg",
-    "url": "https://server5.mawintv2.com/hls/HbliBqZ/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
+    "name":"ซอบก มนุษย์อมตะ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/Seobok-01-e1618658249928-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/sb_1704_720.mp4/playlist.m3u8",
+    "import": false     
 },
 { 
-    "name":"ประจัญบาน อสูรเวหา",
-    "image": "https://bit.ly/3v2xErE",
-    "url": "https://server5.mawintv2.com/hls/MBeW0TT/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false   
+    "name":"สมรภูมินอกลวดหนาม",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1200_-e1618654877600-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/ow_1601_720.mp4/playlist.m3u8",
+    "import": false     
 },
 { 
-    "name":"ผีโยคะ",
-    "image": "https://www.myplayhd.com/post-img/10032021000036-The%20Cursed%20Lesson.jpg",
-    "url": "https://server4.mawintv2.com/hls/isM7RNd/file_,720,.mp4.urlset/master.m3u8",
-    "import": false   
+    "name":"เฮ้ย!ลูกเพ่ นี่ลูกพ่อ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/64f96638-4d7a-4627-803a-9b4c86b04451-e1618653365719-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mf_1401_720.mp4/playlist.m3u8",
+    "import": false     
 },
 { 
-    "name":"โคตรคนชนเอเลี่ยน",
-    "image": "https://www.myplayhd.com/post-img/09032021235855-Jiu%20Jitsu06.jpg",
-    "url": "https://server4.mawintv2.com/hls/0EFIxSQ/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
+    "name":" เกมเมอร์ เกมแม่",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/Mother-Gamer-New-Theme-Poster-e1618630865326-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mg_1101_720.mp4/playlist.m3u8",
+    "import": false 
 },
 { 
-    "name":"สกายไลน์ 3 สงครามถล่มจักรวาล",
-    "image": "https://bit.ly/3gghqr3",
-    "url": "https://server4.mawintv2.com/hls/nMO6nWJ/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
+    "name":"มอนสเตอร์ ฮันเตอร์",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/unnamed-3-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mh_2002_720.mp4/playlist.m3u8",
+    "import": false     
 },
 { 
-    "name":"อุโมงค์ผีดุ",
-    "image": "https://www.myplayhd.com/post-img/09032021235435-%E0%B8%AD%E0%B8%B8%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B8.jpg",
-    "url": "https://server5.mawintv2.com/hls/ZAFkbOn/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
+    "name":"ชนชั้นขยะปฏิวัติจักรวาล",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/qonpbm1g94UfhdPw6eIs-o-e1618570961914-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/ss_0602_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"คนธรรมดานรกเรียกพี่",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/oBgWY00bEFeZ9N25wWVyuQddbAo-1-e1618565443238.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/nd_1804_720.mp4/playlist.m3u8",
+    "import": false     
+},
+{ 
+    "name":"ห่วง… แต่หวังฮุบ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/bfea4b19fbee445888766e47ea855303-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/il_2302_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{ 
+    "name":"อ้ายคนหล่อลวง",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/MV5BODAzOGZmNjUtMTIyMC00NGU1LTg5MTMtZWY4MDdiZjI0NGEwXkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/th_0403_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{ 
+    "name":"จัสติคลีค ฉบับ สไนเดอร์ คัท",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/Ben-Affleck-Henry-Cavill-Jason-Momoa-Gal-Gadot-Ezra-Miller-and-Ray-Fisher-in-Zack-Snyders-Justice-League-2021-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/jls_1803_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{ 
+    "name":"รักกันแค่วันเดย์",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/2958_210126141206oW-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/ir_1404_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{ 
+    "name":"แผนปล้นธนาคารสเปน",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/The-Vault-2021-e1618554363884.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/tv_1504_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{ 
+    "name":" ก็อดซิลล่า ปะทะ คิงคอง",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/Godzilla-vs.-Kong-380x590-1-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/gk_0204_720.mp4/playlist.m3u8",
+    "import": false      
+
 },
 ]
 }, 
@@ -105,76 +208,191 @@
     "image": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/8/8/original/NetflixIANSInfographics.jpg",       
     "stations": [ 
 { 
-    "name":"จิตวิญญาณ",
-    "image": "https://www.myplayhd.com/post-img/17042021032958-000.jpg",
-    "url": "https://server5.mawintv2.com/hls/CMnO177/file_,360,.mp4.urlset/master.m3u8",
+    "name":"บาจโจ้ เทพบุตรเปียทอง (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/baggio-the-divine-ponytail-2021-poster--300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/bgo_2021_720.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"Love and Monsters",
-    "image": "https://www.myplayhd.com/post-img/15042021224730-Love%20and%20Monsters%20(2020)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/qY6N2ke/file_,360,.mp4.urlset/master.m3u8",
+    "name":"ปาฏิหาริย์สีน้ำเงิน (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/1622101824_blue_miracle-618336231-large-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/bmrc_2021_720.mp4/playlist.m3u8",
     "import": false                                          
 },
 {    
-    "name":"ขบวนการฮีโร่ฟาดฟ้า",
-    "image": "https://www.myplayhd.com/post-img/12042021212559-Thunder%20Force.jpg",
-    "url": "https://server4.mawintv2.com/hls/a6VUYp5/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"โกสต์แล็บ..ฉีกกฎทดลองผี (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/MV5BNjk5ZmE3MTAtZGVjMi00YzlkLTg3MTMtNjE3ZjhkZTRiMTg2XkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_QL75_UY562_CR40380562_-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/gl_2021_720.mp4/playlist.m3u8",
+    "import": false  
+},
+{    
+    "name":"แผนปล้นซอมบี้เดือด (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/kztlf79KylNpQNmZRzyagz9tLno-e1621582333249.jpg",
+    "url": "https://vod-th6.streammaster.co/vod/aotd_2021_720_01.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"แฟร์รี่ เจ้าพ่อผงาด (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/TTkdPO3XDZ4t5iXA-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/fr_2021_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ฉันคือตัวแทนเด็กผู้หญิง (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/Cuoc-Chien-Vi-Moi-Be-Gai-I-Am-All-Girls-2021-poster-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/iaag_2021_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ส่องปมมรณะ (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/lvW8mlzpjbpkrnOg-300x450.jpg",
+    "url": "https://vod-th6.streammaster.co/vod/twiw_2021_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"41 เริงระบำ (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/Dance-of-the-Forty-One-2021-41-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B3-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/dotfo_2021_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ออกซิเจน (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/Oxygen_Vertical_Main_sRGB_EN_US-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/oxg_2021_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"แว่วเสียงวิญญาณหลอน (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/AAAABe7kGvCIhkbVaFshulFikUI5KvQ5L7fNLqa5NyUmyXJLeBXdlWBZ5ZqGXfZ5oUUvuQ4GmnYZ24JZWd_0Z8c-X6sVhD5WR1J5oY718rEsmvYPehXcSFZhE2lpxrWErw-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/ts_3004_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"สมรภูมินอกลวดหนาม (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1200_-e1618654877600-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/ow_1601_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ชนชั้นขยะปฏิวัติจักรวาล (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/qonpbm1g94UfhdPw6eIs-o-e1618570961914-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/ss_0602_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ห่วง… แต่หวังฮุบ (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/bfea4b19fbee445888766e47ea855303-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/il_2302_720.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"คาร์โก้ (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/poster_tt3860916-scaled.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00022.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ปฏิบัติการปิดฉากปีศาจนาซี (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Operation-Finale-2018-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%89%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%8B%E0%B8%B5-e1617702942538-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01225.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"เซเว่นทีน (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/6bdc1aac1e87075814ec26effd8fa73e-e1617703403358.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01836.mp4/playlist.m3u8",
+    "import": false     
+},
+{    
+    "name":"อยากให้เธออยู่ดูตอนจบด้วยกัน (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/7c4a7fbbaf77fc2263caf6747cc1b2b1-e1617701032880-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00174.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ย้อนเวลาเปลี่ยนโลก (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/ARQ_KA-e1617701276542-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03521.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"การทำลายล้าง (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/e3P2Ed0sbmQ6RsoS4dcT3aeEPR-e1617701214401.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00798.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"เปิดตาสาม สัมผัสสยอง (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Mata-Batin-879x1300-1-e1617703109118-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03003.mp4/playlist.m3u8",
+    "import": false     
+},
+{    
+    "name":"จาด็อทวิลล์ สมรภูมิแผ่นดินเดือด (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/adrno1y0mKpMwjSlMQojZEUk82V-e1617701338780.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03237.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"วอร์แมชชีน (ซับไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/WarMachine-Cover-werstreamtes-e1617701589129.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03018.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"นายโคตรแน่ ขอจีบตัวแม่หน่อย! (ภากย์ไทย)",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Long-Shot-2017-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00815.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":" ความลับของหิ่งห้อย",
-    "image": "https://www.myplayhd.com/post-img/12042021212400-Have%20You%20Ever%20Seen%20Fireflies.jpg",
-    "url": "https://server5.mawintv2.com/hls/AoCjzlZ/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"",
+    "image": "",
+    "url": "",
     "import": false    
 },
 {    
-    "name":"หนึ่งวันอันตราย",
-    "image": "https://www.myplayhd.com/post-img/12042021212157-Two.jpg",
-    "url": "https://server5.mawintv2.com/hls/Gyj7F6R/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"",
+    "image": "",
+    "url": "",
     "import": false    
 },
 {    
-    "name":"ชีวิตเฉียดฟ้า",
-    "image": "https://www.myplayhd.com/post-img/04042021062813-Sky%20High%20(2020)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/XrHN5M1/file_,360,.mp4.urlset/master.m3u8",
-    "import": false   
-},
-{    
-    "name":"Madame Claude",
-    "image": "https://www.myplayhd.com/post-img/04042021062644-Madame%20Claude%20(2021)%204.jpg",
-    "url": "https://server5.mawintv2.com/hls/8q84pkb/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"",
+    "image": "",
+    "url": "",
     "import": false    
 },
 {    
-    "name":"Just Say Yes",
-    "image": "https://www.myplayhd.com/post-img/04042021062536-Just%20Say%20Yes%20(2021)%204.jpg",
-    "url": "https://server5.mawintv2.com/hls/82e4Ldb/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"",
+    "image": "",
+    "url": "",
     "import": false    
 },
 {    
-    "name":"Concrete Cowboy",
-    "image": "https://www.myplayhd.com/post-img/04042021062422-Concrete%20Cowboy%20(2020)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/uJgVcYu/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+    
+},
+]
+}, 
+{  
+   "name": "หนังฝรั่ง", 
+    "image": "https://sv1.picz.in.th/images/2021/01/04/lNRgma.jpg",       
+    "stations": [     
+{ 
+    "name":"",
+    "image": "",
+    "url": "",
     "import": false    
 },
 {    
-    "name":"มิสซี่ สาวในฝันร้าย",
-    "image": "https://www.myplayhd.com/post-img/04042021061755-The%20Wrong%20Missy%20(2020)%204.jpg",
-    "url": "https://server5.mawintv2.com/hls/peCyy9K/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"คืนสู่เหย้าชาว Z",
-    "image": "https://www.myplayhd.com/post-img/04042021061545-Reunion%20Z%20(2018)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/4iWFnQo/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"อีก 7 วัน ฉันจะรักเธอ",
-    "image": "https://www.myplayhd.com/post-img/04042021061307-A%20Week%20Away%20(2021)%20%204.jpg",
-    "url": "https://server4.mawintv2.com/hls/8tjk0Pb/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false 
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false        
 },
 ]
 }, 
@@ -183,538 +401,326 @@
     "image": "https://s.isanook.com/mv/0/ud/6/33115/box-ss.jpg",       
     "stations": [ 
 { 
-    "name":"Peak Rescue",
-    "image": "https://www.myplayhd.com/post-img/09042021031629-11.jpg",
-    "url": "https://server4.mawintv2.com/hls/XWy3Rkc/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"คนอึดไม่มีวันตาย",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/Hard-Kill-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/hk_2020_720.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"Die Hard 5",
-    "image": "https://www.myplayhd.com/post-img/23022021051028-Die%20Hard%205.jpeg",
-    "url": "https://server5.mawintv2.com/hls/dHcKPfJ/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"เดี่ยวมหาประลัย",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/The-One-2001-1-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/to_2704_720.mp4/playlist.m3u8",
     "import": false
 },
 {    
-    "name":"แผนปล้นคนระห่ำ",
-    "image": "https://www.myplayhd.com/post-img/23022021045855-Empire%20State%20(2013).jpg",
-    "url": "https://server4.mawintv2.com/hls/x0lZdWK/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
+    "name":"คนแยกโลก",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Divergent-2014-%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00712.mp4/playlist.m3u8",
+    "import": false    
 },
 {    
-    "name":"ปฏิบัติการพิฆาตสมรภูมิเดือด",
-    "image": "https://www.myplayhd.com/post-img/23022021044558-Lone%20Survivor%20(2013)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/dDqkkw4/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
-},
-{    
-    "name":"โคตรคนระห่ำล่าผ่าเมือง",
-    "image": "https://www.myplayhd.com/post-img/23022021044423-Homefront%20(2013).jpg",
-    "url": "https://server5.mawintv2.com/hls/5awuwrT/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
-},
-{    
-    "name":"เกมล่าเกม 2 แคชชิ่งไฟเออร์",
-    "image": "https://www.myplayhd.com/post-img/23022021043843-The%20Hunger%20Games%202%20(2013).jpg",
-    "url": "https://server4.mawintv2.com/hls/LxUuVq9/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
-},
-{    
-    "name":"โคตรคน ทีมเอ็กซ์เพนเดเบิ้ล",
-    "image": "https://www.myplayhd.com/post-img/23022021031829-The%20Expendables%202%20(2012).jpg",
-    "url": "https://server4.mawintv2.com/hls/FjCJ6pV/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
+    "name":"พยัคฆ์สาวล่ารหัสใยมรณะ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/tt5177088-e1617703207453-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02948.mp4/playlist.m3u8",
+    "import": false   
 },
 {    
     "name":"คนมหากาฬระอุ",
-    "image": "https://www.myplayhd.com/post-img/23022021031132-How%20I%20Spent%20my%20Summer%20Vacation%20(2012)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/4QwCzWY/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
-},
-{    
-    "name":"รหัสรบโลกสะท้าน",
-    "image": "https://www.myplayhd.com/post-img/23022021025224-Code%20Name.jpg",
-    "url": "https://server5.mawintv2.com/hls/qMBtkPM/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
-},
-{    
-    "name":"ฆ่าข้ามโลก",
-    "image": "https://www.myplayhd.com/post-img/22022021225758-Erased%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/nkDs0gf/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
-},
-{    
-    "name":"สงครามกลางเวหาของเสืออากาศผิวสี",
-    "image": "https://www.myplayhd.com/post-img/22022021225541-Red%20Tails%20(2012)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/A58hn4p/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
-},
-{    
-    "name":"ปฏิบัติการเดือดฝ่าแผ่นดิน",
-    "image": "https://www.myplayhd.com/post-img/22022021081037-A%20Dark%20Truth%20(2012)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/AIlO1Cn/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/740full-get-the-gringo-poster-e1617700978648-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03323.mp4/playlist.m3u8",
+    "import": false   
 },
 {    
     "name":"6 นัดจัดตาย",
-    "image": "https://bit.ly/2QcjZj9",
-    "url": "https://server5.mawintv2.com/hls/xe9X3cT/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/MV5BODgxNzkzZTgtYzlhZi00MTQ2LTkyNGUtZjRmZjQ0YzE0MmUzXkEyXkFqcGdeQXVyMTE2OTg4Mjg@._V1_UY1200_CR648001200_AL_-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01785.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":" กระสุนเดนตาย",
-    "image": "https://bit.ly/3x57art",
-    "url": "https://server4.mawintv2.com/hls/7AwaseO/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"สตาร์ เทรค ทะยานสู่ห้วงมืด",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/992F3C3359AF8F500D-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03485.mp4/playlist.m3u8",
+    "import": false  
+},
+{    
+    "name":"คริมสัน ไทด์ ลึกทมิฬ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/MV5BMmFkY2IxNTAtMWRiNS00MWU2LWI1NDYtY2YxYTQyYTk5OTBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_-e1617593809695-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03608.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"211 โคตรตำรวจอันตราย",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/DenrNqYVAAArDSF-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00231.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ตี๋เหรินเจี๋ย ปริศนาพลิกฟ้า 4 จตุรเทพ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/0f13607bd95c26bbc1328f8e056a0a43-e1617782744164-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03787.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ฝ่า 7 นรกไปกับพระเจ้า 2",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/along-with-the-gods-poster-2-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00238.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ฮาน โซโล: ตำนานสตาร์ วอร์ส",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/HanSoloStarWarsCartel-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03195.mp4/playlist.m3u8",
+    "import": false     
+},
+{    
+    "name":"X-Men สงครามวันพิฆาตกู้อนาคต",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/xmen-days-of-future-past-ver5-xlg-1013x1500-800x1184-1-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02360.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"แดร์เดฟเวิล มนุษย์อหังการ",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Daredevi-2003-%E0%B9%81%E0%B8%94%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%9F%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03927.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"ฝูงห่าไวรัสสยองกินเมือง",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/DEVILS-PLAYGROUND-2010-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02459.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"คู่ฮ็อตซ่าส์ ล่าให้ว่อง",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Hot-Pursuit-2015-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AE%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%AD%E0%B8%87-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00317.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"วาเลเรียน พลิกจักรวาล",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Valerian-and-the-City-of-a-Thousand-Planets-2017-%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03256.mp4/playlist.m3u8",
+    "import": false      
+},
+{    
+    "name":"บัญชีแค้นสวยสังหาร",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Killer-Li-mo-2017-%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02708.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"คนมหากาฬฝ่าวิกฤตสะท้านเมือง",
-    "image": "https://www.myplayhd.com/post-img/22022021081646-CLEANSKIN%20(2012)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/npqwO9I/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"จอมโจรกู้แผ่นดินเดือด",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Robin-Hood-2010-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03841.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"สงครามหัวใจ คู่ระห่ำพยัคฆ์ร้าย",
-    "image": "https://www.myplayhd.com/post-img/22022021072256-This%20Means%20War%20(2012)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/ed3MgRV/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"ปิดเกมล่าจารชน คนอันตราย",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/The-Bourne-3-Ultimatum-2007-%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99-%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03582.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"โคตรระห่ำ ทะลุรหัส",
-    "image": "https://www.myplayhd.com/post-img/22022021072152-Safe%20(2012)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/tJA2Fvt/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false   
-},
-{    
-    "name":"หน่วยพิฆาต ระห่ำกู้โลก",
-    "image": "https://www.myplayhd.com/post-img/22022021070621-Act%20of%20Valor%20(2012)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/nKhoFZb/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"ศึกราชันย์แผ่นดินเดือด",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/The-Scorpion-King-1-2002-e1616387211369.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04000.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"ล่าล้างอิทธิพลดิบ",
-    "image": "https://www.myplayhd.com/post-img/22022021064110-Freelancers%20%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/OjjJDqY/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"อสูรเหล็กล้างพันธุ์มนุษย์",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Atlantic-Rim-2013--300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03272.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"คู่ปราบกำราบนรก",
-    "image": "https://www.myplayhd.com/post-img/22022021064016-End%20of%20Watch%20(2012)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/xpECcrq/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"เจิ้งไค ฮีโร่เกรียนกู้โลก",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/kqYfTh4j3cg.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00241.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"สงครามมหาเทพพิโรธ",
-    "image": "https://www.myplayhd.com/post-img/22022021062815-Wrath%20of%20the%20Titans%20(2012)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/Uwv4ECO/file_,720,.mp4.urlset/master.m3u8",
+    "name":"",
+    "image": "",
+    "url": "",
     "import": false    
 },
 {    
-    "name":"เรซิเดนต์อีวิล 5",
-    "image": "https://www.myplayhd.com/post-img/22022021062712-Resident%20Evil%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/ZjFiiWM/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"วันสิ้นโลก สงครามเอเลี่ยนยึดเมือง",
-    "image": "https://www.myplayhd.com/post-img/22022021061949-Alien%20Armageddon%20(2011)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/dIOgRxL/file_,720,.mp4.urlset/master.m3u8",
+    "name":"",
+    "image": "",
+    "url": "",
     "import": false    
 },
 {    
-    "name":"สงครามพันธุ์เดือด คาวบอยปะทะเอเลี่ยน",
-    "image": "https://www.myplayhd.com/post-img/22022021061805-Cowboys%20&%20Aliens%20(2011)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/6c81MlO/file_,720,.mp4.urlset/master.m3u8",
-    "import": false     
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 },
-{    
-    "name":"แหกด่านจู่โจมสายฟ้าแลบ",
-    "image": "https://www.myplayhd.com/post-img/22022021061700-Special%20Forces%20(2011)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/obWRM2Q/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"อุบัติการณ์เหี้ยม",
-    "image": "https://www.myplayhd.com/post-img/22022021060606-Straw%20Dogs%20(2011)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/uAtLUJh/file_,720,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"เหี้ยมบริสุทธิ์",
-    "image": "https://www.myplayhd.com/post-img/22022021060440-Hanna%20(2011)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/9N3I3R1/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"หน้ากากแตนอาละวาด",
-    "image": "https://www.myplayhd.com/post-img/22022021053522-THE%20GREEN%20HORNET%20(2011)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/IC1dUWX/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"บ้านไร่ละเลงเลือด",
-    "image": "https://www.myplayhd.com/post-img/22022021053316-The%20Holding%20(2011)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/oWPIJHu/file_,1080,720,360,.mp4.urlset/master.m3u8",
+]
+}, 
+{  
+   "name": "หนังเกาหลี ", 
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNGfrIQtmSH034fbXf4Txcvsia4fIIDzXyQ&usqp=CAU",       
+    "stations": [     
+{ 
+    "name":"ไร้เมตตา",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/201901150906351910_1-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/nmc_2019_720.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"ตำรวจระห่ำแหกกฏลุย",
-    "image": "https://www.myplayhd.com/post-img/22022021052209-Sacrifice%20(2011)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/0CXqVM8/file_,1080,.mp4.urlset/master.m3u8",
-    "import": false     
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false
 },
-{    
-    "name":"Mighty Joe Young (1998) KingKong",
-    "image": "https://www.myplayhd.com/post-img/22022021005655-33.jpg",
-    "url": "https://server4.mawintv2.com/hls/9A8hSCu/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false 
-},
-{    
-    "name":"ยุทธการวินาศกรรมข้ามแผ่นดิน",
-    "image": "https://www.myplayhd.com/post-img/22022021005423-29.jpg",
-    "url": "https://server5.mawintv2.com/hls/JTVawiT/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false 
-},
-{    
-    "name":"7 คืนหาดสวรรค์ 6 วันอันตราย",
-    "image": "https://www.myplayhd.com/post-img/22022021005231-26.jpg",
-    "url": "https://server5.mawintv2.com/hls/sSyEe4O/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false 
-},
-{    
-    "name":"ผ่าขุมทรัพย์ ทะเลโหด",
-    "image": "https://www.myplayhd.com/post-img/22022021005005-22.jpg",
-    "url": "https://server4.mawintv2.com/hls/EVP7y53/file_,1080,720,360,.mp4.urlset/master.m3u8",
+]
+}, 
+{  
+   "name": "หนังไทย", 
+    "image": "https://bit.ly/3uyzzDO",       
+    "stations": [     
+{ 
+    "name":"โกสต์แล็บ..ฉีกกฎทดลองผี",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/MV5BNjk5ZmE3MTAtZGVjMi00YzlkLTg3MTMtNjE3ZjhkZTRiMTg2XkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_QL75_UY562_CR40380562_-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/gl_2021_720.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"นักฆ่ากระสุนโลกันต์",
-    "image": "https://www.myplayhd.com/post-img/22022021004847-21.jpg",
-    "url": "https://server5.mawintv2.com/hls/UIHHQhk/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"คนชนนรก",
-    "image": "https://www.myplayhd.com/post-img/22022021004342-13.jpg",
-    "url": "https://server4.mawintv2.com/hls/vPtiUMn/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"คู่ใหญ่ฟัดเต็มสปีด",
-    "image": "https://www.myplayhd.com/post-img/22022021004116-9.jpg",
-    "url": "https://server4.mawintv2.com/hls/WPuD0KP/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"ทะลุโลกหลุดจักรวาล",
-    "image": "https://www.myplayhd.com/post-img/22022021003900-6.jpg",
-    "url": "https://server4.mawintv2.com/hls/DBx3poS/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"เบลด พันธุ์ฆ่าอมตะ",
-    "image": "https://www.myplayhd.com/post-img/22022021003814-5.jpg",
-    "url": "https://server5.mawintv2.com/hls/wf5DV5J/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"ส.ว.า.ท. หน่วยจู่โจมระห่ำโลก",
-    "image": "https://www.myplayhd.com/post-img/21022021092645-S.W.A.T.%20FIREFIGHT%20(2011)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/SpW2YlG/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"อีหนูดุทะลุโลก",
-    "image": "https://bit.ly/3sCcgIw",
-    "url": "https://server5.mawintv2.com/hls/p9Z5SrL/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"เกมสังหารมหากาฬ",
-    "image": "https://www.myplayhd.com/post-img/20022021104741-ASSASSINATION%20GAMES%20(2011)%204.jpg",
-    "url": "https://server4.mawintv2.com/hls/0FfV95I/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"แหกด่านข้าศึกนรกประจัญบาน",
-    "image": "https://www.myplayhd.com/post-img/20022021100130-AGE%20OF%20HEROES%20(2011)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/h3QlucX/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"ระห่ำเกินตาย",
-    "image": "https://www.myplayhd.com/post-img/20022021094120-Colombiana%20(2011)%204.jpg",
-    "url": "https://server5.mawintv2.com/hls/gEuRC3H/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"กัปตันอเมริกา",
-    "image": "https://www.myplayhd.com/post-img/20022021043020-Captain%20America%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/aD4A6hT/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"นักบุญปีศาจ",
-    "image": "https://www.myplayhd.com/post-img/19022021033411-Priest%20%204.jpg",
-    "url": "https://server5.mawintv2.com/hls/m38QdNd/file_,1080,720,360,.mp4.urlset/master.m3u",
-    "import": false     
-},
-{    
-    "name":"ปล้นเที่ยวบินเย้ยระฟ้า",
-    "image": "https://www.myplayhd.com/post-img/19022021021155-assaut%20(2010)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/uLDXD4A/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"คู่กล้าฝ่าวิกฤตสะท้านโลก",
-    "image": "https://www.myplayhd.com/post-img/19022021015737-Fair%20Game%20(2010)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/tMhUiAb/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"ฝังแค้นแรงระห่ำนรก",
-    "image": "https://www.myplayhd.com/post-img/19022021015528-Faster%20(2010)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/jgK2eoM/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"หน่วยพิฆาตเดนตาย",
-    "image": "https://www.myplayhd.com/post-img/19022021014836-The%20A-Team%20(2010)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/7T2NTf4/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"รหัสกระสุนเจาะกะโหลก",
-    "image": "https://www.myplayhd.com/post-img/19022021014746-13%20Thirteen%20(2010)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/c9WuCBt/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"คู่อึดไม่มีเอาท์",
-    "image": "https://www.myplayhd.com/post-img/19022021014857-Cop%20Out%20(2010)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/RuTrIXd/file_,720,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"ฮีโร่หน้าบากมหากาฬ",
-    "image": "https://www.myplayhd.com/post-img/19022021014242-Jonah%20Hex%20(2010)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/monAZiy/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"คนทมิฬกำปั้นทุบนรก 3",
-    "image": "https://www.myplayhd.com/post-img/19022021013912-Undisputed%203.jpg",
-    "url": "https://server4.mawintv2.com/hls/GebrFYm/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"มหากาฬพรีเดเตอร์",
-    "image": "https://bit.ly/3n47LoH",
-    "url": "https://server4.mawintv2.com/hls/8Qor1qB/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"โคตรคนพยัคฆ์ร้ายกับหวานใจมหาประ",
-    "image": "https://www.myplayhd.com/post-img/19022021011807-Knight%20and%20Day%20Story%20(2010)%202.jpeg",
-    "url": "https://server4.mawintv2.com/hls/545e08V/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"สวย กล้า ท้าอันตราย",
-    "image": "https://www.myplayhd.com/post-img/19022021011520-Miss%20Bala%20(2019)%202.jpeg",
-    "url": "https://server5.mawintv2.com/hls/rdY81ku/file_,720,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"เรโปเม็น หน่วยนรก ล่าผ่าแหลก",
-    "image": "https://www.myplayhd.com/post-img/19022021010737-Repo%20Men%20(2010)%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/tcXPOhi/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"โคตรทีม อ.ต.ร. แพ้ไม่เป็น",
-    "image": "https://www.myplayhd.com/post-img/18022021085144-The%20Losers%20(2010)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/eDrjmnO/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"คนอึดต้องกลับมาอึด",
-    "image": "https://www.myplayhd.com/post-img/18022021083312-RED%20(2010)%202.jpeg",
-    "url": "https://server4.mawintv2.com/hls/lbaVZyC/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"ดิ เอ็กซ์เพ็นเดเบิลส์",
-    "image": "https://www.myplayhd.com/post-img/18022021073733-The%20Expendables%202.jpeg",
-    "url": "https://server4.mawintv2.com/hls/kSzK30X/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false     
-},
-{    
-    "name":"ด่วนวินาศ หยุดไม่อยู่",
-    "image": "https://www.myplayhd.com/post-img/18022021073505-Unstoppable%20(2010)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/cSxuDLz/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false                                              
-},
-{    
-    "name":"เรซิเดนต์อีวิล 4",
-    "image": "https://www.myplayhd.com/post-img/18022021073301-Resident%20Evil%204.jpg",
-    "url": "https://server5.mawintv2.com/hls/DGlPhTi/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false   
-},
-{    
-    "name":"สวยสังหาร",
-    "image": "https://www.myplayhd.com/post-img/18022021071201-Salt%20(2010)%202.jpg",
-    "url": "https://server4.mawintv2.com/hls/ErBWr47/file_,1080,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"ปรินส์ออฟเปอร์เซีย",
-    "image": "https://www.myplayhd.com/post-img/18022021070840-Prince%20of%20Persia%202.jpg",
-    "url": "https://server5.mawintv2.com/hls/xXcqbEn/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"จิตพิฆาตโลก",
-    "image": "https://www.myplayhd.com/post-img/18022021065521-Inception%20(2010)%202.jpeg",
-    "url": "https://server4.mawintv2.com/hls/t6qbXQ7/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"Mission Impossible 4",
-    "image": "https://www.myplayhd.com/post-img/18022021065346-Mission%20Impossible%200.jpg",
-    "url": "https://server7.mawintv2.com/hls/L2PsLjO/file_,1080,720,360,.mp4.urlset/master.m3u8",
+    "name":"ฮักเถิดเทิง",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/E1kex0dUYAEUW9I-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/lrm_2020_720.mp4/playlist.m3u8",
     "import": false
 },
 {    
-    "name":"คู่ระห่ำ ฝรั่งแสบ",
-    "image": "https://www.myplayhd.com/post-img/18022021062917-From%20Paris%20with%20Love%202.jpg",
-    "url": "https://server7.mawintv2.com/hls/ylH97A5/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"22 นัด ยมบาลล้างยมบาล",
-    "image": "https://www.myplayhd.com/post-img/18022021062408-22%20Bullets.png",
-    "url": "https://server7.mawintv2.com/hls/AoyiyjA/file_,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"ขังฮีโร่ โค่นอำนาจ",
-    "image": "https://www.myplayhd.com/post-img/18022021031840-Law%20Abiding%20Citizen%20(2009)%204.jpg",
-    "url": "https://server4.mawintv2.com/hls/QTEUbe2/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"จีไอโจ สงครามพิฆาตคอบร้าทมิฬ",
-    "image": "https://www.myplayhd.com/post-img/18022021030048-The%20Rise%20of%20Cobra%20(2009)%204.jpg",
-    "url": "https://server4.mawintv2.com/hls/02YUL6V/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"พลิกตำนานสงครามมรณะ",
-    "image": "https://www.myplayhd.com/post-img/18022021013919-36.jpg",
-    "url": "https://server7.mawintv2.com/hls/3F1RvOi/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"กับดักพยัคฆ์เหนือเมฆ",
-    "image": "https://www.myplayhd.com/post-img/18022021013748-34.jpg",
-    "url": "https://server4.mawintv2.com/hls/KdNiCBA/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"โคตรเคี่ยมบึงนรก",
-    "image": "https://www.myplayhd.com/post-img/18022021013704-33.jpg",
-    "url": "https://server4.mawintv2.com/hls/34wqFHp/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"ฉกขุมทรัพย์มหาภัยขุมทอง",
-    "image": "https://www.myplayhd.com/post-img/18022021013453-30.jpg",
-    "url": "https://server7.mawintv2.com/hls/Wuzz2WQ/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"U-571 ดิ่งเด็ดขั้วมหาอำนาจ",
-    "image": "https://www.myplayhd.com/post-img/18022021012931-21.jpg",
-    "url": "https://server7.mawintv2.com/hls/LjwL6Hi/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"สตาร์ วอร์ส เอพพิโซด 1",
-    "image": "https://www.myplayhd.com/post-img/18022021012738-19.jpg",
-    "url": "https://server7.mawintv2.com/hls/c7q7eAs/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"เดอะ มัมมี่ คืนชีพคำสาปนรกล้างโลก ภาค 1",
-    "image": "https://www.myplayhd.com/post-img/18022021012211-10.jpg",
-    "url": "https://server7.mawintv2.com/hls/7o9XrIU/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"พยัคฆ์ร้ายดับแผนครองโลก (ภาค 19)",
-    "image": "https://www.myplayhd.com/post-img/18022021011909-5.jpg",
-    "url": "https://server7.mawintv2.com/hls/PEz0Ngl/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"วันดับซาตานอวสานโลก",
-    "image": "https://www.myplayhd.com/post-img/18022021011819-4.jpg",
-    "url": "https://server4.mawintv2.com/hls/2Nsz3y7/file_,720,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"ฝูงมฤตยูใต้มหาสมุทร",
-    "image": "https://www.myplayhd.com/post-img/18022021011637-1.jpg",
-    "url": "https://server4.mawintv2.com/hls/BTFP6zE/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"The Matrix เพาะพันธุ์มนุษย์เหนือโลก",
-    "image": "https://www.myplayhd.com/post-img/18022021011558-0.jpg",
-    "url": "https://server7.mawintv2.com/hls/BJiBDWJ/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"ถล่มยุทธการโคลอมเบีย",
-    "image": "https://www.myplayhd.com/post-img/17022021060823-Behind%20Enemy%20Lines%20Colombia%202.jpg",
-    "url": "https://server7.mawintv2.com/hls/Gyr9r3q/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false    
-},
-{    
-    "name":"ล่าทะลุเหนือขีดนรก 2",
-    "image": "https://www.myplayhd.com/post-img/17022021043003-The%20Marine%202%20(2009)%204.jpg",
-    "url": "https://server4.mawintv2.com/hls/zEodp3g/file_,1080,720,360,.mp4.urlset/master.m3u8",
-    "import": false                                   
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false 
 },
 {    
     "name":"",
     "image": "",
     "url": "",
+    "import": false        
+},
+]
+}, 
+{  
+   "name": "หนังจีน", 
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimPKzLfePawLorwupAx4S_MB9MYKwLH7sog&usqp=CAU",       
+    "stations": [     
+{ 
+    "name":"ยิปมัน ปรมาจารย์กังฟู",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/image-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/ymkfm_2019_720.mp4/playlist.m3u8",
     "import": false    
 },
 {    
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false   
-},
-{    
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false   
-},
-{    
-    "name":"",
-    "image": "",
-    "url": "",
+    "name":"IceMan 1",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/602551CD884C8005003-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03550.mp4/playlist.m3u8",
     "import": false    
 },
 {    
+    "name":"ตุลาการเกาทัณฑ์",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/judge-archer.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00458.mp4/playlist.m3u8",
+    "import": false     
+},
+{    
+    "name":"ไทเก๊ก หมัดเล็กเหล็กตัน",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/d9eIaUQY6NO3qP7wgTW8ORjaBMb.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01843.mp4/playlist.m3u8",
+    "import": false     
+},
+{    
+    "name":"เดอะบอดี้การ์ด แตะไม่ได้ ตายไม่เป็น",
+    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/The-Bodyguard-2016-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%9A%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94-%E0%B9%81%E0%B8%95%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89-%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-300x450.jpg",
+    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03381.mp4/playlist.m3u8",
+    "import": false     
+},
+{    
     "name":"",
     "image": "",
     "url": "",
-    "import": false    
+    "import": false     
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false     
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false     
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false     
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false     
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
