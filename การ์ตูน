@@ -1,6 +1,6 @@
 { 
    "name": "การ์ตูน",
-   "author": "update 1/5/2021",
+   "author": "update 30/5/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
@@ -27,7 +27,7 @@
     "import": false 
 },
 { 
-    "name":""บ้านมิตเชลล์ปะทะจักรกล,
+    "name":"บ้านมิตเชลล์ปะทะจักรกล",
     "image": "https://moviesmaster.co/wp-content/uploads/2021/05/E08_M-OWYAEOZLM-300x450.jpg",
     "url": "https://vod-th8.streammaster.co/vod/mm_0105_720.mp4/playlist.m3u8",
     "import": false 
@@ -345,7 +345,7 @@
     "import": false     
 },
 { 
-    "name":" พิกกี้ เทลส์ ปฏิบัติการหมูจอมทึ่ม",
+    "name":"พิกกี้ เทลส์ ปฏิบัติการหมูจอมทึ่ม",
     "image": "https://moviesmaster.co/wp-content/uploads/2021/01/film-piggy-tales-png-favpng-AkUfp1qmGJ9yK16e7SKD2RCkA-300x450.jpg",
     "url": "https://vod-th8.streammaster.co/vod/mvt720p_02494.mp4/playlist.m3u8",
     "import": false     
@@ -357,7 +357,7 @@
     "import": false     
 },
 { 
-    "name":" เฟียร์เลส: เกมซ่าปราบเซียน",
+    "name":"เฟียร์เลส: เกมซ่าปราบเซียน",
     "image": "https://moviesmaster.co/wp-content/uploads/2021/01/nivel-hard-773-poster.jpg",
     "url": "https://vod-th8.streammaster.co/vod/mvt720p_00867.mp4/playlist.m3u8",
     "import": false     
