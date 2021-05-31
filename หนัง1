@@ -1,6 +1,6 @@
  { 
    "name": "video",
-   "author": "update 1/5/2021",
+   "author": "update 30/5/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
@@ -403,14 +403,16 @@
      
     "name":"สวยระห่ำกว่านรก ",
     "image": "https://doomovie-24hr.com/wp-content/uploads/2021/01/img-The-Courier.webp",
-    "url": "https://doomovie-24hr.com/mojin-the-lost-legend/","referer": "https://doomovie-24hr.com/"
-       
+    "url": "https://doomovie-24hr.com/mojin-the-lost-legend/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "desktop": "true"   
 },
 {    
     "name":"วันเดอร์ วูแมน 1984",
     "image": "https://doomovie-24hr.com/wp-content/uploads/2021/01/img-Wonder-Woman-1984.webp",
-    "url": "https://doomovie-24hr.com/wonder-woman-1984/","referer": "https://doomovie-24hr.com/"
-     
+    "url": "https://doomovie-24hr.com/wonder-woman-1984/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "desktop": "true" 
 },
 {    
     "name":"จริงหรือกล้า เกมสยองท้าตาย",
