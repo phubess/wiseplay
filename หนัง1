@@ -1,6 +1,6 @@
  { 
    "name": "video",
-   "author": "update 30/5/2021",
+   "author": "update 31/5/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
@@ -199,7 +199,6 @@
     "image": "https://moviesmaster.co/wp-content/uploads/2021/04/Godzilla-vs.-Kong-380x590-1-300x450.jpg",
     "url": "https://vod-th8.streammaster.co/vod/gk_0204_720.mp4/playlist.m3u8",
     "import": false      
-
 },
 ]
 }, 
@@ -401,141 +400,358 @@
     "image": "https://s.isanook.com/mv/0/ud/6/33115/box-ss.jpg",       
     "stations": [ 
 { 
-    "name":"คนอึดไม่มีวันตาย",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/Hard-Kill-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/hk_2020_720.mp4/playlist.m3u8",
+     
+    "name":"สวยระห่ำกว่านรก ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2021/01/img-The-Courier.webp",
+    "url": "https://server1.moviehls24.tk/hls/6Ne5gm7/file_,1080,.mp4.urlset/master.m3u8",
     "import": false    
 },
 {    
-    "name":"เดี่ยวมหาประลัย",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/The-One-2001-1-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/to_2704_720.mp4/playlist.m3u8",
-    "import": false
-},
-{    
-    "name":"คนแยกโลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Divergent-2014-%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00712.mp4/playlist.m3u8",
+    "name":"วันเดอร์ วูแมน 1984",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2021/01/img-Wonder-Woman-1984.webp",
+    "url": "https://server1.moviehls24.tk/hls/oGnuYX7/file_,720,.mp4.urlset/master.m3u8",
     "import": false    
 },
 {    
-    "name":"พยัคฆ์สาวล่ารหัสใยมรณะ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/tt5177088-e1617703207453-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02948.mp4/playlist.m3u8",
+    "name":"จริงหรือกล้า เกมสยองท้าตาย",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/truth-or-dare-2018-1.webp",
+    "url": "https://server1.moviehls24.tk/hls/6esqFkc/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"บัมเบิ้ลบี",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/bumblebee-2018.webp",
+    "url": "https://server1.moviehls24.tk/hls/0TZI9DQ/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false      
+},
+{    
+    "name":"ไม่เจ็บ ไม่รวย",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/pain-gain-2013.webp",
+    "url": "https://server1.moviehls24.tk/hls/qQXzDZw/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false      
+},
+{    
+    "name":"คิงส์แมน โคตรพิทักษ์บ่มพยัคฆ์",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/kingsman-the-secret-service-2014-1.webp",
+    "url": "https://server1.moviehls24.tk/hls/Go1Ca8g/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false      
+},
+{    
+    "name":"ครูดุดวลเดือด",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/Fist-Fight-2017.webp",
+    "url": "https://server1.moviehls24.tk/hls/siTEK43/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false      
+},
+{    
+    "name":"ปฏิบัติการสะท้านแผ่นดิน",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/romeo-akbar-walter-2019.webp",
+    "url": "https://server1.moviehls24.tk/hls/H18L0cU/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false      
+},
+{    
+    "name":"ไต่ฟ้าท้านรก",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/everest-2015.webp",
+    "url": "https://server1.moviehls24.tk/hls/aYKHvTS/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false      
+},
+{    
+    "name":"ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/doctor-strange-2016.webp",
+    "url": "https://server1.moviehls24.tk/hls/oNsXJmz/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"นินจานักฆ่าพญายม 2",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/ninja-shadow-of-a-tear-2013.webp",
+    "url": "https://server1.moviehls24.tk/hls/OyPu0QZ/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"สวยล้างโคตร",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/momentum-2015.webp",
+    "url": "https://server1.moviehls24.tk/hls/FUFLbJ6/file_,1080,.mp4.urlset/master.m3u8",
     "import": false   
 },
 {    
-    "name":"คนมหากาฬระอุ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/740full-get-the-gringo-poster-e1617700978648-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03323.mp4/playlist.m3u8",
-    "import": false   
-},
-{    
-    "name":"6 นัดจัดตาย",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/MV5BODgxNzkzZTgtYzlhZi00MTQ2LTkyNGUtZjRmZjQ0YzE0MmUzXkEyXkFqcGdeQXVyMTE2OTg4Mjg@._V1_UY1200_CR648001200_AL_-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01785.mp4/playlist.m3u8",
+    "name":"หมอกมฤตยู",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/just-a-breath-away-2018.webp",
+    "url": "https://server1.moviehls24.tk/hls/yexJ2Sp/file_,1080,.mp4.urlset/master.m3u8",
     "import": false    
 },
 {    
-    "name":"สตาร์ เทรค ทะยานสู่ห้วงมืด",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/992F3C3359AF8F500D-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03485.mp4/playlist.m3u8",
-    "import": false  
+    "name":"ออโตมาต้า ล่าจักรกล ยึดอนาคต",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/automata-2014.webp",
+    "url": "https://server1.moviehls24.tk/hls/X1p0KIW/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
 },
 {    
-    "name":"คริมสัน ไทด์ ลึกทมิฬ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/MV5BMmFkY2IxNTAtMWRiNS00MWU2LWI1NDYtY2YxYTQyYTk5OTBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_-e1617593809695-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03608.mp4/playlist.m3u8",
-    "import": false      
+    "name":"สงครามล้างพันธุ์จักรวาล",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/garm-wars-the-last-druid-2014.webp",
+    "url": "https://server1.moviehls24.tk/hls/Nlyaqlx/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
 },
 {    
-    "name":"211 โคตรตำรวจอันตราย",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/DenrNqYVAAArDSF-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00231.mp4/playlist.m3u8",
-    "import": false      
+    "name":"ฅนเหล็ก ทวงแค้นนิรันดร์",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/aftermath-2017.webp",
+    "url": "https://server1.moviehls24.tk/hls/NRA88I8/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false   
 },
 {    
-    "name":"ตี๋เหรินเจี๋ย ปริศนาพลิกฟ้า 4 จตุรเทพ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/0f13607bd95c26bbc1328f8e056a0a43-e1617782744164-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03787.mp4/playlist.m3u8",
-    "import": false      
+    "name":"เดือด ซัด ดิบ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/paradox-2017.webp",
+    "url": "https://server1.moviehls24.tk/hls/2PT9EMJ/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
 },
 {    
-    "name":"ฝ่า 7 นรกไปกับพระเจ้า 2",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/along-with-the-gods-poster-2-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00238.mp4/playlist.m3u8",
-    "import": false      
+    "name":"บุรุษเหล็กซูเปอร์แมน",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/man-of-steel-2013.webp",
+    "url": "https://server1.moviehls24.tk/hls/NCmA4HZ/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
 },
 {    
-    "name":"ฮาน โซโล: ตำนานสตาร์ วอร์ส",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/HanSoloStarWarsCartel-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03195.mp4/playlist.m3u8",
+    "name":"แดร็กคูล่า ตำนานลับโลกไม่รู้",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/dracula-untold-2014.webp",
+    "url": "https://server1.moviehls24.tk/hls/8W3Azy1/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false   
+},
+{    
+    "name":"แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/batman-v-superman-dawn-of-justice-2016.webp",
+    "url": "https://server1.moviehls24.tk/hls/lIyCsfu/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false   
+},
+{    
+    "name":"เจมิไนแมน ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/gemini-man-2019.webp",
+    "url": "https://server1.moviehls24.tk/hls/4tOtHta/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"สิงห์แดนเสือ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/the-magnificent-seven-2016.webp",
+    "url": "https://server1.moviehls24.tk/hls/T2NNvQm/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false        
+},
+{    
+    "name":"ข้าคือฮีโร่",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/i-am-a-hero-2016.webp",
+    "url": "https://server1.moviehls24.tk/hls/nC6ePYt/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false        
+},
+{    
+    "name":"ยุทธจักรนรก ซอมบี้คลั่ง",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/rampant-2018.webp",
+    "url": "https://server1.moviehls24.tk/hls/2d9K0Zo/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false        
+},
+{    
+    "name":"โคตรคนปล้นระห่ำเมือง",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/american-heist-2014.webp",
+    "url": "https://server1.moviehls24.tk/hls/MFrguEO/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false        
+},
+{    
+    "name":"ปล้นเต็มสปีด",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/baby-driver-2017.webp",
+    "url": "https://server1.moviehls24.tk/hls/yEusGoD/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false        
+},
+{    
+    "name":"ตำนานรักแผ่นดินร้อน",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/queen-of-the-desert-2015.webp",
+    "url": "https://server1.moviehls24.tk/hls/2ZhuXe2/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false        
+},
+{    
+    "name":"ฝ่านรกแดนทะเลทราย",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/mine-2016.webp",
+    "url": "https://server1.moviehls24.tk/hls/81mM2zW/file_,1080,.mp4.urlset/master.m3u8",
     "import": false     
 },
 {    
-    "name":"X-Men สงครามวันพิฆาตกู้อนาคต",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/xmen-days-of-future-past-ver5-xlg-1013x1500-800x1184-1-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02360.mp4/playlist.m3u8",
-    "import": false      
+    "name":"สลับร่างล่าปริศนาชีวิตอมตะ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/self-less-2015.webp",
+    "url": "https://server1.moviehls24.tk/hls/jz8FLFA/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false 
 },
 {    
-    "name":"แดร์เดฟเวิล มนุษย์อหังการ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Daredevi-2003-%E0%B9%81%E0%B8%94%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%9F%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03927.mp4/playlist.m3u8",
-    "import": false      
+    "name":"มนุษย์ตัวเขียวจอมพลัง",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/the-incredible-hulk-2008.webp",
+    "url": "https://server1.moviehls24.tk/hls/Eeyzkbz/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
 },
 {    
-    "name":"ฝูงห่าไวรัสสยองกินเมือง",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/DEVILS-PLAYGROUND-2010-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02459.mp4/playlist.m3u8",
-    "import": false      
+    "name":"อินทู เดอะ สตอร์ม โคตรพายุมหาวิบัติกินเมือง",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/into-the-storm-2014.webp",
+    "url": "https://server1.moviehls24.tk/hls/TJYAWl0/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
 },
 {    
-    "name":"คู่ฮ็อตซ่าส์ ล่าให้ว่อง",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Hot-Pursuit-2015-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AE%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%AD%E0%B8%87-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00317.mp4/playlist.m3u8",
-    "import": false      
+    "name":"ยุทธการถล่มนรก",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/sniper-special-ops-2016.webp",
+    "url": "https://server1.moviehls24.tk/hls/TZDX0sM/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
 },
 {    
-    "name":"วาเลเรียน พลิกจักรวาล",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Valerian-and-the-City-of-a-Thousand-Planets-2017-%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03256.mp4/playlist.m3u8",
-    "import": false      
+    "name":"สงครามล้างคำสาปอสูร",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/viy-2014.webp",
+    "url": "https://server1.moviehls24.tk/hls/oIYbQsq/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
 },
 {    
-    "name":"บัญชีแค้นสวยสังหาร",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Killer-Li-mo-2017-%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02708.mp4/playlist.m3u8",
+    "name":"ศึกโจรสลัด ล่าสุดขอบโลก",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/the-pirates-2014.webp",
+    "url": "https://server1.moviehls24.tk/hls/rl7tn7C/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ยุทธการยึดผาพยัคฆ์",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/the-taking-of-tiger-mountain-2015.webp",
+    "url": "https://server1.moviehls24.tk/hls/2OrpB29/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"กัปตันอเมริกา 2: มัจจุราชอหังการ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/captain-america-the-winter-soldier-2014.webp",
+    "url": "https://server1.moviehls24.tk/hls/fZTHt4z/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ไลฟ์การ์ดฮอตพิทักษ์หาด",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/baywatch-2017.webp",
+    "url": "https://server1.moviehls24.tk/hls/yOmPHvA/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"มันกลับมาโฉบหัว",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/jeepers-creepers-3-2017.webp",
+    "url": "https://server1.moviehls24.tk/hls/gsgmre9/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"โคตรใหญ่ฟัดเหล็ก",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/bleeding-steel-2018.webp",
+    "url": "https://server1.moviehls24.tk/hls/34ncKQx/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"อริโซนา",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/arizona-2018.webp",
+    "url": "https://server1.moviehls24.tk/hls/7r5LRtk/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ปฏิบัติการพิฆาตสมรภูมิเดือด",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/lone-survivor-2013.webp",
+    "url": "https://server1.moviehls24.tk/hls/ZjQnVdQ/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"The Marine 5 ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/the-marine-5-battleground-2017.webp",
+    "url": "https://server1.moviehls24.tk/hls/5zgec6J/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"พิกเซล",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/pixels-2015.webp",
+    "url": "https://server1.moviehls24.tk/hls/5tuySd1/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"อีหนูดุทะลุโลก",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/sucker-punch-2011.webp",
+    "url": "https://server1.moviehls24.tk/hls/tGL6JFD/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ทริปเปิ้ลเอ็กซ์ 3 ทลายแผนยึดโลก",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/xxx-return-of-xander-cage-2017.webp",
+    "url": "https://server1.moviehls24.tk/hls/AmotAST/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"ปล้นเดือด ล่าดุ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/hell-or-high-water-2016.webp",
+    "url": "https://server1.moviehls24.tk/hls/mugJjDT/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false     
+},
+{    
+    "name":"เร็ว…แรงทะลุนรก ฮ็อบส์ & ชอว์",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/fast-furious-presents-hobbs-shaw-2019.webp",
+    "url": "https://server1.moviehls24.tk/hls/R4hzTJh/file_,1080,.mp4.urlset/master.m3u8",
     "import": false    
 },
 {    
-    "name":"จอมโจรกู้แผ่นดินเดือด",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Robin-Hood-2010-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03841.mp4/playlist.m3u8",
+    "name":"หวงเฟยหง",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/the-unity-of-heroes-2018.jpg",
+    "url": "https://server1.moviehls24.tk/hls/FNqTjI6/file_,1080,.mp4.urlset/master.m3u8",
     "import": false    
 },
 {    
-    "name":"ปิดเกมล่าจารชน คนอันตราย",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/The-Bourne-3-Ultimatum-2007-%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99-%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03582.mp4/playlist.m3u8",
+    "name":"คนแกร่งทะลวงเดี่ยว 2",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/Hard-Target-2-2016.jpg",
+    "url": "https://server1.moviehls24.tk/hls/u7M3FXa/file_,1080,.mp4.urlset/master.m3u8",
     "import": false    
 },
 {    
-    "name":"ศึกราชันย์แผ่นดินเดือด",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/The-Scorpion-King-1-2002-e1616387211369.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04000.mp4/playlist.m3u8",
+    "name":"กัปตัน อเมริกา 3 ศึกฮีโร่ระห่ำโลก",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/captain-america-civil-war-2016.jpg",
+    "url": "https://server1.moviehls24.tk/hls/GUNKxj8/file_,1080,.mp4.urlset/master.m3u8",
     "import": false    
 },
 {    
-    "name":"อสูรเหล็กล้างพันธุ์มนุษย์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Atlantic-Rim-2013--300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03272.mp4/playlist.m3u8",
+    "name":"นางฟ้าห่ากระสุน",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/peppermint-2018.jpg",
+    "url": "https://server1.moviehls24.tk/hls/67a7Kvm/file_,1080,.mp4.urlset/master.m3u8",
     "import": false    
 },
 {    
-    "name":"เจิ้งไค ฮีโร่เกรียนกู้โลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/kqYfTh4j3cg.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00241.mp4/playlist.m3u8",
+    "name":"โรงเรียนสยอง อสูรใต้โลก",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/slaughterhouse-rulez-2018.webp",
+    "url": "https://server1.moviehls24.tk/hls/UUZaHB5/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"จี้กง คนบ้าหลวงจีนบ๊องส์ ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/the-incredible-monk-2018.webp",
+    "url": "https://server1.moviehls24.tk/hls/EvrD1KP/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"เมืองคนชั่ว (แล้วเราจะกลัวใคร) ",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/asura-the-city-of-madness-2016.webp",
+    "url": "https://server1.moviehls24.tk/hls/n1e5c0I/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"แอสแซสซิเนชั่น เนชั่น",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/assassination-nation-2018.webp",
+    "url": "https://server1.moviehls24.tk/hls/SSwrcuu/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"หัวใจเพชฌฆาตวาฬมหาสมุทร",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/in-the-heart-of-the-sea-2015.webp",
+    "url": "https://server1.moviehls24.tk/hls/tHusttk/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ซูเปอร์นักรบดับทัพอสูร",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/edge-of-tomorrow-2014.jpg",
+    "url": "https://server1.moviehls24.tk/hls/GUP0ZEM/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"แอนนา สวยสะบัดสังหาร",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/anna-2019.jpg",
+    "url": "https://server1.moviehls24.tk/hls/1OHjoWg/file_,1080,.mp4.urlset/master.m3u8",
+    "import": false    
+},
+{    
+    "name":"ดราก้อนฮาร์ท 3 มังกรไฟผจญภัยล้างคำสาป",
+    "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/dragonheart-3-the-sorcerers-curse-2015.jpg",
+    "url": "https://server1.moviehls24.tk/hls/WwFeK7g/file_,1080,.mp4.urlset/master.m3u8",
     "import": false    
 },
 {    
@@ -555,30 +771,66 @@
     "image": "",
     "url": "",
     "import": false    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false   
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
+},
+{    
+    "name":"",
+    "image": "",
+    "url": "",
+    "import": false    
     
     
 },
@@ -701,7 +953,24 @@
     "image": "",
     "url": "",
     "import": false     
-    
+},
+]
+}, 
+{  
+   "name": "หนัง18+ ", 
+    "image": "https://168porn.com/wp-content/uploads/2021/05/adn-102-yu-konishi-168porn.jpg",       
+    "stations": [     
+{ 
+    "name":"",
+    "image": "https://168porn.com/wp-content/uploads/2021/05/ATID-279-mako-oda-misa-arisawa.jpg",
+    "url": "https://168porn.com/vodid/7739","referer": "https://168porn.com/"
+   
+},
+{    
+    "name":"",
+    "image": "https://assetscdn2.jable.tv/contents/videos_screenshots/3000/3035/320x180/1.jpg",
+    "url": "https://en.jable.tv/videos/091419-001/","referer": "https://en.jable.tv/"
+      
     
     
     
