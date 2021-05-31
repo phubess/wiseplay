@@ -1,6 +1,6 @@
  { 
    "name": "video",
-   "author": "update 31/5/2021",
+   "author": "update 1/5/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
@@ -403,38 +403,38 @@
      
     "name":"สวยระห่ำกว่านรก ",
     "image": "https://doomovie-24hr.com/wp-content/uploads/2021/01/img-The-Courier.webp",
-    "url": "https://server1.moviehls24.tk/hls/6Ne5gm7/file_,1080,.mp4.urlset/master.m3u8",
-    "import": false    
+    "url": "https://doomovie-24hr.com/mojin-the-lost-legend/","referer": "https://doomovie-24hr.com/"
+       
 },
 {    
     "name":"วันเดอร์ วูแมน 1984",
     "image": "https://doomovie-24hr.com/wp-content/uploads/2021/01/img-Wonder-Woman-1984.webp",
-    "url": "https://server1.moviehls24.tk/hls/oGnuYX7/file_,720,.mp4.urlset/master.m3u8",
-    "import": false    
+    "url": "https://doomovie-24hr.com/wonder-woman-1984/","referer": "https://doomovie-24hr.com/"
+     
 },
 {    
     "name":"จริงหรือกล้า เกมสยองท้าตาย",
     "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/truth-or-dare-2018-1.webp",
-    "url": "https://server1.moviehls24.tk/hls/6esqFkc/file_,1080,.mp4.urlset/master.m3u8",
-    "import": false    
+    "url": "","referer": "https://doomovie-24hr.com/"
+    
 },
 {    
     "name":"บัมเบิ้ลบี",
     "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/bumblebee-2018.webp",
-    "url": "https://server1.moviehls24.tk/hls/0TZI9DQ/file_,1080,.mp4.urlset/master.m3u8",
-    "import": false      
+    "url": "https://doomovie-24hr.com/truth-or-dare-2018/","referer": "https://doomovie-24hr.com/"
+      
 },
 {    
     "name":"ไม่เจ็บ ไม่รวย",
     "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/pain-gain-2013.webp",
-    "url": "https://server1.moviehls24.tk/hls/qQXzDZw/file_,1080,.mp4.urlset/master.m3u8",
-    "import": false      
+    "url": "","referer": "https://doomovie-24hr.com/"
+       
 },
 {    
     "name":"คิงส์แมน โคตรพิทักษ์บ่มพยัคฆ์",
     "image": "https://doomovie-24hr.com/wp-content/uploads/2020/06/kingsman-the-secret-service-2014-1.webp",
-    "url": "https://server1.moviehls24.tk/hls/Go1Ca8g/file_,1080,.mp4.urlset/master.m3u8",
-    "import": false      
+    "url": "","referer": "https://doomovie-24hr.com/"
+        
 },
 {    
     "name":"ครูดุดวลเดือด",
