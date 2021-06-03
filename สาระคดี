@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 29/5/2021",
+    "author": "update 3/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
      {  
@@ -210,7 +210,7 @@
  { 
        "name": "สำรวจโลก",
       "image": "https://bit.ly/33mwVq4",
-      "url": "http://61.19.242.134/feed/LC8/index.m3u8",
+      "url": "http://27.254.130.62/feed/LC8/tracks-v1a1/mono.m3u8",
       "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
        
 },
