@@ -1,6 +1,6 @@
  { 
    "name": "video",
-   "author": "update 1/6/2021",
+   "author": "update 5/6/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
@@ -405,35 +405,35 @@
     "image": "https://369movies.com/wp-content/uploads/2021/05/Safe-House-2012.jpg",
     "url": "https://bit.ly/3wQ3IQE","referer": "https://369movies.com/"
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-    "desktop": "true"  
+   
 },
 {    
     "name":"มาเฟียหน้าบาก",
     "image": "https://369movies.com/wp-content/uploads/2021/05/Scarface-1983.jpg",
     "url": "https://bit.ly/3z71X3F","referer": "https://369movies.com/"
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-    "desktop": "true"  
+    
 },
 {    
     "name":"",
     "image": "",
     "url": "","referer": "https://369movies.com/"
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-    "desktop": "true"  
+    
 },
 {    
     "name":"",
     "image": "",
     "url": "","referer": "https://369movies.com/"   
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-    "desktop": "true"  
+
 },
 {    
     "name":"",
     "image": "",
     "url": "","referer": "https://369movies.com/"
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-    "desktop": "true"  
+   
 
 
 
