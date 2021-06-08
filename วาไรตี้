@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 29/5/2021",
+    "author": "update 8/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -8,6 +8,18 @@
      "name": "เชียงราย แชลแนล",
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg",              
      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+      "import": false
+},
+{
+     "name": "plookpanya",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/1d7dc8be-49df-46c7-ac16-4847229c6ab9.png",
+     "url": "http://119.161.100.50:8082/live/plookpanya/playlist.m3u8",
+      "import": false
+},
+{
+     "name": "เรียลลิตี้ แชนแนล เอชดี",
+     "image": "https://cms.dmpcdn.com/livetv/2020/04/21/b78d55f0-83af-11ea-9a0e-4bf114629baf_320.png",
+     "url": "http://119.161.100.50:8082/live/reality/playlist.m3u8",
       "import": false
 },
 {
@@ -30,6 +42,12 @@
      "url": "https://tv.trueid.net/embed/super-entertain?autoplay=yes&nopageview=yes",
      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
      "desktop": "true"  
+},
+{
+     "name": "Zing",
+     "image": "https://cms.dmpcdn.com/livetv/2021/01/06/68be8520-500f-11eb-8d28-4b8e3f30b51b_320.png",
+     "url": "http://119.161.100.50:8082/live/zing/playlist.m3u8",
+     "import": false
 },
 {
      "name": "Zing",
@@ -99,6 +117,12 @@
  {
      "name": "True X-Zyte",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
+     "url": "http://119.161.100.50:8082/live/xzyte/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "True X-Zyte",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
      "url": "http://tv1.chang55.com:7799/live/C15x1/playlist.m3u8",
      "import": false
 },
@@ -129,7 +153,12 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
      "url": "https://boxmovie-th.com/app-api-android/true/True-Inside-HD/playlist.m3u8",
      "import": false 
-
+},
+ {
+     "name": "TRUE Inside",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "http://119.161.100.50:8082/live/inside/playlist.m3u8",
+     "import": false 
 },
  {
      "name": "FTV",
@@ -143,6 +172,12 @@
      "url": "https://dogtoop.com:8443/blueant/Hdmnfn8HEx/104",
       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "http://119.161.100.50:8082/live/blueant/playlist.m3u8",
+     "import": false
 },
  {
      "name": "BLUEANT ENTERTAINMENT",
