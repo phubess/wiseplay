@@ -1,15 +1,15 @@
 {  
     "name": "phubess",
-    "author": "update 8/6/2021",
+    "author": "update 7/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
     
     "name": "CABLE",
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
-     "url": "http://150.95.25.221:8000/i%2DAsia%20HD?u=covid19:p=951159753",
-     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-     "playInNatPlayer": "true"
+     "url": " https://6395online.com:8443/live/Bmrock2522/098125/9016.m3u8",
+     "userAgent": "ProPlayer",
+   
 },
  {
     "name": "CABLE",
