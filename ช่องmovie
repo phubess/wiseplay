@@ -1,12 +1,10 @@
 {  
     "name": "phubess",
-    "author": "update 9/6/2021",
+    "author": "update 8/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
-    
-    
-    "name": "CABLE",
+     "name": "CABLE",
      "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",              
      "url": "http://150.95.25.221:8000/i%2DMovie%20HD?u=covid19:p=951159753",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
@@ -94,6 +92,12 @@
   {      
         "name": "CABLE ",  
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
+        "url": "http://61.19.242.134/feed/202105171329/LC11/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+  {      
+        "name": "CABLE ",  
+        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://61.19.242.134/feed/202105171329/LC2/index.m3u8",
         "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
 },
@@ -126,13 +130,6 @@
         "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
         "url": "http://61.19.242.134/feed/202105171329/LC53/index.m3u8",
         "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
-},
- {
-        "name": "CABLE ",  
-        "image": "https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",  
-        "url": "https://tv.trueid.net/embed/ATTV?autoplay=yes&nopageview=yes",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
-        "desktop": "true"
 },
  {
      "name": "CABLE",
@@ -229,6 +226,12 @@
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
+  {
+     "name": "FOX MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "http://119.161.100.50:8082/live/foxpremium/playlist.m3u8",
+     "import": false
+},
  {
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
@@ -260,6 +263,12 @@
      "url": "https://dogtoop.com:8443/foxactionen/mEuUBJZase/108",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
+},
+ {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "http://119.161.100.50:8082/live/foxaction/playlist.m3u8",
+      "import": false
 },
  {
      "name": "FOX ACTION MOVIES",
@@ -421,7 +430,7 @@
  {
      "name": "True Thai Film HD ",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
-     "url": "http://119.161.100.50:11000/live/myiptv1/zfdsfawef/607.m3u8",
+     "url": "http://119.161.100.50:8082/live/thaifilm/playlist.m3u8",
      "import": false
 },
  { 
@@ -482,13 +491,19 @@
  {
      "name": "KBS World HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
+     "url": "http://119.161.100.50:8082/live/kbsworld/playlist.m3u8",
+       "import": false
+},
+ {
+     "name": "KBS World HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
      "url": "https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8",
        "import": false
 },
  {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "http://119.161.100.50:8089/WARNER-TV/index.m3u8",
+     "url": "http://119.161.100.50:8082/live/warner/playlist.m3u8",
      "import": false
 },
   {
@@ -536,6 +551,12 @@
  {
      "name": "CCM",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
+     "url": "http://119.161.100.50:8082/live/celestial/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "CCM",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",              
      "url": "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8",
      "import": false
 
@@ -573,13 +594,13 @@
  { 
       "name": "AXN HD",
       "image": "https://www.iptv4k.tv/images/tv/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png",              
-       "url": "http://119.161.100.50:8089/AXN/playlist.m3u8",
+       "url": "http://119.161.100.50:8082/live/axn/playlist.m3u8",
        "import": false
 },
  { 
       "name": "Star Chinese Movies",
       "image": "https://www.iptv4k.tv/images/tv/FQEU6j30mOVSVCTtIymTD1Xbrg39ffHstarchinesemovies_1.jpg",              
-      "url": "http://119.161.100.50:8089/STAR-CHINESE-MOVIE/index.m3u8",
+      "url": "http://119.161.100.50:8082/live/starchinesemovies/playlist.m3u8",
       "import": false
 },
  { 
@@ -593,12 +614,6 @@
      "url": "http://203.154.177.124:8899/live/ch21/chunks.m3u8",
      "userAgent": "ExoMedia 4.3.0",
       "playInNatPlayer": "true"
-},
-  {
-     "name": "Thrill",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",              
-     "url": "http://119.161.100.50:8089/THRILL/index.m3u8",
-      "import": false
 },
  {
      "name": "มังกร",
@@ -616,6 +631,12 @@
      "name": "MV ลาว",
      "image": "https://sv1.picz.in.th/images/2020/10/06/OpCwDn.png",              
      "url": "https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8",
+     "import": false
+},
+  {
+     "name": "TVB ",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/OpPQuI.jpg",              
+     "url": "http://119.161.100.50:8082/live/tvb/playlist.m3u8",
      "import": false
 },
   {
