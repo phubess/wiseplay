@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 29/5/2021",
+    "author": "update 9/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -9,6 +9,15 @@
       "url": "http://203.154.243.31:8081/live/tennis/index.m3u8",
       "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
+},     
+{
+      "name": "",
+      "image": "",
+      "url": "","referer": "https://mobetz.com/" 
+      
+      
+      
+      
 },     
 {
       "name": "Telekom Sport 1",
@@ -43,7 +52,12 @@
 {
       "name": "Sky Sports Football",
       "image": "https://mobetz.com/api/table/icon/ch083.png",
-      "url": "https://mobetz.com/doball/ch083/","referer": "https://mobetz.com/"       
+      "url": "https://mobetz.com/doball/ch083/","referer": "https://mobetz.com/"  
+},     
+{
+      "name": "Sky Sports Football",
+      "image": "https://mobetz.com/api/table/icon/ch083.png",
+      "url": "https://zsn.atvlb.com/zsn/skysportfootball/chunks.m3u8","referer": "https://zingsanam.com/" 
 },     
 {
       "name": "UEFA TV",
