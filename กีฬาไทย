@@ -4,7 +4,12 @@
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
 {  
-  
+   "name":"EURO 2021",
+    "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1623399123927_movie_image.jpg",
+    "url": "https://live.andaman888th.com/live/truesporthd3/sport/truesporthd3/chunks.m3u8","referer": "https://www.andaman888th.com/"  
+    
+},
+ {
     "name":"EURO 2021",
     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1623399123927_movie_image.jpg",
     "url": "https://boxmovie-th.com/app-api-android/true/NBT-HD/playlist.m3u8", 
