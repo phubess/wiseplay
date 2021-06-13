@@ -1,9 +1,20 @@
 { 
     "name": "phubess",
-    "author": "update 10/6/2021",
+    "author": "update 13/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
+    
+      "name": "astro euro 1",
+      "image": "https://overseer.blackboxsys.net/images/png/my-euro1.png",
+      "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-euro1&api_key=hmcb4rf66f","referer": "https://dooball66.com/"
+},     
+{
+      "name": "astro euro 2",
+      "image": "https://overseer.blackboxsys.net/images/png/my-euro2.png",
+      "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-euro2&api_key=hmcb4rf66f","referer": "https://dooball66.com/"
+},     
+{
        "name": "TENNIS TV",
       "image": "https://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",
       "url": "http://203.154.243.31:8081/live/tennis/index.m3u8",
@@ -109,34 +120,32 @@
 },     
 {
       "name": "astro 1",
-      "image": "https://mobetz.com/api/table/icon/ch087.png",
+      "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",
       "url": "https://mobetz.com/doball/ch087/","referer": "https://mobetz.com/"       
-      
+},     
+{
+      "name": "astro 1",
+      "image": "https://overseer.blackboxsys.net/images/png/my-asp1hd.png",
+      "url": "http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8",
+      "import": false
 },     
 {
       "name": "astro 2",
-      "image": "",
-      "url": "https://mobetz.com/doball/ch396/","referer": "" 
+      "image": "https://overseer.blackboxsys.net/images/png/my-asp2hd.png",
+      "url": "http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8",
+      "import": false
 },     
 {
       "name": "astro 3",
-      "image": "",
-      "url": "","referer": "" 
+      "image": "https://overseer.blackboxsys.net/images/png/my-asp3hd.png",
+      "url": "http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8",
+      "import": false
 },     
 {
-      "name": "",
-      "image": "",
-      "url": "","referer": "https://mobetz.com/" 
-},     
-{
-      "name": "",
-      "image": "",
-      "url": "","referer": "https://mobetz.com/" 
-},     
-{
-      "name": "",
-      "image": "",
-      "url": "","referer": "https://mobetz.com/" 
+      "name": "astro 4",
+      "image": "https://overseer.blackboxsys.net/images/png/my-asp4.png",
+      "url": "http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8",
+      "import": false
 
     
 },     
