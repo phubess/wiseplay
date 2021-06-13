@@ -1,14 +1,83 @@
 {  
     "name": "เวปดูหนัง",
-    "author": "update 29/5/2021",
+    "author": "update 13/6/2021",
     "image": "https://pgslotvip.game/wp-content/uploads/2020/09/tips065.jpg",       
     "stations": [ 
  { 
-   
+   "name": "ssdmovie",  
+    "image": "https://i0.wp.com/ssdmovie.com/wp-content/uploads/2020/12/ssdmovie_logo.png", 
+    "url": "https://ssdmovie.com/","embed": true 
+ },
+ {   
+   "name": "movie356hd",  
+    "image": "https://www.movie356hd.com/wp-content/uploads/2019/10/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%882019.png", 
+    "url": "https://movie356hd.com/","embed": true
+ },
+ {   
+   "name": "konbanang",  
+    "image": "https://system.playerza.com/web/konbanang/logo/konbanang_logo.png", 
+    "url": "https://www.konbanang.com/","embed": true 
+ },
+ {   
+   "name": "nunggudee",  
+    "image": "https://nunggudee.com/wp-content/uploads/2019/08/Untitled-1.png", 
+    "url": "https://nunggudee.com/","embed": true 
+ },
+ {   
+   "name": "siamforfree",  
+    "image": "https://siamforfree.com/images/logo/vJLM29cCwKEVa0XCoovnWPqy88Dli1JSiam_for_free_1.png", 
+    "url": "https://siamforfree.com/","embed": true 
+ },
+ {   
+   "name": "govmovie",  
+    "image": "https://govmovie.org/uploads/images/logo1.png", 
+    "url": "https://www.govmovie.org/","embed": true 
+ },
+ {   
+   "name": "movie2021",  
+    "image": "https://movie2021.com/wp-content/themes/moviestheme/img/logo-movie2021.png", 
+    "url": "https://movie2021.com/","embed": true 
+ },
+ {   
+   "name": "moviemax",  
+    "image": "https://www.moviemax.tv/images/logo/ESTpLKMae4STpWqebMnx2PFb2BkaKxmMovieMax.png", 
+    "url": "https://www.moviemax.tv/","embed": true
+ },
+ {   
+   "name": "s8movies",  
+    "image": "https://www.s8movies.net/images/logo/CF9PhuqnNwTEmNMByFGEq8HzwUPOzM2s8-MOVIE-logo.png", 
+    "url": "https://www.s8movies.net/","embed": true
+ },
+ {   
+   "name": "movie666",  
+    "image": "https://movie666.net/uploads/setting/2021_20210113214657.png", 
+    "url": "https://movie666.net/","embed": true
+ },
+ {   
+   "name": "siam2uhd",  
+    "image": "https://siam2uhd.com/wp-content/uploads/2020/06/Siam2-1.png", 
+    "url": "https://siam2uhd.com/","embed": true
+ },
+ {   
+   "name": "crownmoviefree",  
+    "image": "https://crownmoviefree.com/images/logo%20final-02.png", 
+    "url": "https://www.crownmoviefree.com/","embed": true 
+ },
+ {   
+   "name": "gtrmovie",  
+    "image": "https://gtrmovie.com/wp-content/themes/trash/assets/image/logo.png", 
+    "url": "https://gtrmovie.com/","embed": true 
+ },
+ {   
+   "name": "918hdtv",  
+    "image": "https://www.918hdtv.com/images/logo/qqacrrTvR5GdpQg4rsdhkhciHHzBsHQ918.png", 
+    "url": "https://www.918hdtv.com/","embed": true 
+ },
+ {   
     "name": "kkkmovies",  
     "image": "https://kkkmovies.com/wp-content/uploads/2021/03/kkkmovies-logo-news.png", 
     "url": "https://kkkmovies.com/","embed": true 
-  },
+ },
  {   
    "name": "we-play",  
     "image": "https://www.we-play.tv/images/logo.png", 
