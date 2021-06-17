@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 13/6/2021",
+    "author": "update 17/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -145,7 +145,7 @@
  {     
      "name": "HBO b",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
-     "url": "https://dogtoop.com:8443/live/hbo1/123/26.ts",
+     "url": "https://dogtoop.com:8443/live/hbo1/1231/26.ts",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
@@ -226,16 +226,10 @@
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
-  {
-     "name": "FOX MOVIES",
-     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "http://119.161.100.50:8082/live/foxpremium/playlist.m3u8",
-     "import": false
-},
  {
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://dogtoop.com:8443/foxmoviesTH/321/23",
+     "url": "https://dogtoop.com:8443/foxmoviesTH/111/23",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
@@ -423,7 +417,7 @@
  {
      "name": "True Thai Film HD b",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",              
-     "url": "https://dogtoop.com:8443/thaifilm/3ZMtErVMK4/99",
+     "url": "https://dogtoop.com:8443/thaifilm/789/99",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
