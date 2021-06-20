@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 17/6/2021",
+    "author": "update 20/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -145,7 +145,7 @@
  {     
      "name": "HBO b",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
-     "url": "https://dogtoop.com:8443/live/hbo1/1231/26.ts",
+     "url": "https://dogtoop.com:8443/live/hbo1/1s231/26.ts",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
