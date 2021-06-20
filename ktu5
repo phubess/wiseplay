@@ -1,26 +1,26 @@
 {
     "name": "ktu",
-    "author": "update 8/6/2021",
+    "author": "update 20/6/2021",
     "image": "https://img.apksum.com/86/com.ktuiptv.tv/19.0/icon.png",
     "stations": [
 {
  "name": "83",
  "image": "",
- "url": "https://6395online.com:8443/live/Bmrock2522@gmail.com/098125/9016.m3u8",
+ "url": "https://6395online.com:8443/live/0800769258/0800769258/9016.m3u8",
  "userAgent": "ProPlayer",
   "playInNatPlayer": "true"
 },
   {      
      "name": "84",
       "image": "",
-      "url": "https://6395online.com:8443/live/Bmrock2522@gmail.com/098125/9020.m3u8",
+      "url": "https://6395online.com:8443/live/0800769258/0800769258/9020.m3u8",
       "userAgent": "ProPlayer",
       "playInNatPlayer": "true"  
 },
   {      
      "name": "85",
       "image": "",
-      "url": "https://6395online.com:8443/live/Bmrock2522@gmail.com/098125/12187.m3u8",
+      "url": "https://6395online.com:8443/live/0800769258/0800769258/12187.m3u8",
       "userAgent": "ProPlayer",
       "playInNatPlayer": "true"  
  },
