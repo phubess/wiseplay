@@ -486,16 +486,20 @@
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
      "url": "https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8",
        "import": false
-
 },
-  {
+ {
+     "name": "KBS World HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
+     "url": "http://tvapp.skybox.digital/work4/live_content.php?mid=45","referer": "http://tvapp.skybox.digital/"
+},
+ {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "http://203.154.177.124:8899/live/ch12/chunks.m3u8",
      "userAgent": "exoplayer_video",
       "playInNatPlayer": "true"
 },
-  {
+ {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "http://203.154.177.124:8899/live/ch12/chunks.m3u8",
