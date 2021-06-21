@@ -197,8 +197,39 @@
 { 
     "name":"38",
     "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
-    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=38","referer": "https://siamtv88.co/"    
-
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=38","referer": "https://siamtv88.co/"   
+},
+]
+}, 
+{ 
+   "name": "Dragon_Ball_Super ตอนที่ 1-50", 
+    "image": "https://stv88-static.rentm3u8.com/images/series/1901/cover_1601037553.png",       
+    "stations": [ 
+{     
+   "name":"1",
+    "image": "https://stv88-static.rentm3u8.com/images/series/1901/cover_1601037553.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=1901&episode=1","referer": "https://siamtv88.co/"  
+}, 
+{   
+    "name":"",
+    "image": "https://stv88-static.rentm3u8.com/images/series/1901/cover_1601037553.png",
+    "url": "","referer": "https://siamtv88.co/"   
+},
+]
+}, 
+{ 
+   "name": "ดราก้อนบอล ภาคกำเนิด ตอนที่ 1-50", 
+    "image": "https://stv88-static.rentm3u8.com/images/series/1706/cover_1601037419.png",       
+    "stations": [ 
+{     
+   "name":"1",
+    "image": "https://stv88-static.rentm3u8.com/images/series/1706/cover_1601037419.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=1706&episode=1","referer": "https://siamtv88.co/"  
+}, 
+{   
+    "name":"",
+    "image": "",
+    "url": "","referer": "https://siamtv88.co/"    
 },
 ]
 }, 
