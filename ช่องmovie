@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 21/6/2021",
+    "author": "update 22/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -145,7 +145,7 @@
  {     
      "name": "HBO b",
      "image": "https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg",              
-     "url": "https://dogtoop.com:8443/live/hbo1/1s231/26.ts",
+     "url": "https://dogtoop.com:8443/live/hbo1/1s2311/26.ts",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
@@ -227,9 +227,14 @@
      "playInNatPlayer": "true" 
 },
  {
+     "name": "FOX MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-foxpremium","referer": "https://siamtv88.co/"
+},
+ {
      "name": "FOX MOVIES b",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
-     "url": "https://dogtoop.com:8443/foxmoviesTH/111/23",
+     "url": "https://dogtoop.com:8443/foxmoviesTH/1511/23",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
@@ -243,6 +248,11 @@
      "name": "FOX MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",              
      "url": "https://player.we-play.tv/channel.php?name=fox-movies&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "FOX ACTION MOVIES",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-foxaction","referer": "https://siamtv88.co/"
 },
  {
      "name": "FOX ACTION MOVIES b",
@@ -261,7 +271,7 @@
  {
      "name": "FOX ACTION MOVIES",
      "image": "https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg",              
-     "url": "http://119.161.100.50:8082/live/foxaction/playlist.m3u8",
+     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist.m3u8",
       "import": false
 },
  {
@@ -281,7 +291,11 @@
      "url": "https://dogtoop.com:8443/foxthai/H6QtbPMa6B/179",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
-
+},
+ {
+     "name": "FOX ไทย",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=sd-fox","referer": "https://siamtv88.co/"
 },
  {
      "name": "FOX ไทย",
@@ -316,7 +330,7 @@
  {
      "name": "Fox Life",
      "image": "https://static.uflixtv.com/images/tv/channels_icons/hd-foxlife.png",              
-     "url": "https://dogtoop.com:8443/foxlife/kFnL7WuQc2/182",
+     "url": "https://dogtoop.com:8443/foxlife/kFnL7WuQc/182",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true" 
 },
@@ -386,7 +400,7 @@
      "playInNatPlayer": "true"
 },
  {
-     "name": "True Film HD 2 b",
+     "name": "True Film HD 2 ",
      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",              
      "url": "https://fo1iptv.com/tv-player/true-film-hd2.html","referer": "https://fo1iptv.com/"  
 },
@@ -405,7 +419,7 @@
  {
      "name": "True Asian Series HD b",
      "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
-     "url": "https://dogtoop.com:8443/live/skysportcricket/yZtwgvkZkk/132.ts",
+     "url": "https://dogtoop.com:8443/live/skysportcricket/yZtwgvkZkk12/132.ts",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
 },
@@ -469,13 +483,6 @@
       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
 },
- { 
-     "name": "THE MOVIES b",
-      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/162106095883_movie_image.jpg",              
-      "url": "https://dogtoop.com:8443/live/movie1/DZ8eMtM69g/1030.ts",
-      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
-      "playInNatPlayer": "true"
-},
  {
      "name": "KBS World HD",
      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
@@ -502,12 +509,6 @@
  {
     "name": "Warner TV",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
-     "url": "http://203.154.177.124:8899/live/ch12/chunks.m3u8",
-     "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
-},
-  {
-    "name": "Warner TV",
-     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",              
      "url": "https://player.we-play.tv/channel.php?name=warner&cate=entertainment","referer": "https://player.we-play.tv"
 },
  {
@@ -525,7 +526,7 @@
  {
      "name": "Paramount Channel",
      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//LOGO_Paramount2.png",              
-     "url": "https://embed-dev.blackboxsys.net/player.php?channel=paramount&api_key=hmcb4rf66f","referer": "https://dooball66.com/"
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-paramount","referer": "https://siamtv88.co/"
  },
  {
      "name": "CCM b",
