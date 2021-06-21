@@ -1,612 +1,274 @@
 { 
    "name": "การ์ตูน",
-   "author": "update 31/5/2021",
+   "author": "update 21/6/2021",
    "url": "??",
    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
    "groups": [   
 {
-    "name": "ภากย์ไทย",
-    "image": "https://api.soimilk.com/genThumb.php?file=sites/default/files/cartoon_90s.jpg&maxw=550&maxh=550",
+    "name": "ฤทธิ์หมัดดาวเหนือภาค 1",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
     "stations": [ 
-{ 
-    "name":"Justice Society: World War II",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/uVAJJyf-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/jsww_2021_720.mp4/playlist.m3u8",
-    "import": false 
-},
-{ 
-    "name":"โดราเอมอน: ไดโนเสาร์ตัวใหม่ของโนบิตะ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/qk1d6f140KHvJ12qFim-o-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/dnnd_2020_720.mp4/playlist.m3u8",
-    "import": false 
-},
-{ 
-    "name":"ทอม แอนด์ เจอร์รี่",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/thumb_3094-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/tj_0605_720.mp4/playlist.m3u8",
-    "import": false 
-},
-{ 
-    "name":"บ้านมิตเชลล์ปะทะจักรกล",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/05/E08_M-OWYAEOZLM-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mm_0105_720.mp4/playlist.m3u8",
-    "import": false 
-},
-{ 
-    "name":"โดราเอมอน เพื่อนกันตลอดไป 2",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/thumb_3011-e1618750008737-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/sd_1804_720.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"รายากับมังกรตัวสุดท้าย",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/Raya-and-the-Last-Dragon--e1618559561643-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/rd_0903_720.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"นาจา เกิดอีกครั้งก็ยังเทพ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/04/New_Gods_Nezha_Reborn-417307970-large-e1618548539613-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/nn_1604_720.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"สกูบี้-ดู",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/657b9af46f38dd8f013fb5463c25d978-e1617697245403.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04160.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"แอลวินกับสหายชิพมังค์จอมซน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/index-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03973.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"ป๊อปปี้ ฮิลล์ ร่ำร้องขอปาฏิหาริย์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/4b76303f914db9e2c661a68c59435454-studio-ghibli-movies-tokyo-olympics-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02193.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"มาดากัสการ์ 3 ข้ามป่าไปซ่าส์ยุโรป",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/4139ddb6bb75cb49b5307657660fee37-madagascar-movie-ben-stiller-e1617163755502-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03158.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"สงครามหมื่นขาล่าล้างจักรวาล",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/0-1-e1617700915970-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04031.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"คุณปู่ โลแรกซ์ มหัศจรรย์ป่าสีรุ้ง",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/img-20160912-57d6b60e2af49-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03587.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"สคูบี้ดู กลับสู่เกาะซอมบี้",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02327.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"ผจญภัยครอบครัวจอมเพี้ยน ฝ่าโลกอนาคต",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Meet-the-Robinsons-2007-e1616387574501-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03559.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"ทอย สตอรี่ 2",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Toy-Story-2-1999-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-2-e1616387416328-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03598.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"ยูกิโอ เกมกลคนอัจฉริยะ ศึกปริศนาด้านมืด",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Yu-Gi-Oh-The-Dark-Side-of-Dimensions-2016-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04014.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"เดอะมูฟวี่ โนบิตะสำรวจดินแดนจันทรา",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Doraemon-The-Movie-39-2019-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02593.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"Kamen Rider Build New World (2019) Kamen Rider Grease",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/03/Kamen-Raida-Gurisu-2019-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03699.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"โปเกมอน เดอะ มูฟวี่ 1: ความแค้นของมิวทู",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Pokemon-Movie-1-Mewtwo-Strikes-Back-1998-2.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04019.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"ยอดนักสืบจิ๋วโคนัน: ศึกชิงอัญมณีสีคราม",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/740full-detective-conan_-the-fist-of-blue-sapphire-poster-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01298.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"ฤดูฝัน ฉันมีเธอ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/e1b515be4153d1bdfe557f6b2bd4fe4b58df.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02818.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"อภินิหารไวกิ้งพิชิตมังกร 3",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/How-to-Train-Your-Dragon-3-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00567.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"นารูโตะ เดอะ มูฟวี่ ปิดตำนานวายุสลาตัน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/B7SwHGWCAAAXJdm-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02804.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"จัสติซ ลีก ปะทะ ทีน ไททัน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/ctHGhbe19xIX6wlECsFydHiha4W.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01547.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"ศึกกบฎพิทักษ์จักรวาล",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Star_Wars_Rebels-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03205.mp4/playlist.m3u8",
-    "import": false   
-},
-{ 
-    "name":"มอนสเตอร์ ไฮ ปีศาจสาวพลังไฟฟ้า",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/poster-780-4.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01987.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"เลโก้ สคูบี้ดู ตะลุยหาดปีศาจโจรสลัด",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/poster-780-3.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01757.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"ก่อนนรกซอมบี้คลั่ง",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/seoul-station-poster-480880_SPA-56_V-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01239.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"ฮอพ กระต่ายซูเปอร์จัมพ์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/MV5BMTY4MDcxNTkzNV5BMl5BanBnXkFtZTcwMTg2MDY2NA@@._V1_-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00872.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"กังฟูแพนด้า 3",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/1574943702794.jpeg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01627.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"อภินิหารไวกิ้งพิชิตมังกร",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/3a604e94e0d037c27e6d4141f173f3b9-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03139.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"เดอะ ไลอ้อน คิง ภาค 1",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/The_Lion_King_Textless_poster_1-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03229.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"ภารกิจแอบจิ๊กตัวแม่บนดาวมฤตยู",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/lOKqLd0ud1wdwaPK5h6bGNZIVLT.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00410.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"เฟอร์ดินานด์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/v2-b517066e532001e23ad758084ca1b267_hd-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03944.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"ชินจัง เดอะมูฟวี่ สงครามเอเลี่ยนพันธุ์เพี้ยนถล่มโลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/Kureyon-Shinchan-Shurai-Uchujin-shiriri-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03870.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"กัปตันกางเกงใน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/ixHfHHpqfaj0TMm1VDiHjWMsXmA.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03094.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"สาวน้อยเขย่งฝัน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/06c007875a355cd50e4de36265a13e58.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02917.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"อิโมจิ แอ๊พติสต์ตะลุยโลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/The-Emoji-Movie-2017-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03219.mp4/playlist.m3u8",
-    "import": false    
-},
-{ 
-    "name":"วันอลวน วิญญาณอลเวง",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/p0afedvwz9ebWu9fU94-o-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01616.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"บาร์บี้ โลมา มหัศจรรย์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/Barbie-Dolphin-Magic-2017-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00991.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"สาวมหัศจรรย์กับแท็บเล็ตแยกโลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Ancien-and-the-Magic-Tablet-2017-%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%95%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00983.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"อสุรกายแห่งปารีส",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/910oKoPxtVL._SL1500_-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p%20_00980.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"ทีนไททัน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Teen-Titans-The-Judas-Contract-2017-%E0%B8%97%E0%B8%B5%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B9%8C.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00749.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"รวมเหล่ายอดคนพิทักษ์โลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/DFA9baMW0AA1sTI.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01369.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"ปีเตอร์ แพน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00433.mp4/playlist.m3u8",
-    "import": false     
-},
-{ 
-    "name":"เดอะ เลโก้ มูฟวี่ 2",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/p15321170_v_v8_ab.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00426.mp4/playlist.m3u8",
-    "import": false     
+{
+   
+    "name":"1",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=1","referer": "https://siamtv88.co/"
 },
 { 
-    "name":"ผจญภัยมนุษย์ดึกดำบรรพ์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Evolution-Man-2015-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03941.mp4/playlist.m3u8",
-    "import": false     
+    "name":"2",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=2","referer": "https://siamtv88.co/"
 },
 { 
-    "name":"มอนสเตอร์ ไฮ หลอน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/a53f9d1c1b5974cc590c420bd767513f-1-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00635.mp4/playlist.m3u8",
-    "import": false     
+    "name":"3",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=3","referer": "https://siamtv88.co/"
 },
 { 
-    "name":"ฮีโร่จำเป็นผจญภัยสุดขอบฟ้า 2",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/MV5BNDE2MDUyMzYtNzZmOC00NmIyLWFiMjctNjVmZmY0NjQwY2NlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UY1200_CR648001200_AL_-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03002.mp4/playlist.m3u8",
-    "import": false     
+    "name":"4",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=4","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"บลีชเทพมรณะ เดอะมูฟวี่ 4 ศึกผ่าโลกันตร์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/02-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02588.mp4/playlist.m3u8",
-    "import": false    
+    "name":"5",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=5","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"เอคโค่ จิ๋วก้องโลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/ec3_1341906961-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03118.mp4/playlist.m3u8",
-    "import": false   
+    "name":"6",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=6","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"โรงแรมผี หนีไปพักร้อน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/EHA4K10W4AADHgG.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00605.mp4/playlist.m3u8",
-    "import": false     
+    "name":"7",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=7","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"กวางน้อย…แบมบี้",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/wV9e2y4myJ4KMFsyFfWYcUOawyK-1.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt480p_00990.mp4/playlist.m3u8",
-    "import": false     
+    "name":"8",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=8","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"ยอดสปายสายพราง",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/image_23120c18.jpeg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00892.mp4/playlist.m3u8",
-    "import": false     
+    "name":"9",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=9","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"ฟงอวิ๋น ขี่พายุทะลุฟ้า",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/MV5BZDk4MzYzZjItYTMzMy00NmE5LWIxYWItYTRmODMzN2MzMzQ5XkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_UY1200_CR648001200_AL_-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03801.mp4/playlist.m3u8",
-    "import": false     
+    "name":"10",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"พิกกี้ เทลส์ ปฏิบัติการหมูจอมทึ่ม",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/film-piggy-tales-png-favpng-AkUfp1qmGJ9yK16e7SKD2RCkA-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02494.mp4/playlist.m3u8",
-    "import": false     
+    "name":"11",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=11","referer": "https://siamtv88.co/"       
 },
 { 
-    "name":"คู่ซ่าล่ามนต์มหัศจรรย์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/ESYmZaMVAAE8wZ3-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04222.mp4/playlist.m3u8",
-    "import": false     
+    "name":"12",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=12","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"เฟียร์เลส: เกมซ่าปราบเซียน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/nivel-hard-773-poster.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00867.mp4/playlist.m3u8",
-    "import": false     
+    "name":"13",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=13","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"ดิจิมอน แอดเวนเจอร์ ลาสต์ อีโวลูชั่น คิซึนะ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Digimon_Adventure_Last_Evolution_Kizuna-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00031.mp4/playlist.m3u8",
-    "import": false    
+    "name":"14",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=14","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"ลูแปงที่ 3 ฉกมหาสมบัติไดอารี่",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/35087135_sa-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03033.mp4/playlist.m3u8",
-    "import": false     
+    "name":"15",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=15","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"คำสัญญา..ปาฎิหาริย์รัก 2 โลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/0_URNQVc0GaoQvuHBF-1920x2880.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00463.mp4/playlist.m3u8",
-    "import": false     
+    "name":"16",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=16","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"โปเกม่อน เดอะมูฟวี่ 13 โซโลอาร์ค เจ้าแห่งมายา",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/tWgH64RZmm2rIHtO2DNnfN3DZa8-scaled.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00083.mp4/playlist.m3u8",
-    "import": false    
+    "name":"17",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=17","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"วิลโลบี้ สี่พี่น้องผจญภัย",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/6db6923bc52d534970ea261c10cf9c9a-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01168.mp4/playlist.m3u8",
-    "import": false    
+    "name":"18",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=18","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"อุลตร้าแมนทีก้า ตอน ศึกอวสานนักรบแห่งรัตติกาล",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/Ultraman_Tiga_The_Final_Odyssey-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04007.mp4/playlist.m3u8",
-    "import": false     
+    "name":"19",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=19","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"สยบคําสาป หมู่บ้านต้องมนต์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04045.mp4/playlist.m3u8",
-    "import": false  
+    "name":"20",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=20","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"ทีมมังกรผู้พิทักษ์: ล่ามังกรทองคำ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/tt11875456.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03935.mp4/playlist.m3u8",
-    "import": false     
+    "name":"21",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=21","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"คนค่อมแห่งนอเทรอดาม",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/r7V92gY3AMO6li17MmGTixAnFcv.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01368.mp4/playlist.m3u8",
-    "import": false     
+    "name":"22",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=22","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"ตูบทรอเบิลไฮโซจรจัด",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/7c240690dfbdc2240411d529324c99c7-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03414.mp4/playlist.m3u8",
-    "import": false     
+    "name":"23",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=23","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"โปเกมอน เดอะมูฟวี่ ตอน ความแค้นของมิวทู อีโวลูชัน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/EnSl1rvWMAM26Hl-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02791.mp4/playlist.m3u8",
-    "import": false     
+    "name":"24",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=24","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"แก๊งสัตว์ป่า ซ่าส์ป่วนคน",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/01/ba9f00ad3ad47d2572572400ae1254bb-watch-free-movies-hd-movies.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02963.mp4/playlist.m3u8",
-    "import": false     
+    "name":"25",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=25","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"สายลับสี่ล้อ ซิ่งสนั่นโลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/EjeR77QWkAExd4o-e1617609062220-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_03049.mp4/playlist.m3u8",
-    "import": false     
+    "name":"26",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=26","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"โดราเอมอน ตอน คาชิ-โคชิ การผจญภัยขั้วโลกใต้ของโนบิตะ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/b8cd528033c01137cb7131da47bb9d47-e1617702309438-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02105.mp4/playlist.m3u8",
-    "import": false     
+    "name":"27",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=27","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"คุณหมาขาร๊อค",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/QjAH2-e1617609382141.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00415.mp4/playlist.m3u8",
-    "import": false     
+    "name":"28",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=28","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"เพลย์โมบิล เดอะ มูฟวี่",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/playmobil_the_movie-e1617609459576-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00822.mp4/playlist.m3u8",
-    "import": false     
+    "name":"29",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=29","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"เดอะ ไลอ้อน คิง",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/818UjgilqtL._AC_SL1500_.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_00584.mp4/playlist.m3u8",
-    "import": false     
+    "name":"30",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=30","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"ทอยสตอรี่ ตอนพิเศษ คริสมาสต์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/bxLjTD2FutUHjIIULCW7DU8rVoH-e1617609643921.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02814.mp4/playlist.m3u8",
-    "import": false    
+    "name":"31",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=31","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"โอลาฟกับการผจญภัยอันหนาวเหน็บ",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/p14721988_p_v8_ab-e1617609846590.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02133.mp4/playlist.m3u8",
-    "import": false     
+    "name":"32",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=32","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"ดราก้อนบอล ซูเปอร์ โบรลี่",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/a5MVney_460s-e1617610207609.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02106.mp4/playlist.m3u8",
-    "import": false    
+    "name":"33",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=33","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"ไอซ์ เอจ จ๊ะเอ๋ไดโนเสาร์",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/ef05e4939579a51b23ae0efc3757f656469af662_hq-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_02013.mp4/playlist.m3u8",
-    "import": false     
+    "name":"34",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=34","referer": "https://siamtv88.co/"     
 },
 { 
-    "name":"ไทตั้น เอ.อี. ศึกกู้จักรวาล",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/aAVNXL2_700b-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04313.mp4/playlist.m3u8",
-    "import": false     
+    "name":"35",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=35","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"จักรพรรดิกลายพันธุ์ อัศจรรย์พันธุ์ต๊อง",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/CzLWCOAsJ.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04309.mp4/playlist.m3u8",
-    "import": false     
+    "name":"36",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=36","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"หุ่นเหล็กเพื่อนยักษ์ต่างโลก",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/IMG_2969-482x714-1-e1617610626604-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_04304.mp4/playlist.m3u8",
-    "import": false    
+    "name":"37",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=37","referer": "https://siamtv88.co/"    
 },
 { 
-    "name":"ซอร์ดอาร์ตออนไลน์ เอ็กซ์ตร้า อิดิชั่น",
-    "image": "https://moviesmaster.co/wp-content/uploads/2021/02/9192f5abd5f7a3ed610b7caef848b746-e1617774308583-300x450.jpg",
-    "url": "https://vod-th8.streammaster.co/vod/mvt720p_01357.mp4/playlist.m3u8",
-    "import": false    
+    "name":"38",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2737/cover_1601038220.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2737&episode=38","referer": "https://siamtv88.co/"    
+
 },
+]
+}, 
 { 
+   "name": "สแลมดังก์", 
+    "image": "https://stv88-static.rentm3u8.com/images/series/2661/cover_1601038157.png",       
+    "stations": [ 
+{     
+   "name":"1",
+    "image": "https://stv88-static.rentm3u8.com/images/series/2661/cover_1601038157.png",
+    "url": "https://siamtv88.co/index.php?a=title_details&title_type=series&title_id=2661&episode=1","referer": "https://siamtv88.co/"  
+}, 
+{   
     "name":"",
     "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
+    "url": "","referer": "https://siamtv88.co/"    
+}, 
+{   
     "name":"",
     "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
+    "url": "","referer": "https://siamtv88.co/"    
+}, 
+{   
     "name":"",
     "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
+    "url": "","referer": "https://siamtv88.co/"    
+}, 
+{   
     "name":"",
     "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
+    "url": "","referer": "https://siamtv88.co/"    
+}, 
+{   
     "name":"",
     "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
+    "url": "","referer": "https://siamtv88.co/"
+}, 
+{   
     "name":"",
     "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
+    "url": "","referer": "https://siamtv88.co/"    
+}, 
+{   
     "name":"",
     "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
+    "url": "","referer": "https://siamtv88.co/"    
+}, 
+{   
     "name":"",
     "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
+    "url": "","referer": "https://siamtv88.co/"    
+}, 
+{   
     "name":"",
     "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
-},
-{ 
-    "name":"",
-    "image": "",
-    "url": "",
-    "import": false    
+    "url": "","referer": "https://siamtv88.co/"    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 },
 ]
 }
