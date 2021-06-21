@@ -1,6 +1,6 @@
 { 
     "name": "phubess",
-    "author": "update 17/6/2021",
+    "author": "update 18/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  {
@@ -10,9 +10,60 @@
       "url": "https://www.ball8k.com/channel?ch=digisport1romania","referer": "https://www.ball8k.com/"
 },     
 {
+      "name": "astro euro 1",
+      "image": "https://overseer.blackboxsys.net/images/png/my-euro1.png",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=my-euro1","referer": "https://siamtv88.co/"
+},     
+{
       "name": "astro euro 2",
       "image": "https://overseer.blackboxsys.net/images/png/my-euro2.png",
-      "url": "https://embed-dev.blackboxsys.net/player.php?channel=my-euro2&api_key=hmcb4rf66f","referer": "https://dooball66.com/"
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=my-euro2","referer": "https://siamtv88.co/"
+},     
+{
+      "name": "sportsnet360",
+      "image": "https://overseer.blackboxsys.net/images/png/ca-sportsnet360.png",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-sportsnet360","referer": "https://siamtv88.co/"
+},     
+{
+      "name": "tsn1",
+      "image": "https://overseer.blackboxsys.net/images/png/ca-tsn1.png",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn1","referer": "https://siamtv88.co/"
+},     
+{
+      "name": "ca-tsn2",
+      "image": "https://overseer.blackboxsys.net/images/png/ca-ca-tsn2.png",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn2","referer": "https://siamtv88.co/"
+},     
+{
+      "name": "",
+      "image": "",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"
+},     
+{
+      "name": "",
+      "image": "",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"
+},     
+{
+      "name": "",
+      "image": "",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"
+},     
+{
+      "name": "",
+      "image": "",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"
+},     
+{
+      "name": "",
+      "image": "",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"
+
+
+
+
+
+
 },     
 {
        "name": "TENNIS TV",
