@@ -1,6 +1,6 @@
 {  
     "name": "phubess",
-    "author": "update 20/6/2021",
+    "author": "update 21/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
  { 
@@ -475,7 +475,11 @@
       "url": "https://dogtoop.com:8443/live/movie1/DZ8eMtM69g/1030.ts",
       "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
       "playInNatPlayer": "true"
-
+},
+ {
+     "name": "KBS World HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-kbsworld","referer": "https://siamtv88.co/"
 },
  {
      "name": "KBS World HD",
