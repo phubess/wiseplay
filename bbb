@@ -1,0 +1,35 @@
+{
+    "name": "phubess",
+    "author": "update 25/6/2021",
+    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
+    "stations": [ 
+  {   
+     "name": "foxlife",
+      "image": "",
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-foxlife","referer": "https://siamtv88.co/"
+ },
+ {
+     "name": "foxfamily",
+     "image": "",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=lb-foxfamily","referer": "https://siamtv88.co/" 
+},
+ {
+     "name": "inside",
+     "image": "",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-inside","referer": "https://siamtv88.co/"     
+},
+ {
+     "name": "",
+     "image": "",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=lb-tlc","referer": "https://siamtv88.co/"     
+},
+ {
+     "name": "",
+     "image": "",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-plookpanya","referer": "https://siamtv88.co/"     
+     
+     
+     
+ },
+]
+}
