@@ -4,14 +4,14 @@
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
   {   
-     "name": "foxlife",
+     "name": "",
       "image": "",
-      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-foxlife","referer": "https://siamtv88.co/"
+      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-foxlife","referer": "https://siamtv88.co/"
  },
  {
      "name": "foxfamily",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=lb-foxfamily","referer": "https://siamtv88.co/" 
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-foxfamily","referer": "https://siamtv88.co/" 
 },
  {
      "name": "inside",
@@ -21,12 +21,12 @@
  {
      "name": "",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=lb-tlc","referer": "https://siamtv88.co/"     
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-tlc","referer": "https://siamtv88.co/"     
 },
  {
      "name": "",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-plookpanya","referer": "https://siamtv88.co/"     
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=lb-tvn","referer": "https://siamtv88.co/"     
      
      
      
