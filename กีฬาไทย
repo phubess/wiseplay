@@ -1,6 +1,6 @@
 {
     "name": "phubess",
-    "author": "update 22/6/2021",
+    "author": "update 24/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",
     "stations": [ 
 {  
@@ -38,7 +38,7 @@
  {
     "name":"Golf Channel Thailand HD2 ",
     "image": "https://cms.dmpcdn.com/livetv/2021/04/09/eb739450-9917-11eb-8b27-db7c51a78b67_320.png",
-    "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-golf2","referer": "https://siamtv88.co/"
+    "url": "https://siamtv88.co/index.php?a=live_details&channel_code=golf2","referer": "https://siamtv88.co/"
 },
  {
     "name":"3BB SPORT b",
