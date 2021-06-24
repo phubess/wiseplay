@@ -1,6 +1,6 @@
 {  
     "name": "VARIETY", 
-    "author": "update 8/6/2021",
+    "author": "update 24/6/2021",
     "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
     "stations": [ 
 {
@@ -9,18 +9,7 @@
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg",              
      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
       "import": false
-},
-{
-     "name": "plookpanya",
-     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/1d7dc8be-49df-46c7-ac16-4847229c6ab9.png",
-     "url": "http://119.161.100.50:8082/live/plookpanya/playlist.m3u8",
-      "import": false
-},
-{
-     "name": "เรียลลิตี้ แชนแนล เอชดี",
-     "image": "https://cms.dmpcdn.com/livetv/2020/04/21/b78d55f0-83af-11ea-9a0e-4bf114629baf_320.png",
-     "url": "http://119.161.100.50:8082/live/reality/playlist.m3u8",
-      "import": false
+
 },
 {
      "name": "เรียลลิตี้ แชนแนล เอชดี",
@@ -42,12 +31,7 @@
      "url": "https://tv.trueid.net/embed/super-entertain?autoplay=yes&nopageview=yes",
      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
      "desktop": "true"  
-},
-{
-     "name": "Zing",
-     "image": "https://cms.dmpcdn.com/livetv/2021/01/06/68be8520-500f-11eb-8d28-4b8e3f30b51b_320.png",
-     "url": "http://119.161.100.50:8082/live/zing/playlist.m3u8",
-     "import": false
+
 },
 {
      "name": "Zing",
@@ -78,7 +62,11 @@
      "url": "https://dogtoop.com:8443/foodnf/uQ2aa3ATGU/166",
      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
      "playInNatPlayer": "true"
-
+}, 
+  { 
+      "name": "Asian Food Network t",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+       "url": "https://siamtv88.co/index.php?a=live_details&channel_code=sd-afn","referer": "https://siamtv88.co/"
 }, 
   { 
       "name": "Asian Food Network",
@@ -165,6 +153,11 @@
      "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1578592825654_movie_image.png",              
      "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
      "import": false
+}, 
+  { 
+      "name": "BLUEANT ENTERTAINMENT t",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+       "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-rtlcbs","referer": "https://siamtv88.co/"
 },
  {
      "name": "BLUEANT ENTERTAINMENT b",
