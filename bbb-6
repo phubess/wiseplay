@@ -51,12 +51,8 @@
  {
      "name": "filmasia",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-filmasia","referer": "https://siamtv88.co/"     
-},
- {
-     "name": "foxthai",
-     "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-fox","referer": "https://siamtv88.co/"     
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-filmasia-hd","referer": "https://siamtv88.co/"     
+     
 },
  {
      "name": "hbosignature",
@@ -72,11 +68,6 @@
      "name": "blueantex",
      "image": "",              
      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-blueantex","referer": "https://siamtv88.co/"       
-},
- {
-     "name": "lifetime",
-     "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-lifetime","referer": "https://siamtv88.co/"       
 },
  {
      "name": "hbofamily",
@@ -109,12 +100,6 @@
      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tfilm","referer": "https://siamtv88.co/"     
 },
  {
-     "name": "asian",
-     "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-asian","referer": "https://siamtv88.co/"     
-     
-},
- {
      "name": "starchinesemovies",
      "image": "",              
      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-starchinesemovies","referer": "https://siamtv88.co/"       
@@ -125,9 +110,9 @@
      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-hitsmovies","referer": "https://siamtv88.co/"       
 },
  {
-     "name": "nick.jr",
+     "name": "nickjr",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=-nickjr","referer": "https://siamtv88.co/"     
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-nickjr","referer": "https://siamtv88.co/"     
 },
  {
      "name": "cartoonnetwork",
@@ -135,34 +120,54 @@
      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-cartoonnetwork","referer": "https://siamtv88.co/"         
 },
  {
-     "name": "babytv",
+     "name": "sparkplay",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-babytv","referer": "https://siamtv88.co/"      
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-sparkplay","referer": "https://siamtv88.co/"      
 },
  {
-     "name": "",
+     "name": "sparkjump",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"       
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-sparkjump","referer": "https://siamtv88.co/"       
 },
  {
-     "name": "",
+     "name": "nickelodeon",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"     
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-nickelodeon/","referer": "https://siamtv88.co/"     
 },
  {
-     "name": "",
+     "name": "disney",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"     
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-disneyxd/","referer": "https://siamtv88.co/"     
 },
  {
-     "name": "",
+     "name": "bbclifestyle",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"     
-     
-     
-     
-     
-     
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-bbclifestyle","referer": "https://siamtv88.co/"     
+},
+ {
+     "name": "animalplanet",
+     "image": "",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-animalplanet","referer": "https://siamtv88.co/"        
+},
+ {
+     "name": "foodnetwork",
+     "image": "",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-foodnetwork","referer": "https://siamtv88.co/"        
+},
+ {
+     "name": "asianfood",
+     "image": "",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-asianfood","referer": "https://siamtv88.co/"        
+},
+ {
+     "name": "golf2",
+     "image": "",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-golf2","referer": "https://siamtv88.co/"        
+},
+ {
+     "name": "ch3",
+     "image": "",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-ch3","referer": "https://siamtv88.co/"        
      
      
      
