@@ -81,7 +81,7 @@
  {
      "name": "filmasia",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-film-asia","referer": "https://siamtv88.co/"  
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=lb-filmasia","referer": "https://siamtv88.co/"  
 },
  {
      "name": "thaifilm",
@@ -209,15 +209,14 @@
      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-asianfood","referer": "https://siamtv88.co/"        
 },
  {
-     "name": "golf2",
-     "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-golf2","referer": "https://siamtv88.co/"        
-      
+     "name": "True Premier Football HD 1",
+     "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=epl-1","referer": "https://siamtv88.co/"   
 },
  {
      "name": "True Premier Football HD 1",
      "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=epl-1","referer": "https://siamtv88.co/"     
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=lbx-epl1","referer": "https://siamtv88.co/"
 },
  {
      "name": "True Premier Football HD 2",
@@ -245,18 +244,54 @@
      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport1","referer": "https://siamtv88.co/"     
 },
  {
+     "name": "True Sports HD2",
+     "image": "http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport2","referer": "https://siamtv88.co/"     
+},
+ {
+     "name": "True Sports HD3",
+     "image": "http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport3","referer": "https://siamtv88.co/"          
+},
+ {
+     "name": "True Sports HD4",
+     "image": "http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport4","referer": "https://siamtv88.co/"          
+},
+ {
+     "name": "TRUE TENNIS",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tennis","referer": "https://siamtv88.co/"          
+},
+ {
+     "name": "TRUE TENNIS",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-tennis","referer": "https://siamtv88.co/"          
+},
+ {
+     "name": "NBA TV",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-nba","referer": "https://siamtv88.co/"          
+},
+ {
+     "name": "NBA TV",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-nba","referer": "https://siamtv88.co/"          
+},
+ {
+     "name": "GOLF CHANNEL",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-golf","referer": "https://siamtv88.co/"          
+},
+ {
+     "name": "GOLF CHANNEL",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-golf","referer": "https://siamtv88.co/"          
+ },
+ {
      "name": "",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"     
-     
-     
-     
-     
-     
-     
-     
-     
-     
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"         
      
      
  },
