@@ -81,7 +81,7 @@
  {
      "name": "filmasia",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-tfilmasia","referer": "https://siamtv88.co/"  
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-film-asia","referer": "https://siamtv88.co/"  
 },
  {
      "name": "thaifilm",
@@ -186,7 +186,7 @@
  {
      "name": "wakuwaku",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-wakuwaku","referer": "https://siamtv88.co/"  
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-wakuwaku","referer": "https://siamtv88.co/"  
 },
  {
      "name": "lovenature",
@@ -197,11 +197,6 @@
      "name": "outdoor",
      "image": "",              
      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-outdoor","referer": "https://siamtv88.co/" 
-
-
-
-
-     
 },
  {
      "name": "foodnetwork",
@@ -217,11 +212,48 @@
      "name": "golf2",
      "image": "",              
      "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-golf2","referer": "https://siamtv88.co/"        
+      
 },
  {
-     "name": "ch3",
+     "name": "True Premier Football HD 1",
+     "image": "http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=epl-1","referer": "https://siamtv88.co/"     
+},
+ {
+     "name": "True Premier Football HD 2",
+     "image": "http://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=epl-2","referer": "https://siamtv88.co/"     
+},
+ {
+     "name": "True Premier Football HD 3",
+     "image": "http://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=epl-3","referer": "https://siamtv88.co/"     
+},
+ {
+     "name": "True Premier Football HD 4",
+     "image": "http://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=epl-4","referer": "https://siamtv88.co/"
+},
+ {
+     "name": "True Premier Football HD 5",
+     "image": "http://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=epl-5","referer": "https://siamtv88.co/"     
+},
+ {
+     "name": "True Sports HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",              
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport1","referer": "https://siamtv88.co/"     
+},
+ {
+     "name": "",
      "image": "",              
-     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-ch3","referer": "https://siamtv88.co/"        
+     "url": "https://siamtv88.co/index.php?a=live_details&channel_code=","referer": "https://siamtv88.co/"     
+     
+     
+     
+     
+     
+     
      
      
      
